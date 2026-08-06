@@ -1,0 +1,88 @@
+{
+  "verification": {
+    "A": {
+      "path": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\01_原始参考\\MC_FACE_REF_001_冷战后期克制请求_原图.jpg",
+      "bytes": 56304,
+      "sha256": "12D1EEFECBE15F510CDFD62311B5A78F407260B726C0767B2016D70F6A411139",
+      "size": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "verified": true
+    },
+    "B": {
+      "path": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\03_派生图\\MC_FACE_DERIVED_002_孕后私下等待回应_SELECTED_STATE_CANDIDATE_v001.png",
+      "bytes": 1502541,
+      "sha256": "699BC905002CEEB009542DE50F1DDD76EEE21FBDC0C87BAB89A7F2FECD74B1AF",
+      "size": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "verified": true
+    },
+    "C": {
+      "path": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\03_派生图\\02_左眼微调_2026-07-18\\02_状态采用\\MC_FACE_STATE_003_私下专注凝视_AUTHOR_SELECTED.png",
+      "bytes": 1630995,
+      "sha256": "D0E740C75DE7AFB1104BF9ADC3D2465271DB98257D3EBD888AA14AEF9EAFF643",
+      "size": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "verified": true
+    }
+  },
+  "measurement": {
+    "eye_box": [
+      350,
+      390,
+      530,
+      480
+    ],
+    "detect_x": [
+      385,
+      510
+    ],
+    "detect_y": [
+      418,
+      455
+    ],
+    "stable_samples": [
+      {
+        "x": 416,
+        "y_B": 427,
+        "y_C": 428,
+        "delta_up_px": -1
+      },
+      {
+        "x": 447,
+        "y_B": 422,
+        "y_C": 422,
+        "delta_up_px": 0
+      },
+      {
+        "x": 479,
+        "y_B": 423,
+        "y_C": 423,
+        "delta_up_px": 0
+      }
+    ],
+    "profile_x": 450,
+    "upper_lid_y_B": 424,
+    "upper_lid_y_C": 424,
+    "lower_lid_y_B": 457,
+    "lower_lid_y_C": 457,
+    "H_B_px": 33,
+    "H_C_px": 33,
+    "delta_target_px": 0,
+    "full_image_changed_pixels": 1516942,
+    "full_image_changed_ratio": 0.9643353904913022,
+    "full_image_mean_abs_channel_diff": 1.9132329843708547,
+    "decision": "METHOD_NOT_APPLICABLE_TO_OBSERVED_DIFFERENCE",
+    "preflight_result": "STOP_BEFORE_GENERATION",
+    "upper_eyelid_lift_supported_by_measurement": false,
+    "candidates_generated": 0
+  }
+}

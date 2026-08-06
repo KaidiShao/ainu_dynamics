@@ -1,0 +1,52 @@
+# 最终推荐与使用边界
+
+## 最终结果
+
+```text
+NO_CLEAN_STATE003_REBUILD_CANDIDATE
+UPPER_EYELID_LIFT_NOT_SUPPORTED_BY_MEASUREMENT
+UPPER_EYELID_ONLY_CAUSAL_HYPOTHESIS_REJECTED
+STATE003_SEMANTIC_CAUSE_UNRESOLVED
+MULTI_FIELD_CONFIGURATION_LIKELY
+METHOD_NOT_APPLICABLE_TO_OBSERVED_DIFFERENCE
+VALID_ZERO_ROUND_STOP
+NO_STATE_REPLACEMENT
+```
+
+这不是工具或形变失败，因为形变从未执行；它是按任务书预检得到的合规零轮停止：在当前对齐、取点方法与像素分辨率下，没有观察到C的目标上眼睑相对B形成正向开合，瞳孔中心垂线上的眼裂高度也与B相同。
+
+## 资产状态
+
+B继续保持：
+
+```text
+CLEAN_PRE_ARTIFACT_BASE
+NOT_AUTOMATICALLY_REPLACED
+```
+
+C继续保持：
+
+```text
+AUTHOR_SELECTED_SEMANTIC_STATE_REFERENCE
+HISTORICAL_TEXTURE_DRIFT_SOURCE
+NOT_EDIT_BASE
+NOT_IDENTITY_ANCHOR
+```
+
+没有任何新图可以升级为：
+
+```text
+PROVISIONAL_DETERMINISTIC_LOCAL_REPAIR
+CLEAN_STATE003_REBUILD_CANDIDATE
+```
+
+## 下一步边界
+
+不得通过扩大到另一只眼、眉毛、虹膜、嘴部或全脸来“补足”本次实验。
+
+若作者仍希望获得无斑驳的`STATE_003`，需要另立任务，优先考虑：
+
+1. 接受B作为干净、较低唤醒度的等待状态；或
+2. 以C为语义主体，设计分区式确定性纹理修复；眼睛、眉毛、鼻唇、下颌和表情几何全部设为禁区，只处理斑驳纹理，且不得把它伪称为单眼微调。
+
+本次没有自动启动第二条路线。

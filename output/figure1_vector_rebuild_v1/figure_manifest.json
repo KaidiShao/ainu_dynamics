@@ -1,0 +1,165 @@
+{
+  "schema_version": "1.1",
+  "figure_id": "Figure1",
+  "status": "review",
+  "variant": "inkscape_vector_C_D_blank_v1",
+  "generated_at": "2026-07-22T14:53:28+08:00",
+  "source_references": [
+    {
+      "id": "reference_raster",
+      "type": "png",
+      "path": "references/reference.png",
+      "used_as_final_art": false,
+      "role": "locked visual reference only"
+    },
+    {
+      "id": "figure1_vector_source",
+      "type": "svg",
+      "path": "Figure1_vector_C_D_blank.svg",
+      "used_as_final_art": true
+    }
+  ],
+  "scripts": [
+    {
+      "path": "source_scripts/draw_figure1_vector.py",
+      "purpose": "Generate deterministic vector geometry, semantic layers, labels, and connectors",
+      "language": "python"
+    }
+  ],
+  "equations": [
+    {
+      "id": "hidden_depth_label",
+      "mode": "NativeTextFrame",
+      "editability": "character_editable_svg_text_with_tspan_subscript",
+      "illustrator_object": "Figure1A.node.hidden_depth.formula"
+    },
+    {
+      "id": "temperature_label",
+      "mode": "NativeTextFrame",
+      "editability": "character_editable_svg_text_with_tspan_subscript",
+      "illustrator_object": "Figure1A.node.temperature.formula"
+    },
+    {
+      "id": "fish_speed_label",
+      "mode": "NativeTextFrame",
+      "editability": "character_editable_svg_text_with_tspan_subscript",
+      "illustrator_object": "Figure1A.node.fish_speed.formula"
+    }
+  ],
+  "source_sync": {
+    "status": "synchronized",
+    "upstream_assets": [
+      "source_scripts/draw_figure1_vector.py",
+      "Figure1_vector_C_D_blank.svg"
+    ],
+    "ai_only_overrides": []
+  },
+  "semantic_components": {
+    "panel_parent_layers": 6,
+    "named_component_groups": 145,
+    "independent_ordinary_connectors": 39,
+    "documented_connector_groups": 0,
+    "named_annotation_groups": 1,
+    "background_non_backing_leaf_count": 0,
+    "semantic_issue_count": 0
+  },
+  "background_policy": {
+    "panel_local_backing_count": 0,
+    "document_export_backing": "Figure1.background.export_white",
+    "document_export_backing_count": 1,
+    "exceptions": []
+  },
+  "outputs": {
+    "ai": "Figure1_vector_C_D_blank.ai",
+    "svg": "Figure1_vector_C_D_blank.svg",
+    "pdf": "Figure1_vector_C_D_blank.pdf",
+    "png": "Figure1_vector_C_D_blank.png"
+  },
+  "automation": {
+    "backend": "inkscape_svg_cli",
+    "inkscape_version": "1.4.2",
+    "mcp_used": false,
+    "target_opened_by_automation": true,
+    "unrelated_documents_closed": 0,
+    "reopened_after_save": true
+  },
+  "selection_contract": {
+    "tested_after_reopen": false,
+    "blank_background_selects_panel_shell": false,
+    "status": "svg_structure_passed_illustrator_selection_not_run",
+    "representative_targets": [
+      {
+        "object": "Figure1A.card.task_interface",
+        "expected_target_type": "GroupItem",
+        "actual_svg_type": "g",
+        "status": "passed"
+      },
+      {
+        "object": "Figure1B.model.common",
+        "expected_target_type": "GroupItem",
+        "actual_svg_type": "g",
+        "status": "passed"
+      },
+      {
+        "object": "Figure1E.connector.task_time_1",
+        "expected_target_type": "PathItem",
+        "actual_svg_type": "path",
+        "status": "passed"
+      }
+    ]
+  },
+  "containment_checks": [
+    {
+      "owner": "Figure1A.card.task_interface",
+      "child": "Figure1A.card.task_interface.fish_4",
+      "bounds_mode": "svg_geometry_plus_stroke",
+      "minimum_padding_pt": 1.0,
+      "status": "passed"
+    },
+    {
+      "owner": "Figure1F.card.latent_dynamics",
+      "child": "Figure1F.card.latent_dynamics.trace_behavior",
+      "bounds_mode": "svg_geometry_plus_stroke",
+      "minimum_padding_pt": 1.0,
+      "status": "passed"
+    }
+  ],
+  "preflight": {
+    "required_outputs_present": true,
+    "semantic_audit": "passed_owner_first_for_svg",
+    "illustrator_reopen_audit": "not_run",
+    "inkscape_reopen_and_export_audit": "passed",
+    "background_recursive_audit": "passed",
+    "formula_sources_present": true,
+    "screenshots_as_final": false,
+    "embedded_raster_count": 0,
+    "temporary_files_present": false,
+    "visual_comparison": {
+      "edit_type": "broad_vector_reconstruction",
+      "reference_dimensions": [2255, 1258],
+      "output_dimensions": [1800, 1000],
+      "panels_intentionally_omitted": ["C", "D"],
+      "method": "high_resolution_visual_inspection",
+      "passed": true
+    },
+    "semantic_grouping_comparison": {
+      "edit_type": "structural_only",
+      "same_size": true,
+      "before_size": [1800, 1000],
+      "after_size": [1800, 1000],
+      "mae": 0.0,
+      "max_difference": 0,
+      "material_changed_fraction": 0.0,
+      "passed": true,
+      "report": "reports/semantic_grouping_visual_comparison.json"
+    },
+    "last_checked": "2026-07-22T15:15:52+08:00"
+  },
+  "notes": [
+    "Panels C and D intentionally contain headings only and no data artwork.",
+    "The final SVG contains no image elements; the PNG reference is packaged only as a non-final locked guide.",
+    "The .ai file is a PDF-compatible vector interchange copy exported by Inkscape, not a native Illustrator-authored master.",
+    "Native Illustrator black-selection and reopen audits remain to be run if a collaborator-ready AI master is required."
+    ,"Owner-first semantic grouping was audited after regeneration: 145 named groups, 446 unique IDs, and zero ungrouped direct children in component layers."
+  ]
+}

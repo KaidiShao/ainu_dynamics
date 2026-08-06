@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     width="1800" height="1000" viewBox="0 0 1800 1000">
+  <title>Figure 1 vector reconstruction with panels C and D blank</title>
+  <desc>Editable vector reconstruction generated for Inkscape. No embedded raster artwork.</desc>
+  <metadata id="Figure1.metadata"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" backend="inkscape_svg" variant="vector_C_D_blank_v1"/></rdf:RDF></metadata>
+  
+    <defs>
+      <linearGradient id="waterGradient" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#8cd8f5"/>
+        <stop offset="0.55" stop-color="#45a8d1"/>
+        <stop offset="1" stop-color="#236e9a"/>
+      </linearGradient>
+    </defs>
+    
+  <g id="Figure1.05_export_background_locked" inkscape:groupmode="layer" inkscape:label="05_export_background_locked"><rect id="Figure1.background.export_white" x="0" y="0" width="1800" height="1000" fill="#ffffff"/></g>
+  <g id="Figure1A" inkscape:groupmode="layer" inkscape:label="Figure1A">
+<g id="Figure1A.00_metadata" inkscape:groupmode="layer" inkscape:label="00_metadata" style="display:none">
+
+</g>
+<g id="Figure1A.01_reference_locked" inkscape:groupmode="layer" inkscape:label="01_reference_locked" style="display:none">
+
+</g>
+<g id="Figure1A.02_layout_guides" inkscape:groupmode="layer" inkscape:label="02_layout_guides" style="display:none">
+
+</g>
+<g id="Figure1A.10_background_locked" inkscape:groupmode="layer" inkscape:label="10_background_locked">
+
+</g>
+<g id="Figure1A.20_components" inkscape:groupmode="layer" inkscape:label="20_components">
+<g id="Figure1A.node.hidden_depth">
+<circle id="Figure1A.node.hidden_depth.frame" cx="250" cy="125" r="48" fill="#ffffff" stroke="#2455d6" stroke-width="2.2"/>
+<text id="Figure1A.node.hidden_depth.label_1" x="250" y="116" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#171a21">Hidden</text>
+<text id="Figure1A.node.hidden_depth.label_2" x="250" y="134" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#171a21">depth</text>
+<text id="Figure1A.node.hidden_depth.formula" x="250" y="153" font-family="Arial,Helvetica,sans-serif" font-size="18" font-style="italic" font-weight="600" text-anchor="middle" fill="#171a21">x<tspan font-size="12.24" baseline-shift="sub">t</tspan></text>
+</g>
+<g id="Figure1A.node.temperature">
+<circle id="Figure1A.node.temperature.frame" cx="105" cy="275" r="53" fill="#ffffff" stroke="#2455d6" stroke-width="2.2"/>
+<text id="Figure1A.node.temperature.label_1" x="105" y="275" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#171a21">Temperature</text>
+<text id="Figure1A.node.temperature.formula" x="105" y="298" font-family="Arial,Helvetica,sans-serif" font-size="17" font-style="italic" font-weight="600" text-anchor="middle" fill="#171a21">c<tspan font-size="11.56" baseline-shift="sub">1,t</tspan></text>
+<g id="Figure1A.node.temperature.icon">
+<rect id="Figure1A.node.temperature.icon.tube" x="101.7" y="303.75" width="6.6" height="30.25" rx="3.3000000000000003" fill="#ffffff" stroke="#171a21" stroke-width="1.8"/>
+<rect id="Figure1A.node.temperature.icon.mercury" x="103.79" y="308.7" width="2.42" height="21.45" rx="1.1" fill="#ef3b33"/>
+<circle id="Figure1A.node.temperature.icon.bulb_outer" cx="105" cy="334" r="5.5" fill="#ffffff" stroke="#171a21" stroke-width="1.8"/>
+<circle id="Figure1A.node.temperature.icon.bulb_inner" cx="105" cy="334" r="3.3" fill="#2455d6"/>
+</g>
+</g>
+<g id="Figure1A.node.fish_speed">
+<circle id="Figure1A.node.fish_speed.frame" cx="395" cy="275" r="53" fill="#ffffff" stroke="#2455d6" stroke-width="2.2"/>
+<text id="Figure1A.node.fish_speed.label_1" x="395" y="266" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#171a21">Fish-school</text>
+<text id="Figure1A.node.fish_speed.label_2" x="395" y="284" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#171a21">speed</text>
+<text id="Figure1A.node.fish_speed.formula" x="395" y="303" font-family="Arial,Helvetica,sans-serif" font-size="17" font-style="italic" font-weight="600" text-anchor="middle" fill="#171a21">c<tspan font-size="11.56" baseline-shift="sub">2,t</tspan></text>
+<g id="Figure1A.node.fish_speed.icon_1">
+<ellipse id="Figure1A.node.fish_speed.icon_1.body" cx="384" cy="323" rx="5.6" ry="2.8" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<path id="Figure1A.node.fish_speed.icon_1.tail" d="M 378.8 323 L 374.4 319.8 L 374.4 326.2 Z" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<circle id="Figure1A.node.fish_speed.icon_1.eye" cx="386.8" cy="322.2" r="0.56" fill="#ffffff"/>
+</g>
+<g id="Figure1A.node.fish_speed.icon_2">
+<ellipse id="Figure1A.node.fish_speed.icon_2.body" cx="406" cy="316" rx="4.9" ry="2.45" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<path id="Figure1A.node.fish_speed.icon_2.tail" d="M 401.45 316 L 397.6 313.2 L 397.6 318.8 Z" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<circle id="Figure1A.node.fish_speed.icon_2.eye" cx="408.45" cy="315.3" r="0.49" fill="#ffffff"/>
+</g>
+</g>
+<g id="Figure1A.card.task_interface">
+<rect id="Figure1A.card.task_interface.water" x="500" y="78" width="365" height="216" rx="18" fill="url(#waterGradient)"/>
+<path id="Figure1A.card.task_interface.sand" d="M 500 259 Q 575 240 650 261 T 790 255 T 865 260 L 865 294 L 500 294 Z" fill="#c5a45a"/>
+<ellipse id="Figure1A.card.task_interface.rock_1" cx="535" cy="270" rx="28" ry="17" fill="#7b6a50"/>
+<ellipse id="Figure1A.card.task_interface.rock_2" cx="812" cy="272" rx="24" ry="13" fill="#655a4b"/>
+<path id="Figure1A.card.task_interface.plants_left" d="M 565 262 Q 557 232 565 206 M 576 263 Q 584 230 579 195 M 588 263 Q 595 236 592 215" fill="none" stroke="#14824b" stroke-width="5" stroke-linecap="round"/>
+<path id="Figure1A.card.task_interface.plants_right" d="M 750 268 Q 746 237 750 218 M 763 269 Q 772 238 768 205 M 782 270 Q 787 245 784 224" fill="none" stroke="#14824b" stroke-width="5" stroke-linecap="round"/>
+<g id="Figure1A.card.task_interface.fish_1">
+<ellipse id="Figure1A.card.task_interface.fish_1.body" cx="680" cy="132" rx="11.2" ry="5.6" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<path id="Figure1A.card.task_interface.fish_1.tail" d="M 669.6 132 L 660.8 125.6 L 660.8 138.4 Z" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<circle id="Figure1A.card.task_interface.fish_1.eye" cx="685.6" cy="130.4" r="1.12" fill="#ffffff"/>
+</g>
+<g id="Figure1A.card.task_interface.fish_2">
+<ellipse id="Figure1A.card.task_interface.fish_2.body" cx="730" cy="157" rx="12.6" ry="6.3" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<path id="Figure1A.card.task_interface.fish_2.tail" d="M 718.3 157 L 708.4 149.8 L 708.4 164.2 Z" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<circle id="Figure1A.card.task_interface.fish_2.eye" cx="736.3" cy="155.2" r="1.26" fill="#ffffff"/>
+</g>
+<g id="Figure1A.card.task_interface.fish_3">
+<ellipse id="Figure1A.card.task_interface.fish_3.body" cx="660" cy="190" rx="10.5" ry="5.25" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<path id="Figure1A.card.task_interface.fish_3.tail" d="M 650.25 190 L 642 184 L 642 196 Z" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<circle id="Figure1A.card.task_interface.fish_3.eye" cx="665.25" cy="188.5" r="1.05" fill="#ffffff"/>
+</g>
+<g id="Figure1A.card.task_interface.fish_4">
+<ellipse id="Figure1A.card.task_interface.fish_4.body" cx="755" cy="205" rx="11.48" ry="5.74" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<path id="Figure1A.card.task_interface.fish_4.tail" d="M 744.34 205 L 735.32 198.44 L 735.32 211.56 Z" fill="#2f6690" stroke="#244b6b" stroke-width="1"/>
+<circle id="Figure1A.card.task_interface.fish_4.eye" cx="760.74" cy="203.36" r="1.15" fill="#ffffff"/>
+</g>
+<g id="Figure1A.card.task_interface.thermometer">
+<rect id="Figure1A.card.task_interface.thermometer.tube" x="527.2" y="127" width="9.6" height="44" rx="4.800000000000001" fill="#ffffff" stroke="#171a21" stroke-width="1.8"/>
+<rect id="Figure1A.card.task_interface.thermometer.mercury" x="530.24" y="134.2" width="3.52" height="31.2" rx="1.6" fill="#ef3b33"/>
+<circle id="Figure1A.card.task_interface.thermometer.bulb_outer" cx="532" cy="171" r="8" fill="#ffffff" stroke="#171a21" stroke-width="1.8"/>
+<circle id="Figure1A.card.task_interface.thermometer.bulb_inner" cx="532" cy="171" r="4.8" fill="#2455d6"/>
+</g>
+<text id="Figure1A.card.task_interface.temperature_label" x="552" y="125" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#2455d6">temperature</text>
+<text id="Figure1A.card.task_interface.temperature_cue" x="552" y="143" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#2455d6">cue</text>
+<text id="Figure1A.card.task_interface.fish_label" x="770" y="175" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#2455d6">fish-speed</text>
+<text id="Figure1A.card.task_interface.fish_cue" x="770" y="193" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#2455d6">cue</text>
+<path id="Figure1A.card.task_interface.internal_motion_arrow" d="M 796 134 L 832 134 M 842 134 L 832 141 L 832 127 Z" fill="#2455d6" stroke="#2455d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect id="Figure1A.card.task_interface.frame" x="500" y="78" width="365" height="216" rx="18" fill="none" stroke="#171a21" stroke-width="4"/>
+</g>
+<g id="Figure1A.control.depth_slider">
+<text id="Figure1A.control.depth_slider.label" x="682" y="325" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#2455d6">Report hidden depth</text>
+<text id="Figure1A.control.depth_slider.shallower" x="522" y="355" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#171a21">shallower</text>
+<text id="Figure1A.control.depth_slider.deeper" x="846" y="355" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#171a21">deeper</text>
+<path id="Figure1A.control.depth_slider.baseline" d="M 565 348 L 800 348" stroke="#171a21" stroke-width="2.5"/>
+<path id="Figure1A.control.depth_slider.tick_1" d="M 565 339 L 565 357" stroke="#171a21" stroke-width="1.8"/>
+<path id="Figure1A.control.depth_slider.tick_2" d="M 604.17 339 L 604.17 357" stroke="#171a21" stroke-width="1.8"/>
+<path id="Figure1A.control.depth_slider.tick_3" d="M 643.33 339 L 643.33 357" stroke="#171a21" stroke-width="1.8"/>
+<path id="Figure1A.control.depth_slider.tick_4" d="M 682.5 339 L 682.5 357" stroke="#171a21" stroke-width="1.8"/>
+<path id="Figure1A.control.depth_slider.tick_5" d="M 721.67 339 L 721.67 357" stroke="#171a21" stroke-width="1.8"/>
+<path id="Figure1A.control.depth_slider.tick_6" d="M 760.83 339 L 760.83 357" stroke="#171a21" stroke-width="1.8"/>
+<path id="Figure1A.control.depth_slider.tick_7" d="M 800 339 L 800 357" stroke="#171a21" stroke-width="1.8"/>
+<rect id="Figure1A.control.depth_slider.thumb" x="675" y="334" width="13" height="29" rx="6" fill="#2e77d0" stroke="#171a21" stroke-width="1.5"/>
+</g>
+</g>
+<g id="Figure1A.30_data_plots" inkscape:groupmode="layer" inkscape:label="30_data_plots">
+
+</g>
+<g id="Figure1A.40_formulas" inkscape:groupmode="layer" inkscape:label="40_formulas">
+
+</g>
+<g id="Figure1A.50_annotations" inkscape:groupmode="layer" inkscape:label="50_annotations">
+
+</g>
+<g id="Figure1A.60_arrows_connectors" inkscape:groupmode="layer" inkscape:label="60_arrows_connectors">
+<path id="Figure1A.connector.depth_to_temperature" d="M 214 158 L 150.87 224.74 M 144 232 L 145.79 219.92 L 155.96 229.55 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1A.connector.temperature_to_depth" d="M 145 225 L 208.13 158.26 M 215 151 L 213.21 163.08 L 203.04 153.45 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1A.connector.depth_to_fish" d="M 286 158 L 349.13 224.74 M 356 232 L 344.04 229.55 L 354.21 219.92 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1A.connector.fish_to_depth" d="M 355 225 L 291.87 158.26 M 285 151 L 296.96 153.45 L 286.79 163.08 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1A.connector.temperature_to_fish" d="M 160 275 L 327 275 M 337 275 L 327 282 L 327 268 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1A.connector.fish_to_temperature" d="M 337 286 L 170 286 M 160 286 L 170 279 L 170 293 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Figure1A.70_labels" inkscape:groupmode="layer" inkscape:label="70_labels">
+<text id="Figure1A.label.panel_letter" x="14" y="31" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#171a21">A</text>
+<text id="Figure1A.label.panel_title" x="52" y="31" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" text-anchor="start" fill="#171a21">Ecological task</text>
+<text id="Figure1A.label.causal_structure" x="250" y="67" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#2455d6">Possible causal structure</text>
+<text id="Figure1A.label.task_interface" x="680" y="67" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#2455d6">Task interface</text>
+</g>
+<g id="Figure1A.90_export_notes" inkscape:groupmode="layer" inkscape:label="90_export_notes" style="display:none">
+
+</g>
+</g>
+<g id="Figure1B" inkscape:groupmode="layer" inkscape:label="Figure1B">
+<g id="Figure1B.00_metadata" inkscape:groupmode="layer" inkscape:label="00_metadata" style="display:none">
+
+</g>
+<g id="Figure1B.01_reference_locked" inkscape:groupmode="layer" inkscape:label="01_reference_locked" style="display:none">
+
+</g>
+<g id="Figure1B.02_layout_guides" inkscape:groupmode="layer" inkscape:label="02_layout_guides" style="display:none">
+
+</g>
+<g id="Figure1B.10_background_locked" inkscape:groupmode="layer" inkscape:label="10_background_locked">
+
+</g>
+<g id="Figure1B.20_components" inkscape:groupmode="layer" inkscape:label="20_components">
+<g id="Figure1B.model.common">
+<text id="Figure1B.model.common.title" x="124" y="432" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#2455d6">Common cause</text>
+<g id="Figure1B.model.common.graph">
+<g id="Figure1B.model.common.graph.node_x">
+<circle id="Figure1B.model.common.graph.node_x.frame" cx="56" cy="470" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.common.graph.node_x.label" x="56" y="475" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">x</text>
+</g>
+<g id="Figure1B.model.common.graph.node_c1">
+<circle id="Figure1B.model.common.graph.node_c1.frame" cx="33" cy="532" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.common.graph.node_c1.label" x="33" y="537" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c1</text>
+</g>
+<g id="Figure1B.model.common.graph.node_c2">
+<circle id="Figure1B.model.common.graph.node_c2.frame" cx="79" cy="532" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.common.graph.node_c2.label" x="79" y="537" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c2</text>
+</g>
+<path id="Figure1B.model.common.graph.connector.x_to_c1" d="M 51 487 L 40.95 508.65 M 38 515 L 36.41 506.55 L 45.48 510.76 Z" fill="#2455d6" stroke="#2455d6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1B.model.common.graph.connector.x_to_c2" d="M 61 487 L 71.05 508.65 M 74 515 L 66.52 510.76 L 75.59 506.55 Z" fill="#2455d6" stroke="#2455d6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Figure1B.model.common.matrix">
+<text id="Figure1B.model.common.matrix.title" x="161.5" y="459" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" text-anchor="middle" fill="#171a21">Transition matrix</text>
+<text id="Figure1B.model.common.matrix.col_0" x="140.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">x</text>
+<text id="Figure1B.model.common.matrix.row_0" x="124" y="485.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">x</text>
+<text id="Figure1B.model.common.matrix.col_1" x="161.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c1</text>
+<text id="Figure1B.model.common.matrix.row_1" x="124" y="506.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">c1</text>
+<text id="Figure1B.model.common.matrix.col_2" x="182.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c2</text>
+<text id="Figure1B.model.common.matrix.row_2" x="124" y="527.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">c2</text>
+<rect id="Figure1B.model.common.matrix.cell_0_0" x="130" y="471" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.common.matrix.cell_0_1" x="151" y="471" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.common.matrix.cell_0_2" x="172" y="471" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.common.matrix.cell_1_0" x="130" y="492" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.common.matrix.cell_1_1" x="151" y="492" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.common.matrix.cell_1_2" x="172" y="492" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.common.matrix.cell_2_0" x="130" y="513" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.common.matrix.cell_2_1" x="151" y="513" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.common.matrix.cell_2_2" x="172" y="513" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+</g>
+</g>
+<g id="Figure1B.model.serial">
+<text id="Figure1B.model.serial.title" x="362" y="432" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#ef3b33">Serial mediation</text>
+<g id="Figure1B.model.serial.graph">
+<g id="Figure1B.model.serial.graph.node_x">
+<circle id="Figure1B.model.serial.graph.node_x.frame" cx="294" cy="470" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.serial.graph.node_x.label" x="294" y="475" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">x</text>
+</g>
+<g id="Figure1B.model.serial.graph.node_c1">
+<circle id="Figure1B.model.serial.graph.node_c1.frame" cx="271" cy="532" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.serial.graph.node_c1.label" x="271" y="537" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c1</text>
+</g>
+<g id="Figure1B.model.serial.graph.node_c2">
+<circle id="Figure1B.model.serial.graph.node_c2.frame" cx="317" cy="532" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.serial.graph.node_c2.label" x="317" y="537" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c2</text>
+</g>
+<path id="Figure1B.model.serial.graph.connector.x_to_c1" d="M 289 487 L 278.95 508.65 M 276 515 L 274.41 506.55 L 283.48 510.76 Z" fill="#ef3b33" stroke="#ef3b33" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1B.model.serial.graph.connector.c1_to_c2" d="M 288 532 L 293 532 M 300 532 L 293 537 L 293 527 Z" fill="#ef3b33" stroke="#ef3b33" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Figure1B.model.serial.matrix">
+<text id="Figure1B.model.serial.matrix.title" x="399.5" y="459" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" text-anchor="middle" fill="#171a21">Transition matrix</text>
+<text id="Figure1B.model.serial.matrix.col_0" x="378.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">x</text>
+<text id="Figure1B.model.serial.matrix.row_0" x="362" y="485.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">x</text>
+<text id="Figure1B.model.serial.matrix.col_1" x="399.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c1</text>
+<text id="Figure1B.model.serial.matrix.row_1" x="362" y="506.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">c1</text>
+<text id="Figure1B.model.serial.matrix.col_2" x="420.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c2</text>
+<text id="Figure1B.model.serial.matrix.row_2" x="362" y="527.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">c2</text>
+<rect id="Figure1B.model.serial.matrix.cell_0_0" x="368" y="471" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.serial.matrix.cell_0_1" x="389" y="471" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.serial.matrix.cell_0_2" x="410" y="471" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.serial.matrix.cell_1_0" x="368" y="492" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.serial.matrix.cell_1_1" x="389" y="492" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.serial.matrix.cell_1_2" x="410" y="492" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.serial.matrix.cell_2_0" x="368" y="513" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.serial.matrix.cell_2_1" x="389" y="513" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.serial.matrix.cell_2_2" x="410" y="513" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+</g>
+</g>
+<g id="Figure1B.model.rot_c1">
+<text id="Figure1B.model.rot_c1.title" x="600" y="432" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#2455d6">Rotational: x -&gt; c1</text>
+<g id="Figure1B.model.rot_c1.graph">
+<g id="Figure1B.model.rot_c1.graph.node_x">
+<circle id="Figure1B.model.rot_c1.graph.node_x.frame" cx="532" cy="470" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.rot_c1.graph.node_x.label" x="532" y="475" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">x</text>
+</g>
+<g id="Figure1B.model.rot_c1.graph.node_c1">
+<circle id="Figure1B.model.rot_c1.graph.node_c1.frame" cx="509" cy="532" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.rot_c1.graph.node_c1.label" x="509" y="537" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c1</text>
+</g>
+<g id="Figure1B.model.rot_c1.graph.node_c2">
+<circle id="Figure1B.model.rot_c1.graph.node_c2.frame" cx="555" cy="532" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.rot_c1.graph.node_c2.label" x="555" y="537" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c2</text>
+</g>
+<path id="Figure1B.model.rot_c1.graph.connector.x_to_c1" d="M 527 487 L 516.95 508.65 M 514 515 L 512.41 506.55 L 521.48 510.76 Z" fill="#2455d6" stroke="#2455d6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1B.model.rot_c1.graph.connector.c1_to_c2" d="M 522 524 Q 532 507 538.81 516.65 M 544 524 L 533.5 520.4 L 544.12 512.9 Z" fill="#2455d6" stroke="#2455d6" stroke-width="1.7" stroke-linecap="round"/>
+<path id="Figure1B.model.rot_c1.graph.connector.c2_to_c1" d="M 543 540 Q 532 555 525.62 547.03 M 520 540 L 530.7 542.97 L 520.55 551.09 Z" fill="#ef3b33" stroke="#ef3b33" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<g id="Figure1B.model.rot_c1.matrix">
+<text id="Figure1B.model.rot_c1.matrix.title" x="637.5" y="459" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" text-anchor="middle" fill="#171a21">Transition matrix</text>
+<text id="Figure1B.model.rot_c1.matrix.col_0" x="616.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">x</text>
+<text id="Figure1B.model.rot_c1.matrix.row_0" x="600" y="485.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">x</text>
+<text id="Figure1B.model.rot_c1.matrix.col_1" x="637.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c1</text>
+<text id="Figure1B.model.rot_c1.matrix.row_1" x="600" y="506.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">c1</text>
+<text id="Figure1B.model.rot_c1.matrix.col_2" x="658.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c2</text>
+<text id="Figure1B.model.rot_c1.matrix.row_2" x="600" y="527.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">c2</text>
+<rect id="Figure1B.model.rot_c1.matrix.cell_0_0" x="606" y="471" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_c1.matrix.cell_0_1" x="627" y="471" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_c1.matrix.cell_0_2" x="648" y="471" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_c1.matrix.cell_1_0" x="606" y="492" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_c1.matrix.cell_1_1" x="627" y="492" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_c1.matrix.cell_1_2" x="648" y="492" width="21" height="21" fill="#d16863" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_c1.matrix.cell_2_0" x="606" y="513" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_c1.matrix.cell_2_1" x="627" y="513" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_c1.matrix.cell_2_2" x="648" y="513" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+</g>
+</g>
+<g id="Figure1B.model.rot_both">
+<text id="Figure1B.model.rot_both.title" x="838" y="432" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#2455d6">Rotational: x -&gt; both</text>
+<g id="Figure1B.model.rot_both.graph">
+<g id="Figure1B.model.rot_both.graph.node_x">
+<circle id="Figure1B.model.rot_both.graph.node_x.frame" cx="770" cy="470" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.rot_both.graph.node_x.label" x="770" y="475" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">x</text>
+</g>
+<g id="Figure1B.model.rot_both.graph.node_c1">
+<circle id="Figure1B.model.rot_both.graph.node_c1.frame" cx="747" cy="532" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.rot_both.graph.node_c1.label" x="747" y="537" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c1</text>
+</g>
+<g id="Figure1B.model.rot_both.graph.node_c2">
+<circle id="Figure1B.model.rot_both.graph.node_c2.frame" cx="793" cy="532" r="16" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1B.model.rot_both.graph.node_c2.label" x="793" y="537" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c2</text>
+</g>
+<path id="Figure1B.model.rot_both.graph.connector.x_to_c1" d="M 765 487 L 754.95 508.65 M 752 515 L 750.41 506.55 L 759.48 510.76 Z" fill="#2455d6" stroke="#2455d6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1B.model.rot_both.graph.connector.x_to_c2" d="M 775 487 L 785.05 508.65 M 788 515 L 780.52 510.76 L 789.59 506.55 Z" fill="#2455d6" stroke="#2455d6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1B.model.rot_both.graph.connector.c1_to_c2" d="M 760 524 Q 770 507 776.81 516.65 M 782 524 L 771.5 520.4 L 782.12 512.9 Z" fill="#2455d6" stroke="#2455d6" stroke-width="1.7" stroke-linecap="round"/>
+<path id="Figure1B.model.rot_both.graph.connector.c2_to_c1" d="M 781 540 Q 770 555 763.62 547.03 M 758 540 L 768.7 542.97 L 758.55 551.09 Z" fill="#ef3b33" stroke="#ef3b33" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<g id="Figure1B.model.rot_both.matrix">
+<text id="Figure1B.model.rot_both.matrix.title" x="875.5" y="459" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" text-anchor="middle" fill="#171a21">Transition matrix</text>
+<text id="Figure1B.model.rot_both.matrix.col_0" x="854.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">x</text>
+<text id="Figure1B.model.rot_both.matrix.row_0" x="838" y="485.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">x</text>
+<text id="Figure1B.model.rot_both.matrix.col_1" x="875.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c1</text>
+<text id="Figure1B.model.rot_both.matrix.row_1" x="838" y="506.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">c1</text>
+<text id="Figure1B.model.rot_both.matrix.col_2" x="896.5" y="470" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c2</text>
+<text id="Figure1B.model.rot_both.matrix.row_2" x="838" y="527.28" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#171a21" style="font-style:italic">c2</text>
+<rect id="Figure1B.model.rot_both.matrix.cell_0_0" x="844" y="471" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_both.matrix.cell_0_1" x="865" y="471" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_both.matrix.cell_0_2" x="886" y="471" width="21" height="21" fill="#ffffff" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_both.matrix.cell_1_0" x="844" y="492" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_both.matrix.cell_1_1" x="865" y="492" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_both.matrix.cell_1_2" x="886" y="492" width="21" height="21" fill="#d16863" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_both.matrix.cell_2_0" x="844" y="513" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_both.matrix.cell_2_1" x="865" y="513" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+<rect id="Figure1B.model.rot_both.matrix.cell_2_2" x="886" y="513" width="21" height="21" fill="#6f91cf" stroke="#737373" stroke-width="0.9"/>
+</g>
+</g>
+</g>
+<g id="Figure1B.30_data_plots" inkscape:groupmode="layer" inkscape:label="30_data_plots">
+
+</g>
+<g id="Figure1B.40_formulas" inkscape:groupmode="layer" inkscape:label="40_formulas">
+
+</g>
+<g id="Figure1B.50_annotations" inkscape:groupmode="layer" inkscape:label="50_annotations">
+<text id="Figure1B.annotation.color_key" x="944" y="571" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="normal" text-anchor="end" fill="#6b7280">blue = positive; red = negative</text>
+</g>
+<g id="Figure1B.60_arrows_connectors" inkscape:groupmode="layer" inkscape:label="60_arrows_connectors">
+
+</g>
+<g id="Figure1B.70_labels" inkscape:groupmode="layer" inkscape:label="70_labels">
+<text id="Figure1B.label.panel_letter" x="14" y="408" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#171a21">B</text>
+<text id="Figure1B.label.panel_title" x="52" y="408" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" text-anchor="start" fill="#171a21">task models</text>
+</g>
+<g id="Figure1B.90_export_notes" inkscape:groupmode="layer" inkscape:label="90_export_notes" style="display:none">
+
+</g>
+</g>
+<g id="Figure1C" inkscape:groupmode="layer" inkscape:label="Figure1C">
+<g id="Figure1C.00_metadata" inkscape:groupmode="layer" inkscape:label="00_metadata" style="display:none">
+
+</g>
+<g id="Figure1C.01_reference_locked" inkscape:groupmode="layer" inkscape:label="01_reference_locked" style="display:none">
+
+</g>
+<g id="Figure1C.02_layout_guides" inkscape:groupmode="layer" inkscape:label="02_layout_guides" style="display:none">
+
+</g>
+<g id="Figure1C.10_background_locked" inkscape:groupmode="layer" inkscape:label="10_background_locked">
+
+</g>
+<g id="Figure1C.20_components" inkscape:groupmode="layer" inkscape:label="20_components">
+
+</g>
+<g id="Figure1C.30_data_plots" inkscape:groupmode="layer" inkscape:label="30_data_plots">
+
+</g>
+<g id="Figure1C.40_formulas" inkscape:groupmode="layer" inkscape:label="40_formulas">
+
+</g>
+<g id="Figure1C.50_annotations" inkscape:groupmode="layer" inkscape:label="50_annotations">
+
+</g>
+<g id="Figure1C.60_arrows_connectors" inkscape:groupmode="layer" inkscape:label="60_arrows_connectors">
+
+</g>
+<g id="Figure1C.70_labels" inkscape:groupmode="layer" inkscape:label="70_labels">
+<text id="Figure1C.label.panel_letter" x="14" y="608" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#171a21">C</text>
+<text id="Figure1C.label.panel_title" x="52" y="608" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" text-anchor="start" fill="#171a21">cue dynamics</text>
+</g>
+<g id="Figure1C.90_export_notes" inkscape:groupmode="layer" inkscape:label="90_export_notes" style="display:none">
+<text id="Figure1C.note.blank_panel" x="54" y="648" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#6b7280">Intentionally blank for future data artwork</text>
+</g>
+</g>
+<g id="Figure1D" inkscape:groupmode="layer" inkscape:label="Figure1D">
+<g id="Figure1D.00_metadata" inkscape:groupmode="layer" inkscape:label="00_metadata" style="display:none">
+
+</g>
+<g id="Figure1D.01_reference_locked" inkscape:groupmode="layer" inkscape:label="01_reference_locked" style="display:none">
+
+</g>
+<g id="Figure1D.02_layout_guides" inkscape:groupmode="layer" inkscape:label="02_layout_guides" style="display:none">
+
+</g>
+<g id="Figure1D.10_background_locked" inkscape:groupmode="layer" inkscape:label="10_background_locked">
+
+</g>
+<g id="Figure1D.20_components" inkscape:groupmode="layer" inkscape:label="20_components">
+
+</g>
+<g id="Figure1D.30_data_plots" inkscape:groupmode="layer" inkscape:label="30_data_plots">
+
+</g>
+<g id="Figure1D.40_formulas" inkscape:groupmode="layer" inkscape:label="40_formulas">
+
+</g>
+<g id="Figure1D.50_annotations" inkscape:groupmode="layer" inkscape:label="50_annotations">
+
+</g>
+<g id="Figure1D.60_arrows_connectors" inkscape:groupmode="layer" inkscape:label="60_arrows_connectors">
+
+</g>
+<g id="Figure1D.70_labels" inkscape:groupmode="layer" inkscape:label="70_labels">
+<text id="Figure1D.label.panel_letter" x="14" y="798" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#171a21">D</text>
+</g>
+<g id="Figure1D.90_export_notes" inkscape:groupmode="layer" inkscape:label="90_export_notes" style="display:none">
+<text id="Figure1D.note.blank_panel" x="54" y="838" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#6b7280">Intentionally blank for future data artwork</text>
+</g>
+</g>
+<g id="Figure1E" inkscape:groupmode="layer" inkscape:label="Figure1E">
+<g id="Figure1E.00_metadata" inkscape:groupmode="layer" inkscape:label="00_metadata" style="display:none">
+
+</g>
+<g id="Figure1E.01_reference_locked" inkscape:groupmode="layer" inkscape:label="01_reference_locked" style="display:none">
+
+</g>
+<g id="Figure1E.02_layout_guides" inkscape:groupmode="layer" inkscape:label="02_layout_guides" style="display:none">
+
+</g>
+<g id="Figure1E.10_background_locked" inkscape:groupmode="layer" inkscape:label="10_background_locked">
+
+</g>
+<g id="Figure1E.20_components" inkscape:groupmode="layer" inkscape:label="20_components">
+<g id="Figure1E.node.task_1">
+<circle id="Figure1E.node.task_1.frame" cx="1110" cy="100" r="21" fill="#9cbde2" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.task_2">
+<circle id="Figure1E.node.task_2.frame" cx="1220" cy="100" r="21" fill="#9cbde2" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.task_3">
+<circle id="Figure1E.node.task_3.frame" cx="1330" cy="100" r="21" fill="#9cbde2" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.belief_1">
+<circle id="Figure1E.node.belief_1.frame" cx="1110" cy="220" r="21" fill="#bddcae" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.belief_2">
+<circle id="Figure1E.node.belief_2.frame" cx="1220" cy="220" r="21" fill="#bddcae" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.belief_3">
+<circle id="Figure1E.node.belief_3.frame" cx="1330" cy="220" r="21" fill="#bddcae" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.behavior_1">
+<circle id="Figure1E.node.behavior_1.frame" cx="1110" cy="320" r="21" fill="#ff922e" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.behavior_2">
+<circle id="Figure1E.node.behavior_2.frame" cx="1220" cy="320" r="21" fill="#ff922e" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.behavior_3">
+<circle id="Figure1E.node.behavior_3.frame" cx="1330" cy="320" r="21" fill="#ff922e" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.neural_1">
+<circle id="Figure1E.node.neural_1.frame" cx="1110" cy="420" r="21" fill="#7f43a5" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.neural_2">
+<circle id="Figure1E.node.neural_2.frame" cx="1220" cy="420" r="21" fill="#7f43a5" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.node.neural_3">
+<circle id="Figure1E.node.neural_3.frame" cx="1330" cy="420" r="21" fill="#7f43a5" stroke="#171a21" stroke-width="2.2"/>
+</g>
+<g id="Figure1E.matrix.world_model">
+<g id="Figure1E.matrix.world_model.cell_0_0">
+<rect id="Figure1E.matrix.world_model.cell_0_0.frame" x="1510" y="145" width="128" height="108" rx="8" fill="#eaf5e6" stroke="#555555" stroke-width="1.6"/>
+<text id="Figure1E.matrix.world_model.cell_0_0.label" x="1574" y="205.48" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2d7d3e">matched</text>
+</g>
+<g id="Figure1E.matrix.world_model.cell_0_1">
+<rect id="Figure1E.matrix.world_model.cell_0_1.frame" x="1638" y="145" width="128" height="108" rx="8" fill="#fbe8e8" stroke="#555555" stroke-width="1.6"/>
+<text id="Figure1E.matrix.world_model.cell_0_1.label" x="1702" y="205.48" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#171a21">mismatched</text>
+</g>
+<g id="Figure1E.matrix.world_model.cell_1_0">
+<rect id="Figure1E.matrix.world_model.cell_1_0.frame" x="1510" y="253" width="128" height="108" rx="8" fill="#fbe8e8" stroke="#555555" stroke-width="1.6"/>
+<text id="Figure1E.matrix.world_model.cell_1_0.label" x="1574" y="313.48" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#171a21">mismatched</text>
+</g>
+<g id="Figure1E.matrix.world_model.cell_1_1">
+<rect id="Figure1E.matrix.world_model.cell_1_1.frame" x="1638" y="253" width="128" height="108" rx="8" fill="#eaf5e6" stroke="#555555" stroke-width="1.6"/>
+<text id="Figure1E.matrix.world_model.cell_1_1.label" x="1702" y="313.48" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2d7d3e">matched</text>
+</g>
+</g>
+</g>
+<g id="Figure1E.30_data_plots" inkscape:groupmode="layer" inkscape:label="30_data_plots">
+
+</g>
+<g id="Figure1E.40_formulas" inkscape:groupmode="layer" inkscape:label="40_formulas">
+
+</g>
+<g id="Figure1E.50_annotations" inkscape:groupmode="layer" inkscape:label="50_annotations">
+<text id="Figure1E.annotation.sensory_evidence" x="1220" y="176" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#11899b">sensory evidence</text>
+<path id="Figure1E.annotation.internal_model_axis" d="M 1432 370 L 1432 165 M 1432 155 L 1439 165 L 1425 165 Z" fill="#2d7d3e" stroke="#2d7d3e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text id="Figure1E.annotation.internal_model_label" x="1417" y="270" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#2d7d3e" transform="rotate(-90 1417 270)">Internal model</text>
+<text id="Figure1E.annotation.model_note" x="1635" y="455" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#171a21">Task model and internal model need not agree.</text>
+</g>
+<g id="Figure1E.60_arrows_connectors" inkscape:groupmode="layer" inkscape:label="60_arrows_connectors">
+<path id="Figure1E.connector.task_time_1" d="M 1133 100 L 1187 100 M 1197 100 L 1187 107 L 1187 93 Z" fill="#171a21" stroke="#171a21" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1E.connector.belief_time_1" d="M 1133 220 L 1187 220 M 1197 220 L 1187 227 L 1187 213 Z" fill="#171a21" stroke="#171a21" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1E.connector.task_time_2" d="M 1243 100 L 1297 100 M 1307 100 L 1297 107 L 1297 93 Z" fill="#171a21" stroke="#171a21" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1E.connector.belief_time_2" d="M 1243 220 L 1297 220 M 1307 220 L 1297 227 L 1297 213 Z" fill="#171a21" stroke="#171a21" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1E.connector.sensory_1" d="M 1110 123 L 1110 186 M 1110 196 L 1103 186 L 1117 186 Z" fill="#11899b" stroke="#11899b" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7,5"/>
+<path id="Figure1E.connector.belief_to_behavior_1" d="M 1110 243 L 1110 286 M 1110 296 L 1103 286 L 1117 286 Z" fill="#171a21" stroke="#171a21" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1E.connector.behavior_to_neural_1" d="M 1110 343 L 1110 386 M 1110 396 L 1103 386 L 1117 386 Z" fill="#171a21" stroke="#171a21" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1E.connector.sensory_2" d="M 1220 123 L 1220 186 M 1220 196 L 1213 186 L 1227 186 Z" fill="#11899b" stroke="#11899b" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7,5"/>
+<path id="Figure1E.connector.belief_to_behavior_2" d="M 1220 243 L 1220 286 M 1220 296 L 1213 286 L 1227 286 Z" fill="#171a21" stroke="#171a21" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1E.connector.behavior_to_neural_2" d="M 1220 343 L 1220 386 M 1220 396 L 1213 386 L 1227 386 Z" fill="#171a21" stroke="#171a21" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1E.connector.sensory_3" d="M 1330 123 L 1330 186 M 1330 196 L 1323 186 L 1337 186 Z" fill="#11899b" stroke="#11899b" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7,5"/>
+<path id="Figure1E.connector.belief_to_behavior_3" d="M 1330 243 L 1330 286 M 1330 296 L 1323 286 L 1337 286 Z" fill="#171a21" stroke="#171a21" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1E.connector.behavior_to_neural_3" d="M 1330 343 L 1330 386 M 1330 396 L 1323 386 L 1337 386 Z" fill="#171a21" stroke="#171a21" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Figure1E.70_labels" inkscape:groupmode="layer" inkscape:label="70_labels">
+<text id="Figure1E.label.panel_letter" x="978" y="31" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#171a21">E</text>
+<text id="Figure1E.label.panel_title" x="1016" y="31" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" text-anchor="start" fill="#171a21">Bayesian Brain's generative model</text>
+<text id="Figure1E.label.task_0" x="990" y="96" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" fill="#2455d6">Task</text>
+<text id="Figure1E.label.task_1" x="990" y="114" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" fill="#2455d6">dynamics</text>
+<text id="Figure1E.label.belief_0" x="990" y="216" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" fill="#2d7d3e">Belief</text>
+<text id="Figure1E.label.belief_1" x="990" y="234" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" fill="#2d7d3e">dynamics</text>
+<text id="Figure1E.label.behavior_0" x="990" y="316" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" fill="#ff6b00">Behavior</text>
+<text id="Figure1E.label.neural_0" x="990" y="416" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" fill="#7433a8">Neural</text>
+<text id="Figure1E.label.neural_1" x="990" y="434" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="start" fill="#7433a8">activity</text>
+<text id="Figure1E.label.task_ellipsis" x="1376" y="106" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#171a21">...</text>
+<text id="Figure1E.label.belief_ellipsis" x="1376" y="226" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#171a21">...</text>
+<text id="Figure1E.label.behavior_ellipsis" x="1376" y="326" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#171a21">...</text>
+<text id="Figure1E.label.neural_ellipsis" x="1376" y="426" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#171a21">...</text>
+<text id="Figure1E.label.experienced_world" x="1624" y="78" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#2455d6">Experienced world</text>
+<text id="Figure1E.label.world_col_common" x="1574" y="126" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#171a21">Common cause</text>
+<text id="Figure1E.label.world_col_serial" x="1702" y="126" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#171a21">Serial mediation</text>
+<text id="Figure1E.label.world_row_common_1" x="1498" y="193" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#171a21">Common</text>
+<text id="Figure1E.label.world_row_common_2" x="1498" y="211" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#171a21">cause</text>
+<text id="Figure1E.label.world_row_serial_1" x="1498" y="301" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#171a21">Serial</text>
+<text id="Figure1E.label.world_row_serial_2" x="1498" y="319" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#171a21">mediation</text>
+</g>
+<g id="Figure1E.90_export_notes" inkscape:groupmode="layer" inkscape:label="90_export_notes" style="display:none">
+
+</g>
+</g>
+<g id="Figure1F" inkscape:groupmode="layer" inkscape:label="Figure1F">
+<g id="Figure1F.00_metadata" inkscape:groupmode="layer" inkscape:label="00_metadata" style="display:none">
+
+</g>
+<g id="Figure1F.01_reference_locked" inkscape:groupmode="layer" inkscape:label="01_reference_locked" style="display:none">
+
+</g>
+<g id="Figure1F.02_layout_guides" inkscape:groupmode="layer" inkscape:label="02_layout_guides" style="display:none">
+
+</g>
+<g id="Figure1F.10_background_locked" inkscape:groupmode="layer" inkscape:label="10_background_locked">
+
+</g>
+<g id="Figure1F.20_components" inkscape:groupmode="layer" inkscape:label="20_components">
+<g id="Figure1F.card.observations">
+<rect id="Figure1F.card.observations.frame" x="995" y="600" width="185" height="70" rx="8" fill="#ffffff" stroke="#3498db" stroke-width="2.2"/>
+<text id="Figure1F.card.observations.label" x="1008" y="625" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#3498db">observations</text>
+<path id="Figure1F.card.observations.wave" d="M 1070 649.48 L 1071.25 651.28 L 1072.5 652.49 L 1073.75 652.87 L 1075 652.39 L 1076.25 651.17 L 1077.5 649.46 L 1078.75 647.61 L 1080 645.96 L 1081.25 644.8 L 1082.5 644.3 L 1083.75 644.47 L 1085 645.22 L 1086.25 646.36 L 1087.5 647.64 L 1088.75 648.84 L 1090 649.77 L 1091.25 650.31 L 1092.5 650.42 L 1093.75 650.14 L 1095 649.53 L 1096.25 648.71 L 1097.5 647.8 L 1098.75 646.92 L 1100 646.19 L 1101.25 645.73 L 1102.5 645.62 L 1103.75 645.92 L 1105 646.62 L 1106.25 647.66 L 1107.5 648.89 L 1108.75 650.11 L 1110 651.09 L 1111.25 651.6 L 1112.5 651.49 L 1113.75 650.72 L 1115 649.35 L 1116.25 647.61 L 1117.5 645.8 L 1118.75 644.27 L 1120 643.34 L 1121.25 643.22 L 1122.5 643.96 L 1123.75 645.45 L 1125 647.41 L 1126.25 649.47 L 1127.5 651.25 L 1128.75 652.42 L 1130 652.78 L 1131.25 652.28 L 1132.5 651.07 L 1133.75 649.4 L 1135 647.62 L 1136.25 646.05 L 1137.5 644.96 L 1138.75 644.49 L 1140 644.67 L 1141.25 645.38 L 1142.5 646.46 L 1143.75 647.66 L 1145 648.79" fill="none" stroke="#2455d6" stroke-width="2"/>
+<g id="Figure1F.card.observations.thermometer">
+<rect id="Figure1F.card.observations.thermometer.tube" x="1147.72" y="619.7" width="4.56" height="20.9" rx="2.2800000000000002" fill="#ffffff" stroke="#171a21" stroke-width="1.8"/>
+<rect id="Figure1F.card.observations.thermometer.mercury" x="1149.16" y="623.12" width="1.67" height="14.82" rx="0.76" fill="#ef3b33"/>
+<circle id="Figure1F.card.observations.thermometer.bulb_outer" cx="1150" cy="640.6" r="3.8" fill="#ffffff" stroke="#171a21" stroke-width="1.8"/>
+<circle id="Figure1F.card.observations.thermometer.bulb_inner" cx="1150" cy="640.6" r="2.28" fill="#2455d6"/>
+</g>
+</g>
+<g id="Figure1F.card.neural">
+<rect id="Figure1F.card.neural.frame" x="995" y="700" width="185" height="70" rx="8" fill="#ffffff" stroke="#7433a8" stroke-width="2.2"/>
+<text id="Figure1F.card.neural.label" x="1008" y="725" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#7433a8">neural activity</text>
+<path id="Figure1F.card.neural.trace" d="M 1070 746 L 1072.2 752.18 L 1074.4 740.57 L 1076.6 739.83 L 1078.8 759.1 L 1081 745.68 L 1083.2 739.99 L 1085.4 751.94 L 1087.6 751.45 L 1089.8 732.68 L 1092 746.63 L 1094.2 751.8 L 1096.4 739.59 L 1098.6 741.3 L 1100.8 759.46 L 1103 745.06 L 1105.2 740.45 L 1107.4 752.86 L 1109.6 749.92 L 1111.8 732.47 L 1114 747.24 L 1116.2 751.28 L 1118.4 738.74 L 1120.6 742.88 L 1122.8 759.52 L 1125 744.46 L 1127.2 741.03 L 1129.4 753.62 L 1131.6 748.3 L 1133.8 732.57 L 1136 747.83 L 1138.2 750.64 L 1140.4 738.06 L 1142.6 744.53 L 1144.8 759.27 L 1147 743.89" fill="none" stroke="#7433a8" stroke-width="2"/>
+</g>
+<g id="Figure1F.card.behavior">
+<rect id="Figure1F.card.behavior.frame" x="995" y="800" width="185" height="70" rx="8" fill="#ffffff" stroke="#ff6b00" stroke-width="2.2"/>
+<text id="Figure1F.card.behavior.label" x="1008" y="825" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#ff6b00">behavior</text>
+<path id="Figure1F.card.behavior.baseline" d="M 1070 853 L 1160 853" stroke="#171a21" stroke-width="1.5"/>
+<path id="Figure1F.card.behavior.spike_1" d="M 1080 853 L 1080 835" stroke="#ff6b00" stroke-width="2.2"/>
+<path id="Figure1F.card.behavior.spike_2" d="M 1092 853 L 1092 825" stroke="#ff6b00" stroke-width="2.2"/>
+<path id="Figure1F.card.behavior.spike_3" d="M 1104 853 L 1104 841" stroke="#ff6b00" stroke-width="2.2"/>
+<path id="Figure1F.card.behavior.spike_4" d="M 1116 853 L 1116 819" stroke="#ff6b00" stroke-width="2.2"/>
+<path id="Figure1F.card.behavior.spike_5" d="M 1128 853 L 1128 831" stroke="#ff6b00" stroke-width="2.2"/>
+<path id="Figure1F.card.behavior.spike_6" d="M 1140 853 L 1140 823" stroke="#ff6b00" stroke-width="2.2"/>
+<path id="Figure1F.card.behavior.spike_7" d="M 1152 853 L 1152 838" stroke="#ff6b00" stroke-width="2.2"/>
+</g>
+<g id="Figure1F.card.latent_dynamics">
+<rect id="Figure1F.card.latent_dynamics.frame" x="1230" y="590" width="335" height="285" rx="12" fill="#ffffff" stroke="#2d7d3e" stroke-width="2.5"/>
+<text id="Figure1F.card.latent_dynamics.title" x="1397" y="625" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#2d7d3e">schematic belief dynamics</text>
+<path id="Figure1F.card.latent_dynamics.trace_observations" d="M 1250 684.37 L 1254.83 689.57 L 1259.67 694.06 L 1264.5 697.49 L 1269.33 699.63 L 1274.17 700.36 L 1279 699.69 L 1283.83 697.74 L 1288.67 694.76 L 1293.5 691.04 L 1298.33 686.94 L 1303.17 682.79 L 1308 678.89 L 1312.83 675.49 L 1317.67 672.76 L 1322.5 670.79 L 1327.33 669.59 L 1332.17 669.14 L 1337 669.35 L 1341.83 670.12 L 1346.67 671.36 L 1351.5 672.98 L 1356.33 674.91 L 1361.17 677.1 L 1366 679.49 L 1370.83 682.03 L 1375.67 684.65 L 1380.5 687.23 L 1385.33 689.64 L 1390.17 691.69 L 1395 693.2 L 1399.83 693.98 L 1404.67 693.86 L 1409.5 692.72 L 1414.33 690.51 L 1419.17 687.3 L 1424 683.24 L 1428.83 678.58 L 1433.67 673.64 L 1438.5 668.81 L 1443.33 664.51 L 1448.17 661.09 L 1453 658.87 L 1457.83 658.06 L 1462.67 658.76 L 1467.5 660.9 L 1472.33 664.32 L 1477.17 668.72 L 1482 673.74 L 1486.83 678.95 L 1491.67 683.95 L 1496.5 688.35 L 1501.33 691.88 L 1506.17 694.32 L 1511 695.59 L 1515.83 695.72 L 1520.67 694.8 L 1525.5 693.04 L 1530.33 690.64 L 1535.17 687.85 L 1540 684.9" fill="none" stroke="#2455d6" stroke-width="2.3"/>
+<path id="Figure1F.card.latent_dynamics.trace_neural" d="M 1250 768.8 L 1254.83 772.15 L 1259.67 773.6 L 1264.5 773.02 L 1269.33 770.55 L 1274.17 766.47 L 1279 761.24 L 1283.83 755.42 L 1288.67 749.59 L 1293.5 744.28 L 1298.33 739.92 L 1303.17 736.81 L 1308 735.1 L 1312.83 734.76 L 1317.67 735.67 L 1322.5 737.59 L 1327.33 740.25 L 1332.17 743.35 L 1337 746.63 L 1341.83 749.88 L 1346.67 752.91 L 1351.5 755.59 L 1356.33 757.84 L 1361.17 759.57 L 1366 760.68 L 1370.83 761.1 L 1375.67 760.73 L 1380.5 759.49 L 1385.33 757.36 L 1390.17 754.36 L 1395 750.62 L 1399.83 746.34 L 1404.67 741.84 L 1409.5 737.53 L 1414.33 733.83 L 1419.17 731.19 L 1424 729.99 L 1428.83 730.46 L 1433.67 732.71 L 1438.5 736.65 L 1443.33 741.99 L 1448.17 748.27 L 1453 754.92 L 1457.83 761.3 L 1462.67 766.78 L 1467.5 770.84 L 1472.33 773.09 L 1477.17 773.35 L 1482 771.65 L 1486.83 768.22 L 1491.67 763.47 L 1496.5 757.91 L 1501.33 752.11 L 1506.17 746.62 L 1511 741.91 L 1515.83 738.33 L 1520.67 736.06 L 1525.5 735.16 L 1530.33 735.53 L 1535.17 736.99 L 1540 739.28" fill="none" stroke="#2d7d3e" stroke-width="2.3"/>
+<path id="Figure1F.card.latent_dynamics.trace_behavior" d="M 1250 812.99 L 1254.83 816.79 L 1259.67 820.71 L 1264.5 824.51 L 1269.33 827.94 L 1274.17 830.8 L 1279 832.93 L 1283.83 834.25 L 1288.67 834.72 L 1293.5 834.38 L 1298.33 833.32 L 1303.17 831.68 L 1308 829.61 L 1312.83 827.28 L 1317.67 824.85 L 1322.5 822.46 L 1327.33 820.22 L 1332.17 818.21 L 1337 816.47 L 1341.83 815.02 L 1346.67 813.86 L 1351.5 812.98 L 1356.33 812.38 L 1361.17 812.04 L 1366 811.98 L 1370.83 812.24 L 1375.67 812.83 L 1380.5 813.79 L 1385.33 815.15 L 1390.17 816.92 L 1395 819.07 L 1399.83 821.54 L 1404.67 824.25 L 1409.5 827.04 L 1414.33 829.76 L 1419.17 832.21 L 1424 834.22 L 1428.83 835.59 L 1433.67 836.18 L 1438.5 835.91 L 1443.33 834.74 L 1448.17 832.69 L 1453 829.88 L 1457.83 826.47 L 1462.67 822.67 L 1467.5 818.72 L 1472.33 814.89 L 1477.17 811.42 L 1482 808.52 L 1486.83 806.36 L 1491.67 805.03 L 1496.5 804.58 L 1501.33 804.97 L 1506.17 806.12 L 1511 807.88 L 1515.83 810.1 L 1520.67 812.59 L 1525.5 815.18 L 1530.33 817.72 L 1535.17 820.09 L 1540 822.18" fill="none" stroke="#ff6b00" stroke-width="2.3"/>
+</g>
+<g id="Figure1F.model.common">
+<rect id="Figure1F.model.common.frame" x="1610" y="610" width="170" height="155" rx="10" fill="#ffffff" stroke="#2455d6" stroke-width="2.3"/>
+<text id="Figure1F.model.common.title" x="1695" y="636" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#2455d6">Common cause</text>
+<g id="Figure1F.model.common.graph">
+<g id="Figure1F.model.common.graph.node_x">
+<circle id="Figure1F.model.common.graph.node_x.frame" cx="1694" cy="672" r="18" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1F.model.common.graph.node_x.label" x="1694" y="677" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">x</text>
+</g>
+<g id="Figure1F.model.common.graph.node_c1">
+<circle id="Figure1F.model.common.graph.node_c1.frame" cx="1668" cy="739" r="18" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1F.model.common.graph.node_c1.label" x="1668" y="744" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c1</text>
+</g>
+<g id="Figure1F.model.common.graph.node_c2">
+<circle id="Figure1F.model.common.graph.node_c2.frame" cx="1722" cy="739" r="18" fill="#ffffff" stroke="#2455d6" stroke-width="1.8"/>
+<text id="Figure1F.model.common.graph.node_c2.label" x="1722" y="744" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c2</text>
+</g>
+<path id="Figure1F.model.common.graph.connector.x_to_c1" d="M 1688 691 L 1676.31 712.83 M 1673 719 L 1671.9 710.47 L 1680.71 715.19 Z" fill="#2455d6" stroke="#2455d6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1F.model.common.graph.connector.x_to_c2" d="M 1700 691 L 1713.37 713.02 M 1717 719 L 1709.09 715.61 L 1717.64 710.42 Z" fill="#2455d6" stroke="#2455d6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Figure1F.model.serial">
+<rect id="Figure1F.model.serial.frame" x="1610" y="785" width="170" height="155" rx="10" fill="#ffffff" stroke="#ef3b33" stroke-width="2.3"/>
+<text id="Figure1F.model.serial.title" x="1695" y="811" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#ef3b33">Serial mediation</text>
+<g id="Figure1F.model.serial.graph">
+<g id="Figure1F.model.serial.graph.node_x">
+<circle id="Figure1F.model.serial.graph.node_x.frame" cx="1694" cy="847" r="18" fill="#ffffff" stroke="#ef3b33" stroke-width="1.8"/>
+<text id="Figure1F.model.serial.graph.node_x.label" x="1694" y="852" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">x</text>
+</g>
+<g id="Figure1F.model.serial.graph.node_c1">
+<circle id="Figure1F.model.serial.graph.node_c1.frame" cx="1668" cy="914" r="18" fill="#ffffff" stroke="#ef3b33" stroke-width="1.8"/>
+<text id="Figure1F.model.serial.graph.node_c1.label" x="1668" y="919" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c1</text>
+</g>
+<g id="Figure1F.model.serial.graph.node_c2">
+<circle id="Figure1F.model.serial.graph.node_c2.frame" cx="1722" cy="914" r="18" fill="#ffffff" stroke="#ef3b33" stroke-width="1.8"/>
+<text id="Figure1F.model.serial.graph.node_c2.label" x="1722" y="919" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#171a21" style="font-style:italic">c2</text>
+</g>
+<path id="Figure1F.model.serial.graph.connector.x_to_c1" d="M 1689 866 L 1676.47 887.92 M 1673 894 L 1672.13 885.44 L 1680.81 890.4 Z" fill="#ef3b33" stroke="#ef3b33" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1F.model.serial.graph.connector.c1_to_c2" d="M 1688 914 L 1695 914 M 1702 914 L 1695 919 L 1695 909 Z" fill="#ef3b33" stroke="#ef3b33" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<g id="Figure1F.30_data_plots" inkscape:groupmode="layer" inkscape:label="30_data_plots">
+
+</g>
+<g id="Figure1F.40_formulas" inkscape:groupmode="layer" inkscape:label="40_formulas">
+
+</g>
+<g id="Figure1F.50_annotations" inkscape:groupmode="layer" inkscape:label="50_annotations">
+<text id="Figure1F.annotation.test_candidate_1" x="1628" y="570" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2d7d3e">test candidate</text>
+<text id="Figure1F.annotation.test_candidate_2" x="1628" y="588" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2d7d3e">internal models</text>
+</g>
+<g id="Figure1F.60_arrows_connectors" inkscape:groupmode="layer" inkscape:label="60_arrows_connectors">
+<path id="Figure1F.connector.observations_to_latent" d="M 1185 635 L 1215 635 M 1225 635 L 1215 642 L 1215 628 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1F.connector.neural_to_latent" d="M 1185 735 L 1215 735 M 1225 735 L 1215 742 L 1215 728 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1F.connector.behavior_to_latent" d="M 1185 835 L 1215 835 M 1225 835 L 1215 842 L 1215 828 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1F.connector.latent_to_common" d="M 1570 690 L 1590.02 688.67 M 1600 688 L 1590.49 695.65 L 1589.56 681.68 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Figure1F.connector.latent_to_serial" d="M 1570 800 L 1595.7 853.97 M 1600 863 L 1589.38 856.98 L 1602.02 850.96 Z" fill="#171a21" stroke="#171a21" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Figure1F.70_labels" inkscape:groupmode="layer" inkscape:label="70_labels">
+<text id="Figure1F.label.panel_letter" x="978" y="531" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#171a21">F</text>
+<text id="Figure1F.label.panel_title" x="1016" y="531" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" text-anchor="start" fill="#171a21">System identification</text>
+<text id="Figure1F.label.question" x="1385" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#171a21">Which internal world model is the brain using?</text>
+</g>
+<g id="Figure1F.90_export_notes" inkscape:groupmode="layer" inkscape:label="90_export_notes" style="display:none">
+
+</g>
+</g>
+  <g id="Figure1.global_annotations" inkscape:groupmode="layer" inkscape:label="global_annotations"><g id="Figure1.annotations.panel_separators">
+<path id="Figure1.separator.main_vertical" d="M 960 0 L 960 1000" stroke="#777777" stroke-width="1.2"/>
+<path id="Figure1.separator.left_A_B" d="M 0 380 L 960 380" stroke="#8b8b8b" stroke-width="1.1"/>
+<path id="Figure1.separator.left_B_C" d="M 0 580 L 960 580" stroke="#8b8b8b" stroke-width="1.1"/>
+<path id="Figure1.separator.left_C_D" d="M 0 770 L 960 770" stroke="#8b8b8b" stroke-width="1.1"/>
+<path id="Figure1.separator.right_E_F" d="M 960 500 L 1800 500" stroke="#8b8b8b" stroke-width="1.1"/>
+</g></g>
+</svg>

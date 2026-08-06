@@ -1,0 +1,21 @@
+check	status	object	expected	actual	details
+source_svg_parse	PASS	Figure1_vector_C_D_blank.svg	valid XML/SVG	valid XML/SVG	Parsed successfully after regeneration
+inkscape_render	PASS	Figure1_vector_C_D_blank.svg	PNG and PDF export	both present	Inkscape 1.4.2 reopened and exported the SVG
+embedded_raster	PASS	Figure1_vector_C_D_blank.svg	0 image elements	0	All final artwork is vector geometry or live text
+panel_layers	PASS	Figure1	6 semantic panel layers	6	Figure1A through Figure1F are independent Inkscape layers
+functional_layers	PASS	Figure1	canonical functional sublayers	11 per panel	Owner-first layer schema applied
+panel_C_content	PASS	Figure1C	heading only	heading only	No data plot or screenshot is present
+panel_D_content	PASS	Figure1D	panel letter only	panel letter only	No data plot or screenshot is present
+ordinary_connectors	PASS	Figure1	one SVG path per ordinary connector	39 named path elements	Arrow shaft and flat triangular head are subpaths of one SVG path
+formula_labels	PASS	Figure1A	one text object with tspan subscript	3	Short scientific labels remain character-editable
+panel_local_backgrounds	PASS	Figure1	0	0	No panel-local canvas backing exists
+document_export_background	PASS	Figure1.background.export_white	1	1	Single document-level opaque export backing
+semantic_names	PASS	Figure1	stable semantic IDs	present	Important cards, nodes, models, traces, labels, and connectors are named
+owner_parentage	PASS	Figure1	owned content nested under semantic owner	passed	Node formulas, node labels, matrix-cell labels, and local model labels have the expected group parent
+duplicate_ids	PASS	Figure1	0 duplicate IDs	0	All 446 SVG IDs are unique
+component_layer_children	PASS	Figure1.*.20_components	groups only	0 ungrouped direct leaves	Canvas selection resolves to semantic component groups
+semantic_grouping_visual_diff	PASS	Figure1_vector_C_D_blank.png	zero visual change	MAE 0; max difference 0	Structural grouping produced a pixel-identical 1800 x 1000 render
+containment	PASS	Figure1A/F	owned artwork inside frames	visually contained	Checked aquarium fish and latent-dynamics traces at 1800 px export
+reference_usage	PASS	references/reference.png	not final art	not embedded	Reference is packaged separately only
+illustrator_native_reopen	LEGAL_SKIP	Figure1_vector_C_D_blank.ai	native AI reopen audit	not run	Pure Inkscape delivery; AI file is PDF-compatible interchange
+visual_review	PASS	Figure1_vector_C_D_blank.png	no clipping or overlap	passed	Second render fixed the E vertical label and F question overlap

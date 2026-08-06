@@ -1,0 +1,30 @@
+{
+  "before": "output\\figure1_vector_rebuild_v1\\reports\\before_semantic_grouping.png",
+  "after": "output\\figure1_vector_rebuild_v1\\Figure1_vector_C_D_blank.png",
+  "same_size": true,
+  "before_size": [
+    1800,
+    1000
+  ],
+  "after_size": [
+    1800,
+    1000
+  ],
+  "mae": 0.0,
+  "max_difference": 0,
+  "changed_fraction": 0.0,
+  "material_threshold": 8,
+  "material_changed_fraction": 0.0,
+  "changed_bbox": null,
+  "material_bbox": null,
+  "expected_regions": [],
+  "expected_region_pixel_count": 0,
+  "outside_expected_material_count": 0,
+  "outside_expected_material_fraction": 0.0,
+  "limits": {
+    "max_mae": 0.75,
+    "max_material_fraction": 0.012,
+    "max_outside_material_fraction": 0.0005
+  },
+  "passed": true
+}
