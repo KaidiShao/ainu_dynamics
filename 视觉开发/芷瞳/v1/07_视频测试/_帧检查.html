@@ -1,0 +1,21 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>芷瞳 Runway 帧检查</title>
+<style>
+  body { margin: 0; background: #111; color: white; font-family: sans-serif; }
+  main { display: grid; place-items: center; min-height: 100vh; }
+  video { max-height: 86vh; max-width: 76vw; }
+  nav { position: fixed; left: 16px; top: 16px; display: flex; gap: 8px; }
+  button { padding: 8px 12px; }
+</style>
+<main>
+  <video id="v" preload="auto" src="%E8%8A%B7%E7%9E%B3_v6_Gen4Turbo_5%E7%A7%92%E5%BE%AE%E7%9C%BC%E7%A5%9E%E7%A7%BB%E5%8A%A8%E6%B5%8B%E8%AF%95_v2.mp4"></video>
+</main>
+<nav>
+  <button data-time="0">0.0s</button>
+  <button data-time="1.2">1.2s</button>
+  <button data-time="2.5">2.5s</button>
+  <button data-time="3.8">3.8s</button>
+  <button data-time="5">5.0s</button>
+</nav>
+<script src="_frame_check.js"></script>
