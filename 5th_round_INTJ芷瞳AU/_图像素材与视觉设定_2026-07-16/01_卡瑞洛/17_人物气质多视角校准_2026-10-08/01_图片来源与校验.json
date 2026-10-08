@@ -1,0 +1,90 @@
+{
+  "created": "2026-10-08",
+  "generation_mode": "built-in image_gen",
+  "primary_candidates": [
+    "T03",
+    "P02"
+  ],
+  "status": "AUTHOR_REVIEW_PENDING",
+  "connection_failures": 1,
+  "images": [
+    {
+      "id": "T01",
+      "role": "转角偏浅过程对照",
+      "source": "C:\\Users\\kdsha\\.codex\\generated_images\\01a1125e-3dd4-7013-87aa-585e0a6f1ace\\exec-33409aa6-eb54-4a25-a3d2-6e3b7db29d63.png",
+      "workspace_path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/17_人物气质多视角校准_2026-10-08/MC_ANGLE_T01_三分之四侧脸_克制审视候选_v1.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/01_原始参考/MC_FACE_REF_001_冷战后期克制请求_原图.jpg",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/08_蓝眼色对照_2026-10-07/MC_EYE_B03_钢蓝_近正面_v2.png",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/16_人物气质重建_2026-10-08/MC_CHARACTER_A01_半侧脸_松弛审视候选_v1.png"
+      ],
+      "Key": "T01",
+      "Path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/17_人物气质多视角校准_2026-10-08/MC_ANGLE_T01_三分之四侧脸_克制审视候选_v1.png",
+      "SHA256": "B7F19A392B91DADBD72EB53DD5C7D52310583F4B8140B3846AF26281EA7097FB",
+      "Width": 1086,
+      "Height": 1448
+    },
+    {
+      "id": "P01",
+      "role": "接近侧面过程对照",
+      "source": "C:\\Users\\kdsha\\.codex\\generated_images\\01a1125e-3dd4-7013-87aa-585e0a6f1ace\\exec-06c32811-797d-4b20-92b1-071ebb0496db.png",
+      "workspace_path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/17_人物气质多视角校准_2026-10-08/MC_ANGLE_P01_正侧脸_克制审视候选_v1.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/01_原始参考/MC_FACE_REF_001_冷战后期克制请求_原图.jpg",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/08_蓝眼色对照_2026-10-07/MC_EYE_B03_钢蓝_近正面_v2.png",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/16_人物气质重建_2026-10-08/MC_CHARACTER_A01_半侧脸_松弛审视候选_v1.png"
+      ],
+      "Key": "P01",
+      "Path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/17_人物气质多视角校准_2026-10-08/MC_ANGLE_P01_正侧脸_克制审视候选_v1.png",
+      "SHA256": "F3814D3AFE6C1B6FFAAEAB82F9D81FBD536930BFFFD3DB18572A1CBC9D633233",
+      "Width": 1086,
+      "Height": 1448
+    },
+    {
+      "id": "T02",
+      "role": "转角校正过程对照",
+      "source": "C:\\Users\\kdsha\\.codex\\generated_images\\01a1125e-3dd4-7013-87aa-585e0a6f1ace\\exec-b373d4b5-3762-4b62-8781-653b36f47b5c.png",
+      "workspace_path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/17_人物气质多视角校准_2026-10-08/MC_ANGLE_T02_三分之四侧脸_转角校正候选_v2.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/01_原始参考/MC_FACE_REF_001_冷战后期克制请求_原图.jpg",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/08_蓝眼色对照_2026-10-07/MC_EYE_B03_钢蓝_近正面_v2.png",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/16_人物气质重建_2026-10-08/MC_CHARACTER_A01_半侧脸_松弛审视候选_v1.png"
+      ],
+      "Key": "T02",
+      "Path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/17_人物气质多视角校准_2026-10-08/MC_ANGLE_T02_三分之四侧脸_转角校正候选_v2.png",
+      "SHA256": "38935D839D63D467B6B8458B92005B0E088C8D83832DD7520068A89B30CA5BC5",
+      "Width": 1086,
+      "Height": 1448
+    },
+    {
+      "id": "P02",
+      "role": "当前正侧脸候选",
+      "source": "C:\\Users\\kdsha\\.codex\\generated_images\\01a1125e-3dd4-7013-87aa-585e0a6f1ace\\exec-64b481bd-fe88-4fb2-a1f5-0f8947c62ef8.png",
+      "workspace_path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/17_人物气质多视角校准_2026-10-08/MC_ANGLE_P02_正侧脸_转角校正候选_v2.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/01_原始参考/MC_FACE_REF_001_冷战后期克制请求_原图.jpg",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/08_蓝眼色对照_2026-10-07/MC_EYE_B03_钢蓝_近正面_v2.png"
+      ],
+      "Key": "P02",
+      "Path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/17_人物气质多视角校准_2026-10-08/MC_ANGLE_P02_正侧脸_转角校正候选_v2.png",
+      "SHA256": "5B495FC18B4C530CF4F032F6E9DED48D201F98D22A2B06CDF5F76719AF446578",
+      "Width": 1086,
+      "Height": 1448
+    },
+    {
+      "id": "T03",
+      "role": "当前三分之四侧脸候选",
+      "source": "C:\\Users\\kdsha\\.codex\\generated_images\\01a1125e-3dd4-7013-87aa-585e0a6f1ace\\exec-08775c69-3436-4da4-8626-2c710015c023.png",
+      "workspace_path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/17_人物气质多视角校准_2026-10-08/MC_ANGLE_T03_三分之四侧脸_明确转角候选_v3.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/01_原始参考/MC_FACE_REF_001_冷战后期克制请求_原图.jpg",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/08_蓝眼色对照_2026-10-07/MC_EYE_B03_钢蓝_近正面_v2.png"
+      ],
+      "Key": "T03",
+      "Path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/17_人物气质多视角校准_2026-10-08/MC_ANGLE_T03_三分之四侧脸_明确转角候选_v3.png",
+      "SHA256": "1D1FD679017C0E95927479256288237B44463267B495C4A589F4775637EE1D4D",
+      "Width": 1086,
+      "Height": 1448
+    }
+  ]
+}
