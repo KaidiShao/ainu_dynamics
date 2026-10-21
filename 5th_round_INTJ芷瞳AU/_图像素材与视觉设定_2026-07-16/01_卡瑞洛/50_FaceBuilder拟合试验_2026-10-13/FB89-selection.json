@@ -1,8 +1,0 @@
-{
-  "baseline": "FB86",
-  "selected": "FB88_D",
-  "evaluated_geometry_sha256": "92f9af79de807315ea52fffb279be3b8e050dc076a8953735a7f38b4b6a357c7",
-  "copy_preserves_geometry": true,
-  "likeness_approved": false,
-  "judging_method": "Same-camera same-light native renders and visual comparison, not a validated scalar likeness metric"
-}

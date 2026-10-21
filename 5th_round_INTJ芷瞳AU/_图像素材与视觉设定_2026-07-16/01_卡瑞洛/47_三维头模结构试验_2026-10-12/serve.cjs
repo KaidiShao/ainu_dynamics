@@ -1,5 +1,0 @@
-const http=require('http'),fs=require('fs'),path=require('path');
-const root=__dirname;const data=JSON.parse(fs.readFileSync(path.join(root,'landmarks.json'),'utf8'));
-const refs={'/ref/T22.png':data.T22.path,'/ref/P14.png':data.P14.path};
-const mime={'.html':'text/html; charset=utf-8','.js':'text/javascript','.json':'application/json','.png':'image/png','.obj':'text/plain'};
-http.createServer((req,res)=>{let u;try{u=decodeURIComponent(new URL(req.url,'http://localhost').pathname)}catch{res.writeHead(400).end();return}const file=refs[u]||path.resolve(root,'.'+(u==='/'?'/index.html':u));if(!refs[u]&&!file.startsWith(root+path.sep)){res.writeHead(403).end();return}if(!fs.existsSync(file)||!fs.statSync(file).isFile()){res.writeHead(404).end();return}res.setHeader('Content-Type',mime[path.extname(file)]||'application/octet-stream');res.setHeader('Cache-Control','no-store');fs.createReadStream(file).pipe(res)}).listen(8847,'127.0.0.1',()=>console.log('Carrillo head viewer: http://127.0.0.1:8847'));

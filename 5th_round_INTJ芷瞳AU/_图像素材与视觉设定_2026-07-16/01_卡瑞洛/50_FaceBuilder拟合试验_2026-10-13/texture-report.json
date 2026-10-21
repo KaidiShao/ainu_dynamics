@@ -1,9 +1,0 @@
-{
-  "status": "reference_projection_study",
-  "method": "official addon bake_tex, two views",
-  "texture": "D:\\\u65b0\u5efa\u6587\u4ef6\u5939\\ainu_dynamics\\5th_round_INTJ\u82b7\u77b3AU\\_\u56fe\u50cf\u7d20\u6750\u4e0e\u89c6\u89c9\u8bbe\u5b9a_2026-07-16\\01_\u5361\u745e\u6d1b\\50_FaceBuilder\u62df\u5408\u8bd5\u9a8c_2026-10-13\\textures\\FB01-reference.png",
-  "limitations": [
-    "Source illumination is baked in",
-    "Not an independent validation of 3D geometry"
-  ]
-}

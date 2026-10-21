@@ -1,7 +1,0 @@
-{
-  "base": "FB77",
-  "status": "rejected: controlled interior selection but insufficient shape benefit",
-  "max_displacement": 0.018800833521290396,
-  "change": "Nostril ceiling selected by 3D proximity and downward-facing normals, not projected pixel coordinates. Does not carry80 exterior selection.",
-  "failure_addressed": "80 projected mask also hit outer surface and created pinched dents.80 rejected."
-}

@@ -1,8 +1,0 @@
-{
-  "method": "Locally inferred 3DDFA_V2 depth, nonrigidly registered to T22 landmarks; native mesh retains frontal projection",
-  "max_delta": 7.0199999959822055,
-  "p95_delta": 3.267958696112162,
-  "max_frontal_projection_change": 1.4098576183366854e-14,
-  "prior_scale": 0.879017491402544,
-  "prior_offset": -68.06336555533275
-}

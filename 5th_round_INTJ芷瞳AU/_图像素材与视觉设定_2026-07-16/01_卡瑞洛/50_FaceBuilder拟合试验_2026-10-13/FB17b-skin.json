@@ -1,9 +1,0 @@
-{
-  "base": "FB17",
-  "status": "requires_closeup_review",
-  "rationale": "FB17 detail was visually negligible even at 250 percent; increase bounded fine variation without transferring low-frequency source lighting",
-  "bump_strength": 0.45,
-  "bump_distance": 0.006,
-  "geometry_unchanged": true,
-  "still_not_a_measured_normal_map": true
-}

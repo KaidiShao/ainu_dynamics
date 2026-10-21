@@ -1,9 +1,0 @@
-{
-  "base": "FB180",
-  "selected": "FB185_B",
-  "status": "technical UV correction; provisional and identity unapproved",
-  "change": "Rebind existing bounded detail/chroma/confidence maps to actual current camera projection. No new bitmap, strength, light or geometry change.",
-  "visual_review": "185A/B cheek closeups and185B neutral front/quarter/directional inspected; small registration correction, no claim of noticeable likeness gain.",
-  "unchanged": "All180 actual head, eye, lash/brow and hair geometry; source texture images; existing lip detail UV.",
-  "limits": "Facial identity, orbital layers, nasal contour and surface realism still insufficient."
-}
