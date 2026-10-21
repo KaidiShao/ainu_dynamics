@@ -1,0 +1,17 @@
+# Explicit exception to the archive-wide Markdown/image allowlist:
+# retain the requested reproducible audio analysis code and numerical outputs.
+!/.gitattributes
+!/*.py
+!/*.json
+!/*.html
+!/requirements-lock.txt
+!/data/*.json
+!/data/*.csv
+
+.cache/
+audio_config.local.json
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.ogg

@@ -1,0 +1,21 @@
+{
+  "audio_sha256": "75753ca7b73eaafc26634cfed1af1a7f1487df4e4307d81b5b295b2c103a6735",
+  "auditory_verified": false,
+  "feature_cache_identity": {
+    "sha256": "75753ca7b73eaafc26634cfed1af1a7f1487df4e4307d81b5b295b2c103a6735",
+    "SR": 22050,
+    "HOP": 512,
+    "DT": 0.1,
+    "extractor_sha256": "af261abfbecd33d5162a4368c375d955a51aa4bff9feea238b2e154e932ef496",
+    "librosa": "1.0.0",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1"
+  },
+  "files": {
+    "analysis.py": "4b8af49d93d9b9e6f5c6fdc822856c1cc1abdbbac43b1e1a411a42d97ac524cc",
+    "motif_review.py": "650d08b4c081b2c6543a53e4b7ef5da4bedbcc2f374a53e1013faac5b3d0ac76",
+    "annotations.json": "fc69e994202622c4a491cddc386a7b81720d8fdd02b3fbb59e078a8ebec289cd",
+    "requirements-lock.txt": "1909a5ccf14be1bb733f671fc443f6ed3b8f3a7233d2bf0f02c94747f0994467",
+    "build_listening_page.py": "24f17a040843357b63370328c13544f28f10a87feafa3f5860764d47f2b12fa0"
+  }
+}

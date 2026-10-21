@@ -1,0 +1,26 @@
+{
+  "filename": "关大洲 - 意难忘.flac",
+  "sha256": "75753ca7b73eaafc26634cfed1af1a7f1487df4e4307d81b5b295b2c103a6735",
+  "bytes": 62241041,
+  "sample_rate": 48000,
+  "channels": 2,
+  "frames": 18510272,
+  "subtype": "PCM_24",
+  "format": "FLAC",
+  "duration_s": 385.6306666666667,
+  "sample_peak": 0.9864543676376343,
+  "samples_at_or_above_1": 0,
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "librosa": "1.0.0",
+    "soundfile": "0.14.0",
+    "matplotlib": "3.11.2"
+  },
+  "analysis_sr": 22050,
+  "hop": 512,
+  "grid_s": 0.1,
+  "auditory_verified": false
+}

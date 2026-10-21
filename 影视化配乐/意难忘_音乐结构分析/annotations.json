@@ -1,0 +1,29 @@
+{
+  "audio_sha256": "75753ca7b73eaafc26634cfed1af1a7f1487df4e4307d81b5b295b2c103a6735",
+  "status": "Analyst-selected windows after computational search and CQT inspection; no auditory verification",
+  "motifs": [
+    {"id":"M1","seed":[57.8,64.8],"occurrences":[{"start":57.8,"end":64.8,"status":"seed"},{"start":86.5,"end":93.5,"status":"strong_candidate"}]},
+    {"id":"M2","seed":[65.0,71.8],"occurrences":[{"start":65.0,"end":71.8,"status":"seed"},{"start":93.7,"end":100.5,"status":"strong_candidate"}]},
+    {"id":"M3","seed":[75.3,81.3],"occurrences":[{"start":75.3,"end":81.3,"status":"seed"},{"start":104.0,"end":110.0,"status":"strong_candidate"}]},
+    {"id":"M4","seed":[146.0,152.0],"occurrences":[{"start":146.0,"end":152.0,"status":"seed"},{"start":160.3,"end":166.3,"status":"variant_candidate"},{"start":174.7,"end":180.7,"status":"strong_candidate"},{"start":189.0,"end":195.0,"status":"weak_candidate"},{"start":285.7,"end":291.7,"status":"variant_candidate"},{"start":300.0,"end":306.0,"status":"variant_candidate"},{"start":314.4,"end":320.4,"status":"linked_candidate"},{"start":328.7,"end":334.7,"status":"strong_candidate"}]},
+    {"id":"M5","seed":[198.5,204.5],"occurrences":[{"start":198.5,"end":204.5,"status":"seed"},{"start":338.2,"end":344.2,"status":"strong_candidate"}]},
+    {"id":"M6","seed":[351.0,358.0],"occurrences":[{"start":351.0,"end":358.0,"status":"seed"},{"start":366.3,"end":373.3,"status":"strong_candidate"}]}
+  ],
+  "sections":[
+    {"id":"S01","start":0,"end":22.0},
+    {"id":"S02","start":22.0,"end":57.8},
+    {"id":"S03","start":57.8,"end":86.5},
+    {"id":"S04","start":86.5,"end":115.2},
+    {"id":"S05","start":115.2,"end":145.8},
+    {"id":"S06","start":145.8,"end":174.5},
+    {"id":"S07","start":174.5,"end":203.7},
+    {"id":"S08","start":203.7,"end":208.0},
+    {"id":"S09","start":208.0,"end":222.1},
+    {"id":"S10","start":222.1,"end":252.5},
+    {"id":"S11","start":252.5,"end":285.7},
+    {"id":"S12","start":285.7,"end":314.4},
+    {"id":"S13","start":314.4,"end":344.6},
+    {"id":"S14","start":344.6,"end":374.4},
+    {"id":"S15","start":374.4,"end":385.6306666666667}
+  ]
+}

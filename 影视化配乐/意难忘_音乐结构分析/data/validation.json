@@ -1,0 +1,122 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "annotations bound to recording",
+      "passed": true
+    },
+    {
+      "check": "sample-derived duration",
+      "passed": true
+    },
+    {
+      "check": "continuous full coverage",
+      "passed": true
+    },
+    {
+      "check": "all reported windows within audio, 2-10s",
+      "passed": true
+    },
+    {
+      "check": "annotation/export count",
+      "passed": true
+    },
+    {
+      "check": "explicit auditory limitation",
+      "passed": true
+    },
+    {
+      "check": "bounded scores",
+      "passed": true
+    },
+    {
+      "check": "strong candidate criteria M1 86.5",
+      "passed": true
+    },
+    {
+      "check": "strong candidate criteria M2 93.7",
+      "passed": true
+    },
+    {
+      "check": "strong candidate criteria M3 104.0",
+      "passed": true
+    },
+    {
+      "check": "strong candidate criteria M4 174.7",
+      "passed": true
+    },
+    {
+      "check": "strong candidate criteria M4 328.7",
+      "passed": true
+    },
+    {
+      "check": "strong candidate criteria M5 338.2",
+      "passed": true
+    },
+    {
+      "check": "strong candidate criteria M6 366.3",
+      "passed": true
+    },
+    {
+      "check": "feature timestamps",
+      "passed": true
+    },
+    {
+      "check": "finite feature values",
+      "passed": true
+    },
+    {
+      "check": "no commercial audio copied",
+      "passed": true
+    },
+    {
+      "check": "report local links",
+      "passed": true
+    },
+    {
+      "check": "14 expected figures",
+      "passed": true
+    },
+    {
+      "check": "Python syntax",
+      "passed": true
+    },
+    {
+      "check": "manifest matches source and annotations",
+      "passed": true
+    },
+    {
+      "check": "original audio hash unchanged",
+      "passed": true
+    },
+    {
+      "check": "ordered recurrence beats similar background",
+      "passed": true
+    }
+  ],
+  "positive_pair": {
+    "linear_score": 0.9010055042800522,
+    "dtw_score": 0.9227241627791538,
+    "order_gain_over_shuffle95": 0.14177083732420048,
+    "reverse_score": 0.6592831318132273,
+    "pitch_cos": 0.8969522354148546,
+    "upper_chroma_cos": 0.90505877314525,
+    "bass_chroma_cos": 0.8703763481977472,
+    "onset_corr": 0.31602512018491263
+  },
+  "background_pair": {
+    "linear_score": 0.7432315811016891,
+    "dtw_score": 0.7830003749037138,
+    "order_gain_over_shuffle95": -0.008598358556468733,
+    "reverse_score": 0.7278193965851419,
+    "pitch_cos": 0.6989164568094948,
+    "upper_chroma_cos": 0.7875467053938835,
+    "bass_chroma_cos": 0.07249521763626068,
+    "onset_corr": -0.08095024758779279
+  },
+  "limitations": [
+    "No auditory verification",
+    "No melody or harmony ground truth",
+    "Player JavaScript syntax checked separately; FLAC playback not human-audited"
+  ]
+}

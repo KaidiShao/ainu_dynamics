@@ -12,6 +12,7 @@
 !.gitignore
 
 # Local tools, agent state, and Python environments.
+/.audio-analysis-venv/
 /_tools/
 /.agents/
 /.codex/
