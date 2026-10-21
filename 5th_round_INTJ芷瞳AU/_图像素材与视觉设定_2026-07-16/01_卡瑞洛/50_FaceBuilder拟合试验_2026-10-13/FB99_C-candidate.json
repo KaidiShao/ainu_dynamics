@@ -1,0 +1,68 @@
+{
+  "base": "FB98",
+  "strength": 0.0,
+  "upper_lift_px": 2.0,
+  "dark_lower_lift_px": 0.0,
+  "inner_anchors": [
+    {
+      "side": -1,
+      "before": [
+        444.727327644825,
+        474.79219818115234
+      ],
+      "after": [
+        444.727327644825,
+        474.79219818115234
+      ]
+    },
+    {
+      "side": 1,
+      "before": [
+        544.9394595623016,
+        469.6487874984741
+      ],
+      "after": [
+        544.9394595623016,
+        469.6487874984741
+      ]
+    }
+  ],
+  "max_displacement": 0.006052571036617272,
+  "globe_centers_and_radius_unchanged": true,
+  "gaze_rotation": [
+    {
+      "side": -1,
+      "iris_center_before": [
+        397.9521226286888,
+        469.7232708930969
+      ],
+      "iris_center_target": [
+        397.9521226286888,
+        467.7232708930969
+      ],
+      "rotation_degrees": 2.1346911014965064,
+      "globe_center_unchanged": true
+    },
+    {
+      "side": 1,
+      "iris_center_before": [
+        589.1767054796219,
+        458.30513048171997
+      ],
+      "iris_center_target": [
+        587.1767054796219,
+        454.80513048171997
+      ],
+      "rotation_degrees": 4.580931463586213,
+      "globe_center_unchanged": true
+    }
+  ],
+  "status": "candidate only",
+  "limitations": [
+    "Manual T22 pixel interpretation, not an identity metric",
+    "Inspect natural curvature, gaze, inner contact and new pinches from multiple views"
+  ],
+  "rollback": "FB98; full-file rollback includes all ocular geometry and attachments",
+  "visual_review": "Half upper arc, closeup inspected; no compelling reason to prefer or integrate",
+  "reviewed_at": "2026-10-15T01:25:20.809579+08:00"
+}

@@ -1,0 +1,12 @@
+{
+  "base": "FB132",
+  "status": "retained provisional working model",
+  "change": "Hide two old lateral overlay patches; retain complete reconstructed contact loft and medial tissue",
+  "head_globe_iris_positions_unchanged": true,
+  "limits": [
+    "Check outer corners remain closed under native multiview lighting",
+    "A clean geometry audit is not a likeness pass"
+  ],
+  "visual_review": "Head/ocular contact integration retained after native four-angle, gray front/quarter, strict profile, eye closeup and directional-light review. Gaze more coordinated than112, no new conspicuous skin bulge, canthal spokes reduced. Head audit and retained contact/medial mesh checks pass; ray gaps positive. Isolated rebuild reproduces geometry, topology and vertex colors. Not a whole-character likeness pass; canthal tissue still simplified and lower lid/under-eye contour remain unlikeT22.",
+  "reviewed_at": "2026-10-15T03:41:35.717627+08:00"
+}

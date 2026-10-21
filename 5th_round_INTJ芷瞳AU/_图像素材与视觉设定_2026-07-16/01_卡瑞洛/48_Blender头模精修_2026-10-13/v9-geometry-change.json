@@ -1,0 +1,12 @@
+{
+  "side_plane_fit_x_from_y_z": [
+    0.2740694775504292,
+    0.21141686617287386,
+    54.946326574199546
+  ],
+  "affected_vertices": 140,
+  "max_displacement": 2.459999965526224,
+  "shape_key": "V9_mandible_side_plane",
+  "relative_key": "V8_cheek_and_jaw_planes",
+  "status": "candidate; local jaw-plane refinement only"
+}

@@ -1,0 +1,225 @@
+{
+  "base": "FB83_T22_only_raw_fit.blend",
+  "reference": "T22 ONLY",
+  "status": "not adopted",
+  "corrected_pins": [
+    {
+      "index": 0,
+      "old": [
+        365.0,
+        474.0
+      ],
+      "new": [
+        365,
+        471
+      ]
+    },
+    {
+      "index": 1,
+      "old": [
+        623.0,
+        460.0
+      ],
+      "new": [
+        627,
+        461
+      ]
+    },
+    {
+      "index": 2,
+      "old": [
+        443.0,
+        480.0
+      ],
+      "new": [
+        443,
+        480
+      ]
+    },
+    {
+      "index": 3,
+      "old": [
+        543.0,
+        474.0
+      ],
+      "new": [
+        540,
+        474
+      ]
+    },
+    {
+      "index": 4,
+      "old": [
+        398.0,
+        459.0
+      ],
+      "new": [
+        398,
+        459
+      ]
+    },
+    {
+      "index": 5,
+      "old": [
+        587.0,
+        451.0
+      ],
+      "new": [
+        587,
+        446.5
+      ]
+    },
+    {
+      "index": 6,
+      "old": [
+        403.0,
+        488.0
+      ],
+      "new": [
+        403,
+        484.5
+      ]
+    },
+    {
+      "index": 7,
+      "old": [
+        587.0,
+        480.0
+      ],
+      "new": [
+        587,
+        475.5
+      ]
+    }
+  ],
+  "added_pins": [
+    {
+      "index": 26,
+      "mesh_vertex": 4413,
+      "bound_at": [
+        383.45705419778824,
+        460.74392223358154
+      ],
+      "target": [
+        382.76465891301837,
+        462.1470739208155
+      ]
+    },
+    {
+      "index": 27,
+      "mesh_vertex": 4396,
+      "bound_at": [
+        426.2800326347351,
+        464.9788599014282
+      ],
+      "target": [
+        422.9231616020471,
+        466.28210773469806
+      ]
+    },
+    {
+      "index": 28,
+      "mesh_vertex": 4400,
+      "bound_at": [
+        386.58713686466217,
+        489.5840997695923
+      ],
+      "target": [
+        385.699985641392,
+        481.7281209616415
+      ]
+    },
+    {
+      "index": 29,
+      "mesh_vertex": 4369,
+      "bound_at": [
+        428.50777012109756,
+        486.5834460258484
+      ],
+      "target": [
+        425.01228769980935,
+        484.3312853833651
+      ]
+    },
+    {
+      "index": 30,
+      "mesh_vertex": 4360,
+      "bound_at": [
+        557.1892161369324,
+        458.47015047073364
+      ],
+      "target": [
+        559.631270482762,
+        452.7919108678134
+      ]
+    },
+    {
+      "index": 31,
+      "mesh_vertex": 4345,
+      "bound_at": [
+        599.3649204969406,
+        449.8875575065613
+      ],
+      "target": [
+        602.6041974168693,
+        448.52083948337383
+      ]
+    },
+    {
+      "index": 32,
+      "mesh_vertex": 4386,
+      "bound_at": [
+        558.2298259735107,
+        480.8313946723938
+      ],
+      "target": [
+        560.691550356039,
+        476.64610335706925
+      ]
+    },
+    {
+      "index": 33,
+      "mesh_vertex": 4368,
+      "bound_at": [
+        601.152845621109,
+        478.84718465805054
+      ],
+      "target": [
+        604.4259186397968,
+        469.3402805100762
+      ]
+    }
+  ],
+  "pin_count": 34,
+  "focal_fixed": true,
+  "old_new_blender_lens": [
+    50.0,
+    50.0
+  ],
+  "model_delta_quantiles": [
+    0.007069550713215233,
+    0.02349739646365606,
+    0.04099828553170251,
+    0.0789029364995863,
+    0.09006672351852506
+  ],
+  "old_new_camera_translation": [
+    [
+      0.5023500323295593,
+      -7.022776126861572,
+      1.420532464981079
+    ],
+    [
+      0.48139846324920654,
+      -6.851645469665527,
+      1.3854360580444336
+    ]
+  ],
+  "limits": [
+    "Manual eyelid contours are provisional, especially in dark eye",
+    "Low pin error does not validate identity or unseen depth",
+    "Needs coordinated transfer of all actual attachments before appearance review"
+  ],
+  "visual_review": "Official 34-pin refit completed after normal trial license validation; solved-pose and fixed-FB98-camera fronts reviewed. Still no clear identity gain.",
+  "reviewed_at": "2026-10-15T02:53:36.707336+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "baseline": "FB89",
+  "candidate": "FB93",
+  "ocular_mesh_hashes_unchanged": true,
+  "camera_unchanged": true,
+  "lights_unchanged": true,
+  "max_displacement_outside_eye_region": 0.0,
+  "max_head_displacement": 0.006727651922316164,
+  "changed_vertices_over_1e_4": 808,
+  "max_screen_shift": [
+    6.473064422607422e-05,
+    1.6021265983581543
+  ],
+  "likeness_approval": false
+}

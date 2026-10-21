@@ -1,0 +1,14 @@
+{
+  "base": "FB55",
+  "status": "unreviewed local geometry candidate",
+  "changes": [
+    "Lower-lip support key13 reduced1 to.25; central added projection reduced up to.006 scene units; artificial side recess reduced",
+    "Keep key15 lower-border projection and key19 seam shape unchanged",
+    "Upper lip, width, cupid bow, philtrum, chin unchanged"
+  ],
+  "rationale": "Three distinct reference-light renders show a central isolated lower-lip highlight and abrupt corners. Test reducing earlier support rather than adding new arbitrary grooves.",
+  "limits": [
+    "Inferred depth choice, not a scan measurement",
+    "Need matched material and gray plus profile inspection; reject flattened or rolled-in lip"
+  ]
+}

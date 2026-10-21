@@ -1,0 +1,30 @@
+{
+  "source": "Carrillo_FaceBuilder_FB89.blend",
+  "editable": "Carrillo_FB89_editable_working.blend",
+  "visible_geometry_hash": "d30e9370652f0ad7515554946849260ebb6c09386850e4a9d6c5019174daa172",
+  "organization_preserves_geometry": true,
+  "active_fit_cameras": 1,
+  "images": [
+    {
+      "name": "P14.png",
+      "packed": true
+    },
+    {
+      "name": "T22.png",
+      "packed": true
+    },
+    {
+      "name": "T22_bounded_chroma_study.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_chroma_confidence.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_high_frequency_skin_study.png.002",
+      "packed": true
+    }
+  ],
+  "likeness_pass": false
+}

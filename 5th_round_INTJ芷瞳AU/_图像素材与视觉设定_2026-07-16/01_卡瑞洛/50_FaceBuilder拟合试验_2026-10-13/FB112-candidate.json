@@ -1,0 +1,18 @@
+{
+  "base": "FB98",
+  "status": "provisional local working successor",
+  "parts": {
+    "FB107_A_nasal_base_height": 0.65,
+    "FB109_A_cheek_mandibular_depth_plane": 0.6,
+    "FB108_B_lip_vertex_domain_registration": 1.0
+  },
+  "eye_branch": "Retained FB98 eye assembly",
+  "max_added_head_delta": 0.013430213928222657,
+  "limits": [
+    "Verify component interaction under neutral, gray, both turns and profile",
+    "FB115 retains unresolved pointed canthi and local hollows; not approved just because gaze is more coordinated",
+    "Pigment registration is material correction, not geometry improvement"
+  ],
+  "visual_review": "FB98 plus .65 nasal-base lift, .60 mandibular-depth planes, registered lip pigment. Native front/two turns/near-side, gray front/quarter, strict profile and diagnostic light checked; numerical head audit passes; isolated reconstruction matches visible geometry. Eye issues remain. Not a likeness approval.",
+  "reviewed_at": "2026-10-15T02:53:36.707336+08:00"
+}

@@ -1,0 +1,51 @@
+{
+  "version": "FB89",
+  "timestamp": "2026-10-14T11:06:57.996096+08:00",
+  "base": "FB86",
+  "candidate_count": 5,
+  "reference": "T22 only",
+  "selected": "FB88_D",
+  "judgment_type": "visual same-condition comparison; no validated scalar identity metric",
+  "decisions": [
+    {
+      "id": "FB88_A",
+      "finding": "上唇厚度减轻，但下唇过薄，丢失参考里的体积。",
+      "decision": "不采用完整分支"
+    },
+    {
+      "id": "FB88_B",
+      "finding": "眼下凹陷增加，凝视没有明确改善。",
+      "decision": "退回"
+    },
+    {
+      "id": "FB88_C",
+      "finding": "较强的后移进一步加重眼周沟槽，转面也更生硬。",
+      "decision": "退回"
+    },
+    {
+      "id": "FB88_D",
+      "finding": "减弱上唇过厚、略嘟的轮廓；保留下唇原厚度。",
+      "decision": "本轮保留为 FB89"
+    },
+    {
+      "id": "FB88_E",
+      "finding": "增加下唇支撑后中央又显得突出，收益不如 D 清楚。",
+      "decision": "退回"
+    }
+  ],
+  "native_3d": true,
+  "whole_likeness_pass": false,
+  "limited_gain": "Upper-lip envelope less thick/high; lower lip preserved. Whole face improvement remains modest.",
+  "checks": [
+    "All candidates rendered with same camera/lights/materials, front and40degrees",
+    "Selected D copied with equal evaluated-geometry hash",
+    "Selected version inspected front/40/opposite/near-side, gray and strict orthographic profile",
+    "Geometry numerical audit only; no likeness approval"
+  ],
+  "outstanding": [
+    "Vacant/generic eyes and ocular integration",
+    "Brow/eye identity and nasal-wing shape",
+    "Mouth microstructure and cheek/jaw identity",
+    "Hair and skin realism"
+  ]
+}

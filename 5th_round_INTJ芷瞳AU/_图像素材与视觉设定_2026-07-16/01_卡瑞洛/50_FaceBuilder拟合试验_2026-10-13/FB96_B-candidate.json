@@ -1,0 +1,15 @@
+{
+  "base": "FB93",
+  "pose_strength": 0.0,
+  "contour_strength": 1.0,
+  "yaw_degrees": -0.0,
+  "max_displacement": 0.021758251065202912,
+  "status": "partly retained",
+  "limitations": [
+    "Lower-face pose inferred from single image; must inspect asymmetry and turn views",
+    "No P14 constraint; does not establish true hidden-side anatomy",
+    "Reject V-shaped chin, dislocated jaw, pinches or a loss of coherent cheek-jaw transition"
+  ],
+  "visual_review": "60% retained in FB98; contour modest only, gonial identity remains insufficient",
+  "reviewed_at": "2026-10-15T01:25:20.809579+08:00"
+}

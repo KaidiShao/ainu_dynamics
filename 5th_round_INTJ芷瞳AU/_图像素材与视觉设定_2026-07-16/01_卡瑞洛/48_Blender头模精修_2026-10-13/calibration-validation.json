@@ -1,0 +1,12 @@
+{
+  "errors": [],
+  "overlay": true,
+  "preserved_model": {
+    "meshes": 8,
+    "vertices": 1123949,
+    "head": 1,
+    "hair": 3
+  },
+  "default_view": "likeness-calibration",
+  "author_feedback": "V9 still unlike"
+}

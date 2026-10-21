@@ -1,0 +1,78 @@
+{
+  "base": "FB140_A",
+  "status": "superseded attachment diagnostic",
+  "head_eyes_contacts_brows_unchanged": true,
+  "upper_lashes_unchanged": true,
+  "moved_points": 85,
+  "max_advance": 0.00768619477165656,
+  "mean_advance": 0.0019114645091953277,
+  "first_changes": [
+    {
+      "curve": 302,
+      "point": 2,
+      "advance": 1.1897213891729711e-05
+    },
+    {
+      "curve": 302,
+      "point": 3,
+      "advance": 0.0008269923410185822
+    },
+    {
+      "curve": 303,
+      "point": 3,
+      "advance": 0.00116843597751116
+    },
+    {
+      "curve": 305,
+      "point": 2,
+      "advance": 0.00016674043388710058
+    },
+    {
+      "curve": 305,
+      "point": 3,
+      "advance": 0.0015526577741246197
+    },
+    {
+      "curve": 306,
+      "point": 2,
+      "advance": 0.00032288884661325424
+    },
+    {
+      "curve": 306,
+      "point": 3,
+      "advance": 0.0024974109883494446
+    },
+    {
+      "curve": 307,
+      "point": 2,
+      "advance": 0.0004010028335214113
+    },
+    {
+      "curve": 308,
+      "point": 2,
+      "advance": 0.0006116135501782563
+    },
+    {
+      "curve": 308,
+      "point": 3,
+      "advance": 0.000589824451825103
+    },
+    {
+      "curve": 309,
+      "point": 2,
+      "advance": 0.0007941021252063731
+    },
+    {
+      "curve": 309,
+      "point": 3,
+      "advance": 0.0015126852034311835
+    }
+  ],
+  "method": "Raycast true opaque skin; advance occluded lower-lash samples along their original camera ray to bounded clearance",
+  "limits": [
+    "Does not by itself establish natural lash curl or anatomical root direction",
+    "Inspect for skin-hugging ink-like fringe or exaggerated fan"
+  ],
+  "visual_review": "Actual opaque-skin ray clearance exposed some lower fibers, but native radius remained too faint; no identity improvement claimed.",
+  "reviewed_at": "2026-10-15T04:52:48.937512+08:00"
+}

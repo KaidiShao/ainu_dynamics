@@ -1,0 +1,29 @@
+{
+  "file": "Carrillo_FB77_editable_working.blend",
+  "enabled_addons": [
+    "io_anim_bvh",
+    "io_curve_svg",
+    "io_mesh_uv_layout",
+    "io_scene_fbx",
+    "io_scene_gltf2",
+    "cycles",
+    "pose_library",
+    "bl_pkg"
+  ],
+  "head_object": "Carrillo_FB02_Sculpt",
+  "vertices": 18024,
+  "finite": true,
+  "shape_keys": 19,
+  "visible_hair_curves": [
+    "Carrillo_FB63_Brows",
+    "Carrillo_FB75_ScalpGroom"
+  ],
+  "packed_file_images": 5,
+  "file_images": 5,
+  "evaluated_head_coordinates_sha256": "b4f3c8def346aebf8cfe50b61d245aae1400a9de7b36db5dfed83e63e77b2f17",
+  "limits": [
+    "Opening and editing existing ordinary Blender data does not invoke FaceBuilder fitting.",
+    "Running new FaceBuilder fitting still needs the plugin and its valid license.",
+    "This does not approve likeness."
+  ]
+}

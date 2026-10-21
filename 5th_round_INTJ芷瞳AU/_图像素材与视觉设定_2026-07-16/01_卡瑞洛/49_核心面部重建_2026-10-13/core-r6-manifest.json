@@ -1,0 +1,41 @@
+{
+  "version": "R6",
+  "status": "working candidate; not author-approved",
+  "stages": [
+    {
+      "name": "R6_01_zygomatic_mandibular_chin_relation",
+      "moved_vertices": 757,
+      "max_displacement": 2.9230317414814073,
+      "mean_among_moved": 0.39084500123496985
+    },
+    {
+      "name": "R6_02_orbital_roof_and_lid_wrap",
+      "moved_vertices": 505,
+      "max_displacement": 0.9887317419052124,
+      "mean_among_moved": 0.1765106767248121
+    },
+    {
+      "name": "R6_03_nasal_oral_continuity",
+      "moved_vertices": 638,
+      "max_displacement": 0.6400222778320312,
+      "mean_among_moved": 0.3058063026103571
+    }
+  ],
+  "finite": true,
+  "triangles_reversed_relative_to_R5": 0,
+  "edge_scale_range": [
+    0.8933080353517909,
+    1.1458188807980176
+  ],
+  "max_total_displacement": 2.9230317414814073,
+  "limits": [
+    "Geometry checks are not likeness verification",
+    "F03 projection contains photographic illumination",
+    "T22 and P14 are not calibrated stereo views",
+    "Hair is inherited and remains unapproved"
+  ],
+  "independent_review": "R6 相比 R5 是小幅整理，未见明显几何退化。颌下与下巴稍平顺，未明显变方变凶；颧下和下颌侧面变化较轻，整体圆滑感仍在。眼窝和眼睑改善不突出，反射变化更明显。鼻口连续、未见新增闭口异常。身份相似度没有明显突破。",
+  "author_approval": "待评价，未认可",
+  "material_change": "虹膜色素保持原样，仅降低表面粗糙度、恢复克制的较锐反射；发型、灯光和相机保持原样",
+  "comparison_url": "http://127.0.0.1:8849/sculpt-comparison.html"
+}

@@ -1,0 +1,54 @@
+{
+  "source": "Carrillo_FaceBuilder_FB112.blend",
+  "editable": "Carrillo_FB112_editable_working.blend",
+  "visible_geometry_hash": "de6ded65434d1dd8f1cfe596330db0194936389682be58159570b6c5cfaa226f",
+  "organization_preserves_geometry": true,
+  "active_fit_cameras": 1,
+  "images": [
+    {
+      "name": "P14.png",
+      "packed": true
+    },
+    {
+      "name": "T22.png",
+      "packed": true
+    },
+    {
+      "name": "T22_bounded_chroma_study.png.001",
+      "packed": true
+    },
+    {
+      "name": "T22_bounded_chroma_study.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_bounded_chroma_study.png.003",
+      "packed": true
+    },
+    {
+      "name": "T22_chroma_confidence.png.001",
+      "packed": true
+    },
+    {
+      "name": "T22_chroma_confidence.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_chroma_confidence.png.003",
+      "packed": true
+    },
+    {
+      "name": "T22_high_frequency_skin_study.png.001",
+      "packed": true
+    },
+    {
+      "name": "T22_high_frequency_skin_study.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_high_frequency_skin_study.png.003",
+      "packed": true
+    }
+  ],
+  "likeness_pass": false
+}

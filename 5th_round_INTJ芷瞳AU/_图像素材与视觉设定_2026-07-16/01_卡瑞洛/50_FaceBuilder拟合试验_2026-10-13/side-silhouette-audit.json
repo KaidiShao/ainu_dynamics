@@ -1,0 +1,209 @@
+{
+  "method": "Image gradient candidate edge and projected full mesh silhouette; candidates require visual check",
+  "rows": [
+    {
+      "y": 530,
+      "model": 735,
+      "reference_edge": 737,
+      "delta": -2
+    },
+    {
+      "y": 540,
+      "model": 737,
+      "reference_edge": 741,
+      "delta": -4
+    },
+    {
+      "y": 550,
+      "model": 740,
+      "reference_edge": 745,
+      "delta": -5
+    },
+    {
+      "y": 560,
+      "model": 745,
+      "reference_edge": 749,
+      "delta": -4
+    },
+    {
+      "y": 570,
+      "model": 750,
+      "reference_edge": 753,
+      "delta": -3
+    },
+    {
+      "y": 580,
+      "model": 754,
+      "reference_edge": 756,
+      "delta": -2
+    },
+    {
+      "y": 590,
+      "model": 759,
+      "reference_edge": 759,
+      "delta": 0
+    },
+    {
+      "y": 600,
+      "model": 763,
+      "reference_edge": 762,
+      "delta": 1
+    },
+    {
+      "y": 610,
+      "model": 768,
+      "reference_edge": 766,
+      "delta": 2
+    },
+    {
+      "y": 620,
+      "model": 772,
+      "reference_edge": 770,
+      "delta": 2
+    },
+    {
+      "y": 630,
+      "model": 775,
+      "reference_edge": 774,
+      "delta": 1
+    },
+    {
+      "y": 640,
+      "model": 776,
+      "reference_edge": 776,
+      "delta": 0
+    },
+    {
+      "y": 650,
+      "model": 774,
+      "reference_edge": 774,
+      "delta": 0
+    },
+    {
+      "y": 660,
+      "model": 766,
+      "reference_edge": 767,
+      "delta": -1
+    },
+    {
+      "y": 670,
+      "model": 735,
+      "reference_edge": 721,
+      "delta": 14
+    },
+    {
+      "y": 680,
+      "model": 719,
+      "reference_edge": 717,
+      "delta": 2
+    },
+    {
+      "y": 690,
+      "model": 716,
+      "reference_edge": 714,
+      "delta": 2
+    },
+    {
+      "y": 700,
+      "model": 715,
+      "reference_edge": 712,
+      "delta": 3
+    },
+    {
+      "y": 710,
+      "model": 717,
+      "reference_edge": 714,
+      "delta": 3
+    },
+    {
+      "y": 720,
+      "model": 714,
+      "reference_edge": 712,
+      "delta": 2
+    },
+    {
+      "y": 730,
+      "model": 705,
+      "reference_edge": 705,
+      "delta": 0
+    },
+    {
+      "y": 740,
+      "model": 695,
+      "reference_edge": 692,
+      "delta": 3
+    },
+    {
+      "y": 750,
+      "model": 697,
+      "reference_edge": 694,
+      "delta": 3
+    },
+    {
+      "y": 760,
+      "model": 696,
+      "reference_edge": 693,
+      "delta": 3
+    },
+    {
+      "y": 770,
+      "model": 691,
+      "reference_edge": 679,
+      "delta": 12
+    },
+    {
+      "y": 780,
+      "model": 676,
+      "reference_edge": 666,
+      "delta": 10
+    },
+    {
+      "y": 790,
+      "model": 667,
+      "reference_edge": 660,
+      "delta": 7
+    },
+    {
+      "y": 800,
+      "model": 663,
+      "reference_edge": 659,
+      "delta": 4
+    },
+    {
+      "y": 810,
+      "model": 662,
+      "reference_edge": 660,
+      "delta": 2
+    },
+    {
+      "y": 820,
+      "model": 660,
+      "reference_edge": 661,
+      "delta": -1
+    },
+    {
+      "y": 830,
+      "model": 657,
+      "reference_edge": 659,
+      "delta": -2
+    },
+    {
+      "y": 840,
+      "model": 652,
+      "reference_edge": 656,
+      "delta": -4
+    },
+    {
+      "y": 850,
+      "model": 644,
+      "reference_edge": 651,
+      "delta": -7
+    },
+    {
+      "y": 860,
+      "model": 631,
+      "reference_edge": 640,
+      "delta": -9
+    }
+  ]
+}

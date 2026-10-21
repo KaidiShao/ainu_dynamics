@@ -1,0 +1,47 @@
+{
+  "created": "2026-10-10",
+  "tool": "built-in image_gen",
+  "model_version": "not returned by tool",
+  "record": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/30_正侧校准后三分之四_2026-10-10/00_T10三分之四_对照与完整提示词.md",
+  "request_context": "作者认为当前卡瑞洛已经很帅，询问是否需要3/4侧脸；同意以改好的柔光正面为主、短发侧脸为辅生成有方向柔光下的审视状态。",
+  "author_authorization": "好",
+  "original_images_preserved": true,
+  "assets": [
+    {
+      "asset_id": "MC_ANGLE_T10",
+      "file": "MC_ANGLE_T10_浅蓝灰短发_正侧校准后三分之四_v10.png",
+      "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-93f32d6c-defe-41ee-a85f-8c40eb50b15f.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/30_正侧校准后三分之四_2026-10-10/MC_ANGLE_T10_浅蓝灰短发_正侧校准后三分之四_v10.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2052982,
+      "sha256": "28A79A6E5F3B588A82651AA1F2310545F763545612D9F1706AB118E54CE56555",
+      "copy_verified": true,
+      "front_sha256": "85DD3796B705BCC0B4ED8074D8095757143E2861E1A784C31C606C00DD950F31",
+      "profile_sha256": "9806117B7EE4ED7B8B180FCF21FA5D355548EE779744267928739BB1923110D6",
+      "inputs": [
+        {
+          "path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/28_认可正面下巴轻校准_2026-10-09/MC_FRONT_F03_浅蓝灰柔光_下巴凹痕轻校准_v1.png",
+          "asset_id": "MC_FRONT_F03_CHIN_V1",
+          "role": "primary_face_identity",
+          "sha256": "85DD3796B705BCC0B4ED8074D8095757143E2861E1A784C31C606C00DD950F31"
+        },
+        {
+          "path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/29_正侧下巴衔接统一_2026-10-10/MC_ANGLE_P14_浅蓝灰原侧光_唇颏过渡轻统一_v14.png",
+          "asset_id": "MC_ANGLE_P14_CHIN",
+          "role": "supporting_profile_depth_chin_and_short_hair",
+          "sha256": "9806117B7EE4ED7B8B180FCF21FA5D355548EE779744267928739BB1923110D6"
+        }
+      ],
+      "method": "identity_preserving_new_camera_angle",
+      "status": "AUTHOR_LIKENESS_CONCERN / PROCESS_ONLY / NOT_IDENTITY_ANCHOR",
+      "qa": "两眼可见，远侧眼睛与脸颊收窄，属于转角偏浅的三分之四候选；不能据成图宣称精确45度。眉眼、鼻唇关系与年轻成年面孔大体延续正面，短发轮廓参考侧面。下巴表面较连续，未见明显深中央凹痕或独立分块凸起。浅蓝灰眼睛与方向性柔光保留；目光略向画外右上方，气质偏收敛，具体审视感与人物贴合度等待作者评价。生成有皮肤纹理重绘，不能视为同一三维模型的严格转面。",
+      "prompt": "Use case: identity-preserve.\nAsset type: a photorealistic three-quarter-view portrait for the established fictional adult character Carrillo.\n\nCreate ONE new camera angle of the SAME MAN shown in the two references. Image 1, the refined softly lit frontal portrait, is the PRIMARY facial identity reference: preserve his facial proportions, youthful adult age, eye spacing, brow and eye shape, nose, lips, cheekbones, jaw width and subtly angular chin. Image 2 is a SUPPORTING profile reference for facial depth, nose-lip-chin balance, short haircut, and the continuous transition from the natural hollow below the lower lip to the chin. These references depict one character; do not blend them into a different person.\n\nCAMERA AND POSE:\nA clear THREE-QUARTER view, halfway between the frontal and right-facing profile references, roughly 45 degrees of yaw towards the viewer's right. Both eyes must be visible; the farther eye and cheek are distinctly foreshortened. The far eye remains readable beside the bridge of the nose. This must be a substantial turn from Image 1, not a nearly frontal face with a slight tilt, and not a full profile. Eye-level camera, natural portrait perspective without wide-angle distortion. Head upright and naturally supported by the neck, shoulders at ease with stable posture. Gaze directed toward an unseen person just off-camera to the right, not back into the lens. Vertical 3:4 head-and-upper-chest framing, natural head-to-shoulder scale.\n\nFACE AND EXPRESSION:\nRetain the refined chin: a continuous subtly angular surface, natural shallow labiomental hollow, understated projection, no deep central cleft or separate block-like chin pad. Preserve adult jaw definition, without widening, narrowing, elongating or recessing the lower face. Lips naturally at rest without pursing or forward pushing.\nA composed, guarded, quietly assessing expression. Steady attention with a small amount of tension around the eyes, restrained mouth response and relaxed forehead. His intentions remain unreadable. Keep the subdued, inward mood of the references; no theatrical anger, glower, flirtation, innocent open-eyed softness or added age lines.\n\nAPPEARANCE AND LIGHT:\nUse the practical short dark wavy haircut from Image 2, restrained volume at the back and trimmed around the ear and nape. Muted pale gray-blue irises: gray-dominant, natural dark rim and small reflections, no saturated cyan or luminous white eyes.\nSoft DIRECTIONAL daylight from one side, with gentle fill: readable facial planes and skin texture, a discernible shaded eye socket, cheek and under-jaw, moderate contrast. Avoid flat beauty lighting and harsh black patches on skin. Preserve the natural complexion, subtle imperfections, dark textured jacket and black shirt, and subdued dark architectural interior of the references. No extra objects, jewelry, text, collage or watermark. One believable color photograph of this specific man.",
+      "author_feedback": "感觉不太像",
+      "next_step": "以认可正面重新生成，不使用T10作为下一轮底图。"
+    }
+  ],
+  "reviewed": "2026-10-10",
+  "author_feedback": "感觉不太像"
+}
+

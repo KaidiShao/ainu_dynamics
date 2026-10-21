@@ -1,0 +1,19 @@
+{
+  "base": "FB128_A",
+  "status": "not adopted pending evidence",
+  "crease_recession": 0.01,
+  "tarsal_roll_advance": 0.004,
+  "head_displacement_range": [
+    -0.002337888343655955,
+    0.009974511746278232
+  ],
+  "eyelid_opening_and_globes_fixed": true,
+  "attachments": "Brow and lash positions follow local deformation field",
+  "limits": [
+    "Superior lid fold is inferred from singleT22 image",
+    "Reject swollen lids or painted-looking grooves",
+    "Must inspect neutral and changed-light geometry"
+  ],
+  "visual_review": "Small upper-lid roll/sulcus change passes head numerical audit; neutral closeup shows weak benefit. Directional render available.",
+  "reviewed_at": "2026-10-15T03:25:50.022515+08:00"
+}

@@ -1,0 +1,26 @@
+{
+  "errors": [],
+  "stats": {
+    "meshes": 8,
+    "vertices": 1123949,
+    "head": 1,
+    "hair": 3
+  },
+  "neutral": true,
+  "reference": {
+    "ok": true,
+    "width": 1086
+  },
+  "comparison": [
+    {
+      "src": "/renders/refined-v7-front.png",
+      "width": 760
+    },
+    {
+      "src": "/renders/refined-v9-front.png",
+      "width": 760
+    }
+  ],
+  "url": "http://127.0.0.1:8848/",
+  "version": "v9"
+}

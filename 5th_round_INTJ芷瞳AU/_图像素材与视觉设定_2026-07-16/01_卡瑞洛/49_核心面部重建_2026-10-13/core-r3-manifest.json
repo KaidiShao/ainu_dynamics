@@ -1,0 +1,22 @@
+{
+  "status": "rendered candidate, pending visual review",
+  "new_core_vertex_count": 1689,
+  "mean_core_displacement": 3.957996003646156,
+  "max_displacement": 40.60601873949663,
+  "eyes": [
+    [
+      -31.44174,
+      7.0,
+      1.4
+    ],
+    [
+      31.44174,
+      7.0,
+      1.4
+    ]
+  ],
+  "eye_radius": 11.7,
+  "geometry_finite": true,
+  "preserved": "Peripheral skull/scalp/hair/neck only. Rebuilt central geometry, eyelid-eye relationship and camera pose.",
+  "projection_warning": "projection-diagnostic has baked T22 shading; not proof of geometric likeness"
+}

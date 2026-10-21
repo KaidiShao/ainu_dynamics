@@ -1,0 +1,530 @@
+{
+  "reviewed_at": "2026-10-14T09:59:29.411403+08:00",
+  "overall_status": "in_progress_not_approved",
+  "iterations": [
+    {
+      "id": "FB01",
+      "decision": "retain as fitting base",
+      "finding": "26 frontal and 12 P14 pins; stable coherent topology, but generic smooth features"
+    },
+    {
+      "id": "FB01_texture",
+      "decision": "diagnostic only",
+      "finding": "Official two-view texture bake succeeded. Baked shadows, double-looking eye features and painted scalp are unsuitable for final appearance"
+    },
+    {
+      "id": "FB02",
+      "decision": "retain small geometry refinements",
+      "finding": "Thinned lower rim, slight bridge support, cupid/lower lip changes and submalar volume; original FB preserved hidden; all corrections reversible"
+    },
+    {
+      "id": "FB03",
+      "decision": "appearance experiment only",
+      "finding": "Pale grey blue iris and brow registration useful; flat iris looks artificial; hard lip material boundary rejected"
+    },
+    {
+      "id": "FB04",
+      "decision": "hair rejected; retain continuous lip color idea",
+      "finding": "7480 native fibers but visible solid scalp cap and sparse fringe; independent of facial geometry"
+    },
+    {
+      "id": "FB05",
+      "decision": "hair still rejected",
+      "finding": "26600 fibers fill gaps but remain helmet-like, with straight/scraggly fringe rather than T22 curl volume"
+    },
+    {
+      "id": "FB06",
+      "decision": "retain measured contour corrections with subsequent groove attenuation",
+      "finding": "P14 candidate-edge mean abs error: nasal rows 530–660 from 1.93 to 0.79 px; labiomental rows 770–800 from 8.25 to 2.75 px; chin lower rows 830–860 from 5.50 to 1.75 px. These are local contour checks, not a likeness score. Independent review: small visual change, lip groove risks too concentrated"
+    },
+    {
+      "id": "FB07",
+      "decision": "current working geometry, not final",
+      "finding": "Removed earlier added upper rim protrusion, tapered outer upper lid, modest cupid bow refinement, reduced groove key to 0.88. Native renders inspected; still generic orbital/lip anatomy. Numeric audit: no nonfinite coordinates, collapsed edges, degenerate or inverted triangles. Viewer tested: one mesh, 18097 exported vertices (UV seams), no JS errors"
+    },
+    {
+      "id": "FB08",
+      "decision": "corneal shell rejected",
+      "finding": "Separate anterior eye surfaces and full-aperture glass shell tested. Huge catchlight and bright lower boundary; facial geometry unchanged."
+    },
+    {
+      "id": "FB09",
+      "decision": "retain as shading/brow study only",
+      "finding": "Removed corneal shell, lightened iris, re-groomed brows. Oversized catchlight removed, but bright eye-mask boundary persisted; still artificial."
+    },
+    {
+      "id": "FB10",
+      "decision": "retain subtle geometry changes, not a likeness pass",
+      "finding": "Based on independent review, broad upper-lid recess with 796 eye vertices locked; maximum movement 0.00996 unit. Reduced cupid key from 1 to 0.40 and recessed lip peaks at most 0.00547. Rendered differences modest; tubular eyelid issue not fully resolved."
+    },
+    {
+      "id": "FB11",
+      "decision": "current working base",
+      "finding": "Recolored eye patch boundary from sclera to tissue with a smooth transition. White strip visibly reduced in FB12+ closeups. FB10 geometry retained. Eye surface is still only a fitted anterior patch."
+    },
+    {
+      "id": "FB12",
+      "decision": "standalone hair rejected",
+      "finding": "28,770 native fibers, coherent S-wave volume but too rope-like and wet, aligned hanging tips."
+    },
+    {
+      "id": "FB13",
+      "decision": "hair not approved",
+      "finding": "36,210 finer and dispersed fibers; wet rope effect reduced, but overall flattened cap and silhouette still unlike T22."
+    },
+    {
+      "id": "FB14",
+      "decision": "hair not approved",
+      "finding": "Sparse lifted FB12 wave layer over FB13. Minor surface improvement, but main silhouette remains too compact and generic. Do not call it a faithful T22 groom."
+    },
+    {
+      "id": "FB15",
+      "decision": "oversized iris rejected",
+      "finding": "Full globe, recessed iris and central cornea built. The assumed iris/globe ratio produced a visibly oversized iris; replaced in FB16 after measurement."
+    },
+    {
+      "id": "FB16",
+      "decision": "retain full-globe geometry as a further work base, appearance not approved",
+      "finding": "Physical iris diameter calibrated to camera pixels; corneal rise reduced. Three views and closeup inspected. Independent review sees no obvious large penetration or severe iris misalignment, but lid contact is too thin and sclera too uniformly bright. Do not shrink aperture merely to hide shader issues."
+    },
+    {
+      "id": "FB17",
+      "decision": "small material study retained for comparison",
+      "finding": "Masked bounded high-frequency T22 skin study. Geometry unchanged. Too weak visually; not recovered albedo/height."
+    },
+    {
+      "id": "FB17b",
+      "decision": "strong skin detail rejected",
+      "finding": "Increased high-frequency bump caused scaly/swirl-like cheek and chin patches. Do not use as final."
+    },
+    {
+      "id": "FB17c",
+      "decision": "attenuated material study retained",
+      "finding": "Reduced FB17b bump to strength .18 distance .004 and color modulation .25. Much subtler; no claim of scanned or recovered skin. Neutral and opposite-light tests saved."
+    },
+    {
+      "id": "FB18",
+      "decision": "retain contact geometry",
+      "finding": "Measured actual rim-to-globe gaps in FB16 and added separate five-layer inner eyelid surfaces without moving facial aperture or eyes. No obvious new crack/penetration in renders; independent review retains."
+    },
+    {
+      "id": "FB19",
+      "decision": "retain short lashes",
+      "finding": "352 native short lash curves; independent review sees no new major defect. Slight dark accumulation at image-right outer corner is a minor remaining issue."
+    },
+    {
+      "id": "FB20",
+      "decision": "integrated working study, not final",
+      "finding": "Integrated FB19 complete eyes/contact/lashes with FB17c masked skin study and FB14 hair. Facial coordinates unchanged."
+    },
+    {
+      "id": "FB21",
+      "decision": "broader brows retained for further review",
+      "finding": "Broader, less regular brows with finer fibers following visible T22 brow body. Full neutral/side/quarter and eye crop rendered. More appropriate weight but still not a likeness pass."
+    },
+    {
+      "id": "FB22",
+      "decision": "retain iris size correction",
+      "finding": "Same-scale T22 comparison and independent FB25 review support slightly larger iris. Not visibly oversized or asymmetric. Globe centers/radii and aperture preserved."
+    },
+    {
+      "id": "FB23",
+      "decision": "full strength orbital edit rejected",
+      "finding": "New hood buried old brow fibers and lower lid became a uniform raised bag. Not suitable as a final or current working version."
+    },
+    {
+      "id": "FB24",
+      "decision": "groom rejected",
+      "finding": "Several front guide locks lay inside the scalp because the approximate depth shell was inadequate; visible cap edge and misplaced thick locks."
+    },
+    {
+      "id": "FB25",
+      "decision": "retain as working geometry after independent review",
+      "finding": "Reduced orbital key to .55; refit actual brow fibers to changed skin. Eye support and lip transition can be kept, but outer lower-lid bulge still slightly bag-like. No evidence for further nose reshaping."
+    },
+    {
+      "id": "FB26",
+      "decision": "groom remains unapproved",
+      "finding": "Enforced front locks outside actual scalp and restored undercoat. Penetration improved, but broad ribbon-like fringe and overall silhouette still differ from T22."
+    },
+    {
+      "id": "FB27",
+      "decision": "current working geometry, not final likeness",
+      "finding": "Locally tapered outer lower-lid support while preserving upper hood, aperture and corrected iris. Neutral/gray/profile/quarter, eye crop and hard side-light rendered. Numeric audit has no nonfinite/degenerate/collapsed/inverted elements; not proof of likeness."
+    },
+    {
+      "id": "FB28",
+      "decision": "retain actual hair representation; highlight adjustment required",
+      "finding": "Converted retained FB14 groom centerlines/radii from beveled CURVE surfaces to actual CURVES hair primitives and Principled Hair material. Independent review sees no new large gaps, but silver/orange highlights too strong and groom still flat."
+    },
+    {
+      "id": "FB28b",
+      "decision": "current native hair representation study, groom not approved",
+      "finding": "Darker, less reddish, rougher physical hair response after FB28 review. Strand centerlines and facial geometry unchanged. Hair massing and grouping remain unresolved. Front/profile/quarter inspected. Frontal glare reduced, but glancing side/crown sheen remains. Not a final groom."
+    },
+    {
+      "id": "FB29",
+      "decision": "not adopted; material experiment too waxy",
+      "finding": "Bounded reference chromaticity removes low-frequency luminance. Color variation improves, but lowered roughness/increased SSS creates shiny nose stripe and under-eye patches across light directions."
+    },
+    {
+      "id": "FB30",
+      "decision": "retain as minor iris-material improvement",
+      "finding": "Grey-blue radial fibers and scleral corner color. Eye locations and face unchanged; independent review sees no new geometry defect. Still synthetic."
+    },
+    {
+      "id": "FB31",
+      "decision": "rejected: visible globe penetration",
+      "finding": "Optical axes diverged 35.77 degrees in previous sphere approximation. Moving globe centers to aim at camera while holding iris image centers caused visible sclera penetration through lower lids. Native rendered evidence saved. Do not adopt or mask with inner walls."
+    },
+    {
+      "id": "FB32",
+      "decision": "retain as material working base, not likeness pass",
+      "finding": "Reduce FB29 chroma blend to 40%, warmth35%, restore former specular/SSS baseline and soften roughness differences. Independent three-light-direction review prefers this over FB29."
+    },
+    {
+      "id": "FB33",
+      "decision": "rejected as hairstyle",
+      "finding": "Converting FB26 guided locks to actual hair primitives did not fix heavy broad swept fringe; restored face is unchanged."
+    },
+    {
+      "id": "FB33b",
+      "decision": "not adopted; broad fringe persists",
+      "finding": "Three views show thinner yet broad swept fringe, cap-like upper groom and wrong T22 grouping. Keep FB28b groom as rollback."
+    },
+    {
+      "id": "FB34",
+      "decision": "not adopted as default eye",
+      "finding": "Independent reviewer confirms unequal large left corneal reflection and matte right eye. No obvious closeup penetration, but no side pass. Geometry remains diagnostic only."
+    },
+    {
+      "id": "FB35",
+      "decision": "retain as current working geometry, not likeness pass",
+      "finding": "Independent material/gray closeups and three-view review find slightly fuller central lower lip, no new protruding mouth, hard groove or chin discontinuity. Numeric mesh audit passes finite/nondegenerate/noninverted checks."
+    },
+    {
+      "id": "FB35b",
+      "decision": "reject periodic striae",
+      "finding": "Subtle vermilion pigment test plus periodic procedural lines. Closeups reveal an artificial mechanically ribbed pattern. Do not adopt."
+    },
+    {
+      "id": "FB35c",
+      "decision": "texture study only; not current default",
+      "finding": "Replace periodic lip lines with bounded high-frequency reference detail. Neutral and reversed-light native renders saved; very subtle difference, no geometry correction."
+    },
+    {
+      "id": "FB36",
+      "decision": "not adopted",
+      "finding": "Outer taper too subtle; fold produces a regular bright strip. Keep FB35 upper lid."
+    },
+    {
+      "id": "FB37",
+      "decision": "coordinate experiment only, not default",
+      "finding": "Right iris center raised2.5px, supported by center estimate but increases inferior scleral show. Independent review does not retain overall coverage."
+    },
+    {
+      "id": "FB38",
+      "decision": "retain small lower-lid correction for next integrated base",
+      "finding": "Right central lower lid up2px, innerwalls/lashes rebuilt. Independent closeup plus three-view review finds reduced inferior scleral show without obvious new defect; not a final eye pass."
+    },
+    {
+      "id": "FB39",
+      "decision": "retain hair primitive approach, restore central density before adopting",
+      "finding": "65%fiber count,85%radius too thin forT22 despite more natural edges. Need selective core density, not all-black broad bars."
+    },
+    {
+      "id": "FB40",
+      "decision": "reject material experiment",
+      "finding": "Bounded inverse-lighting/chroma test leaves red/orange patches under reversed illumination. Do not change geometry to compensate."
+    },
+    {
+      "id": "FB41",
+      "decision": "retained in FB45",
+      "finding": "Independent gray/material before-after plus threeview review retained small asymmetric lip-seam correction. No further amplification."
+    },
+    {
+      "id": "FB42",
+      "decision": "diagnostic material only, not adopted",
+      "finding": "Physical Glass cornea and scleral tear film produce little improvement. Existing cap visible in false-color/chrome diagnostics; lightpath settings valid. Main problem not a hidden cornea flag."
+    },
+    {
+      "id": "FB43",
+      "decision": "rejected groom",
+      "finding": "Actual scalp-rooted surface guides form thick rope bundles. No adoption."
+    },
+    {
+      "id": "FB44",
+      "decision": "retained material in FB49",
+      "finding": "Neutral/reversed-light review finds better lower vermilion pigment domain; not geometry or recovered physical albedo."
+    },
+    {
+      "id": "FB45",
+      "decision": "retained geometry baseline, not likeness approval",
+      "finding": "Integrates FB38 lower-lid and FB41 lip-seam. Threeview neutral and clay rendered. 18024 vertices, no nonfinite/degenerate/collapsed/inverted elements. Actual clay GLB exported."
+    },
+    {
+      "id": "FB46",
+      "decision": "rejected groom",
+      "finding": "Thin curtain across forehead and tube-like curled front silhouette; wrong distribution."
+    },
+    {
+      "id": "FB46b",
+      "decision": "unrendered exploratory file, not adopted",
+      "finding": "Reduced frontal undercoat to15%; intermediate-density guides. Superseded by46c test."
+    },
+    {
+      "id": "FB46c",
+      "decision": "rejected groom",
+      "finding": "Root adjustment does not fix silhouette; exposes scalloped hard cap and sparse floating fringe. Three views archived."
+    },
+    {
+      "id": "FB47",
+      "decision": "rejected lashes",
+      "finding": "Longer thicker evenly spaced lashes look comb-like."
+    },
+    {
+      "id": "FB47b",
+      "decision": "retained in FB55",
+      "finding": "Independent review finds grouped short lashes less comb-like, closer to visible T22 eyelid edge; some lower fibers still straight."
+    },
+    {
+      "id": "FB48",
+      "decision": "retained brow candidate in FB49",
+      "finding": "Independent closeup review retained native hair fibers with restored inner/middle density. Inner end still abrupt."
+    },
+    {
+      "id": "FB49",
+      "decision": "current working integration, not final likeness",
+      "finding": "FB45 structure + FB44 pigment + FB48 brows. Neutral threeview and directional native renders reviewed by main agent; no major integration regression. Still generic CG, flat eye shading, wrong groom."
+    },
+    {
+      "id": "FB50",
+      "decision": "not retained",
+      "finding": "Scalp-rooted longer guides remove cap mesh but reveal root gaps and excessive smooth side-combed direction. Not T22 groom."
+    },
+    {
+      "id": "FB51",
+      "decision": "direction retained, inner edge replaced by51b",
+      "finding": "Wider root domain matches T22 brow body better but clipped dark inner end adds frowning impression."
+    },
+    {
+      "id": "FB51b",
+      "decision": "retained in FB55",
+      "finding": "Feathered inner-root domain and density; independently reviewed as closer without added anger."
+    },
+    {
+      "id": "FB52",
+      "decision": "not adopted",
+      "finding": "Upper-lid down1.8/2.2px flattens arc and moves toward half-open/tired. Reference is not squinted. Keep FB49 aperture."
+    },
+    {
+      "id": "FB53",
+      "decision": "retained ocular surface in FB55 with unresolved reflection imbalance",
+      "finding": "Physical spherical cornea and thin tear meniscus; common actual source gives glints in both eyes, no obvious profile penetration. Large left glint and uniform sclera still wrong. Diagnostic source NOT integrated."
+    },
+    {
+      "id": "FB54",
+      "decision": "not adopted",
+      "finding": "Native medial triangular tissue too abrupt/dark at inner left corner, negligible benefit on right. Keep as failed anatomy study."
+    },
+    {
+      "id": "FB55",
+      "decision": "current retained working integration, not final likeness",
+      "finding": "FB45 head plus51b brows,47b lashes,53 corneal surface and meniscus. Three neutral views and eye closeup inspected; independent reviewer retains baseline. Still generic CG."
+    },
+    {
+      "id": "FB56",
+      "decision": "not retained; all new keys off",
+      "finding": "Lower fold creates broad tired bags; alar crease has little benefit; isolated philtrum whole-face59 did not establish stable improvement."
+    },
+    {
+      "id": "FB57",
+      "decision": "groom candidate, not approved",
+      "finding": "Denser native root undercoat, greater wave amplitude/volume closes gaps; still overly uniform side-combed mass, not T22 locks."
+    },
+    {
+      "id": "FB58",
+      "decision": "not retained",
+      "finding": "Independent paired neutral/reverse light review finds no stable reduction in waxiness; nasal highlight more continuous. Keep FB55 material."
+    },
+    {
+      "id": "FB59",
+      "decision": "not retained",
+      "finding": "Three views show no severe new failure but no convincing identity benefit. Keep FB45 geometry."
+    },
+    {
+      "id": "FB60",
+      "decision": "not retained",
+      "finding": "Scalp volume varies more, but forehead strands have conspicuous corners/horizontal fragments and whole mass remains side-combed. Independent reviewer rejects default."
+    },
+    {
+      "id": "FB61",
+      "decision": "rejected",
+      "finding": "Joint globe/rim depth improves strict side wrap but creates heavy inner corners and lower creasing in front and oblique views."
+    },
+    {
+      "id": "FB62",
+      "decision": "retained working groom",
+      "finding": "Smooth guide normals remove angular fringe and cap gaps; curl flow still does not match T22."
+    },
+    {
+      "id": "FB63",
+      "decision": "retained",
+      "finding": "Shorter tapered brow tails preserve broad body and feathering."
+    },
+    {
+      "id": "FB64",
+      "decision": "retained",
+      "finding": "Reduced scleral brightness under two real light rigs; no further darkening intended."
+    },
+    {
+      "id": "FB65",
+      "decision": "retained geometry",
+      "finding": "Lower lip support key13 reduced1 to.25 after matched material,gray,front,oblique comparison."
+    },
+    {
+      "id": "FB66",
+      "decision": "not adopted",
+      "finding": "Closed optical volume does not materially improve identity. Keep spherical cap53."
+    },
+    {
+      "id": "FB67",
+      "decision": "retained earlier integration; superseded by77",
+      "finding": "Eye/lid and mouth baseline retained; current77 adds small local lip-underside recession."
+    },
+    {
+      "id": "FB68",
+      "decision": "rejected",
+      "finding": "Upper support negligible; lower support introduces uniform bright rim tube. All candidate keys remainoff."
+    },
+    {
+      "id": "FB69",
+      "decision": "retained appearance; superseded by75 groom",
+      "finding": "Full neutral three views checked; same67 geometry plus lip-only micro normals."
+    },
+    {
+      "id": "FB70",
+      "decision": "rejected",
+      "finding": "Isolated long forehead curls cross the eye region; large curls need whole-scalp organization."
+    },
+    {
+      "id": "FB71",
+      "decision": "rejected",
+      "finding": "Reference-derived iris pigment is overly blurred/dark; tiny source annulus insufficient."
+    },
+    {
+      "id": "FB72",
+      "decision": "rejected",
+      "finding": "Key06 .55 to.25 does not reduce the dark lip underside. Gray/material three angles confirm no useful benefit."
+    },
+    {
+      "id": "FB73",
+      "decision": "not adopted",
+      "finding": "Irregular radial pigment reduces spokes but darkens inner iris and loses detail. Keep69 iris."
+    },
+    {
+      "id": "FB74",
+      "decision": "rejected baseline; useful guide organization trial",
+      "finding": "Larger whole-head curls improve distribution but introduce scalp gaps and oily parallel bands."
+    },
+    {
+      "id": "FB75",
+      "decision": "retained groom; current77 appearance basis",
+      "finding": "Medium native curl grouping retained after independent three-view review. Still side-combed with parallel highlight bands."
+    },
+    {
+      "id": "FB76",
+      "decision": "rejected",
+      "finding": "Wider orbital propagation repeats thick dark inner canthi/fatigue and buries brow tails. Not promoted."
+    },
+    {
+      "id": "FB77",
+      "decision": "retained working integration; not likeness approved",
+      "finding": "Independent whole-model nine-view review found no new lip damage. Eye integration, nasal subvolumes, mouth regularity and groom still insufficient."
+    },
+    {
+      "id": "FB78",
+      "decision": "rejected",
+      "finding": "Forward-biased crown creates crossed/frayed top guides and new lateral gaps; retain75 grooming."
+    },
+    {
+      "id": "FB79",
+      "decision": "rejected",
+      "finding": "Independent18-image review: tiny alar convexity change does not establish independent alar volume or improve slit-shaped aperture. No sufficient benefit."
+    },
+    {
+      "id": "FB80",
+      "decision": "rejected",
+      "finding": "Projected mask also selected exterior nasal surface, creating pinched outer dents despite numeric no-inversion check. Demonstrates numeric audit is insufficient."
+    },
+    {
+      "id": "FB81",
+      "decision": "rejected",
+      "finding": "Independent18-view review: corrected selection avoids80 dents but no meaningful aperture improvement; full amount introduces slightly peaked upper slit. Stop isolated inner-depth route."
+    },
+    {
+      "id": "FB82",
+      "decision": "retained latest working copy; overall likeness not approved",
+      "finding": "Independent original3/opposite2 review retains reduced scalp gap; no new frontal fringe or cap silhouette. Small sparse whorl and organized broad clumps remain. Face geometry exactly77."
+    },
+    {
+      "id": "FB83",
+      "decision": "retained as new T22-only base",
+      "finding": "Official refit has one active view,26 T22 pins; P14 removed. Three earlier profile keys disabled. Whole likeness still insufficient."
+    },
+    {
+      "id": "FB84",
+      "decision": "half-strength orbital roof retained as working branch; likeness not approved",
+      "finding": "Full strength slightly frowns in gray; reduced to0.5 with brows following. Neutral four-angle and gray review. Eyes/nose/mouth/jaw identity remain unresolved."
+    },
+    {
+      "id": "FB85_L2",
+      "decision": "retained",
+      "finding": "Lower lid2px coverage modestly reduces exposed sclera;4px becomes flat/pressed and was rejected."
+    },
+    {
+      "id": "FB85_L4",
+      "decision": "rejected",
+      "finding": "Lower edge too flat/pressed"
+    },
+    {
+      "id": "FB86",
+      "decision": "retained working revision only",
+      "finding": "Central narrow dorsum and supra-alar/alar transition modified in actual geometry. Modest separation improvement; nostril/alar identity still insufficient."
+    },
+    {
+      "id": "FB87",
+      "decision": "rejected",
+      "finding": "Upper skin crease experiment FB87 had no clear likeness benefit and was not merged."
+    }
+  ],
+  "independent_review": {
+    "agent": "/root/review_overnight_integrated",
+    "latest_reviewed": "82 retained only as working integration; whole likeness still fails",
+    "findings": [
+      "77 no new lip surface damage",
+      "Lid/globe interface remains simplified and gaze unnatural",
+      "Nose alar/tip/wall volumes lack separation",
+      "Lip shape overly regular, central lower pad too isolated",
+      "Groom still organized in parallel groups unlike reference",
+      "No reliable broad facial deformation justified by current images"
+    ]
+  },
+  "completion_criteria": [
+    "Coherent identity across frontal, three-quarter and side",
+    "Preserved T22 facial proportions and high narrow bridge without overconstraining incompatible P14 details",
+    "Natural lid-to-eye contact, closed mouth, no protruding rim/geometry artifacts",
+    "No conspicuous hair cap, pinched chin, plastic-looking eye or painted-on source lighting",
+    "Native Blender file reproducible, original references retained, all unresolved items truthfully recorded"
+  ],
+  "criteria_met": false,
+  "overnight_status": "stopped_incomplete",
+  "current_working_copy": "FB86",
+  "automation_status": "PAUSED",
+  "latest_review": {
+    "reviewer": "main agent self-review; no new independent-agent review claimed",
+    "round": 86,
+    "reference": "T22 only",
+    "likeness_pass": false
+  }
+}

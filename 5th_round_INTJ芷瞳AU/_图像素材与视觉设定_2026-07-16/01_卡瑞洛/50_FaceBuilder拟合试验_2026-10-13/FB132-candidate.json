@@ -1,0 +1,16 @@
+{
+  "base": "FB131",
+  "status": "superseded by133",
+  "root_cause": "Earlier clearance excluded boundary rim vertices shared with opaque skin",
+  "actual_change": "Advance penetrating opaque skin along unchanged camera ray; diffuse displacement; refit outer contact loops from exact head rim; keep real inner eye contacts fixed",
+  "required_max": 0.00913642198912573,
+  "max_head_advance": 0.00913642198912573,
+  "opaque_vertices_requiring_advance": 152,
+  "iris_and_globes_fixed": true,
+  "limits": [
+    "Preserving reference aperture does not prove side anatomy",
+    "Inspect self-overlap, visible contact, skin bumps and shadow quality before adoption"
+  ],
+  "visual_review": "Jointly advances152 opaque periocular vertices including shared eyelid rim, maximum.009136 model units, and refits contacts. Both contact meshes now have0 nonadjacent BVH overlap candidates. Only3 remain in redundant left lateral overlay.",
+  "reviewed_at": "2026-10-15T03:41:35.717627+08:00"
+}

@@ -1,0 +1,29 @@
+{
+  "base": "FB121_A",
+  "status": "not adopted",
+  "method": "Smooth ordered lid inner boundary and project back to real eye BVH; rebuild loft. No new overlay. Legacy EyeSurface and old tearline hidden.",
+  "changes": [
+    {
+      "side": -1,
+      "loop_points": 48,
+      "steps": 6,
+      "max_inner_loop_displacement": 0.0524802261702498,
+      "skin_rim_preserved": true
+    },
+    {
+      "side": 1,
+      "loop_points": 48,
+      "steps": 6,
+      "max_inner_loop_displacement": 0.04144631752929638,
+      "skin_rim_preserved": true
+    }
+  ],
+  "head_and_globe_preserved": true,
+  "limits": [
+    "May change apparent aperture at the inner tissue edge",
+    "Inspect corner wrinkles, missing tissue and side gaps",
+    "Head numerical audit cannot validate separate contact mesh"
+  ],
+  "visual_review": "More smoothing still leaves irregular canthal edge; do not keep increasing smoothing.",
+  "reviewed_at": "2026-10-15T03:25:50.022515+08:00"
+}

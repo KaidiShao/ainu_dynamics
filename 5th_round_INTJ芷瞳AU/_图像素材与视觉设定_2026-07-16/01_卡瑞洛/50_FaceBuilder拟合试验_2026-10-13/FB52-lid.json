@@ -1,0 +1,13 @@
+{
+  "base": "FB49",
+  "status": "unreviewed geometry hypothesis",
+  "key": "20_Upper_lid_coverage_trial",
+  "amount_pixels": {
+    "left": 1.8,
+    "right": 2.2
+  },
+  "max_displacement": 0.007011536804137716,
+  "globe_centers_unchanged": true,
+  "rationale": "Independent review indicates overly round open upper rim; trial must not make sleepy or angry expression",
+  "contact_and_lashes_rebuilt": true
+}

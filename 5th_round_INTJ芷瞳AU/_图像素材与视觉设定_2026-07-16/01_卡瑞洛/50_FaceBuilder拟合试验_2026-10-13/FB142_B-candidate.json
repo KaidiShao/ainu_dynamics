@@ -1,0 +1,14 @@
+{
+  "base": "FB141_A",
+  "status": "rejected",
+  "lower_radius_factor": 3.2,
+  "centerlines_and_all_other_geometry_unchanged": true,
+  "upper_lashes_unchanged": true,
+  "reason": "141 lower fibers projected about0.2px root diameter at native resolution, fading after taper and sampling; compare a bounded larger fiber radius rather than darkening skin",
+  "limits": [
+    "Reject conspicuous eyeliner/fringe",
+    "This only adjusts real3D fibers, does not solve lower-lid anatomy"
+  ],
+  "visual_review": "Thicker fringe too heavy; pale root beads remained.",
+  "reviewed_at": "2026-10-15T04:52:48.937512+08:00"
+}

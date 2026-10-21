@@ -1,0 +1,32 @@
+{
+  "source": "Carrillo_FaceBuilder_FB133.blend",
+  "editable": "Carrillo_FB133_editable_working.blend",
+  "visible_geometry_hash": "598c92fad54c85dd9c683731f464c796905714cd1c7bec52726367301be5ad86",
+  "organization_preserves_geometry": true,
+  "active_fit_cameras": 1,
+  "images": [
+    {
+      "name": "P14.png",
+      "packed": true
+    },
+    {
+      "name": "T22.png",
+      "packed": true
+    },
+    {
+      "name": "T22_bounded_chroma_study.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_chroma_confidence.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_high_frequency_skin_study.png.002",
+      "packed": true
+    }
+  ],
+  "likeness_pass": false,
+  "topology_and_vertex_color_hash": "9f8d58c6c42c672f370dafeb0701ab75c008153449bf5510ff1748e12b333d73",
+  "validation_scope": "Geometry, evaluated face topology, material indices and vertex colors; not render pixels or all shader state"
+}

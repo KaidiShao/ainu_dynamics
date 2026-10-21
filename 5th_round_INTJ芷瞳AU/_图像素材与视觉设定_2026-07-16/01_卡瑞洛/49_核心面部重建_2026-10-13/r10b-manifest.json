@@ -1,0 +1,27 @@
+{
+  "version": "r10b",
+  "finite": true,
+  "normal_rotations_over_90deg": 0,
+  "max_displacement": 7.175527831445568,
+  "status": "Internal revision; requires visual audit before promotion.",
+  "eyes": [
+    [
+      -31.952489306260222,
+      8.070926351924728,
+      0.6476128534237813
+    ],
+    [
+      33.24664456489397,
+      8.40200026642011,
+      1.2469237382072034
+    ]
+  ],
+  "scope": [
+    "Reference-plane proportions",
+    "Anatomical upper/lower lid rows and globe clearance",
+    "Cheek/jaw/chin continuity",
+    "Lip and nasal planes",
+    "Rebuilt eyes and groom",
+    "Reduced baked-photo influence"
+  ]
+}

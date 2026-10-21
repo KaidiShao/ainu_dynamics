@@ -1,0 +1,32 @@
+{
+  "status": "retained as provisional local working revision, whole likeness unapproved",
+  "base": "FB95_B",
+  "eye_change": "Reference-camera medial canthus and dark lower-lid arc correction; globes unchanged",
+  "lowerface_sources": [
+    {
+      "candidate": "FB96_A",
+      "strength": 0.8
+    },
+    {
+      "candidate": "FB96_B",
+      "strength": 0.6
+    }
+  ],
+  "not_adopted": [
+    "FB94 depth tests: weak benefit or hardened medial crease",
+    "FB97 rounded caruncle: visible isolated button, not natural canthal articulation"
+  ],
+  "rollback": "FB93; complete file rollback includes eyelid attachments",
+  "limits": [
+    "Whole identity still insufficient",
+    "Eye socket depth, canthal tissue and periocular planes unresolved",
+    "Mandibular yaw is a single-image hypothesis, not proven anatomy",
+    "Moderate jaw contour change does not fully solve gonial form"
+  ],
+  "reviewed_at": "2026-10-15T01:02:34.578150+08:00",
+  "checks": [
+    "Actual front, both turn views, near profile, gray front/turn and strict profile reviewed",
+    "No obvious new broken surface; 18024-vertex numeric audit clean",
+    "Canthus too pointed, orbit depth unresolved, jaw individuality still insufficient"
+  ]
+}

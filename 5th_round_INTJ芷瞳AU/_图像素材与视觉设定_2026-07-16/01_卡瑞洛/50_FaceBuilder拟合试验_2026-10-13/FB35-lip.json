@@ -1,0 +1,17 @@
+{
+  "base": "FB32",
+  "status": "requires_front_side_gray_review",
+  "reason": "Same-scale reference comparison and independent review identify a visually underfilled central lower lip",
+  "changes": [
+    "Lower central vermilion edge displaced up to 3 reference pixels downward, smoothly localized",
+    "Up to .003 scene units of central surface support",
+    "No lip-corner or mouth-opening displacement; chin and groove keys retained"
+  ],
+  "max_world_displacement": 0.010111829123784132,
+  "max_pixel_down": 2.979190284178372,
+  "limits": [
+    "Small inferred shape correction, not a measurement of true anatomy",
+    "Verify no protruding mouth, hooked lip edge or deeper sublabial groove",
+    "Not a likeness pass"
+  ]
+}

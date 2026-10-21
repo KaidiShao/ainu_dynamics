@@ -1,0 +1,24 @@
+{
+  "base": "FB166",
+  "status": "not retained",
+  "requested_upper_lift_px": 4.5,
+  "max_actual_head_lift_px": 4.5,
+  "max_displacement": 0.013856012792453562,
+  "max_clearance": 0.0,
+  "inner_missed_globe": 0,
+  "fixed": [
+    "Physical eyeball iris cornea",
+    "Eye corners with16–32percent and76–92percent taper",
+    "Dark eye",
+    "Lowerlid",
+    "Lighting and materials"
+  ],
+  "method": "Bright upper rim lifted; actual opaque skin checked against eye; outer contact follows skin and inner wetedge refitted by actual eye rays; lashes follow skin field",
+  "limits": [
+    "Three-dimensional identity not determined by this projection",
+    "Need native front/turn and tissue gap review",
+    "Reject alarmed/wide-eyed expression"
+  ],
+  "visual_review": "Native eye crop, neutral front reviewed.4.5px lift more wide-eyed than needed; no promotion.",
+  "reviewed_at": "2026-10-15T07:05:04.049878+08:00"
+}

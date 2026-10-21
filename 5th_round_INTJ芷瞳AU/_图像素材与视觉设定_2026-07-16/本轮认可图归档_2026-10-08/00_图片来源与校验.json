@@ -1,0 +1,58 @@
+{
+  "archived_at": "2026-10-08",
+  "page_id": null,
+  "scope": "作者明确要求归档的F02初见侧光与F03均匀柔光认可图及点评",
+  "selected_count": 2,
+  "process_comparison_count": 0,
+  "archive_request": "挺有意思 这两张和相关点评你也归档一下",
+  "readme": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/本轮认可图归档_2026-10-08/README_认可图与点评用途.md",
+  "assets": [
+    {
+      "title": "F02 初见侧光凝视",
+      "group": "01_当前精选",
+      "source": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/MC_FIRSTMEET_F02_大块侧光与口周校准_初见候选_v2.png",
+      "record": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/01_F02大块侧光与口周校准_生成记录与完整提示词.md",
+      "original": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-f51b6a28-04c9-4e7c-80fe-acb86a1bfe63.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/本轮认可图归档_2026-10-08/01_当前精选/MC_FIRSTMEET_F02_大块侧光与口周校准_初见候选_v2.png",
+      "status": "AUTHOR_POSITIVE / ARCHIVED / NOT_IDENTITY_ANCHOR",
+      "feedback": [
+        "妈呀 这张好帅",
+        "这张看起来真的很INTJ"
+      ],
+      "use": "初见时阴郁、审视和意图难以读懂的状态参考；侧光与表演参考。",
+      "method": "以钢蓝近正面为身份参考、演员第三张黑白图为神态与打光参考重新生成。",
+      "parent_asset": null,
+      "parent_image": null,
+      "file": "MC_FIRSTMEET_F02_大块侧光与口周校准_初见候选_v2.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "E308B6927FF789570A2290CE3FF685F5A4538801E8D9917105B46964DB390CF9",
+      "bytes": 1671215,
+      "copy_verified": true,
+      "original_verified": true
+    },
+    {
+      "title": "F03 均匀柔光面部对照",
+      "group": "01_当前精选",
+      "source": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/MC_FIRSTMEET_F03_F02均匀柔光面部对照_v3.png",
+      "record": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/02_F03均匀柔光面部对照_生成记录与完整提示词.md",
+      "original": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-f2c596d0-307c-4f92-9572-5889c457cb5e.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/本轮认可图归档_2026-10-08/01_当前精选/MC_FIRSTMEET_F03_F02均匀柔光面部对照_v3.png",
+      "status": "AUTHOR_POSITIVE / ARCHIVED / NOT_IDENTITY_ANCHOR",
+      "feedback": [
+        "还行 不错 这张挺帅的"
+      ],
+      "use": "查看双侧眉眼、口周、下巴与轮廓，核对侧光版本和最初正面照之间的脸部连续性。",
+      "method": "仅以F02为输入进行生成式柔光编辑；深影处包含模型补全。",
+      "parent_asset": "MC_FIRSTMEET_F02",
+      "parent_image": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/MC_FIRSTMEET_F02_大块侧光与口周校准_初见候选_v2.png",
+      "file": "MC_FIRSTMEET_F03_F02均匀柔光面部对照_v3.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "650B7E09F1C740468E44D92B0B6ED8A5255DFBE6F1EE47BDD05E054C807C6465",
+      "bytes": 2021770,
+      "copy_verified": true,
+      "original_verified": true
+    }
+  ]
+}

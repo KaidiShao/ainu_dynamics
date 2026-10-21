@@ -1,0 +1,17 @@
+{
+  "base": "FB121_A",
+  "status": "diagnostic only",
+  "visibility_changes": [
+    {
+      "object": "Carrillo_FB08_EyeSurface-1",
+      "was_hidden": false
+    },
+    {
+      "object": "Carrillo_FB08_EyeSurface1",
+      "was_hidden": false
+    }
+  ],
+  "purpose": "Separate legacy translucent ocular patch from actual canthal wall artifacts; no geometry changes",
+  "visual_review": "Legacy translucent EyeSurface hidden: spoked canthal wall persists.",
+  "reviewed_at": "2026-10-15T03:25:50.022515+08:00"
+}

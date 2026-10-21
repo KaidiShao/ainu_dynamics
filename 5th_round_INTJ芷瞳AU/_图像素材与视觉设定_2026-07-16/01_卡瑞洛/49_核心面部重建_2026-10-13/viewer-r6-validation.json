@@ -1,0 +1,21 @@
+{
+  "version": "R6",
+  "errors": [],
+  "stats": {
+    "meshes": 8,
+    "vertices": 1124925,
+    "head": 1,
+    "hair": 3
+  },
+  "modelResource": [
+    "http://127.0.0.1:8849/carrillo-core-r6.glb"
+  ],
+  "views": [
+    "neutral",
+    "front-neutral",
+    "front",
+    "threequarter",
+    "near-profile"
+  ],
+  "overlay": "1"
+}

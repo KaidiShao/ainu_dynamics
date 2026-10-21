@@ -1,0 +1,19 @@
+{
+  "status": "experiment only; do not promote without reviewing likeness",
+  "affected_lid_vertices": 362,
+  "changed": [
+    "central aperture",
+    "globe depth",
+    "iris gaze direction"
+  ],
+  "preserved": [
+    "iris pigment",
+    "brows",
+    "nose",
+    "mouth",
+    "jaw",
+    "hair",
+    "lighting",
+    "cameras"
+  ]
+}

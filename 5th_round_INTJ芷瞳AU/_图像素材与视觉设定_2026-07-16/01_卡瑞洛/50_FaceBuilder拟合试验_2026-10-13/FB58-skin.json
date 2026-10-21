@@ -1,0 +1,16 @@
+{
+  "base": "FB55",
+  "geometry_unchanged": true,
+  "status": "unreviewed material trial",
+  "changes": [
+    "Nose and forehead lower roughness; cheeks remain .54, lips .41",
+    "Small 3D roughness variation plus nonperiodic procedural pore normals",
+    "SSSweight.10 scale.010"
+  ],
+  "limits": [
+    "Procedural microstructure not a skin scan",
+    "No new baked photo lighting or albedo",
+    "Reject pore grain, waxiness, or exaggerated oily highlights",
+    "Must compare same neutral and reverse light"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "base": "FB85_L2",
+  "reference": "T22 only",
+  "status": "retained modest working improvement after multiview review; not likeness approval",
+  "max_displacement": 0.020913185810814146,
+  "changes": [
+    "Support narrow central nasal bridge",
+    "Modest sidewall and wing narrowing",
+    "Broader supra-alar transition and upper alar rim lift/roll",
+    "No isolated inner-vault depth operation"
+  ],
+  "limits": [
+    "Manually inferred design; single reference does not recover depth",
+    "Test 0/0.5/1 under same gray and material views, including strict profile",
+    "Reject pinched ala, sharp ridges, broad tip, unnatural slit or facial identity drift"
+  ],
+  "reviewed_at": "2026-10-14T09:59:29.411403+08:00"
+}

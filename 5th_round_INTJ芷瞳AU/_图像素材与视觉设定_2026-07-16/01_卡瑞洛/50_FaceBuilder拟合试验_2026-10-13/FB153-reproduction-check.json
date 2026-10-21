@@ -1,0 +1,13 @@
+{
+  "visible_geometry_hash_matches": true,
+  "scope": "Recorded geometry, face topology, vertex colors and groom radius/settings reproduced. Not pixel identity or whole-character likeness.",
+  "at": "2026-10-15T05:28:47.1429773+08:00",
+  "rendering_requested": false,
+  "reconstruction": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\50_FaceBuilder拟合试验_2026-10-13\\reproduction-fb153-20261015-052827",
+  "groom_profile_hash": "ddfcd8e59e7566bf3adeae436ae1b5cd1b23dda69cae8fe1efe530b85a10029c",
+  "topology_and_vertex_color_hash": "64cc52983773bd2cf50061b2cda9d84576fa7dc6e1ec1011157dc52bf432188a",
+  "groom_profile_hash_matches": true,
+  "geometry_hash": "48d6b35ca244c4958ede29bafbaca4475774dfd0276fc8a266ba83a7ac8c236d",
+  "base": "FB144",
+  "topology_and_vertex_color_hash_matches": true
+}

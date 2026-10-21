@@ -1,0 +1,64 @@
+{
+  "base": "FB151_C",
+  "status": "not retained alternative",
+  "actual_geometry": "Curved medial/lateral native tissue from exact lid boundaries to ocular sphere",
+  "head_and_iris_preserved": true,
+  "patches": [
+    {
+      "side": -1,
+      "region": "medial",
+      "corner_pixel": [
+        443.57706409692764,
+        478.2009139060974
+      ],
+      "maximum_lunate_width_px": 10.5,
+      "outer_edge_fallback_count": 203
+    },
+    {
+      "side": -1,
+      "region": "lateral",
+      "corner_pixel": [
+        364.8931469321251,
+        471.1337947845459
+      ],
+      "maximum_lunate_width_px": 2.0,
+      "outer_edge_fallback_count": 0
+    },
+    {
+      "side": 1,
+      "region": "medial",
+      "corner_pixel": [
+        541.7572363615036,
+        472.49710845947266
+      ],
+      "maximum_lunate_width_px": 14.0,
+      "outer_edge_fallback_count": 145
+    },
+    {
+      "side": 1,
+      "region": "lateral",
+      "corner_pixel": [
+        625.6644634008408,
+        460.6437191963196
+      ],
+      "maximum_lunate_width_px": 5.0,
+      "outer_edge_fallback_count": 0
+    }
+  ],
+  "limits": [
+    "Expression experiment only",
+    "Old full topology retained in144 and hidden official FaceBuilder head",
+    "Vertex order and every shape key retained; legacy eye-mask boundary vertex indices still usable",
+    "Must audit and inspect whole-face and both turns before retention"
+  ],
+  "obsolete_transparent_faces_removed": 746,
+  "face_count_before_after": [
+    17978,
+    17232
+  ],
+  "vertex_order_and_positions_preserved": 0.0,
+  "shape_key_count_preserved": 33,
+  "actual_method": "Rebuild canthal patches/tearline from new rim and real ocular surface; remove unused transparent old eye faces now replaced by real native eyes",
+  "visual_review": "Head/contact checks pass; neutral front, both turns and eye closeup reviewed. Weaker eyelid change and slightly stronger brow is less useful thanB; saved as alternative.",
+  "reviewed_at": "2026-10-15T05:31:38.979334+08:00"
+}

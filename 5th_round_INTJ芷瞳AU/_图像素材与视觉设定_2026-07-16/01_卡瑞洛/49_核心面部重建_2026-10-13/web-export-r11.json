@@ -1,0 +1,15 @@
+{
+  "source": "Carrillo_core_rebuild_R11.blend",
+  "output": "carrillo-core-r11.glb",
+  "curves": {
+    "Carrillo_wavy_groom": 5000,
+    "Long_loose_front_locks": 630,
+    "R10_brows": 1290,
+    "R11_upper_lash_fibres": 105,
+    "R11_upper_lid_margin": 35,
+    "R11_lower_wet_margin": 39
+  },
+  "skin": "Existing F03-based shader baked to a non-overlapping UV atlas, including scalp and brow weights. Not T22 projection.",
+  "hair": "Downsampled fibres; Principled web substitute for native hair BSDF.",
+  "limitations": "Web light and corneal transmission differ from native Cycles renders."
+}

@@ -1,0 +1,25 @@
+{
+  "base": "FB153",
+  "status": "rejected",
+  "amplitude": 1.0,
+  "vertices": 158948,
+  "polygons": 155088,
+  "range": [
+    -0.008926813661499954,
+    0.026633946050817234
+  ],
+  "fixed": [
+    "Eye opening and contact boundary",
+    "Physical globes iris and canthal tissue",
+    "Camera lighting colors",
+    "Original153keyedhead retained hidden"
+  ],
+  "limits": [
+    "New topology branch, not a rig-ready replacement",
+    "No likeness claim from density alone",
+    "Reject carved crease or swollen hood",
+    "Visible contact boundary needs inspection despite unchanged linear position"
+  ],
+  "visual_review": "Same defects at greater strength;539normal reversals vs refined basis.",
+  "reviewed_at": "2026-10-15T06:05:11.711847+08:00"
+}

@@ -1,0 +1,10 @@
+{
+  "version": "4.5.14",
+  "source": "https://download.blender.org/release/Blender4.5/blender-4.5.14-windows-x64.zip",
+  "sha256": "b9533d2397ac1984db4466fb23a7a4649391cca93f6e84209f9bcc60d071c8b9",
+  "checksum_source": "https://download.blender.org/release/Blender4.5/blender-4.5.14.sha256",
+  "executable": "D:\\新建文件夹\\ainu_dynamics\\_tools\\blender\\blender-4.5.14-windows-x64\\blender.exe",
+  "portable": true,
+  "asset_source": "https://download.blender.org/demo/asset-bundles/human-base-meshes/human-base-meshes-bundle-v1.4.1.zip",
+  "asset_sha256": "811f43accbb31a88266d932f8f5563b2d13586fca0ba2693aad1f5fe582b3515"
+}

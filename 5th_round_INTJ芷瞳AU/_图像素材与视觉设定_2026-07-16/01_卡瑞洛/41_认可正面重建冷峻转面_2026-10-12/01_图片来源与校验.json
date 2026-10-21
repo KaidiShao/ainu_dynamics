@@ -1,0 +1,42 @@
+{
+  "batch": "T30_approved_front_rebuild_cold_scrutiny",
+  "created": "2026-10-12",
+  "mode": "built_in_imagegen",
+  "use_case": "identity-preserve",
+  "author_review": "pending",
+  "status": "INTERNAL_REVIEW_CONCERNS / PROCESS_ONLY / AUTHOR_NOT_REVIEWED",
+  "user_request": "对 那你重新生成一下",
+  "basis": "T29已被作者否定：不像卡瑞洛，表情缺少冷峻。此次仅从认可T22重新生成，不继承T29。",
+  "input_images": [
+    {
+      "path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/37_眼色局部统一_2026-10-11/MC_STATE_T22_T19正面_浅蓝灰虹膜校准_v22.png",
+      "role": "sole approved identity, expression, age, eyes, clothing and lighting reference"
+    }
+  ],
+  "image": {
+    "path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/41_认可正面重建冷峻转面_2026-10-12/MC_ANGLE_T30_认可正面重建_冷峻直视转面_v30.png",
+    "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-f36af047-6398-4626-af74-a3f3c36e1705.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 1718752,
+    "sha256": "84E9DE1F48EDA0E580B95FB0B649B0853C36077FAA0E5C47C89BE8295A8B30F3",
+    "source_sha256": "84E9DE1F48EDA0E580B95FB0B649B0853C36077FAA0E5C47C89BE8295A8B30F3"
+  },
+  "prompt": "Use case: identity-preserve.\nCreate ONE photorealistic three-quarter portrait of the SAME fictional adult man in the supplied approved frontal portrait. Image 1 is the sole identity, age, expression, eye-color, hairstyle, clothing and lighting reference. This is a continuity view for character design, not a new casting.\n\nKeep the man's head level and his upright, settled seated posture. Move the viewpoint approximately 35–40 degrees around him to reveal a clear three-quarter face, nose pointing toward image right, both eyes visible and the far cheek naturally foreshortened. He maintains direct eye contact with the camera: the eyes alone track its new position. This should preserve the confrontational presence of the source instead of becoming an attentive side glance.\n\nThe decisive requirement is the source's cold, stern, inwardly contained scrutiny. His attention is already fixed on the viewer; his face offers no reassurance, invitation, question or immediate reply. Quiet established authority. Preserve the compact brow-to-upper-eyelid relationship and weight of the upper lids in the original, with a steady horizontal gaze. Brows are composed, not knitted or raised. His mouth is closed, still and unsmiling, lips resting without pursing, pouting or a smirk. Preserve the reference's actual lip volume and width in perspective. A severe expression with very little outward activity, not blankness, fatigue or anger.\n\nFaithfully preserve original facial proportions: relatively elongated lean face, the same nose bridge and tip, cheek planes, jaw width and lower-face length. Preserve the smoothly integrated rounded chin of the reference: no broad square chin platform, cleft, projecting chin pad, receded chin, tiny mouth or protruding muzzle. Do not beautify or recast his features into another handsome young man.\n\nSame practical short dark wavy hair and adult age. Irises remain low-saturation pale gray-blue, predominantly gray, with natural darker limbal rings; the shadowed eye stays darker. Same dark textured jacket and black shirt, upper-chest portrait, restrained dark interior.\n\nRetain strong directional side lighting with a broad connected shadow over the far side of the face and eye socket. Enough soft reflected fill to read anatomy, but retain the source's sculptural light-dark structure and subdued skin color. Natural photographic skin, no artificial stippling, bruiselike patches or glossy airbrushed finish. Keep both facial structure and gaze recognizable without relying on darkness alone. No text, labels, collage or watermark.",
+  "parent_visual_review": "相较T29，眼神更直接朝向观看者，眼睑更收敛，侧面整体阴影更连贯，少了听候回应的开放感。下半脸偏修长、尖收，口角略紧；不能因冷峻有所增加就宣告身份连续性通过。属于偏近正面的转面，实际角度无法由单图精确确认。",
+  "independent_review": {
+    "reviewer": "/root/review_carrillo_angle",
+    "assessment": "Not recommended as successful version",
+    "identity": "仍能辨认部分来源五官，但下半脸更紧、更尖，整体有年轻模特摆冷脸的感觉；透视可以解释部分差异，不足以证明整脸身份延续。",
+    "expression": "偏眉下侧目、戒备和倔强，缺少T22的沉着与低情绪反馈；更硬的目光不等于冷峻成立。",
+    "angle": "躯干转动比脸明显，脸仍属浅三分之四，不能当作充分转面的结构参考。",
+    "author_acceptance": false
+  },
+  "approved_anchors_unchanged": [
+    "T22",
+    "T23"
+  ],
+  "use_limit": "新候选待作者评价；不可将提示词中的角度、身份保持或气质描述当作已实现的事实。",
+  "followup": "T31 separately regenerated from approved T22"
+}
+

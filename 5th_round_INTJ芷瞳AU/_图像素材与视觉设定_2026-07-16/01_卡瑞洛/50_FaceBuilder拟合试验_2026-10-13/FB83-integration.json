@@ -1,0 +1,53 @@
+{
+  "base": "FB82",
+  "reference_policy": "T22 only; P14 no longer constrains geometry",
+  "status": "candidate awaiting native multiangle review",
+  "deactivated_old_profile_keys": {
+    "05_Profile_nasal_root_depth": 1.0,
+    "06_Labiomental_transition_depth": 0.550000011920929,
+    "07_Chin_lower_contour": 1.0
+  },
+  "new_shape_key": "28_T22_only_FaceBuilder_refit",
+  "attached_objects_transferred": [
+    "Carrillo_FB15_Globe-1",
+    "Carrillo_FB15_Iris-1",
+    "Carrillo_FB15_Cornea-1",
+    "Carrillo_FB08_EyeSurface-1",
+    "Carrillo_FB15_Globe1",
+    "Carrillo_FB15_Iris1",
+    "Carrillo_FB15_Cornea1",
+    "Carrillo_FB08_EyeSurface1",
+    "Carrillo_FB38_LidContact-1",
+    "Carrillo_FB38_LidContact1",
+    "Carrillo_FB47b_ShortLashes",
+    "Carrillo_FB53_Tearline-1",
+    "Carrillo_FB53_Tearline1",
+    "Carrillo_FB63_Brows",
+    "Carrillo_FB75_ScalpGroom",
+    "Carrillo_FB82_OppositeScalpUndercoat"
+  ],
+  "spherical_eye_transforms": [
+    {
+      "side": -1,
+      "similarity_scale": 0.9871110074916624,
+      "rms_patch_residual": 0.0012087922995817092
+    },
+    {
+      "side": 1,
+      "similarity_scale": 0.9741163418788266,
+      "rms_patch_residual": 0.0008916736826416722
+    }
+  ],
+  "head_delta_quantiles": [
+    0.0026589248631049443,
+    0.03975849565044481,
+    0.06419191231864807,
+    0.08226098218671946,
+    0.1007005737975101
+  ],
+  "limitations": [
+    "Single-view fit underdetermines depth",
+    "Hair and ocular contact require review after transfer",
+    "Not a likeness pass"
+  ]
+}

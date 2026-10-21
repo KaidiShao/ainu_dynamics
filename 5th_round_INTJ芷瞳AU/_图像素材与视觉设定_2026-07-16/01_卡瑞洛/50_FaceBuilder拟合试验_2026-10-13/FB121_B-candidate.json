@@ -1,0 +1,174 @@
+{
+  "base": "FB120_A",
+  "status": "research only",
+  "strength": 0.0,
+  "aperture": [
+    {
+      "side": -1,
+      "target_upper": [
+        [
+          365,
+          471
+        ],
+        [
+          377,
+          464
+        ],
+        [
+          391,
+          459.5
+        ],
+        [
+          406,
+          459
+        ],
+        [
+          421,
+          465
+        ],
+        [
+          433,
+          473
+        ],
+        [
+          443,
+          480
+        ]
+      ],
+      "target_lower": [
+        [
+          365,
+          471
+        ],
+        [
+          376,
+          479
+        ],
+        [
+          392,
+          483.5
+        ],
+        [
+          408,
+          485
+        ],
+        [
+          424,
+          484.5
+        ],
+        [
+          436,
+          482.5
+        ],
+        [
+          443,
+          480
+        ]
+      ],
+      "strength": 0.4,
+      "max_requested_px": 3.365639001154118
+    },
+    {
+      "side": 1,
+      "target_upper": [
+        [
+          540,
+          474
+        ],
+        [
+          548,
+          462
+        ],
+        [
+          560,
+          452.5
+        ],
+        [
+          575,
+          447
+        ],
+        [
+          590,
+          446
+        ],
+        [
+          605,
+          449
+        ],
+        [
+          617,
+          454
+        ],
+        [
+          627,
+          461
+        ]
+      ],
+      "target_lower": [
+        [
+          540,
+          474
+        ],
+        [
+          551,
+          476
+        ],
+        [
+          566,
+          477
+        ],
+        [
+          580,
+          476.5
+        ],
+        [
+          596,
+          472.5
+        ],
+        [
+          612,
+          466.5
+        ],
+        [
+          627,
+          461
+        ]
+      ],
+      "strength": 0.4,
+      "max_requested_px": 2.9214525642745546
+    }
+  ],
+  "geometry": "Actual aperture trace deformation plus separately specified depth/clearance step; full candidate does change frontal aperture.",
+  "rim": [
+    {
+      "side": -1,
+      "old_rim_depth_min_max": [
+        -0.0028619651384360623,
+        0.12727142358198762
+      ],
+      "recession_max": 0.0,
+      "nearest_globe_fallbacks": 11,
+      "screen_rim_unchanged": true
+    },
+    {
+      "side": 1,
+      "old_rim_depth_min_max": [
+        -0.0037330637237573683,
+        0.08109909534687176
+      ],
+      "recession_max": 0.0,
+      "nearest_globe_fallbacks": 12,
+      "screen_rim_unchanged": true
+    }
+  ],
+  "max_head_delta": 0.010442302893237648,
+  "iris_and_globe_unchanged": true,
+  "limits": [
+    "Manually traced T22 aperture; uncertainty in shadowed eye and tear tissue boundary",
+    "Screen-space correspondence is not a likeness pass",
+    "Inspect recession-induced skin depressions and globe penetrations from turn views"
+  ],
+  "method": "Positive inverse-edge-length graph harmonic warp, 600 Jacobi iterations,42px domain; no requested rim recession. Native sphere clearance and attached lashes/brows/contact rebuilt.",
+  "visual_review": "Graph-harmonic40% aperture variant passes same head checks, no convincing advantage; closeup reviewed.",
+  "reviewed_at": "2026-10-15T03:25:50.022515+08:00"
+}

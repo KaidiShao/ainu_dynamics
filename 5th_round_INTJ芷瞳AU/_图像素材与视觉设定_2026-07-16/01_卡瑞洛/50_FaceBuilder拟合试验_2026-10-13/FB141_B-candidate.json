@@ -1,0 +1,78 @@
+{
+  "base": "FB140_B",
+  "status": "not retained",
+  "head_eyes_contacts_brows_unchanged": true,
+  "upper_lashes_unchanged": true,
+  "moved_points": 114,
+  "max_advance": 0.008222511481337577,
+  "mean_advance": 0.002131093668100388,
+  "first_changes": [
+    {
+      "curve": 314,
+      "point": 3,
+      "advance": 0.0017495297809174784
+    },
+    {
+      "curve": 317,
+      "point": 2,
+      "advance": 0.00031149193632219263
+    },
+    {
+      "curve": 317,
+      "point": 3,
+      "advance": 0.0004966175051638413
+    },
+    {
+      "curve": 318,
+      "point": 2,
+      "advance": 0.000498742756782087
+    },
+    {
+      "curve": 318,
+      "point": 3,
+      "advance": 0.0010227735831435194
+    },
+    {
+      "curve": 319,
+      "point": 2,
+      "advance": 0.000647201789830363
+    },
+    {
+      "curve": 319,
+      "point": 3,
+      "advance": 0.002024674567178928
+    },
+    {
+      "curve": 320,
+      "point": 2,
+      "advance": 0.000701708906189489
+    },
+    {
+      "curve": 320,
+      "point": 3,
+      "advance": 0.00023109396325561105
+    },
+    {
+      "curve": 321,
+      "point": 2,
+      "advance": 0.0010212188742130348
+    },
+    {
+      "curve": 321,
+      "point": 3,
+      "advance": 0.0033994432415397438
+    },
+    {
+      "curve": 322,
+      "point": 2,
+      "advance": 0.0007027798650186636
+    }
+  ],
+  "method": "Raycast true opaque skin; advance occluded lower-lash samples along their original camera ray to bounded clearance",
+  "limits": [
+    "Does not by itself establish natural lash curl or anatomical root direction",
+    "Inspect for skin-hugging ink-like fringe or exaggerated fan"
+  ],
+  "visual_review": "Denser variant still too faint; further dense-count increases not justified.",
+  "reviewed_at": "2026-10-15T04:52:48.937512+08:00"
+}

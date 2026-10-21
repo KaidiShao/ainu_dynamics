@@ -1,0 +1,25 @@
+{
+  "base": "FB144",
+  "status": "not retained",
+  "relief": 0.008,
+  "material_changed": true,
+  "patches": [
+    {
+      "side": -1,
+      "max_relief": 0.007575000347796048,
+      "boundary_movement": 1.1360680875274097e-34
+    },
+    {
+      "side": 1,
+      "max_relief": 0.007575000347796047,
+      "boundary_movement": 1.1360680875274097e-34
+    }
+  ],
+  "limits": [
+    "Local anatomical/material experiment only",
+    "No whole identity claim",
+    "Reject swollen plug or overly pink tear tissue; boundaries unchanged"
+  ],
+  "visual_review": "Combined relief/material remains insufficient; no whole identity improvement.",
+  "reviewed_at": "2026-10-15T05:19:37.618023+08:00"
+}

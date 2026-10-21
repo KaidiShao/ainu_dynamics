@@ -1,0 +1,25 @@
+{
+  "base": "FB144",
+  "status": "rejected",
+  "head_vertices_before_after": [
+    18024,
+    42324
+  ],
+  "selected_edges": 3411,
+  "crease": 0.012,
+  "roll": 0.003,
+  "displacement_range": [
+    -0.002956233050449015,
+    0.011994049331977818
+  ],
+  "retained_original_head": "Carrillo_FB02_Sculpt",
+  "new_head": "Carrillo_FB146_DetailedHead",
+  "limits": [
+    "Topology branch; previous eye-mask indices are not valid on new working head",
+    "Current full144 source head preserved hidden; detailed branch has baked144 shape plus its own reversible fold key",
+    "146C is density-only control",
+    "Reject folded grooves, swollen upper lid or changed eye boundary; inspect neutral and turn views"
+  ],
+  "visual_review": "Weak narrow upperfold not convincingly better; local mesh subdivision introduced16 zero-area triangles including in density control.",
+  "reviewed_at": "2026-10-15T05:19:37.618023+08:00"
+}

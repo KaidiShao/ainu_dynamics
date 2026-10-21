@@ -1,0 +1,24 @@
+{
+  "base": "FB153",
+  "status": "superseded technical trial",
+  "requested_lower_tissue_width_px": 2.5,
+  "max_displacement": 0.06234428959522811,
+  "max_clearance": 0.06229382680081447,
+  "contact_changes": [
+    0.016275469843173265,
+    0.010065300790974036
+  ],
+  "fixed": [
+    "Inner wetedge and tearline",
+    "Eye aperture and physical globes/iris",
+    "Medial and outermost endpoints via taper",
+    "Materials lighting camera"
+  ],
+  "limits": [
+    "Check contact/canthal seam and head geometry",
+    "Lower lash roots follow skin side, wetedge remains fixed",
+    "Reject bright artificial band or new under-eye swelling"
+  ],
+  "visual_review": "Same domain issue; max.062displacement mainly inactive placeholder vertices. Not adopted.",
+  "reviewed_at": "2026-10-15T06:05:11.711847+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "base": "FB08",
+  "status": "needs_visual_review",
+  "brow_fibers": 2700,
+  "changes": [
+    "Rejected and hid the refractive full-aperture corneal shell",
+    "Preserved fitted ocular surface with restrained coat response",
+    "Lighter low-chroma iris and sclera, stronger radial variation",
+    "Brows rebuilt with inner upward growth and tapering tails"
+  ],
+  "limitations": [
+    "Separate full anatomical eyeballs and iris depth are still absent",
+    "This does not establish final likeness"
+  ]
+}

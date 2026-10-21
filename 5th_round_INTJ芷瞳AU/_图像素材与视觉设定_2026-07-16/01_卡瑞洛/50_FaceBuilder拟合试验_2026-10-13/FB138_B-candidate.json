@@ -1,0 +1,21 @@
+{
+  "base": "FB133",
+  "status": "not retained",
+  "ridge_support": 0.0,
+  "submandibular_recession": 0.035,
+  "max_displacement": 0.03496943360739431,
+  "fixed": [
+    "X/Z coordinates",
+    "Central chin",
+    "Eyes nose mouth",
+    "Camera lights materials"
+  ],
+  "hypothesis": "Frontal jaw contour is close; indistinct lower border partly arises from broad jaw-to-neck transition. Alter support depth, not overall face width.",
+  "limits": [
+    "Hidden neck/jaw depth inferred from singleT22 image",
+    "Reject a carved groove, double jaw edge or hard square gonion",
+    "Neutral quarter and true profile required"
+  ],
+  "visual_review": "Quarter and strict profile: neck-depth change has weak benefit; no adoption.",
+  "reviewed_at": "2026-10-15T04:29:12.079197+08:00"
+}

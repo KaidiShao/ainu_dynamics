@@ -1,0 +1,19 @@
+{
+  "base": "FB49",
+  "status": "unreviewed optical experiment",
+  "unchanged": [
+    "Iris centers, radius and pigment",
+    "Globe centers",
+    "Face geometry and aperture"
+  ],
+  "changes": [
+    "Spherical corneal cap .020 rise with fixed limbus",
+    "GlassIOR1.376 roughness.018",
+    "Scleral tearfilm IOR1.336",
+    "Actual small lower lid fluid meniscus native curve"
+  ],
+  "limits": [
+    "Not a gaze solution; reject if unnatural oversized glints or detached line",
+    "Requires matched neutral and common-source lighting, front and profile"
+  ]
+}

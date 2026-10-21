@@ -1,0 +1,10 @@
+下颌圆钝感复查。当前保留FB190，本轮试验未采纳。
+
+A: invalid boundary selection mixed perioral contour; not retained
+B: invalid boundary selection created grooves; rejected after native render
+C: corrected native jaw boundary; slight edge change without convincing whole-face identity gain
+D: stronger corrected cross section; still insufficient face-plane identity gain
+E: balanced local cheek planes; no convincing integrated shape gain
+F: cheek plus anterior chin planes; some local hollowing, no reliable identity gain
+
+Actual native contour overlap does not establish matching cross-sectional depth or internal facial planes. All source files and scripts preserved. Automation remains paused.

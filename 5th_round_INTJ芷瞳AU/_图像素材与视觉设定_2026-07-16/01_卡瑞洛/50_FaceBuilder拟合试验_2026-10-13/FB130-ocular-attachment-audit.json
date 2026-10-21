@@ -1,0 +1,246 @@
+{
+  "source": "FB130",
+  "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+  "limitations": [
+    "BVH overlaps are candidates for inspection, not proof of visible penetration",
+    "Does not audit all contacts between different objects",
+    "A clean result is not a likeness pass"
+  ],
+  "objects": [
+    {
+      "object": "Carrillo_FB127_LidContact-1",
+      "vertices": 3264,
+      "triangles": 6144,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 4.693261543409107e-10,
+      "nonadjacent_BVH_overlap_pairs": 337,
+      "first_overlap_pairs": [
+        [
+          4131,
+          4899
+        ],
+        [
+          3746,
+          4899
+        ],
+        [
+          3746,
+          4898
+        ],
+        [
+          3746,
+          5283
+        ],
+        [
+          3362,
+          5282
+        ],
+        [
+          3362,
+          5283
+        ],
+        [
+          3747,
+          5283
+        ],
+        [
+          3363,
+          5282
+        ],
+        [
+          3363,
+          5667
+        ],
+        [
+          3363,
+          5666
+        ],
+        [
+          3363,
+          6051
+        ],
+        [
+          4132,
+          4899
+        ],
+        [
+          4132,
+          4900
+        ],
+        [
+          4132,
+          5285
+        ],
+        [
+          3748,
+          5284
+        ],
+        [
+          3748,
+          5669
+        ],
+        [
+          3748,
+          5668
+        ],
+        [
+          4133,
+          5285
+        ],
+        [
+          4133,
+          5284
+        ],
+        [
+          3749,
+          5668
+        ]
+      ]
+    },
+    {
+      "object": "Carrillo_FB127_LidContact1",
+      "vertices": 3264,
+      "triangles": 6144,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 2.669394208423192e-09,
+      "nonadjacent_BVH_overlap_pairs": 177,
+      "first_overlap_pairs": [
+        [
+          1053,
+          1820
+        ],
+        [
+          669,
+          1820
+        ],
+        [
+          669,
+          1818
+        ],
+        [
+          668,
+          1820
+        ],
+        [
+          285,
+          1820
+        ],
+        [
+          285,
+          1818
+        ],
+        [
+          667,
+          1434
+        ],
+        [
+          667,
+          1435
+        ],
+        [
+          667,
+          1818
+        ],
+        [
+          666,
+          1051
+        ],
+        [
+          666,
+          1434
+        ],
+        [
+          283,
+          1051
+        ],
+        [
+          283,
+          1434
+        ],
+        [
+          283,
+          1050
+        ],
+        [
+          283,
+          1435
+        ],
+        [
+          283,
+          1818
+        ],
+        [
+          282,
+          1050
+        ],
+        [
+          282,
+          667
+        ],
+        [
+          4903,
+          5670
+        ],
+        [
+          4901,
+          5668
+        ]
+      ]
+    },
+    {
+      "object": "Carrillo_FB128_A_medial-1",
+      "vertices": 551,
+      "triangles": 1008,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 9.664837317396373e-11,
+      "nonadjacent_BVH_overlap_pairs": 0,
+      "first_overlap_pairs": []
+    },
+    {
+      "object": "Carrillo_FB128_A_lateral-1",
+      "vertices": 551,
+      "triangles": 1008,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 6,
+      "minimum_triangle_area": 0.0,
+      "nonadjacent_BVH_overlap_pairs": 3,
+      "first_overlap_pairs": [
+        [
+          21,
+          24
+        ],
+        [
+          23,
+          24
+        ],
+        [
+          20,
+          24
+        ]
+      ]
+    },
+    {
+      "object": "Carrillo_FB128_A_medial1",
+      "vertices": 551,
+      "triangles": 1008,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 6.363965057484992e-11,
+      "nonadjacent_BVH_overlap_pairs": 0,
+      "first_overlap_pairs": []
+    },
+    {
+      "object": "Carrillo_FB128_A_lateral1",
+      "vertices": 551,
+      "triangles": 1008,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 1,
+      "minimum_triangle_area": 0.0,
+      "nonadjacent_BVH_overlap_pairs": 0,
+      "first_overlap_pairs": []
+    }
+  ]
+}

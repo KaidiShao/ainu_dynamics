@@ -1,0 +1,29 @@
+{
+  "base": "FB180",
+  "status": "not retained",
+  "support_advance": 0.006,
+  "lower_blend_recession": 0.003,
+  "range": [
+    -0.005949339927353235,
+    0.002585938124394248
+  ],
+  "eye_safety_clamped_vertices": 2,
+  "fixed": [
+    "Eye opening and actual eyes",
+    "First2pixels below outer tissue rim",
+    "Nose lips jaw lighting/materials"
+  ],
+  "limits": [
+    "Independent support/lower-edge hypotheses, not measurement of true depth",
+    "Reject swollen bag or carved groove",
+    "Sparse topology and clamp can limit effect",
+    "Inspect native gray and turn views"
+  ],
+  "support_peak_below_outer_rim_px": 6,
+  "support_sigma_px": 4.5,
+  "lower_blend_peak_px": 16,
+  "lower_blend_sigma_px": 3.5,
+  "rationale": "Aligned reference suggests earlier167roll peak sat too low; current support moves nearer lash margin with shorter outer taper",
+  "visual_review": "Native neutral and gray eye crops inspected. Additional lower recession did not establish a convincing shallow wide roll and outer termination.",
+  "reviewed_at": "2026-10-15T07:33:19.422562+08:00"
+}

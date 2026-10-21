@@ -1,0 +1,132 @@
+{
+  "source": "FB177_B",
+  "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+  "limitations": [
+    "BVH overlaps are candidates for inspection, not proof of visible penetration",
+    "Does not audit all contacts between different objects",
+    "A clean result is not a likeness pass"
+  ],
+  "objects": [
+    {
+      "object": "Carrillo_FB127_LidContact-1",
+      "vertices": 3264,
+      "triangles": 6144,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 2.395911695293282e-08,
+      "nonadjacent_BVH_overlap_pairs": 0,
+      "first_overlap_pairs": []
+    },
+    {
+      "object": "Carrillo_FB127_LidContact1",
+      "vertices": 3264,
+      "triangles": 6144,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 7.049799485847219e-09,
+      "nonadjacent_BVH_overlap_pairs": 53,
+      "first_overlap_pairs": [
+        [
+          1588,
+          2357
+        ],
+        [
+          1588,
+          2356
+        ],
+        [
+          1589,
+          2356
+        ],
+        [
+          52,
+          3509
+        ],
+        [
+          52,
+          3508
+        ],
+        [
+          436,
+          3125
+        ],
+        [
+          436,
+          3124
+        ],
+        [
+          436,
+          3508
+        ],
+        [
+          53,
+          3508
+        ],
+        [
+          437,
+          3124
+        ],
+        [
+          1205,
+          2740
+        ],
+        [
+          1205,
+          2357
+        ],
+        [
+          1204,
+          2740
+        ],
+        [
+          821,
+          2741
+        ],
+        [
+          821,
+          2740
+        ],
+        [
+          820,
+          2741
+        ],
+        [
+          820,
+          3124
+        ],
+        [
+          1207,
+          1975
+        ],
+        [
+          823,
+          2358
+        ],
+        [
+          1206,
+          1975
+        ]
+      ]
+    },
+    {
+      "object": "Carrillo_FB152_B_medial-1",
+      "vertices": 551,
+      "triangles": 1008,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 2.4433220543792293e-11,
+      "nonadjacent_BVH_overlap_pairs": 0,
+      "first_overlap_pairs": []
+    },
+    {
+      "object": "Carrillo_FB152_B_medial1",
+      "vertices": 551,
+      "triangles": 1008,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 5.95284071303993e-11,
+      "nonadjacent_BVH_overlap_pairs": 0,
+      "first_overlap_pairs": []
+    }
+  ]
+}

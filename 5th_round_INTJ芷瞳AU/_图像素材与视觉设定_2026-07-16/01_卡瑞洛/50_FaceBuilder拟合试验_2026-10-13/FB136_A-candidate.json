@@ -1,0 +1,36 @@
+{
+  "base": "FB133",
+  "status": "not retained",
+  "root_cause": "Earlier clearance excluded boundary rim vertices shared with opaque skin",
+  "actual_change": "Advance penetrating opaque skin along unchanged camera ray; diffuse displacement; refit outer contact loops from exact head rim; keep real inner eye contacts fixed",
+  "required_max": 0.0,
+  "max_head_advance": 0.0,
+  "opaque_vertices_requiring_advance": 0,
+  "iris_and_globes_fixed": true,
+  "limits": [
+    "A single photo cannot determine eye depth uniquely",
+    "Reject a buried iris, thick vertical contact walls or artificial hollows",
+    "Actual native turned and neutral-light views required"
+  ],
+  "ocular": [
+    {
+      "side": -1,
+      "retreat": 0.018,
+      "scale_about_camera": 1.00285020240326,
+      "iris_projection_fixed": true,
+      "contact_outer_fixed": true,
+      "contact_inner_max_move": 0.018232997928015488
+    },
+    {
+      "side": 1,
+      "retreat": 0.018,
+      "scale_about_camera": 1.0028749467874658,
+      "iris_projection_fixed": true,
+      "contact_outer_fixed": true,
+      "contact_inner_max_move": 0.018258003877852737
+    }
+  ],
+  "hypothesis": "Separate eye depth from projected aperture. Refit continuous inner loft, medial tissue and tearline, then recheck opaque clearance.",
+  "visual_review": "Projectively fixed ocular recession plus continuous contact refit removes the breakthrough without changing iris size. Neutral closeup gain subtle; B requires turn/directional review, A/C not selected.",
+  "reviewed_at": "2026-10-15T03:58:20.748973+08:00"
+}

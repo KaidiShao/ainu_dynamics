@@ -1,0 +1,19 @@
+{
+  "source": "Carrillo_core_rebuild_R12G.blend",
+  "version": "R12G",
+  "finite": true,
+  "base_vertices": 52891,
+  "base_polygons": 52648,
+  "removed_unreferenced_vertices": 1249,
+  "inconsistent_shared_edge_winding": 0,
+  "nonmanifold_edges_over_two_faces": 0,
+  "intentional_aperture_boundary_edges": 488,
+  "evaluated_vertices": 52891,
+  "evaluated_triangles": 105296,
+  "degenerate_triangles_under_1e-9": 0,
+  "limitations": [
+    "Numerical integrity is not a likeness judgement.",
+    "The inner eyelid and mouth turn has an open edge inside each aperture.",
+    "F03-based material contains residual photographic illumination."
+  ]
+}

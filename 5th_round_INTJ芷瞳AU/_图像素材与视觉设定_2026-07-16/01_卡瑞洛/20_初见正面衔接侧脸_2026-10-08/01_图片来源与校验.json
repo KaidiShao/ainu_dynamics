@@ -1,0 +1,63 @@
+{
+  "created": "2026-10-08",
+  "generation_mode": "built-in image_gen",
+  "model_version": "not returned by tool",
+  "primary_deliverables": [
+    "T05",
+    "P06"
+  ],
+  "author_status": "AUTHOR_NOT_SATISFIED",
+  "record": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/20_初见正面衔接侧脸_2026-10-08/00_两视角生成记录与完整提示词.md",
+  "assets": [
+    {
+      "id": "T04",
+      "file": "MC_ANGLE_T04_初见正面衔接_三分之四审视候选_v4.png",
+      "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-46f3d572-7d35-4676-afe9-9981f37a2c78.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/20_初见正面衔接侧脸_2026-10-08/MC_ANGLE_T04_初见正面衔接_三分之四审视候选_v4.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/MC_FIRSTMEET_F03_F02均匀柔光面部对照_v3.png",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/MC_FIRSTMEET_F02_大块侧光与口周校准_初见候选_v2.png"
+      ],
+      "intent": "fresh_generation_with_references",
+      "status": "PROCESS / SHALLOW_VIEW",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "0D946F5463B010BA8481247FAC1A205C90780D371A85B3AFFF86C3AD8ACE5B61",
+      "bytes": 1984203,
+      "copy_verified": true
+    },
+    {
+      "id": "T05",
+      "file": "MC_ANGLE_T05_初见正面衔接_三分之四转角校准_v5.png",
+      "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-64ccd1c2-2364-4c51-a69b-017440cac7ef.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/20_初见正面衔接侧脸_2026-10-08/MC_ANGLE_T05_初见正面衔接_三分之四转角校准_v5.png",
+      "inputs": [
+        "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-46f3d572-7d35-4676-afe9-9981f37a2c78.png"
+      ],
+      "intent": "targeted_viewpoint_edit",
+      "status": "AUTHOR_NOT_SATISFIED / HISTORICAL_CANDIDATE / NOT_IDENTITY_ANCHOR / NOT_PROFILE_ANCHOR",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "E3C40FEFD32C03D319C09C4FF8F25AC2040F477BBA282736D000003F07E6DF12",
+      "bytes": 1995585,
+      "copy_verified": true
+    },
+    {
+      "id": "P06",
+      "file": "MC_ANGLE_P06_初见正面衔接_正侧审视候选_v6.png",
+      "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-16d586a2-1a0a-40f0-b63b-57231705730e.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/20_初见正面衔接侧脸_2026-10-08/MC_ANGLE_P06_初见正面衔接_正侧审视候选_v6.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/MC_FIRSTMEET_F03_F02均匀柔光面部对照_v3.png",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/MC_FIRSTMEET_F02_大块侧光与口周校准_初见候选_v2.png"
+      ],
+      "intent": "fresh_generation_with_references",
+      "status": "AUTHOR_NOT_SATISFIED / HISTORICAL_CANDIDATE / NOT_IDENTITY_ANCHOR / NOT_PROFILE_ANCHOR",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "E86FCDF5039E6DC656B1304718F5037A5E2038247E98D8623062F7E116379C31",
+      "bytes": 1949212,
+      "copy_verified": true
+    }
+  ]
+}

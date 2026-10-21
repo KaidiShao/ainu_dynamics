@@ -1,0 +1,35 @@
+{
+  "base": "FB21",
+  "status": "requires_same_scale_visual_review",
+  "evidence": "T22 visible iris diameters approximately 32\u201335 px; FB19 same-scale crop appears too small. Manual estimate, not exact ground truth.",
+  "changes": [
+    {
+      "side": -1,
+      "old_radius": 0.051142913526740066,
+      "new_radius": 0.056776934358419136,
+      "target_physical_diameter_px": 32.8,
+      "globe_center_unchanged": true,
+      "globe_radius_unchanged": true,
+      "new_gaze_direction": [
+        -0.2693597078323364,
+        -0.9615351557731628,
+        -0.053809698671102524
+      ]
+    },
+    {
+      "side": 1,
+      "old_radius": 0.050030439518104444,
+      "new_radius": 0.055520290024605186,
+      "target_physical_diameter_px": 32.8,
+      "globe_center_unchanged": true,
+      "globe_radius_unchanged": true,
+      "new_gaze_direction": [
+        0.3438785672187805,
+        -0.9385738372802734,
+        -0.028751524165272713
+      ]
+    }
+  ],
+  "face_geometry_unchanged": true,
+  "warning": "Do not claim this alone corrects stare or gaze. Retain previous calibrated version."
+}

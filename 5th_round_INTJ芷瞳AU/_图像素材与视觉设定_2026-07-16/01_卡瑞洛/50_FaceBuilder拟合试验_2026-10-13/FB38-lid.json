@@ -1,0 +1,14 @@
+{
+  "base": "FB35",
+  "status": "requires_independent_eye_closeup_and_profile_review",
+  "test": "Right lower lid central edge up to2 reference pixels upward; iris remains unchanged",
+  "max_total_displacement": 0.00694743240476289,
+  "max_globe_clearance_push": 0.0037329610554724937,
+  "contact_walls_and_lashes_rebuilt": true,
+  "left_aperture_unchanged": true,
+  "limits": [
+    "Coverage trial separate from right iris position trial",
+    "Do not adopt solely because it looks more severe",
+    "Reference shadows limit accurate aperture recovery"
+  ]
+}

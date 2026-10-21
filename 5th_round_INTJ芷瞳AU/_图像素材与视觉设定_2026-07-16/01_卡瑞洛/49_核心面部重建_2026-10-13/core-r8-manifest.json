@@ -1,0 +1,77 @@
+{
+  "version": "R8",
+  "status": "Author rejected the nasal type; retained as prior working model.",
+  "finite": true,
+  "normal_rotations_over_90deg": 0,
+  "edge_scale_range": [
+    0.8271262585787433,
+    1.1283354202375016
+  ],
+  "stages": [
+    {
+      "name": "R8_01_nasal_dorsum_and_tip_width",
+      "max_displacement": 1.4499588012695312,
+      "moved_vertices": 203
+    },
+    {
+      "name": "R8_02_upper_lid_fold_and_orbital_roof",
+      "max_displacement": 0.5049837779995385,
+      "moved_vertices": 317
+    },
+    {
+      "name": "R8_03_mandibular_angle_and_body",
+      "max_displacement": 1.6323389052837811,
+      "moved_vertices": 205
+    }
+  ],
+  "limits": [
+    "Geometry validation is not identity validation.",
+    "Nasal narrowing is localized; tip projection and alar base mostly preserved.",
+    "Photographic skin shading and inherited hair remain approximations."
+  ],
+  "preservation": "R7 blend and GLB verified unchanged by SHA256. Previous R7 web preview versioned.",
+  "alignment": "Same camera; retained R7 image alignment. No new automatic R8 landmark metrics.",
+  "validation": {
+    "version": "R8",
+    "errors": [],
+    "stats": {
+      "meshes": 8,
+      "vertices": 1124925,
+      "head": 1,
+      "hair": 3
+    },
+    "modelResource": [
+      "http://127.0.0.1:8849/carrillo-core-r8.glb"
+    ],
+    "views": [
+      "nose-neutral",
+      "nose-side-neutral",
+      "eyes-neutral",
+      "eyes-side-neutral",
+      "eyes",
+      "neutral",
+      "front-neutral",
+      "front",
+      "threequarter",
+      "near-profile"
+    ],
+    "overlay": "1"
+  },
+  "review": {
+    "author_request": "眼周、下颌角仍有差别，T22 的鼻子更窄。",
+    "selected_nasal_strength": 1.55,
+    "selection_basis": "Initial localized narrowing was visually conservative. A second study increased the same localized displacement; its width change was adopted without changing nasal tip projection.",
+    "independent_review_scope": "Initial R8 multiview render and the stronger nasal study front/neutral images.",
+    "independent_findings": [
+      "Lower dorsum and tip-shoulder narrowing is directionally closer to T22, with a modest overall change.",
+      "No visible pinched tip, clamped alae or new groove in the stronger nasal study; natural tip roundness remains.",
+      "Initial R8 multiview images show no obvious new square or overly hard jaw.",
+      "Some broad roundness remains at the nasal tip shoulders; this does not justify narrowing the entire nasal base."
+    ],
+    "primary_final_review_scope": "Final stronger-geometry near-profile render and neutral turned nasal closeup, after both render jobs completed.",
+    "primary_final_findings": "No obvious new sharp crease, pinching or inverted patch visible in these inspected views. Nasal profile remains continuous. Orbital and mandibular changes remain modest.",
+    "identity_status": "Not established; author evaluation pending.",
+    "technical_scope": "Local normal and finite-value checks, and loading/controls for ten browser comparison views. These do not establish likeness."
+  },
+  "subsequent_author_feedback": "我感觉你这两个人的鼻型就不一样 T22是鼻梁也比较高而且鼻翼窄的 你这个不对"
+}

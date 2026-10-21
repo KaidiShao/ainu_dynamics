@@ -1,0 +1,50 @@
+{
+  "id": "T33",
+  "created": "2026-10-12",
+  "mode": "built_in_imagegen",
+  "use_case": "identity-preserve",
+  "author_review": "positive_interest_with_hair_length_concern",
+  "status": "AUTHOR_INTEREST_WITH_HAIR_CONCERN / RETAINED_CANDIDATE / NOT_FINAL_IDENTITY_ANCHOR",
+  "user_request": "对 那你重新试试",
+  "responds_to": {
+    "image": "T32",
+    "author_feedback": "第三张下巴也太硬了吧 整个人感觉太凶了"
+  },
+  "input_images": [
+    {
+      "path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/37_眼色局部统一_2026-10-11/MC_STATE_T22_T19正面_浅蓝灰虹膜校准_v22.png",
+      "role": "sole approved identity, age, expression, eye-color and lighting reference"
+    }
+  ],
+  "image": {
+    "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-92009585-79e9-46f8-a53f-485a0eb01ede.png",
+    "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/42_自然唇颏与冷淡审视重建_2026-10-12/MC_ANGLE_T33_认可正面重建_自然唇颏与冷淡审视_v33.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 1740916,
+    "sha256": "B3E16876E94C00B626F8D3C96C0716568861001315EDD8612B5744D5645A7669",
+    "source_sha256": "B3E16876E94C00B626F8D3C96C0716568861001315EDD8612B5744D5645A7669"
+  },
+  "prompt": "Use case: identity-preserve.\n请以唯一参考图中的同一个虚构成年男人，生成一张真实电影摄影质感的三分之四侧脸肖像。参考图是已经确定的脸、年龄和神态，须保持人物辨识度。上胸部以上构图，脸朝画面右侧转约40度，双眼可见，远侧眼睛和面颊自然缩短。头颈端正、视线水平，人物持续看着画外同等高度的人。\n\n最重要的是把参考正面那种冷淡、内敛、沉着的注视原样带到侧面。他已经安静地看了对方一会儿，没有被对方挑起情绪，也没有急着给出回应。面部肌肉处于自然静止状态，眉头不向内挤、不向下拧，眉间舒展；眼睛保持参考图本来的开合与上眼睑形状，不睁大、不刻意眯眼。唇自然闭合，嘴角不向下拉，不抿嘴，不噘嘴，不微笑。保留那种有分量、难以读懂的注意力，不要变成凶狠、警惕、愤怒、倔强、困倦或亲切倾听。\n\n尤其准确保留参考图的口唇—下巴—下颌关系。下巴是下颌的自然收束，表面是连续、细微的曲面，没有独立向前顶出的硬块；下唇下方的沟浅而自然，不要挖深。保持参考图的下巴宽度、正常前突度和下半脸长度，不做方平底缘、方形硬颏、尖削小下巴或后缩下巴。面颊清瘦但不凹陷，保留同一个人的鼻梁鼻尖及嘴唇形态。不要为了表现冷峻而重塑硬骨骼或收紧整个脸。\n\n实用的短深色微卷发，原有深色外套和黑衬衣。虹膜保持低饱和、灰为主的浅蓝灰色，暗侧眼睛自然更暗。延续原图的大块方向性侧光与连贯阴影，暗部有少量反光，五官结构可辨，皮肤纹理自然，避免下巴下唇的刻意硬光切割。背景仍为原图的暗色室内。仅一张照片，不要拼图、文字或水印。",
+  "parent_review": "唇颏转折和眉間用力较T32减轻；整体神态较温和，不能将局部修改奏效等同于卡瑞洛身份与气质已成立。",
+  "independent_review": {
+    "reviewer": "/root/review_carrillo_angle",
+    "assessment": "T33的下巴硬块感和凶狠感减弱，颏部与下颌过渡更自然，眉间也没那么紧。没有软塌，但整体偏清秀、专注，仍有看着画外对象、等待信息的感觉；比T32温和，却还未恢复T22的沉着冷峻和低情绪反馈。有针对性改善，但不能据此认定身份成立或作者认可。",
+    "author_acceptance": false
+  },
+  "approved_anchors_unchanged": [
+    "T22",
+    "T23"
+  ],
+  "use_limit": "本轮单张候选；不自动成为身份、表情或三维结构参考。",
+  "author_feedback": {
+    "date": "2026-10-12",
+    "quote": "这张其实有点意思 但是头发太长了",
+    "interpretation": "作者对T33有兴趣，同时明确要求解决长发感；不等于对所有身份或神态维度完全认可。"
+  },
+  "followup": {
+    "id": "T34",
+    "path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/43_T33短发局部调整_2026-10-12/MC_ANGLE_T34_T33短发局部调整_v34.png",
+    "change": "shorter haircut only"
+  }
+}

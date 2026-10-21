@@ -1,0 +1,17 @@
+{
+  "status": "numeric_mesh_checks_only_not_likeness_approval",
+  "vertices": 42324,
+  "polygons": 42392,
+  "triangles": 84554,
+  "nonfinite_coordinates": 0,
+  "degenerate_triangles": 16,
+  "collapsed_edges": 0,
+  "inverted_triangles_vs_base": 276,
+  "max_normal_rotation_degrees": 111.7627214769395,
+  "max_vertex_displacement": 0.021990056287946317,
+  "limitations": [
+    "Does not prove likeness",
+    "Does not detect every possible surface self-intersection",
+    "Intentional neck boundary retained"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "base": "FB98",
+  "status": "partial retained",
+  "underside_lift_strength": 1.0,
+  "alar_narrow_strength": 0.0,
+  "max_displacement": 0.01507548849557539,
+  "observations": [
+    "T22 columellar base appears higher and alar width smaller than current render",
+    "Lighting differs, so shadow outline is not reliable alone"
+  ],
+  "limits": [
+    "Manual pixel interpretation, no likeness score",
+    "Camera-ray depth unchanged; this experiment does not claim recovered nasal projection",
+    "Reject compressed nostrils or pinched wings; check quarter and gray profile"
+  ],
+  "visual_review": "65% nasal-base lift retained in FB112 after neutral, gray and profile review; does not establish full nose identity.",
+  "reviewed_at": "2026-10-15T02:53:36.707336+08:00"
+}

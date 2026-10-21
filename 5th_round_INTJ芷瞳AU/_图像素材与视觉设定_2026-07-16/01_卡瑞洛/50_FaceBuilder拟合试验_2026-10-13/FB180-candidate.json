@@ -1,0 +1,35 @@
+{
+  "base": "FB178",
+  "status": "retained provisional working version; identity unapproved",
+  "requested_upper_lift_px": 3.0,
+  "max_actual_head_lift_px": 3.0,
+  "max_displacement": 0.009236334846404548,
+  "max_clearance": 7.451582295701139e-06,
+  "inner_missed_globe": 0,
+  "fixed": [
+    "178head",
+    "Actual physical eyes",
+    "Materials",
+    "166unaffected contact samples"
+  ],
+  "method": "Bright upper rim lifted; actual opaque skin checked against eye; outer contact follows skin and inner wetedge refitted by actual eye rays; lashes follow skin field",
+  "limits": [
+    "178had57nonadjacent overlap candidates;180requires fresh audit",
+    "Projection correction is not whole identity approval"
+  ],
+  "source_candidate": "FB177_A",
+  "changes_over166": "Bright central upper rim raised up to3referencepixels; pupil less occluded; outer skin/contact/lashes coordinated; physical eye fixed",
+  "rollback": "Carrillo_FaceBuilder_FB166.blend",
+  "original_base": "FB166",
+  "repair": {
+    "affected_samples": 49,
+    "min_max_ray_depth_gap": [
+      0.001562396825477208,
+      0.06226120688370429
+    ],
+    "outward_rounding": "min(.0012,.22*gap) so depth derivative remains positive",
+    "lower_contact_unchanged": 0.0
+  },
+  "visual_review": "All nine actual native views inspected after contact repair. Head geometry, separate ocular self-overlap/degeneration, contact-depth checks pass. Packed editable and isolated rebuild geometry/topology/colors/groom/UV hashes match. Browser assets/controls/GLB and explicit1448height verified. Small upper-lid projection improvement only.",
+  "reviewed_at": "2026-10-15T07:19:34.383726+08:00"
+}

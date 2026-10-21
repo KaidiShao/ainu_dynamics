@@ -1,0 +1,11 @@
+{
+  "base": "FB69",
+  "status": "unreviewed procedural pigment study",
+  "geometry_unchanged": true,
+  "method": "Irregular branching radial modulation, lobed collarette, crypt pigment variation, stable cool gray-blue base",
+  "limits": [
+    "Not physical iris reconstruction",
+    "No source glints or reference photo pasted",
+    "Must compare both neutral and directional actual3D renders"
+  ]
+}

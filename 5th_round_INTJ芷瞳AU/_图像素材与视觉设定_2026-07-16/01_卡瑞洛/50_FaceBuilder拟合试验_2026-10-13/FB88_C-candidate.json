@@ -1,0 +1,28 @@
+{
+  "base": "FB86",
+  "kind": "orbital_unit_depth",
+  "strength": 0.08,
+  "method": "Translate each whole globe/iris/cornea/eye patch/contact/tearline by the same vector, preserving spherical shape and axes. Eye rim follows exactly; broad skin falloff and brows/lashes follow. Test deeper placement, not narrower eye opening.",
+  "max_displacement": 0.08000036482815916,
+  "attachments_followed": [
+    "Carrillo_FB08_EyeSurface-1",
+    "Carrillo_FB08_EyeSurface1",
+    "Carrillo_FB15_Globe-1",
+    "Carrillo_FB15_Iris-1",
+    "Carrillo_FB15_Cornea-1",
+    "Carrillo_FB15_Globe1",
+    "Carrillo_FB15_Iris1",
+    "Carrillo_FB15_Cornea1",
+    "Carrillo_FB47b_ShortLashes",
+    "Carrillo_FB63_Brows",
+    "Carrillo_FB85_L2_LidContact-1",
+    "Carrillo_FB85_L2_LidContact1",
+    "Carrillo_FB85_L2_Tearline-1",
+    "Carrillo_FB85_L2_Tearline1"
+  ],
+  "camera_lights_materials_unchanged": true,
+  "status": "退回",
+  "rollback": "Open FB86; attachments do not automatically follow shape-key toggles",
+  "reviewed_at": "2026-10-14T11:06:57.996096+08:00",
+  "visual_finding": "较强的后移进一步加重眼周沟槽，转面也更生硬。"
+}

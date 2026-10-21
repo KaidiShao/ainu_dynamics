@@ -1,0 +1,59 @@
+{
+  "base": "FB121_A",
+  "status": "not adopted",
+  "actual_geometry": "Curved medial/lateral native tissue from exact lid boundaries to ocular sphere",
+  "head_and_iris_preserved": true,
+  "patches": [
+    {
+      "side": -1,
+      "region": "medial",
+      "corner_pixel": [
+        443.60412150621414,
+        478.17717933654785
+      ],
+      "maximum_lunate_width_px": 8.25,
+      "edge_width_fraction": 0.25,
+      "outer_edge_fallback_count": 319
+    },
+    {
+      "side": -1,
+      "region": "lateral",
+      "corner_pixel": [
+        364.8394852280617,
+        470.9495282173157
+      ],
+      "maximum_lunate_width_px": 2.0,
+      "edge_width_fraction": 0.25,
+      "outer_edge_fallback_count": 0
+    },
+    {
+      "side": 1,
+      "region": "medial",
+      "corner_pixel": [
+        541.727557361126,
+        472.4770851135254
+      ],
+      "maximum_lunate_width_px": 11.0,
+      "edge_width_fraction": 0.25,
+      "outer_edge_fallback_count": 232
+    },
+    {
+      "side": 1,
+      "region": "lateral",
+      "corner_pixel": [
+        625.6994179487228,
+        460.6154103279114
+      ],
+      "maximum_lunate_width_px": 5.0,
+      "edge_width_fraction": 0.25,
+      "outer_edge_fallback_count": 0
+    }
+  ],
+  "limits": [
+    "Anatomical closure approximation; reject visible solid plugs, dark wedges or intersections",
+    "Smaller eyeball ratio is not individual anatomical recovery",
+    "No automatic acceptance from pixel agreement"
+  ],
+  "visual_review": "Narrower patch does not change the occluding wall problem.",
+  "reviewed_at": "2026-10-15T03:25:50.022515+08:00"
+}

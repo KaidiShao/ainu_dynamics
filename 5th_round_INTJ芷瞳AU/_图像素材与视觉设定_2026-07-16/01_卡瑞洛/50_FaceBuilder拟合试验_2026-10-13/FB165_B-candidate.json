@@ -1,0 +1,26 @@
+{
+  "base": "FB153",
+  "status": "not adopted appearance alternative",
+  "geometry_unchanged": true,
+  "iris_low_high": [
+    [
+      0.14,
+      0.17,
+      0.19
+    ],
+    [
+      0.4,
+      0.43,
+      0.45
+    ]
+  ],
+  "canthal_material_trial": false,
+  "limits": [
+    "Appearance study only, does not repair orbit or establish identity",
+    "Same eye size, gaze, pupil, lights and camera",
+    "No emission or painted reflection/photo overlay",
+    "Reject luminous colored-contact or wet-plastic look"
+  ],
+  "visual_review": "Both light directions reviewed. Greater brightening remains an appearance alternative, not geometry improvement.",
+  "reviewed_at": "2026-10-15T06:15:24.002851+08:00"
+}

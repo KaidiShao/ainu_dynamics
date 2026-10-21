@@ -1,0 +1,13 @@
+{
+  "base": "FB77",
+  "status": "retained as working coverage improvement; likeness not approved",
+  "strands": 8000,
+  "identity_geometry_unchanged": true,
+  "evidence": "Orthographic +90 and opposite-quarter actual77 renders reveal scalp gap absent from original reference-camera views.",
+  "method": "Native short root curves following actual scalp via BVH, existing75 groom unchanged; no painted scalp or cap mesh",
+  "required_checks": [
+    "Gap coverage at opposite quarter and +90 profile",
+    "No visible new fringe or cap effect from original three reference views"
+  ],
+  "remaining": "Small sparse opposite whorl; main broad clumps still unlike T22"
+}

@@ -1,0 +1,43 @@
+{
+  "version": "FB91",
+  "timestamp": "2026-10-14T11:41:29.114625+08:00",
+  "base": "FB89",
+  "selected": "FB90_D",
+  "reference": "T22 only",
+  "decision": "tentative shallow pretarsal working study; not identity acceptance",
+  "findings": [
+    "T22 has narrow near-margin roll with thickness taper and a finer irregular lower transition",
+    "FB89 near margin too flat; broader lower shading insufficient",
+    "Rounded additions look tubular/swollen; D shallower flatter profile preferred",
+    "Inner corner continuity, lateral arc and thickness variation still inaccurate; whole likeness still fails"
+  ],
+  "candidates": [
+    {
+      "id": "FB90_A",
+      "decision": "圆管感仍较明显，未采用"
+    },
+    {
+      "id": "FB90_B",
+      "decision": "隆起过厚，显肿，退回"
+    },
+    {
+      "id": "FB90_C",
+      "decision": "加沟未改善圆管感，退回"
+    },
+    {
+      "id": "FB90_D",
+      "decision": "低平一些，眼下近缘层次较自然，暂作工作版"
+    },
+    {
+      "id": "FB90_E",
+      "decision": "仍略显肿，下缘偏重，退回"
+    }
+  ],
+  "checks": [
+    "Native same-light front closeups of baseline and5 candidates",
+    "D/E full-face front and40degree comparison",
+    "Selected four angles, gray front/quarter and strict profile",
+    "Numeric geometry audit, copied-geometry hash and packed editable-geometry hash"
+  ],
+  "likeness_approved": false
+}

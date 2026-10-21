@@ -1,0 +1,30 @@
+{
+  "base": "FB27",
+  "status": "requires_visual_review",
+  "changes": [
+    {
+      "source": "Carrillo_FB13_WavyClumps",
+      "new_object": "Carrillo_FB28_WavyClumps",
+      "curves": 36210,
+      "points": 1194930,
+      "max_radius": 0.0007439974501207217,
+      "unchanged_centerlines": true
+    },
+    {
+      "source": "Carrillo_FB14_SurfaceWaves",
+      "new_object": "Carrillo_FB28_SurfaceWaves",
+      "curves": 3618,
+      "points": 119394,
+      "max_radius": 0.0008999541778113435,
+      "unchanged_centerlines": true
+    }
+  ],
+  "face_geometry_unchanged": true,
+  "groom_centerlines_unchanged": true,
+  "material": "Principled Hair, melanin .82, redness .35, roughness .32, radial .48",
+  "limitations": [
+    "This fixes primitive/shading representation, not the unresolved T22 guide distribution",
+    "Old curves retained hidden; can be rolled back",
+    "No final likeness approval"
+  ]
+}

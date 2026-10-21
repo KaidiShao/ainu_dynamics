@@ -1,0 +1,83 @@
+{
+  "base": "FB98",
+  "status": "rejected",
+  "radius_scale": 0.9,
+  "ocular": [
+    {
+      "side": -1,
+      "old_center": [
+        -0.2312036623339478,
+        -0.6973702066690173,
+        0.3223425492389094
+      ],
+      "new_center": [
+        -0.30755525827407837,
+        -0.7063179016113281,
+        0.2941799759864807
+      ],
+      "old_new_globe_radius": [
+        0.18103684095785913,
+        0.16293315686207321
+      ],
+      "iris_radius": 0.054198906109582785,
+      "target_iris_px": [
+        398,
+        468
+      ],
+      "old_axis": [
+        -0.33832789054819484,
+        -0.940228637574824,
+        -0.0387859196281191
+      ],
+      "new_axis": [
+        0.125236377120018,
+        -0.9767195582389832,
+        0.1741688847541809
+      ]
+    },
+    {
+      "side": 1,
+      "old_center": [
+        0.24376861115729476,
+        -0.7151262605236398,
+        0.3238620525402818
+      ],
+      "new_center": [
+        0.2954324781894684,
+        -0.719448447227478,
+        0.30611056089401245
+      ],
+      "old_new_globe_radius": [
+        0.17233821950372935,
+        0.15510439755335642
+      ],
+      "iris_radius": 0.053936830838386345,
+      "target_iris_px": [
+        587,
+        455
+      ],
+      "old_axis": [
+        0.38688774207586785,
+        -0.9219683578432014,
+        -0.01709450693490011
+      ],
+      "new_axis": [
+        0.03230851888656616,
+        -0.9842140674591064,
+        0.17400804162025452
+      ]
+    }
+  ],
+  "old_axis_separation_degrees": 42.55494168557919,
+  "new_axis_separation_degrees": 5.343601022508932,
+  "maximum_skin_advance": 0.06368678727742866,
+  "skin_vertices_over_001": 605,
+  "limits": [
+    "This is native geometric axis separation, not a medical diagnosis",
+    "Sphere clearance approximate; inspect real renders for skin bumps and holes",
+    "New gaze is a plausible target, not unique recovery from the image",
+    "Do not hide penetration with painted shadows or promote on pin agreement"
+  ],
+  "visual_review": "Axes coordinated but globe placement pushes up lids; inner gap/contour still unnatural",
+  "reviewed_at": "2026-10-15T01:25:20.809579+08:00"
+}

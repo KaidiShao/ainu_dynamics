@@ -1,0 +1,14 @@
+{
+  "base": "FB35b",
+  "status": "requires_neutral_and_reversed_light_review",
+  "geometry_unchanged": true,
+  "reason": "FB35b periodic line pattern looks mechanically ribbed and was rejected",
+  "changes": [
+    "Replace regular sine striae with low-amplitude bounded high-frequency T22 detail inside vermilion mask"
+  ],
+  "limits": [
+    "Reference high-frequency shading is only a visual texture study, not measured height",
+    "No low-frequency photo lighting pasted as base color",
+    "Reject if it forms scaly marks or changes lip silhouette"
+  ]
+}

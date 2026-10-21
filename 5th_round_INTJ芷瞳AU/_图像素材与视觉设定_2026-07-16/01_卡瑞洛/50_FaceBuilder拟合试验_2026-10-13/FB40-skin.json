@@ -1,0 +1,12 @@
+{
+  "base": "FB35",
+  "geometry_unchanged": true,
+  "status": "unreviewed approximate reflectance experiment",
+  "source": "skin-delight-study.json",
+  "limits": [
+    "Not unique reconstructed albedo",
+    "May still retain photographic shading",
+    "Must reject if patches persist under opposite lighting",
+    "No geometric likeness claim"
+  ]
+}

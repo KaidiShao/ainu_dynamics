@@ -1,0 +1,16 @@
+{
+  "base": "FB55",
+  "head_geometry": "FB65: only key13 reduced to.25",
+  "groom": "FB62 native smooth scalp-rooted groom, technical improvement; still not T22 hair arrangement",
+  "brows": "FB63 tapered outer root density/length with51b inner body",
+  "sclera": "FB64 reduced albedo, no further darkening",
+  "cornea": "FB53 retained; FB66 closed-volume test not adopted without benefit",
+  "status": "requires integrated threeview and gray/audit verification, not likeness approval",
+  "remaining": [
+    "Generic CG appearance",
+    "Eye contact/corner structure",
+    "Skin response and small-scale anatomy",
+    "Exact T22 curl organization",
+    "Mouth corner closure"
+  ]
+}

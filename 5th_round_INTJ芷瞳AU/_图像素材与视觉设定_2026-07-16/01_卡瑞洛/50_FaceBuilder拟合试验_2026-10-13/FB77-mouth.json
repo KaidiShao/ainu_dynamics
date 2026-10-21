@@ -1,0 +1,12 @@
+{
+  "base": "FB75",
+  "status": "retained working change; overall likeness not approved",
+  "max_delta": 0.01587116564736345,
+  "change": "Recede narrow lower-lip underside centered702px along original frontal rays, no projected lip-boundary shift. Preserve groove key06 .55.",
+  "evidence": "Actual mesh normals at705/715px face away from key and are shadowed by the same head. Reducing groove depth72 did not fix the dark region.",
+  "limits": [
+    "Inferred contour correction; retain only with gray/material and profile comparison",
+    "No further narrowing of lip or broad chin change",
+    "Do not equate less shadow with accurate identity"
+  ]
+}

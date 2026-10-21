@@ -1,0 +1,26 @@
+{
+  "base": "FB14",
+  "status": "requires_neutral_and_changed_light_review",
+  "geometry_unchanged": true,
+  "source_detail": "T22 high frequency only, bounded amplitude; not measured height",
+  "regions": [
+    "cheeks",
+    "nose bridge",
+    "chin",
+    "small forehead patch"
+  ],
+  "excluded_by_region_mask": [
+    "eyes",
+    "brows",
+    "scalp",
+    "mouth opening",
+    "unseen back surfaces"
+  ],
+  "lighting_not_baked_as_base_color": true,
+  "limitations": [
+    "High frequency photo shading can still contaminate detail, so do not call this recovered albedo",
+    "No real geometric wrinkles added",
+    "Hair remains unapproved FB14 groom",
+    "Must compare with FB14 under identical light"
+  ]
+}

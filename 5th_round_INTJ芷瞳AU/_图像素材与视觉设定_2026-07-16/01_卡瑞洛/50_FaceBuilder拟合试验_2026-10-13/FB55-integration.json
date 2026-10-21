@@ -1,0 +1,9 @@
+{
+  "base": "FB49",
+  "head_geometry": "FB45, unchanged",
+  "brows": "FB51b wider feathered native fibers, independently retained",
+  "lashes": "FB47b grouped short fibers, independently retained",
+  "ocular_surface": "FB53 spherical cornea, tearfilm and lower meniscus retained as structural/material improvement; glint imbalance remains",
+  "lighting": "Original neutral rig; diagnostic window lighting NOT copied",
+  "status": "requires integrated threeview review, not final likeness"
+}

@@ -1,0 +1,18 @@
+{
+  "base": "FB153",
+  "status": "not adopted",
+  "geometry_unchanged": true,
+  "iris_low_high": [
+    null,
+    null
+  ],
+  "canthal_material_trial": true,
+  "limits": [
+    "Appearance study only, does not repair orbit or establish identity",
+    "Same eye size, gaze, pupil, lights and camera",
+    "No emission or painted reflection/photo overlay",
+    "Reject luminous colored-contact or wet-plastic look"
+  ],
+  "visual_review": "Both light directions reviewed. Front corner stays dark, reverse light exposes a pink plug-like patch; material alone does not solve its geometric orientation.",
+  "reviewed_at": "2026-10-15T06:15:24.002851+08:00"
+}

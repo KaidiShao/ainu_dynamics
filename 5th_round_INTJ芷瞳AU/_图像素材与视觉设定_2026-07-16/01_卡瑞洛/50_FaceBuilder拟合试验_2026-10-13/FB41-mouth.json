@@ -1,0 +1,17 @@
+{
+  "base": "FB35",
+  "status": "needs_neutral_gray_and_profile_review",
+  "evidence": "mouth-coordinate-audit.png and reviewed constrained dark seam traces",
+  "changes": [
+    "Shallow smooth mouth seam curve fromT22; center/right region up to4 reference pixels up, left corner about2pixels down",
+    "Upper lip transition follows with18px falloff, lower lip10px falloff; lower border/philtrum/nose/chin nearly unchanged",
+    "No forward lip projection or width adjustment"
+  ],
+  "max_pixel_shift": 3.704457228947091,
+  "max_world_displacement": 0.012005776323790584,
+  "limits": [
+    "Reference dark seam is ambiguous in left shadow",
+    "Must reject if mouth looks smirking/open/pouting",
+    "This does not recover lip depth or prove identity"
+  ]
+}

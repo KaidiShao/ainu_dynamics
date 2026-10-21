@@ -1,0 +1,31 @@
+{
+  "status": "small_refinement_requires_visual_review",
+  "units": "Blender units; head height about 3 units",
+  "base": "FB01",
+  "changes": [
+    {
+      "name": "01_Eyelids_thinner_lower_rim",
+      "max_displacement": 0.013979587956557144,
+      "affected_vertices": 1881
+    },
+    {
+      "name": "02_Nasal_bridge_support",
+      "max_displacement": 0.020958939401216202,
+      "affected_vertices": 1546
+    },
+    {
+      "name": "03_Lips_cupid_bow_and_side_volume",
+      "max_displacement": 0.009269379590759191,
+      "affected_vertices": 1413
+    },
+    {
+      "name": "04_Submalar_and_jaw_plane",
+      "max_displacement": 0.013547617648310825,
+      "affected_vertices": 4003
+    }
+  ],
+  "limitations": [
+    "Aesthetic/anatomical interpretation; not a scan",
+    "FB base remains hidden and editable; refined object has reversible shape keys"
+  ]
+}

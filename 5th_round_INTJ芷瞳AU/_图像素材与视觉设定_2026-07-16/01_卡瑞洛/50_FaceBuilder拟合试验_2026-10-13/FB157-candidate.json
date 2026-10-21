@@ -1,0 +1,14 @@
+{
+  "base": "FB153 via155C",
+  "status": "candidate for integration",
+  "geometry": "55 percent155C cupid peaks and commissure field; depth unchanged",
+  "appearance": "Lip-only UV correction;153 bump strength/distance and roughness unchanged",
+  "limits": [
+    "Small contour hypothesis, not identity approval",
+    "T22 upperlip partly shadowed",
+    "Global eyes and jaw unresolved",
+    "New UV requires separate UV hash for reconstruction verification"
+  ],
+  "visual_review": "Native front/both40turns, near-side85, gray front/quarter, strict profile, directional and mouth neutral/gray inspected. Small mouth contour improvement plausible, no clear new protrusion/smile. EntireT22 likeness not approved.",
+  "reviewed_at": "2026-10-15T06:05:11.711847+08:00"
+}

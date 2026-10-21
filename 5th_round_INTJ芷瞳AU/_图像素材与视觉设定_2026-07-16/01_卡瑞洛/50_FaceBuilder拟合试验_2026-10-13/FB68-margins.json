@@ -1,0 +1,28 @@
+{
+  "base": "FB67",
+  "status": "candidates off pending matched reference inspection",
+  "changes": [
+    {
+      "key": "25_Upper_lid_margin_support",
+      "default": 0,
+      "max_displacement": 0.00494215132428218
+    },
+    {
+      "key": "26_Lower_lid_margin_support",
+      "default": 0,
+      "max_displacement": 0.007959876872814332
+    }
+  ],
+  "locked": [
+    "Aperture boundary and interior",
+    "Globe and iris",
+    "Eye corners",
+    "Broad under-eye cheek surface"
+  ],
+  "rationale": "Test local 2\u20136pixel margin thickness rather than FB56 broad bags or FB61 global rim-depth shift.",
+  "limits": [
+    "Small depth hypothesis from single reference",
+    "Reject tube-like rim, narrowed eye appearance, bright lower strip or bags",
+    "No automatic likeness approval"
+  ]
+}

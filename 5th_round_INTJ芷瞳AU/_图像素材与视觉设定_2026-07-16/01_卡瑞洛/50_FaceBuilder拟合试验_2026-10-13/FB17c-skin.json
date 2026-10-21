@@ -1,0 +1,9 @@
+{
+  "base": "FB17b",
+  "status": "requires_visual_review",
+  "rationale": "FB17b reveals source-derived swirly/scaly patches too strongly; reduce bump amplitude to about 27 percent and color modulation to 56 percent",
+  "bump_strength": 0.18,
+  "bump_distance": 0.004,
+  "geometry_unchanged": true,
+  "still_not_a_measured_normal_map": true
+}

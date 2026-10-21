@@ -1,0 +1,28 @@
+{
+  "base": "FB133",
+  "status": "rejected",
+  "reference": "T22 only",
+  "boundary_compression": 0.0,
+  "cross_section_relief": 1.0,
+  "requested_max_compression_px": 4.5,
+  "actual_vertical_screen_range_px": [
+    -8.630752563476562e-05,
+    8.630752563476562e-05
+  ],
+  "max_head_displacement": 0.008799580439877339,
+  "aperture_max_delta": 0.0,
+  "fixed": [
+    "Globe and iris",
+    "Aperture and contact mesh",
+    "Camera and light",
+    "Material colors",
+    "Nose mouth and jaw"
+  ],
+  "limits": [
+    "Boundary inferred from a differently lit single view",
+    "Reject narrowed strip, bag-like volume or angular transitions",
+    "Rollback uses full FB133 file"
+  ],
+  "visual_review": "Lower-band compression/relief caused visible globe breakthrough below the lower lid; clean head topology alone missed this cross-object failure.",
+  "reviewed_at": "2026-10-15T03:58:20.748973+08:00"
+}

@@ -1,0 +1,27 @@
+{
+  "base": "FB123_A",
+  "status": "rejected",
+  "method": "Subdivide existing obstructing contact mesh, conform it to continuous canthal target; hide target overlay to prevent duplicates",
+  "strength": 0.65,
+  "changes": [
+    {
+      "side": -1,
+      "vertices": 3264,
+      "projected_vertices": 262,
+      "max_displacement": 0.041618129648690015
+    },
+    {
+      "side": 1,
+      "vertices": 3264,
+      "projected_vertices": 532,
+      "max_displacement": 0.02139691995440695
+    }
+  ],
+  "head_and_globes_unchanged": true,
+  "limits": [
+    "Projected contact deformation must be checked in3D from both sides",
+    "Cannot infer natural anatomy or likeness from frontal cleanup alone"
+  ],
+  "visual_review": "Partial reproject still creates dark holes and discontinuities.",
+  "reviewed_at": "2026-10-15T03:25:50.022515+08:00"
+}

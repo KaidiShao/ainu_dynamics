@@ -1,0 +1,18 @@
+{
+  "base": "FB28",
+  "status": "requires_threeview_review",
+  "geometry_unchanged": true,
+  "reason": "Independent review found overly strong grey-silver and orange front-crown highlights",
+  "hair_shader_changes": {
+    "Melanin": 0.9,
+    "Melanin Redness": 0.2,
+    "Roughness": 0.5,
+    "Radial Roughness": 0.55,
+    "Random Color": 0.06,
+    "Random Roughness": 0.08
+  },
+  "limitations": [
+    "Groom still unresolved",
+    "No final likeness approval"
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "base": "FB186",
+  "status": "retained in188 as accessory correction",
+  "unchanged": [
+    "All head/eye/contact/canthal geometry",
+    "Upper lashes",
+    "All lower-lash root coordinates",
+    "All shader/UV/light settings"
+  ],
+  "changes": [
+    {
+      "spline": 272,
+      "length_factor": 0.606407650212949,
+      "radius_factor": 0.4613311558028753,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 273,
+      "length_factor": 0.6094061338241015,
+      "radius_factor": 0.5089390223464454,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 274,
+      "length_factor": 0.6446082315427273,
+      "radius_factor": 0.4990640381075785,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 275,
+      "length_factor": 0.5111947431624352,
+      "radius_factor": 0.4799953024892681,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 276,
+      "length_factor": 0.5013783217317801,
+      "radius_factor": 0.4867689674595648,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 277,
+      "length_factor": 0.7404634457524337,
+      "radius_factor": 0.3743216788133369,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 278,
+      "length_factor": 0.49464380311634876,
+      "radius_factor": 0.46726786671125087,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 279,
+      "length_factor": 0.5955698266848782,
+      "radius_factor": 0.3718362463365299,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 280,
+      "length_factor": 0.46215931414322764,
+      "radius_factor": 0.3696387693830265,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 281,
+      "length_factor": 0.6442873152809483,
+      "radius_factor": 0.4087179239556122,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 282,
+      "length_factor": 0.5777624607306044,
+      "radius_factor": 0.42547042026246273,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 283,
+      "length_factor": 0.576513248628496,
+      "radius_factor": 0.44071549760598017,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 284,
+      "length_factor": 0.5837181148414647,
+      "radius_factor": 0.3746046210791207,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 285,
+      "length_factor": 0.6699175367957655,
+      "radius_factor": 0.46377378962726007,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 286,
+      "length_factor": 0.5564470744429899,
+      "radius_factor": 0.4210604280588755,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 287,
+      "length_factor": 0.4606260600757564,
+      "radius_factor": 0.40259274746271023,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 288,
+      "length_factor": 0.5817124013392148,
+      "radius_factor": 0.5377941098418553,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 289,
+      "length_factor": 0.7179938150359264,
+      "radius_factor": 0.4506067301338036,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 290,
+      "length_factor": 0.6307423509604256,
+      "radius_factor": 0.3887929788591356,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 291,
+      "length_factor": 0.4690754588739061,
+      "radius_factor": 0.5094300793472385,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 292,
+      "length_factor": 0.572725626684353,
+      "radius_factor": 0.4781827296055832,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 293,
+      "length_factor": 0.721670599857496,
+      "radius_factor": 0.5227481471553249,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 294,
+      "length_factor": 0.7197057366282777,
+      "radius_factor": 0.42009776727206966,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 295,
+      "length_factor": 0.46825219719703787,
+      "radius_factor": 0.538460044274131,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 296,
+      "length_factor": 0.4624896418719942,
+      "radius_factor": 0.50138363833154,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 297,
+      "length_factor": 0.7470260475911121,
+      "radius_factor": 0.5122322603671439,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 298,
+      "length_factor": 0.48938864410144944,
+      "radius_factor": 0.4122976140854589,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 299,
+      "length_factor": 0.6175089949622483,
+      "radius_factor": 0.3761867801568706,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 300,
+      "length_factor": 0.5243856496495323,
+      "radius_factor": 0.4370619184206757,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 301,
+      "length_factor": 0.6870067421766218,
+      "radius_factor": 0.3887656260424132,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 302,
+      "length_factor": 0.7074920170096468,
+      "radius_factor": 0.36382660997685407,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 303,
+      "length_factor": 0.5199092574952061,
+      "radius_factor": 0.39957113675772593,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 304,
+      "length_factor": 0.5866130657991603,
+      "radius_factor": 0.5022316052841183,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 305,
+      "length_factor": 0.6747516074187505,
+      "radius_factor": 0.4289683376324804,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 306,
+      "length_factor": 0.7457882775479965,
+      "radius_factor": 0.5380001975672778,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 307,
+      "length_factor": 0.6878785347899794,
+      "radius_factor": 0.46194383403327605,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 308,
+      "length_factor": 0.6267663800101928,
+      "radius_factor": 0.470512023855371,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 309,
+      "length_factor": 0.578852188562226,
+      "radius_factor": 0.48481526312512135,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 310,
+      "length_factor": 0.49690142661739894,
+      "radius_factor": 0.4510842298023229,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 311,
+      "length_factor": 0.5685775251848818,
+      "radius_factor": 0.5273034342309101,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 312,
+      "length_factor": 0.6157437490110685,
+      "radius_factor": 0.3818856931052612,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 313,
+      "length_factor": 0.6329430883459702,
+      "radius_factor": 0.4945122106208747,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 314,
+      "length_factor": 0.4814720465782863,
+      "radius_factor": 0.38841674450049507,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 315,
+      "length_factor": 0.6023750729309515,
+      "radius_factor": 0.5097866790605569,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 316,
+      "length_factor": 0.5898072255622824,
+      "radius_factor": 0.45150056067790834,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 317,
+      "length_factor": 0.6264872833015872,
+      "radius_factor": 0.5056652981677067,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 318,
+      "length_factor": 0.654005531266066,
+      "radius_factor": 0.4528885313541468,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 319,
+      "length_factor": 0.7078824556247972,
+      "radius_factor": 0.5185613168385499,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 320,
+      "length_factor": 0.6929637167191022,
+      "radius_factor": 0.47067514424582513,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 321,
+      "length_factor": 0.7445446658995934,
+      "radius_factor": 0.46306109365632137,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 322,
+      "length_factor": 0.7493890753249208,
+      "radius_factor": 0.5074162446160407,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 323,
+      "length_factor": 0.5456698642451149,
+      "radius_factor": 0.4252252273401507,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 324,
+      "length_factor": 0.6629781747225428,
+      "radius_factor": 0.5343762980899018,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 325,
+      "length_factor": 0.5470593017206883,
+      "radius_factor": 0.36484937960636055,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 326,
+      "length_factor": 0.6420148823197434,
+      "radius_factor": 0.4862914012294915,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 327,
+      "length_factor": 0.48887816226693004,
+      "radius_factor": 0.4767706676126291,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 328,
+      "length_factor": 0.5606195866486934,
+      "radius_factor": 0.43185693557412064,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 329,
+      "length_factor": 0.6529880301522728,
+      "radius_factor": 0.4012486416834809,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 330,
+      "length_factor": 0.7378026344237317,
+      "radius_factor": 0.4343634766469945,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 331,
+      "length_factor": 0.724257162521321,
+      "radius_factor": 0.47961419892424306,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 332,
+      "length_factor": 0.5048308763555468,
+      "radius_factor": 0.4690507405584557,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 333,
+      "length_factor": 0.6951757460353679,
+      "radius_factor": 0.3825109964346047,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 334,
+      "length_factor": 0.5673321884058726,
+      "radius_factor": 0.37705825807136584,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 335,
+      "length_factor": 0.48200808561119884,
+      "radius_factor": 0.484107550159393,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 336,
+      "length_factor": 0.6853322980499057,
+      "radius_factor": 0.3968023523351409,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 337,
+      "length_factor": 0.48477599727835546,
+      "radius_factor": 0.40695423300700356,
+      "max_surface_clearance_correction": 0.0001818364247077483
+    },
+    {
+      "spline": 338,
+      "length_factor": 0.5386895510355127,
+      "radius_factor": 0.4724504308989826,
+      "max_surface_clearance_correction": 9.12056896194443e-05
+    },
+    {
+      "spline": 339,
+      "length_factor": 0.7139897965660202,
+      "radius_factor": 0.47694812648413326,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 340,
+      "length_factor": 0.6386923410488003,
+      "radius_factor": 0.5126342041842954,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 341,
+      "length_factor": 0.5910439509064794,
+      "radius_factor": 0.518476648742148,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 342,
+      "length_factor": 0.5778992590611666,
+      "radius_factor": 0.42976442209516097,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 343,
+      "length_factor": 0.48795520113723145,
+      "radius_factor": 0.3887951187660045,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 344,
+      "length_factor": 0.7220218503090572,
+      "radius_factor": 0.5095145210396658,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 345,
+      "length_factor": 0.7127686068267719,
+      "radius_factor": 0.38846043917119516,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 346,
+      "length_factor": 0.5574647173317646,
+      "radius_factor": 0.5214746010835609,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 347,
+      "length_factor": 0.749762039815874,
+      "radius_factor": 0.38233694915253874,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 348,
+      "length_factor": 0.7319287970193329,
+      "radius_factor": 0.5365136494986783,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 349,
+      "length_factor": 0.497470660491086,
+      "radius_factor": 0.5335143023422471,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 350,
+      "length_factor": 0.5928754573808395,
+      "radius_factor": 0.516472751726388,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 351,
+      "length_factor": 0.5562941786154044,
+      "radius_factor": 0.4050973644509441,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 352,
+      "length_factor": 0.580281491545484,
+      "radius_factor": 0.41936686218440605,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 353,
+      "length_factor": 0.7476894995122898,
+      "radius_factor": 0.37192484851288965,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 354,
+      "length_factor": 0.46293936703799804,
+      "radius_factor": 0.37981029556655027,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 355,
+      "length_factor": 0.6378381789711102,
+      "radius_factor": 0.3718384640367282,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 356,
+      "length_factor": 0.6744070788893809,
+      "radius_factor": 0.3989652061607631,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 357,
+      "length_factor": 0.5359163926936972,
+      "radius_factor": 0.47021367699556854,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 358,
+      "length_factor": 0.6980687808432307,
+      "radius_factor": 0.46118056610079217,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 359,
+      "length_factor": 0.7139607845215146,
+      "radius_factor": 0.3958994819924494,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 360,
+      "length_factor": 0.5168937587580986,
+      "radius_factor": 0.4597209166069388,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 361,
+      "length_factor": 0.6523419528815918,
+      "radius_factor": 0.36309530046116695,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 362,
+      "length_factor": 0.47813482303396254,
+      "radius_factor": 0.43353182225193027,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 363,
+      "length_factor": 0.6438603348959911,
+      "radius_factor": 0.4719756162051299,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 364,
+      "length_factor": 0.5745204815550373,
+      "radius_factor": 0.40485035885311144,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 365,
+      "length_factor": 0.737846010062148,
+      "radius_factor": 0.48339727859398157,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 366,
+      "length_factor": 0.4837603099491733,
+      "radius_factor": 0.37055468898727967,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 367,
+      "length_factor": 0.632724913073946,
+      "radius_factor": 0.402758219455051,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 368,
+      "length_factor": 0.571143942206255,
+      "radius_factor": 0.5381475264646973,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 369,
+      "length_factor": 0.6008359201811154,
+      "radius_factor": 0.4141437593880215,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 370,
+      "length_factor": 0.5797695803255871,
+      "radius_factor": 0.4876239023058713,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 371,
+      "length_factor": 0.7211039049371712,
+      "radius_factor": 0.44110125568806385,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 372,
+      "length_factor": 0.5964793531588578,
+      "radius_factor": 0.4110727106360946,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 373,
+      "length_factor": 0.5927498265374213,
+      "radius_factor": 0.3640858433543132,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 374,
+      "length_factor": 0.4724873936439928,
+      "radius_factor": 0.5026689813066025,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 375,
+      "length_factor": 0.7321246839914068,
+      "radius_factor": 0.5344118036117552,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 376,
+      "length_factor": 0.6094318782284143,
+      "radius_factor": 0.51981711885958,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 377,
+      "length_factor": 0.5916946561484832,
+      "radius_factor": 0.3896986619111797,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 378,
+      "length_factor": 0.6474808038789529,
+      "radius_factor": 0.449876650872641,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 379,
+      "length_factor": 0.5651425873061992,
+      "radius_factor": 0.4862619849700627,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 380,
+      "length_factor": 0.5174523179152414,
+      "radius_factor": 0.5208917744403231,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 381,
+      "length_factor": 0.7176265925739391,
+      "radius_factor": 0.4032782738354005,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 382,
+      "length_factor": 0.5444980739190028,
+      "radius_factor": 0.3914089004534589,
+      "max_surface_clearance_correction": 0.0
+    },
+    {
+      "spline": 383,
+      "length_factor": 0.5268585527667501,
+      "radius_factor": 0.5357422354052619,
+      "max_surface_clearance_correction": 0.0
+    }
+  ],
+  "limitations": [
+    "Accessory adjustment only, not orbital reconstruction",
+    "Lower root placement remains inherited; verify no floating hairs or unnaturally uniform fringe",
+    "Procedural variation is a design hypothesis, not recovered individual lashes"
+  ],
+  "visual_review": "Both native eye crops and B front/quarter/directional inspected. Shorter, finer, varying lower lashes reduce an overly conspicuous regular fringe; roots, upper lashes and eye/head geometry fixed.",
+  "reviewed_at": "2026-10-15T08:00:40.794393+08:00",
+  "likeness_approved": false
+}

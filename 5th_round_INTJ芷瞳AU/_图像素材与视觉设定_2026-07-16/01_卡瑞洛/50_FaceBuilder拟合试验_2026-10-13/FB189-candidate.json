@@ -1,0 +1,29 @@
+{
+  "base": "FB188",
+  "status": "provisional final overnight working version; identity unapproved",
+  "changes": [
+    {
+      "side": -1,
+      "moved_boundary_samples": 0,
+      "max_displacement": 0.0,
+      "inner_boundary_unchanged": true
+    },
+    {
+      "side": 1,
+      "moved_boundary_samples": 11,
+      "max_displacement": 0.0012700119701596693,
+      "inner_boundary_unchanged": true
+    }
+  ],
+  "fixed": [
+    "Head geometry",
+    "Globe/cornea/iris",
+    "Inner wet-line boundary",
+    "All lashes and brows and hair",
+    "All material/UV/camera/light"
+  ],
+  "scope": "Reduce measured outer boundary residual up to0.00127 model units; no claimed identity improvement. Inspect self-overlap and actual closeup before retaining.",
+  "visual_review": "Nine native views inspected; packed editable, independent rebuild and browser comparison checked. Head/eyes180, contact outer boundary189, UV registration186, lower lashes187B. Not a character-likeness pass.",
+  "reviewed_at": "2026-10-15T08:00:40.794393+08:00",
+  "likeness_approved": false
+}

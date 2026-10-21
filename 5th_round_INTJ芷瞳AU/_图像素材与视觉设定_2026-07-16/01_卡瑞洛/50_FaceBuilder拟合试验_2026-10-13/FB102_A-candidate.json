@@ -1,0 +1,51 @@
+{
+  "base": "FB99_B",
+  "radius_scale": 1.08,
+  "status": "candidate only",
+  "geometry_changes": [
+    {
+      "side": -1,
+      "old_new_iris_radius": [
+        0.056045181564619975,
+        0.060528796089789574
+      ],
+      "globe_radius": 0.18103684073715554,
+      "center_before_px": [
+        397.9505690932274,
+        467.7239570617676
+      ],
+      "center_after_px": [
+        398.16596031188965,
+        467.62979555130005
+      ]
+    },
+    {
+      "side": 1,
+      "old_new_iris_radius": [
+        0.05408326062677628,
+        0.05840992147691838
+      ],
+      "globe_radius": 0.1723382181678423,
+      "center_before_px": [
+        587.176463842392,
+        454.8051013946533
+      ],
+      "center_after_px": [
+        587.017550110817,
+        454.760048866272
+      ]
+    }
+  ],
+  "unchanged": [
+    "Head, lids, globe centers and radii",
+    "Iris pigment and pupil-to-iris ratio",
+    "Camera and lights"
+  ],
+  "limits": [
+    "Manual reference estimate, not known biological anatomy",
+    "Reject large doll-like iris, limbal discontinuity or corneal/globe interference",
+    "This does not solve eye-socket depth"
+  ],
+  "visual_review": "8% physical iris-radius increase on FB99_B; coordinated scleral limbus rebuilt; closeup reviewed, whole-face validation pending",
+  "reviewed_at": "2026-10-15T01:25:20.809579+08:00"
+}

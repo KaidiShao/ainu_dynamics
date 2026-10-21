@@ -1,0 +1,33 @@
+{
+  "base": "FB16",
+  "status": "requires_visual_review",
+  "method": "Separate 3D eyelid inner walls between existing aperture and actual sclera/cornea ray hits",
+  "changes": [
+    {
+      "side": -1,
+      "aperture_vertices": 48,
+      "nearest_point_fallbacks": 5,
+      "wall_depth_min_max": [
+        0.00016410332137918455,
+        0.047725349408676856
+      ],
+      "head_aperture_unchanged": true
+    },
+    {
+      "side": 1,
+      "aperture_vertices": 48,
+      "nearest_point_fallbacks": 0,
+      "wall_depth_min_max": [
+        0.00023630231774846532,
+        0.04168397094736507
+      ],
+      "head_aperture_unchanged": true
+    }
+  ],
+  "head_geometry_unchanged": true,
+  "iris_size_and_globe_position_unchanged": true,
+  "limitations": [
+    "Inner walls are a fitted anatomical approximation",
+    "Contact shadow and corner folds need inspection; this does not prove likeness"
+  ]
+}

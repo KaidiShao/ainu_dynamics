@@ -1,0 +1,1044 @@
+{
+  "objects": [
+    {
+      "name": "Carrillo_FB15_Globe-1",
+      "materials": [
+        "FB64_scleral_response-1"
+      ]
+    },
+    {
+      "name": "Carrillo_FB15_Iris-1",
+      "materials": [
+        "FB30_radial_iris-1"
+      ]
+    },
+    {
+      "name": "Carrillo_FB15_Cornea-1",
+      "materials": [
+        "FB53_cornea_glass"
+      ]
+    },
+    {
+      "name": "Carrillo_FB15_Globe1",
+      "materials": [
+        "FB64_scleral_response1"
+      ]
+    },
+    {
+      "name": "Carrillo_FB15_Iris1",
+      "materials": [
+        "FB30_radial_iris1"
+      ]
+    },
+    {
+      "name": "Carrillo_FB15_Cornea1",
+      "materials": [
+        "FB53_cornea_glass.001"
+      ]
+    },
+    {
+      "name": "Carrillo_FB127_LidContact-1",
+      "materials": [
+        "FB121_A_inner_lid_tissue"
+      ]
+    },
+    {
+      "name": "Carrillo_FB127_LidContact1",
+      "materials": [
+        "FB121_A_inner_lid_tissue"
+      ],
+      "outer": [
+        [
+          625.67,
+          460.65
+        ],
+        [
+          625.43,
+          460.12
+        ],
+        [
+          624.12,
+          459.17
+        ],
+        [
+          621.89,
+          457.8
+        ],
+        [
+          618.9,
+          456.17
+        ],
+        [
+          615.19,
+          454.51
+        ],
+        [
+          610.83,
+          453.04
+        ],
+        [
+          605.81,
+          451.74
+        ],
+        [
+          600.2,
+          450.63
+        ],
+        [
+          594.16,
+          449.88
+        ],
+        [
+          587.66,
+          449.67
+        ],
+        [
+          580.96,
+          450.09
+        ],
+        [
+          574.19,
+          451.24
+        ],
+        [
+          567.59,
+          453.01
+        ],
+        [
+          561.46,
+          455.5
+        ],
+        [
+          556.22,
+          458.18
+        ],
+        [
+          552.21,
+          460.72
+        ],
+        [
+          549.34,
+          463.08
+        ],
+        [
+          547.34,
+          465.14
+        ],
+        [
+          545.87,
+          466.86
+        ],
+        [
+          544.87,
+          468.22
+        ],
+        [
+          543.5,
+          470.03
+        ],
+        [
+          542.44,
+          471.5
+        ],
+        [
+          541.79,
+          472.52
+        ],
+        [
+          541.92,
+          472.86
+        ],
+        [
+          542.71,
+          473.15
+        ],
+        [
+          544.15,
+          473.26
+        ],
+        [
+          545.94,
+          472.84
+        ],
+        [
+          548.18,
+          472.4
+        ],
+        [
+          550.16,
+          472.7
+        ],
+        [
+          552.22,
+          473.06
+        ],
+        [
+          554.72,
+          473.53
+        ],
+        [
+          557.86,
+          473.92
+        ],
+        [
+          561.96,
+          474.22
+        ],
+        [
+          567.02,
+          474.43
+        ],
+        [
+          572.79,
+          474.54
+        ],
+        [
+          578.91,
+          474.29
+        ],
+        [
+          585.07,
+          473.45
+        ],
+        [
+          591.0,
+          472.18
+        ],
+        [
+          596.58,
+          470.73
+        ],
+        [
+          601.7,
+          469.13
+        ],
+        [
+          606.32,
+          467.62
+        ],
+        [
+          610.43,
+          466.32
+        ],
+        [
+          614.01,
+          465.24
+        ],
+        [
+          617.1,
+          464.27
+        ],
+        [
+          619.67,
+          463.41
+        ],
+        [
+          621.87,
+          462.6
+        ],
+        [
+          623.78,
+          461.78
+        ]
+      ],
+      "inner": [
+        [
+          625.67,
+          460.65
+        ],
+        [
+          625.43,
+          460.12
+        ],
+        [
+          624.12,
+          459.17
+        ],
+        [
+          621.89,
+          457.8
+        ],
+        [
+          618.9,
+          456.17
+        ],
+        [
+          615.19,
+          454.51
+        ],
+        [
+          610.83,
+          453.04
+        ],
+        [
+          605.81,
+          451.74
+        ],
+        [
+          600.2,
+          450.63
+        ],
+        [
+          594.16,
+          449.88
+        ],
+        [
+          587.66,
+          449.67
+        ],
+        [
+          580.96,
+          450.09
+        ],
+        [
+          574.19,
+          451.24
+        ],
+        [
+          567.59,
+          453.01
+        ],
+        [
+          561.46,
+          455.5
+        ],
+        [
+          556.22,
+          458.18
+        ],
+        [
+          552.24,
+          460.72
+        ],
+        [
+          549.86,
+          462.97
+        ],
+        [
+          549.52,
+          464.58
+        ],
+        [
+          549.98,
+          465.68
+        ],
+        [
+          550.35,
+          466.5
+        ],
+        [
+          550.68,
+          467.55
+        ],
+        [
+          550.91,
+          468.37
+        ],
+        [
+          551.06,
+          468.93
+        ],
+        [
+          551.17,
+          469.2
+        ],
+        [
+          551.35,
+          469.61
+        ],
+        [
+          551.65,
+          470.06
+        ],
+        [
+          551.69,
+          470.34
+        ],
+        [
+          551.9,
+          470.73
+        ],
+        [
+          552.19,
+          471.72
+        ],
+        [
+          552.88,
+          472.71
+        ],
+        [
+          554.79,
+          473.49
+        ],
+        [
+          557.86,
+          473.92
+        ],
+        [
+          561.96,
+          474.22
+        ],
+        [
+          567.02,
+          474.43
+        ],
+        [
+          572.79,
+          474.54
+        ],
+        [
+          578.91,
+          474.29
+        ],
+        [
+          585.07,
+          473.45
+        ],
+        [
+          591.0,
+          472.18
+        ],
+        [
+          596.58,
+          470.73
+        ],
+        [
+          601.7,
+          469.13
+        ],
+        [
+          606.32,
+          467.62
+        ],
+        [
+          610.43,
+          466.32
+        ],
+        [
+          614.01,
+          465.24
+        ],
+        [
+          617.1,
+          464.27
+        ],
+        [
+          619.67,
+          463.41
+        ],
+        [
+          621.87,
+          462.6
+        ],
+        [
+          623.78,
+          461.78
+        ]
+      ]
+    },
+    {
+      "name": "Carrillo_FB152_B_medial-1",
+      "materials": [
+        "FB152_B_medial_continuous_tissue"
+      ]
+    },
+    {
+      "name": "Carrillo_FB152_B_medial1",
+      "materials": [
+        "FB152_B_medial_continuous_tissue"
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "FB64_scleral_response-1",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Base Color": [
+              0.5299999713897705,
+              0.5049999952316284,
+              0.46000000834465027,
+              1.0
+            ],
+            "Roughness": 0.3199999928474426,
+            "IOR": 1.5,
+            "Subsurface Weight": 0.10000000149011612,
+            "Subsurface Radius": [
+              1.0,
+              0.44999998807907104,
+              0.20000000298023224
+            ],
+            "Transmission Weight": 0.0
+          },
+          "links": {
+            "Base Color": [
+              "Mix (Legacy)"
+            ],
+            "Roughness": [],
+            "Normal": []
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL"
+        },
+        {
+          "name": "Color Attribute",
+          "type": "VERTEX_COLOR"
+        },
+        {
+          "name": "Color Attribute.001",
+          "type": "VERTEX_COLOR"
+        },
+        {
+          "name": "Texture Coordinate",
+          "type": "TEX_COORD"
+        },
+        {
+          "name": "Noise Texture",
+          "type": "TEX_NOISE"
+        },
+        {
+          "name": "Map Range",
+          "type": "MAP_RANGE"
+        },
+        {
+          "name": "Mix (Legacy)",
+          "type": "MIX_RGB"
+        }
+      ]
+    },
+    {
+      "name": "FB30_radial_iris-1",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Base Color": [
+              0.800000011920929,
+              0.800000011920929,
+              0.800000011920929,
+              1.0
+            ],
+            "Roughness": 0.6000000238418579,
+            "IOR": 1.5,
+            "Subsurface Weight": 0.0,
+            "Subsurface Radius": [
+              1.0,
+              0.20000000298023224,
+              0.10000000149011612
+            ],
+            "Transmission Weight": 0.0
+          },
+          "links": {
+            "Base Color": [
+              "Mix (Legacy).001"
+            ],
+            "Roughness": [],
+            "Normal": [
+              "Bump"
+            ]
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL"
+        },
+        {
+          "name": "UV Map",
+          "type": "UVMAP"
+        },
+        {
+          "name": "Separate XYZ",
+          "type": "SEPXYZ"
+        },
+        {
+          "name": "Math",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.001",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.002",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.003",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.004",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.005",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.006",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.007",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.008",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.009",
+          "type": "MATH"
+        },
+        {
+          "name": "Combine XYZ",
+          "type": "COMBXYZ"
+        },
+        {
+          "name": "Math.010",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.011",
+          "type": "MATH"
+        },
+        {
+          "name": "Noise Texture",
+          "type": "TEX_NOISE"
+        },
+        {
+          "name": "Color Ramp",
+          "type": "VALTORGB",
+          "ramp": [
+            {
+              "pos": 0.23000000417232513,
+              "color": [
+                0.06499999761581421,
+                0.10000000149011612,
+                0.11999999731779099,
+                1.0
+              ]
+            },
+            {
+              "pos": 0.7699999809265137,
+              "color": [
+                0.24500000476837158,
+                0.28999999165534973,
+                0.3050000071525574,
+                1.0
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Map Range",
+          "type": "MAP_RANGE"
+        },
+        {
+          "name": "Mix (Legacy)",
+          "type": "MIX_RGB"
+        },
+        {
+          "name": "Map Range.001",
+          "type": "MAP_RANGE"
+        },
+        {
+          "name": "Mix (Legacy).001",
+          "type": "MIX_RGB"
+        },
+        {
+          "name": "Math.012",
+          "type": "MATH"
+        },
+        {
+          "name": "Bump",
+          "type": "BUMP"
+        }
+      ]
+    },
+    {
+      "name": "FB53_cornea_glass",
+      "nodes": [
+        {
+          "name": "Glass BSDF",
+          "type": "BSDF_GLASS"
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL"
+        }
+      ]
+    },
+    {
+      "name": "FB64_scleral_response1",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Base Color": [
+              0.5299999713897705,
+              0.5049999952316284,
+              0.46000000834465027,
+              1.0
+            ],
+            "Roughness": 0.3199999928474426,
+            "IOR": 1.5,
+            "Subsurface Weight": 0.10000000149011612,
+            "Subsurface Radius": [
+              1.0,
+              0.44999998807907104,
+              0.20000000298023224
+            ],
+            "Transmission Weight": 0.0
+          },
+          "links": {
+            "Base Color": [
+              "Mix (Legacy)"
+            ],
+            "Roughness": [],
+            "Normal": []
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL"
+        },
+        {
+          "name": "Color Attribute",
+          "type": "VERTEX_COLOR"
+        },
+        {
+          "name": "Color Attribute.001",
+          "type": "VERTEX_COLOR"
+        },
+        {
+          "name": "Texture Coordinate",
+          "type": "TEX_COORD"
+        },
+        {
+          "name": "Noise Texture",
+          "type": "TEX_NOISE"
+        },
+        {
+          "name": "Map Range",
+          "type": "MAP_RANGE"
+        },
+        {
+          "name": "Mix (Legacy)",
+          "type": "MIX_RGB"
+        }
+      ]
+    },
+    {
+      "name": "FB30_radial_iris1",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Base Color": [
+              0.800000011920929,
+              0.800000011920929,
+              0.800000011920929,
+              1.0
+            ],
+            "Roughness": 0.6000000238418579,
+            "IOR": 1.5,
+            "Subsurface Weight": 0.0,
+            "Subsurface Radius": [
+              1.0,
+              0.20000000298023224,
+              0.10000000149011612
+            ],
+            "Transmission Weight": 0.0
+          },
+          "links": {
+            "Base Color": [
+              "Mix (Legacy).001"
+            ],
+            "Roughness": [],
+            "Normal": [
+              "Bump"
+            ]
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL"
+        },
+        {
+          "name": "UV Map",
+          "type": "UVMAP"
+        },
+        {
+          "name": "Separate XYZ",
+          "type": "SEPXYZ"
+        },
+        {
+          "name": "Math",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.001",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.002",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.003",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.004",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.005",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.006",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.007",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.008",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.009",
+          "type": "MATH"
+        },
+        {
+          "name": "Combine XYZ",
+          "type": "COMBXYZ"
+        },
+        {
+          "name": "Math.010",
+          "type": "MATH"
+        },
+        {
+          "name": "Math.011",
+          "type": "MATH"
+        },
+        {
+          "name": "Noise Texture",
+          "type": "TEX_NOISE"
+        },
+        {
+          "name": "Color Ramp",
+          "type": "VALTORGB",
+          "ramp": [
+            {
+              "pos": 0.23000000417232513,
+              "color": [
+                0.06499999761581421,
+                0.10000000149011612,
+                0.11999999731779099,
+                1.0
+              ]
+            },
+            {
+              "pos": 0.7699999809265137,
+              "color": [
+                0.24500000476837158,
+                0.28999999165534973,
+                0.3050000071525574,
+                1.0
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Map Range",
+          "type": "MAP_RANGE"
+        },
+        {
+          "name": "Mix (Legacy)",
+          "type": "MIX_RGB"
+        },
+        {
+          "name": "Map Range.001",
+          "type": "MAP_RANGE"
+        },
+        {
+          "name": "Mix (Legacy).001",
+          "type": "MIX_RGB"
+        },
+        {
+          "name": "Math.012",
+          "type": "MATH"
+        },
+        {
+          "name": "Bump",
+          "type": "BUMP"
+        }
+      ]
+    },
+    {
+      "name": "FB53_cornea_glass.001",
+      "nodes": [
+        {
+          "name": "Glass BSDF",
+          "type": "BSDF_GLASS"
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL"
+        }
+      ]
+    },
+    {
+      "name": "FB121_A_inner_lid_tissue",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Base Color": [
+              0.2849999964237213,
+              0.18400000035762787,
+              0.14499999582767487,
+              1.0
+            ],
+            "Roughness": 0.4300000071525574,
+            "IOR": 1.5,
+            "Subsurface Weight": 0.0,
+            "Subsurface Radius": [
+              1.0,
+              0.20000000298023224,
+              0.10000000149011612
+            ],
+            "Transmission Weight": 0.0
+          },
+          "links": {
+            "Base Color": [],
+            "Roughness": [],
+            "Normal": []
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL"
+        }
+      ]
+    },
+    {
+      "name": "FB121_A_inner_lid_tissue",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Base Color": [
+              0.2849999964237213,
+              0.18400000035762787,
+              0.14499999582767487,
+              1.0
+            ],
+            "Roughness": 0.4300000071525574,
+            "IOR": 1.5,
+            "Subsurface Weight": 0.0,
+            "Subsurface Radius": [
+              1.0,
+              0.20000000298023224,
+              0.10000000149011612
+            ],
+            "Transmission Weight": 0.0
+          },
+          "links": {
+            "Base Color": [],
+            "Roughness": [],
+            "Normal": []
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL"
+        }
+      ]
+    },
+    {
+      "name": "FB152_B_medial_continuous_tissue",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Base Color": [
+              0.30000001192092896,
+              0.17499999701976776,
+              0.14000000059604645,
+              1.0
+            ],
+            "Roughness": 0.3700000047683716,
+            "IOR": 1.5,
+            "Subsurface Weight": 0.05999999865889549,
+            "Subsurface Radius": [
+              0.012000000104308128,
+              0.006000000052154064,
+              0.003000000026077032
+            ],
+            "Transmission Weight": 0.0
+          },
+          "links": {
+            "Base Color": [],
+            "Roughness": [],
+            "Normal": []
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL"
+        }
+      ]
+    },
+    {
+      "name": "FB152_B_medial_continuous_tissue",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Base Color": [
+              0.30000001192092896,
+              0.17499999701976776,
+              0.14000000059604645,
+              1.0
+            ],
+            "Roughness": 0.3700000047683716,
+            "IOR": 1.5,
+            "Subsurface Weight": 0.05999999865889549,
+            "Subsurface Radius": [
+              0.012000000104308128,
+              0.006000000052154064,
+              0.003000000026077032
+            ],
+            "Transmission Weight": 0.0
+          },
+          "links": {
+            "Base Color": [],
+            "Roughness": [],
+            "Normal": []
+          }
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL"
+        }
+      ]
+    }
+  ]
+}

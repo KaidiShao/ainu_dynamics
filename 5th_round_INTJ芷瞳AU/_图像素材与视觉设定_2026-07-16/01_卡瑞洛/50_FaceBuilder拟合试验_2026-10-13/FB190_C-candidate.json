@@ -1,0 +1,11 @@
+{
+  "base": "FB190_A",
+  "amplitude": 0.008,
+  "changed_vertices_over_1e_6": 222,
+  "max_head_displacement": 0.008017139653247357,
+  "brow_points_reseated": 10406,
+  "scope": "Local head shape key, medial brow fibers reseated; eyelid aperture, eyeballs, contact meshes and material/light rig unchanged",
+  "status": "not_adopted",
+  "limitation": "Single reference does not uniquely determine glabella depth",
+  "decision": "不采用：轻度宽范围骨面调整，在中性光与转面下没有明确形态收益。"
+}

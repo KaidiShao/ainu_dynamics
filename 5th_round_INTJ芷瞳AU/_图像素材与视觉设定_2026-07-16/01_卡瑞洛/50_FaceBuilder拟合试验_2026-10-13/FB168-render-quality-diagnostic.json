@@ -1,0 +1,21 @@
+{
+  "source": "FB166 unchanged",
+  "status": "diagnostic not a new model",
+  "samples": 256,
+  "resolution_percent": 200,
+  "crop": [
+    260,
+    350,
+    500,
+    490
+  ],
+  "dof": false,
+  "denoising_comparison": [
+    true,
+    false
+  ],
+  "limits": [
+    "Does not improve actual geometry or establish likeness",
+    "No edited/generated fake view"
+  ]
+}

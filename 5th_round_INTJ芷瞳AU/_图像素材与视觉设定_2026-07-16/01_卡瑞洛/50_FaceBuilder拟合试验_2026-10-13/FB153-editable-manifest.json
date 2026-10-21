@@ -1,0 +1,69 @@
+{
+  "source": "Carrillo_FaceBuilder_FB153.blend",
+  "editable": "Carrillo_FB153_editable_working.blend",
+  "visible_geometry_hash": "48d6b35ca244c4958ede29bafbaca4475774dfd0276fc8a266ba83a7ac8c236d",
+  "organization_preserves_geometry": true,
+  "active_fit_cameras": 1,
+  "images": [
+    {
+      "name": "P14.png",
+      "packed": true
+    },
+    {
+      "name": "T22.png",
+      "packed": true
+    },
+    {
+      "name": "T22_bounded_chroma_study.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_chroma_confidence.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_high_frequency_skin_study.png.002",
+      "packed": true
+    }
+  ],
+  "likeness_pass": false,
+  "topology_and_vertex_color_hash": "64cc52983773bd2cf50061b2cda9d84576fa7dc6e1ec1011157dc52bf432188a",
+  "validation_scope": "Geometry, evaluated face topology, material indices and vertex colors; not render pixels or all shader state",
+  "groom_profile_hash": "ddfcd8e59e7566bf3adeae436ae1b5cd1b23dda69cae8fe1efe530b85a10029c",
+  "groom_profiles": [
+    {
+      "object": "Carrillo_FB152_B_Tearline-1",
+      "splines": 1,
+      "points": 111,
+      "bevel": 0.0006500000017695129
+    },
+    {
+      "object": "Carrillo_FB152_B_Tearline1",
+      "splines": 1,
+      "points": 107,
+      "bevel": 0.0006500000017695129
+    },
+    {
+      "object": "Carrillo_FB47b_ShortLashes",
+      "splines": 384,
+      "points": 2304,
+      "bevel": 0.0005300000193528831
+    },
+    {
+      "object": "Carrillo_FB63_Brows",
+      "native_curves": 4106,
+      "radius_points": 24636
+    },
+    {
+      "object": "Carrillo_FB75_ScalpGroom",
+      "native_curves": 58728,
+      "radius_points": 1955140
+    },
+    {
+      "object": "Carrillo_FB82_OppositeScalpUndercoat",
+      "native_curves": 8000,
+      "radius_points": 112000
+    }
+  ],
+  "groom_hash_scope": "Curve radii, curve/spline counts, bevel and spline settings; positions already in visible_geometry_hash. Not all shader state."
+}

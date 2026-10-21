@@ -1,0 +1,17 @@
+{
+  "base": "FB32",
+  "status": "requires_threeview_review",
+  "head_and_eyes_unchanged": true,
+  "guide_source": "FB26",
+  "native_hair_curves": 11520,
+  "changes": [
+    "Convert former guided tube strands to actual hair primitives",
+    "Staggered finer tips and dispersed strand offsets",
+    "Retain full undergroom to avoid exposed scalp between guides"
+  ],
+  "limits": [
+    "Guide depth is approximate",
+    "Groom still needs independent comparison to T22",
+    "Not a likeness pass"
+  ]
+}

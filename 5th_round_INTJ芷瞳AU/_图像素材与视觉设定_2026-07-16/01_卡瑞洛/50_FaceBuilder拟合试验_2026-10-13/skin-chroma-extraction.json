@@ -1,0 +1,20 @@
+{
+  "status": "bounded_chromatic_material_experiment",
+  "source": "T22",
+  "reference_luminance_preserved": false,
+  "linear_output_luminance_min_max": [
+    0.2136669999999999,
+    0.21366700000000008
+  ],
+  "base_linear_rgb": [
+    0.32,
+    0.19,
+    0.135
+  ],
+  "limits": [
+    "This is not physically recovered albedo; lighting color and specular contamination remain possible",
+    "Eye/brow/hair/nostril/mouth-opening areas excluded by hand-drawn mask",
+    "Dark reference regions are downweighted rather than brightened into noisy texture"
+  ],
+  "must_check": "Neutral and reversed light with geometry unchanged"
+}

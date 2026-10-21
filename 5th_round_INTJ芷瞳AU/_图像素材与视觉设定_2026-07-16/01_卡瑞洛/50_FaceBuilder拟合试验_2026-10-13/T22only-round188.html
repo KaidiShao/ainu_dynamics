@@ -1,0 +1,22 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>卡瑞洛 FB188 · 夜间保留版，尚未完成</title><style>
+body{margin:0;background:#171b21;color:#e8edf4;font:16px/1.65 system-ui}main{max-width:1580px;margin:22px auto;padding:0 24px}h1{font-size:26px}h2{font-size:21px;margin-top:30px}a{color:#aecfff}button,select{background:#303d50;color:white;padding:8px 12px;border:1px solid #60718c;border-radius:6px;margin:4px}.row{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.two{grid-template-columns:repeat(2,1fr)}figure{margin:0;background:#242b35}figcaption{padding:9px}svg,img{display:block;width:100%}.notice{padding:15px 18px;background:#283447;border-left:4px solid #8faed7}small{color:#b9c4d4}.links{display:flex;gap:16px;flex-wrap:wrap}@media(max-width:750px){.row{grid-template-columns:1fr}}</style><main>
+<h1>卡瑞洛 · FB188 夜间保留版</h1>
+<p class="notice">整体相似度仍未通过。这是实际 Blender 头模的局部改进版。眼窝层次、卧蚕、鼻尖与颧颌特征仍有明显差距，皮肤和毛发仍显得像CG模型。</p>
+<p class="links"><a href="Carrillo_FB188_editable_working.blend">可编辑 Blender 工程</a><a href="reproduce-FB188.ps1">独立重建脚本</a><a href="workbench.html">实际皮肤灰模</a><a href="T22only-round186.html">完整回退 FB186</a><a href="night-summary-2026-10-15.txt">本夜总结</a></p>
+<p>对照基线 <select id="baseline"><option value="93">FB93 · 今晚开始时</option><option value="166">FB166 · 下睑、鼻孔和口周修订</option><option value="180">FB180 · 上睑及接合面修复后</option><option value="186">FB186 · 下睫毛调整前</option></select> <button id="neutral">中性光</button><button id="directional">侧向诊断光</button></p>
+<p>固定参考机位，所有图均为原始参考或真实模型渲染。中性光便于检查，诊断侧光并不完全等同于 T22 的原始光照。照片与渲染按实际1086×1448全图比例定位。</p><div class="row" id="front"></div>
+<h2>眼周</h2><div class="row" id="eyes"></div>
+<p>本夜重建了真实眼球与睑缘的接合关系，并协调修改皮肤、睫毛和接合面。当前保留亮侧中央上睑约3参考像素的抬高，较大的4.5像素试验没有采用。眼角组织、上睑折叠和卧蚕仍不够像。</p>
+<h2>实际转面与结构检查</h2><select id="angle"><option value="neutral-threequarter">−40° 转面</option><option value="neutral-opposite">+40° 转面</option><option value="neutral-side">近侧面（参考相机有俯角）</option><option value="strict-profile">水平正交侧面</option><option value="structure-front">灰色头部正面</option><option value="structure-threequarter">灰色头部转面</option></select><div class="row two" id="turn"></div>
+<h2>本轮实际保留了什么</h2><p>188保留180的头部、眼球与睑缘几何；186修正已有皮肤细节和受限色度贴图的坐标错位。最后采用187B，只缩短、减细下睫毛并打散其长度，下睫毛根部与上睫毛保持原位。这些都是局部改善，不能当作整体相似度通过。今晚较早保留的鼻孔、口周和眼裂修订见完整回退版。</p>
+<p>卧蚕体积和峰值位置、上睑密网格支撑、鼻孔内壁、下颊平面和毛发收紧的多组试验未获得足够收益，均保留记录而未并入。没有把阴影更深、脸更瘦或版本更多作为通过标准。</p>
+<h2>检查范围与限制</h2><p>最终版九个原生视图均已检查。可见几何、拓扑/顶点色、毛发参数和UV坐标/绑定由独立目录重建核对；眼周薄面在记录的数值检查范围内没有退化面或非相邻交叠候选。这不覆盖所有跨对象接触，也不证明人物还原成功。侧面仍是单张T22下的三维假设。</p>
+<p class="links"><a href="FB188-reproduction-check.json">独立重建结果</a><a href="FB188-ocular-attachment-audit.json">眼周附件检查</a><a href="FB188-candidate.json">186实际改动</a><a href="night-2026-10-15.json">逐轮记录</a><a href="overnight-state.json">最新状态</a></p>
+<script>
+let directional=false;const fullW=1086,fullH=1448;const base=()=>document.querySelector('#baseline').value;
+function panel(label,src,crop){return `<figure><svg viewBox="260 350 500 490"><image href="${src}" x="${crop?260:0}" y="${crop?350:0}" width="${crop?500:fullW}" height="${crop?490:fullH}"/></svg><figcaption>${label}</figcaption></figure>`}
+function front(){let b=base(),suffix=directional?'diagnostic-side-light':'neutral-front';document.querySelector('#front').innerHTML=panel('T22 · 唯一身份参考','references/T22.png',false)+panel(`FB${b} · 对照基线`,`renders/fb${b}-${suffix}.png`,directional)+panel('FB188 · 当前保留版',`renders/fb188-${suffix}.png`,directional)}
+function eyes(){document.querySelector('#eyes').innerHTML='<figure><svg viewBox="320 400 355 135"><image href="references/T22.png" width="1086" height="1448"/></svg><figcaption>T22 · 唯一身份参考</figcaption></figure>'+[base(),'188'].map(t=>`<figure><img src="renders/fb${t}-orbit-front.png"><figcaption>FB${t} · 实际眼周</figcaption></figure>`).join('')}
+function turn(){let v=document.querySelector('#angle').value;document.querySelector('#turn').innerHTML=[base(),'188'].map(t=>`<figure><img src="renders/fb${t}-${v}.png"><figcaption>FB${t} · 实际 Blender 渲染</figcaption></figure>`).join('')}
+document.querySelector('#neutral').onclick=()=>{directional=false;front()};document.querySelector('#directional').onclick=()=>{directional=true;front()};document.querySelector('#baseline').onchange=()=>{front();eyes();turn()};document.querySelector('#angle').onchange=turn;front();eyes();turn();
+</script></main></html>

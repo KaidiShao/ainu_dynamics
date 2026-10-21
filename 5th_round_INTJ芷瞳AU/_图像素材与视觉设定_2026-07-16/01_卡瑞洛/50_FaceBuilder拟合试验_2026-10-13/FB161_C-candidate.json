@@ -1,0 +1,22 @@
+{
+  "base": "FB153",
+  "status": "not retained combined alternative",
+  "alar_roof": 1.0,
+  "columella": 1.0,
+  "max_requested_projection_descent": 3.2159639823992427,
+  "max_displacement": 0.009553923364248965,
+  "fixed": [
+    "Camera-raydepth",
+    "Nasal bridge",
+    "Outer lateral alar width",
+    "Inner vault/floor largely spared by depth taper",
+    "Eyes mouth jaw materials"
+  ],
+  "limits": [
+    "Shadow boundary is not measured nostril aperture",
+    "Reject pinched nostril, hooked tip or underside ledge",
+    "Use native gray and turned view review"
+  ],
+  "visual_review": "Neutral/gray nasal crops, neutral front/quarter and strict profile reviewed. Columellar component not clearly needed; prefer roof-onlyA.",
+  "reviewed_at": "2026-10-15T06:05:11.711847+08:00"
+}

@@ -1,0 +1,46 @@
+{
+  "purpose": "Unreferenced orthographic eye-level integrity checks; not matching reference photos",
+  "model": "Carrillo_FaceBuilder_FB77.blend",
+  "views": [
+    {
+      "view": "eye-level-front",
+      "yaw": 0,
+      "camera_location": [
+        0.0,
+        -6.099999904632568,
+        -0.05000000074505806
+      ],
+      "render": "renders/fb77-check-eye-level-front.png"
+    },
+    {
+      "view": "opposite-quarter",
+      "yaw": 45,
+      "camera_location": [
+        4.242640495300293,
+        -4.342640399932861,
+        -0.05000000074505806
+      ],
+      "render": "renders/fb77-check-opposite-quarter.png"
+    },
+    {
+      "view": "strict-profile-plus",
+      "yaw": 90,
+      "camera_location": [
+        6.0,
+        -0.10000000149011612,
+        -0.05000000074505806
+      ],
+      "render": "renders/fb77-check-strict-profile-plus.png"
+    },
+    {
+      "view": "strict-profile-minus",
+      "yaw": -90,
+      "camera_location": [
+        -6.0,
+        -0.10000000149011612,
+        -0.05000000074505806
+      ],
+      "render": "renders/fb77-check-strict-profile-minus.png"
+    }
+  ]
+}

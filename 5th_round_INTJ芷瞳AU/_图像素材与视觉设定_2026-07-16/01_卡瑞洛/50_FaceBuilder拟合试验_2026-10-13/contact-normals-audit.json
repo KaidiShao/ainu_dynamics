@@ -1,0 +1,564 @@
+{
+  "FB121_A": [
+    {
+      "pixel": [
+        544,
+        472
+      ],
+      "ordered_hits": [
+        [
+          6.272878,
+          "Carrillo_FB121_A_LidContact1",
+          0.76078
+        ],
+        [
+          7.721064,
+          "Carrillo_FB02_Sculpt",
+          -0.97052
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        547,
+        471
+      ],
+      "ordered_hits": [
+        [
+          6.278553,
+          "Carrillo_FB121_A_LidContact1",
+          0.70081
+        ],
+        [
+          7.719876,
+          "Carrillo_FB02_Sculpt",
+          -0.97066
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        550,
+        469
+      ],
+      "ordered_hits": [
+        [
+          6.285698,
+          "Carrillo_FB121_A_LidContact1",
+          0.73807
+        ],
+        [
+          6.367204,
+          "Carrillo_FB15_Globe1",
+          0.03605
+        ],
+        [
+          7.719372,
+          "Carrillo_FB02_Sculpt",
+          -0.96202
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        553,
+        467
+      ],
+      "ordered_hits": [
+        [
+          6.29114,
+          "Carrillo_FB121_A_LidContact1",
+          0.59093
+        ],
+        [
+          6.318626,
+          "Carrillo_FB15_Globe1",
+          0.40001
+        ],
+        [
+          7.718551,
+          "Carrillo_FB02_Sculpt",
+          -0.96213
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        556,
+        466
+      ],
+      "ordered_hits": [
+        [
+          6.299471,
+          "Carrillo_FB121_A_LidContact1",
+          0.50518
+        ],
+        [
+          6.300931,
+          "Carrillo_FB15_Globe1",
+          0.56464
+        ],
+        [
+          7.71702,
+          "Carrillo_FB02_Sculpt",
+          -0.96232
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        440,
+        478
+      ],
+      "ordered_hits": [
+        [
+          6.30302,
+          "Carrillo_FB121_A_LidContact-1",
+          0.70096
+        ],
+        [
+          7.693031,
+          "Carrillo_FB02_Sculpt",
+          -0.9277
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        437,
+        476
+      ],
+      "ordered_hits": [
+        [
+          6.311714,
+          "Carrillo_FB121_A_LidContact-1",
+          0.71875
+        ],
+        [
+          7.691391,
+          "Carrillo_FB02_Sculpt",
+          -0.9279
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        434,
+        475
+      ],
+      "ordered_hits": [
+        [
+          6.318744,
+          "Carrillo_FB121_A_LidContact-1",
+          0.60508
+        ],
+        [
+          6.37791,
+          "Carrillo_FB15_Globe-1",
+          0.36526
+        ],
+        [
+          7.688299,
+          "Carrillo_FB02_Sculpt",
+          -0.90473
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        431,
+        474
+      ],
+      "ordered_hits": [
+        [
+          6.326401,
+          "Carrillo_FB121_A_LidContact-1",
+          0.58392
+        ],
+        [
+          6.358731,
+          "Carrillo_FB15_Globe-1",
+          0.53315
+        ],
+        [
+          7.68518,
+          "Carrillo_FB02_Sculpt",
+          -0.9051
+        ]
+      ]
+    }
+  ],
+  "FB127": [
+    {
+      "pixel": [
+        544,
+        472
+      ],
+      "ordered_hits": [
+        [
+          6.284248,
+          "Carrillo_FB127_LidContact1",
+          0.39221
+        ],
+        [
+          7.721064,
+          "Carrillo_FB02_Sculpt",
+          -0.97052
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        547,
+        471
+      ],
+      "ordered_hits": [
+        [
+          6.304678,
+          "Carrillo_FB127_LidContact1",
+          0.33406
+        ],
+        [
+          7.719876,
+          "Carrillo_FB02_Sculpt",
+          -0.97066
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        550,
+        469
+      ],
+      "ordered_hits": [
+        [
+          6.330513,
+          "Carrillo_FB127_LidContact1",
+          0.33896
+        ],
+        [
+          6.367204,
+          "Carrillo_FB15_Globe1",
+          0.03605
+        ],
+        [
+          7.719372,
+          "Carrillo_FB02_Sculpt",
+          -0.96202
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        553,
+        467
+      ],
+      "ordered_hits": [
+        [
+          6.318626,
+          "Carrillo_FB15_Globe1",
+          0.40001
+        ],
+        [
+          7.718551,
+          "Carrillo_FB02_Sculpt",
+          -0.96213
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        556,
+        466
+      ],
+      "ordered_hits": [
+        [
+          6.300931,
+          "Carrillo_FB15_Globe1",
+          0.56464
+        ],
+        [
+          7.71702,
+          "Carrillo_FB02_Sculpt",
+          -0.96232
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        440,
+        478
+      ],
+      "ordered_hits": [
+        [
+          6.334047,
+          "Carrillo_FB127_LidContact-1",
+          -0.19962
+        ],
+        [
+          7.693031,
+          "Carrillo_FB02_Sculpt",
+          -0.9277
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        437,
+        476
+      ],
+      "ordered_hits": [
+        [
+          6.375482,
+          "Carrillo_FB127_LidContact-1",
+          -0.2067
+        ],
+        [
+          7.691391,
+          "Carrillo_FB02_Sculpt",
+          -0.9279
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        434,
+        475
+      ],
+      "ordered_hits": [
+        [
+          6.37791,
+          "Carrillo_FB15_Globe-1",
+          0.36526
+        ],
+        [
+          7.688299,
+          "Carrillo_FB02_Sculpt",
+          -0.90473
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        431,
+        474
+      ],
+      "ordered_hits": [
+        [
+          6.358731,
+          "Carrillo_FB15_Globe-1",
+          0.53315
+        ],
+        [
+          7.68518,
+          "Carrillo_FB02_Sculpt",
+          -0.9051
+        ]
+      ]
+    }
+  ],
+  "FB128_A": [
+    {
+      "pixel": [
+        544,
+        472
+      ],
+      "ordered_hits": [
+        [
+          6.273609,
+          "Carrillo_FB128_A_medial1",
+          0.46518
+        ],
+        [
+          6.284248,
+          "Carrillo_FB127_LidContact1",
+          0.39221
+        ],
+        [
+          7.721064,
+          "Carrillo_FB02_Sculpt",
+          -0.97052
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        547,
+        471
+      ],
+      "ordered_hits": [
+        [
+          6.287024,
+          "Carrillo_FB128_A_medial1",
+          0.2911
+        ],
+        [
+          6.304678,
+          "Carrillo_FB127_LidContact1",
+          0.33406
+        ],
+        [
+          7.719876,
+          "Carrillo_FB02_Sculpt",
+          -0.97066
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        550,
+        469
+      ],
+      "ordered_hits": [
+        [
+          6.293535,
+          "Carrillo_FB128_A_medial1",
+          0.45774
+        ],
+        [
+          6.330513,
+          "Carrillo_FB127_LidContact1",
+          0.33896
+        ],
+        [
+          6.367204,
+          "Carrillo_FB15_Globe1",
+          0.03605
+        ],
+        [
+          7.719372,
+          "Carrillo_FB02_Sculpt",
+          -0.96202
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        553,
+        467
+      ],
+      "ordered_hits": [
+        [
+          6.299145,
+          "Carrillo_FB128_A_medial1",
+          0.64253
+        ],
+        [
+          6.318626,
+          "Carrillo_FB15_Globe1",
+          0.40001
+        ],
+        [
+          7.718551,
+          "Carrillo_FB02_Sculpt",
+          -0.96213
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        556,
+        466
+      ],
+      "ordered_hits": [
+        [
+          6.300931,
+          "Carrillo_FB15_Globe1",
+          0.56464
+        ],
+        [
+          7.71702,
+          "Carrillo_FB02_Sculpt",
+          -0.96232
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        440,
+        478
+      ],
+      "ordered_hits": [
+        [
+          6.321592,
+          "Carrillo_FB128_A_medial-1",
+          0.21693
+        ],
+        [
+          6.334047,
+          "Carrillo_FB127_LidContact-1",
+          -0.19962
+        ],
+        [
+          7.693031,
+          "Carrillo_FB02_Sculpt",
+          -0.9277
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        437,
+        476
+      ],
+      "ordered_hits": [
+        [
+          6.349843,
+          "Carrillo_FB128_A_medial-1",
+          0.31168
+        ],
+        [
+          6.375482,
+          "Carrillo_FB127_LidContact-1",
+          -0.2067
+        ],
+        [
+          7.691391,
+          "Carrillo_FB02_Sculpt",
+          -0.9279
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        434,
+        475
+      ],
+      "ordered_hits": [
+        [
+          6.369224,
+          "Carrillo_FB128_A_medial-1",
+          0.75768
+        ],
+        [
+          6.37791,
+          "Carrillo_FB15_Globe-1",
+          0.36526
+        ],
+        [
+          7.688299,
+          "Carrillo_FB02_Sculpt",
+          -0.90473
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        431,
+        474
+      ],
+      "ordered_hits": [
+        [
+          6.358731,
+          "Carrillo_FB15_Globe-1",
+          0.53315
+        ],
+        [
+          7.68518,
+          "Carrillo_FB02_Sculpt",
+          -0.9051
+        ]
+      ]
+    }
+  ]
+}

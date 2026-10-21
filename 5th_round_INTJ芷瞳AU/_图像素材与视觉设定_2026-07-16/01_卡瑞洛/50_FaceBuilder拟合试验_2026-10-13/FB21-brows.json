@@ -1,0 +1,11 @@
+{
+  "base": "FB20",
+  "geometry_unchanged": true,
+  "fibers": 4587,
+  "changes": [
+    "Broader irregular brow bodies following T22",
+    "Reduced individual fiber diameter",
+    "Feathered boundaries with varied lengths and direction"
+  ],
+  "status": "requires_same_camera_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "T34",
+  "created": "2026-10-12",
+  "mode": "built_in_imagegen",
+  "use_case": "identity-preserve",
+  "author_review": "pending",
+  "status": "SHORT_HAIR_CANDIDATE_AWAITING_AUTHOR_REVIEW",
+  "input_images": [
+    {
+      "path": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/42_自然唇颏与冷淡审视重建_2026-10-12/MC_ANGLE_T33_认可正面重建_自然唇颏与冷淡审视_v33.png",
+      "role": "sole edit target; preserve face and expression; shorten hair"
+    }
+  ],
+  "parent_author_feedback": "这张其实有点意思 但是头发太长了",
+  "image": {
+    "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-6ac871a9-7333-4e4a-af4b-149a257edbf4.png",
+    "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/43_T33短发局部调整_2026-10-12/MC_ANGLE_T34_T33短发局部调整_v34.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 1738960,
+    "sha256": "855BA341AB4BFE386CE54B62A90BDA27A7BA73C31BBF5E7B35BFB7F68ABFA258",
+    "source_sha256": "855BA341AB4BFE386CE54B62A90BDA27A7BA73C31BBF5E7B35BFB7F68ABFA258"
+  },
+  "prompt": "Use case: identity-preserve.\nEdit the supplied portrait. Make ONE targeted change: give this exact same man a noticeably shorter, practical haircut.\n\nShorten the top hair by roughly one third, retaining his natural dark waves but reducing tall and loose curled volume. Trim the sides neatly around the ears, reduce the bulky hair behind the ears and the back of the head, and bring the nape up into a tidy short outline. Shorten the fringe so it no longer hangs in long curling strands over the brow; leave a few restrained short natural waves near the hairline. The result is an ordinary well-kept short wavy haircut, appropriate to someone who does not fuss over his appearance. Natural scissor-cut texture, no shaved skin fade, buzzcut, sculpted quiff or slick wet styling. Preserve his original hair color, hairline, forehead anatomy and skull proportions; alter hair length and its outer volume, not the head.\n\nKeep everything else as close to the input as possible: the EXACT same face, facial proportions, chin and jaw contours, nose and lips, age, expression, brow and eyelid tension, gaze direction and pale gray-blue irises. Keep the same head angle, neck, body posture, clothing, crop, background, side light and facial shadows. Do not make him sterner, gentler, older or younger, and do not sharpen or square off his chin. Single photorealistic portrait, no text or watermark.",
+  "visual_review": "额前长卷束明显缩短，额头露出更多；耳侧、耳后和后脑的蓬松轮廓收小。主代理目视对照认为面部比例、唇颏关系、眼色与凝视方向基本延续T33。生成式编辑仍可能重绘细小皮肤或光影细节，不能声称像素锁定。",
+  "approved_anchors_unchanged": [
+    "T22",
+    "T23"
+  ],
+  "use_limit": "T33的短发对照版本；作者对T33的有限正面反馈不自动构成对T34的认可。"
+}

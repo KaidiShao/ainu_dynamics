@@ -1,0 +1,433 @@
+{
+  "head": "Carrillo_FB02_Sculpt",
+  "camera": {
+    "name": "T22_reference_camera",
+    "dof_enabled": false,
+    "focus_distance": 10.0,
+    "aperture_fstop": 2.799999952316284
+  },
+  "materials": [
+    {
+      "name": "FB166_lip_registered",
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "inputs": {
+            "Base Color": {
+              "value": [
+                0.30000001192092896,
+                0.2150000035762787,
+                0.16899999976158142,
+                1.0
+              ],
+              "links": [
+                "Mix (Legacy).004"
+              ]
+            },
+            "Metallic": {
+              "value": 0.0,
+              "links": []
+            },
+            "Roughness": {
+              "value": 0.5199999809265137,
+              "links": [
+                "Mix (Legacy).005"
+              ]
+            },
+            "IOR": {
+              "value": 1.5,
+              "links": []
+            },
+            "Alpha": {
+              "value": 1.0,
+              "links": []
+            },
+            "Normal": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": [
+                "Bump.002"
+              ]
+            },
+            "Weight": {
+              "value": 0.0,
+              "links": []
+            },
+            "Diffuse Roughness": {
+              "value": 0.0,
+              "links": []
+            },
+            "Subsurface Weight": {
+              "value": 0.06499999761581421,
+              "links": []
+            },
+            "Subsurface Radius": {
+              "value": [
+                1.0,
+                0.44999998807907104,
+                0.25
+              ],
+              "links": []
+            },
+            "Subsurface Scale": {
+              "value": 0.012000000104308128,
+              "links": []
+            },
+            "Subsurface IOR": {
+              "value": 1.399999976158142,
+              "links": []
+            },
+            "Subsurface Anisotropy": {
+              "value": 0.0,
+              "links": []
+            },
+            "Specular IOR Level": {
+              "value": 0.2800000011920929,
+              "links": []
+            },
+            "Specular Tint": {
+              "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "links": []
+            },
+            "Anisotropic": {
+              "value": 0.0,
+              "links": []
+            },
+            "Anisotropic Rotation": {
+              "value": 0.0,
+              "links": []
+            },
+            "Tangent": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": []
+            },
+            "Transmission Weight": {
+              "value": 0.0,
+              "links": []
+            },
+            "Coat Weight": {
+              "value": 0.0,
+              "links": []
+            },
+            "Coat Roughness": {
+              "value": 0.029999999329447746,
+              "links": []
+            },
+            "Coat IOR": {
+              "value": 1.5,
+              "links": []
+            },
+            "Coat Tint": {
+              "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "links": []
+            },
+            "Coat Normal": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": []
+            },
+            "Sheen Weight": {
+              "value": 0.0,
+              "links": []
+            },
+            "Sheen Roughness": {
+              "value": 0.5,
+              "links": []
+            },
+            "Sheen Tint": {
+              "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "links": []
+            },
+            "Emission Color": {
+              "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "links": []
+            },
+            "Emission Strength": {
+              "value": 0.0,
+              "links": []
+            },
+            "Thin Film Thickness": {
+              "value": 0.0,
+              "links": []
+            },
+            "Thin Film IOR": {
+              "value": 1.3300000429153442,
+              "links": []
+            }
+          }
+        },
+        {
+          "name": "Noise Texture",
+          "type": "TEX_NOISE",
+          "inputs": {
+            "Vector": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": []
+            },
+            "W": {
+              "value": 0.0,
+              "links": []
+            },
+            "Scale": {
+              "value": 210.0,
+              "links": []
+            },
+            "Detail": {
+              "value": 2.0,
+              "links": []
+            },
+            "Roughness": {
+              "value": 0.5,
+              "links": []
+            },
+            "Lacunarity": {
+              "value": 2.0,
+              "links": []
+            },
+            "Offset": {
+              "value": 0.0,
+              "links": []
+            },
+            "Gain": {
+              "value": 1.0,
+              "links": []
+            },
+            "Distortion": {
+              "value": 0.0,
+              "links": []
+            }
+          }
+        },
+        {
+          "name": "Bump",
+          "type": "BUMP",
+          "inputs": {
+            "Strength": {
+              "value": 0.11999999731779099,
+              "links": []
+            },
+            "Distance": {
+              "value": 0.0010000000474974513,
+              "links": []
+            },
+            "Filter Width": {
+              "value": 0.10000000149011612,
+              "links": []
+            },
+            "Height": {
+              "value": 1.0,
+              "links": [
+                "Noise Texture"
+              ]
+            },
+            "Normal": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": []
+            }
+          }
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "inputs": {
+            "Vector": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": [
+                "UV Map"
+              ]
+            }
+          },
+          "image": "T22_high_frequency_skin_study.png.002",
+          "interpolation": "Linear"
+        },
+        {
+          "name": "UV Map",
+          "type": "UVMAP",
+          "inputs": {},
+          "uv_map": "T22_skin_detail_registration"
+        },
+        {
+          "name": "Bump.001",
+          "type": "BUMP",
+          "inputs": {
+            "Strength": {
+              "value": 0.18000000715255737,
+              "links": []
+            },
+            "Distance": {
+              "value": 0.004000000189989805,
+              "links": []
+            },
+            "Filter Width": {
+              "value": 0.10000000149011612,
+              "links": []
+            },
+            "Height": {
+              "value": 1.0,
+              "links": [
+                "Mix (Legacy)"
+              ]
+            },
+            "Normal": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": [
+                "Bump"
+              ]
+            }
+          }
+        },
+        {
+          "name": "UV Map.001",
+          "type": "UVMAP",
+          "inputs": {},
+          "uv_map": "T22_chromatic_registration"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "inputs": {
+            "Vector": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": [
+                "UV Map.001"
+              ]
+            }
+          },
+          "image": "T22_bounded_chroma_study.png.002",
+          "interpolation": "Linear"
+        },
+        {
+          "name": "Image Texture.002",
+          "type": "TEX_IMAGE",
+          "inputs": {
+            "Vector": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": [
+                "UV Map.001"
+              ]
+            }
+          },
+          "image": "T22_chroma_confidence.png.002",
+          "interpolation": "Linear"
+        },
+        {
+          "name": "Image Texture.003",
+          "type": "TEX_IMAGE",
+          "inputs": {
+            "Vector": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": [
+                "UV Map.002"
+              ]
+            }
+          },
+          "image": "T22_high_frequency_skin_study.png.002",
+          "interpolation": "Linear"
+        },
+        {
+          "name": "UV Map.002",
+          "type": "UVMAP",
+          "inputs": {},
+          "uv_map": "FB166_lip_detail_registration"
+        },
+        {
+          "name": "Bump.002",
+          "type": "BUMP",
+          "inputs": {
+            "Strength": {
+              "value": 0.2800000011920929,
+              "links": []
+            },
+            "Distance": {
+              "value": 0.003000000026077032,
+              "links": []
+            },
+            "Filter Width": {
+              "value": 0.10000000149011612,
+              "links": []
+            },
+            "Height": {
+              "value": 1.0,
+              "links": [
+                "Mix (Legacy).006"
+              ]
+            },
+            "Normal": {
+              "value": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "links": [
+                "Bump.001"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "FB08_remove_original_eye_placeholder",
+      "nodes": []
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "base": "FB144",
+  "scale": 1.0,
+  "vertices": 18024,
+  "method": "Normal official create_facs_blendshapes; isolated evaluated copy, current head untouched",
+  "created": 51,
+  "keys": [
+    "Basis",
+    "eyeBlinkLeft",
+    "eyeBlinkRight",
+    "eyeSquintLeft",
+    "eyeSquintRight",
+    "eyeLookDownLeft",
+    "eyeLookDownRight",
+    "eyeLookInLeft",
+    "eyeLookInRight",
+    "eyeWideLeft",
+    "eyeWideRight",
+    "eyeLookOutLeft",
+    "eyeLookOutRight",
+    "eyeLookUpLeft",
+    "eyeLookUpRight",
+    "browDownLeft",
+    "browDownRight",
+    "browInnerUp",
+    "browOuterUpLeft",
+    "browOuterUpRight",
+    "jawOpen",
+    "mouthClose",
+    "jawLeft",
+    "jawRight",
+    "jawForward",
+    "mouthUpperUpLeft",
+    "mouthUpperUpRight",
+    "mouthLowerDownLeft",
+    "mouthLowerDownRight",
+    "mouthRollUpper",
+    "mouthRollLower",
+    "mouthSmileLeft",
+    "mouthSmileRight",
+    "mouthDimpleLeft",
+    "mouthDimpleRight",
+    "mouthStretchLeft",
+    "mouthStretchRight",
+    "mouthFrownLeft",
+    "mouthFrownRight",
+    "mouthPressLeft",
+    "mouthPressRight",
+    "mouthPucker",
+    "mouthFunnel",
+    "mouthLeft",
+    "mouthRight",
+    "mouthShrugLower",
+    "mouthShrugUpper",
+    "noseSneerLeft",
+    "noseSneerRight",
+    "cheekPuff",
+    "cheekSquintLeft",
+    "cheekSquintRight"
+  ],
+  "status": "available",
+  "deltas": [
+    {
+      "name": "eyeBlinkLeft",
+      "max_displacement": 0.09084535523930427
+    },
+    {
+      "name": "eyeBlinkRight",
+      "max_displacement": 0.09084762991480717
+    },
+    {
+      "name": "eyeSquintLeft",
+      "max_displacement": 0.024282885426404464
+    },
+    {
+      "name": "eyeSquintRight",
+      "max_displacement": 0.024288930605057307
+    },
+    {
+      "name": "eyeLookDownLeft",
+      "max_displacement": 0.027749319982730027
+    },
+    {
+      "name": "eyeLookDownRight",
+      "max_displacement": 0.027748114182819215
+    },
+    {
+      "name": "eyeLookInLeft",
+      "max_displacement": 0.02158666183696686
+    },
+    {
+      "name": "eyeLookInRight",
+      "max_displacement": 0.021582542787137247
+    },
+    {
+      "name": "eyeWideLeft",
+      "max_displacement": 0.03227614804145992
+    },
+    {
+      "name": "eyeWideRight",
+      "max_displacement": 0.03227244080083274
+    },
+    {
+      "name": "eyeLookOutLeft",
+      "max_displacement": 0.035932792329105935
+    },
+    {
+      "name": "eyeLookOutRight",
+      "max_displacement": 0.03592955484855786
+    },
+    {
+      "name": "eyeLookUpLeft",
+      "max_displacement": 0.032277475599360055
+    },
+    {
+      "name": "eyeLookUpRight",
+      "max_displacement": 0.03226939786572244
+    },
+    {
+      "name": "browDownLeft",
+      "max_displacement": 0.0926767095228615
+    },
+    {
+      "name": "browDownRight",
+      "max_displacement": 0.09267218820478546
+    },
+    {
+      "name": "browInnerUp",
+      "max_displacement": 0.11365846042618916
+    },
+    {
+      "name": "browOuterUpLeft",
+      "max_displacement": 0.11841548810788975
+    },
+    {
+      "name": "browOuterUpRight",
+      "max_displacement": 0.11840542031868896
+    },
+    {
+      "name": "jawOpen",
+      "max_displacement": 0.4321193435331486
+    },
+    {
+      "name": "mouthClose",
+      "max_displacement": 0.283168000217635
+    },
+    {
+      "name": "jawLeft",
+      "max_displacement": 0.08930773098192996
+    },
+    {
+      "name": "jawRight",
+      "max_displacement": 0.08932532440799355
+    },
+    {
+      "name": "jawForward",
+      "max_displacement": 0.09722132872422717
+    },
+    {
+      "name": "mouthUpperUpLeft",
+      "max_displacement": 0.09668894527419958
+    },
+    {
+      "name": "mouthUpperUpRight",
+      "max_displacement": 0.09669190846462718
+    },
+    {
+      "name": "mouthLowerDownLeft",
+      "max_displacement": 0.073651014848738
+    },
+    {
+      "name": "mouthLowerDownRight",
+      "max_displacement": 0.07363918884747657
+    },
+    {
+      "name": "mouthRollUpper",
+      "max_displacement": 0.1073804088154398
+    },
+    {
+      "name": "mouthRollLower",
+      "max_displacement": 0.09549992381979312
+    },
+    {
+      "name": "mouthSmileLeft",
+      "max_displacement": 0.17272181546701518
+    },
+    {
+      "name": "mouthSmileRight",
+      "max_displacement": 0.1727200865884718
+    },
+    {
+      "name": "mouthDimpleLeft",
+      "max_displacement": 0.10022353357806445
+    },
+    {
+      "name": "mouthDimpleRight",
+      "max_displacement": 0.10022523763588576
+    },
+    {
+      "name": "mouthStretchLeft",
+      "max_displacement": 0.13954654325091612
+    },
+    {
+      "name": "mouthStretchRight",
+      "max_displacement": 0.13954724388110085
+    },
+    {
+      "name": "mouthFrownLeft",
+      "max_displacement": 0.05649655035821159
+    },
+    {
+      "name": "mouthFrownRight",
+      "max_displacement": 0.056492660076407686
+    },
+    {
+      "name": "mouthPressLeft",
+      "max_displacement": 0.10546020706645413
+    },
+    {
+      "name": "mouthPressRight",
+      "max_displacement": 0.10545321456639882
+    },
+    {
+      "name": "mouthPucker",
+      "max_displacement": 0.11577385746889303
+    },
+    {
+      "name": "mouthFunnel",
+      "max_displacement": 0.13538308761920984
+    },
+    {
+      "name": "mouthLeft",
+      "max_displacement": 0.1316305461928777
+    },
+    {
+      "name": "mouthRight",
+      "max_displacement": 0.1316140065517666
+    },
+    {
+      "name": "mouthShrugLower",
+      "max_displacement": 0.07439230560249205
+    },
+    {
+      "name": "mouthShrugUpper",
+      "max_displacement": 0.050498748797944894
+    },
+    {
+      "name": "noseSneerLeft",
+      "max_displacement": 0.05482208066838994
+    },
+    {
+      "name": "noseSneerRight",
+      "max_displacement": 0.05483334385884401
+    },
+    {
+      "name": "cheekPuff",
+      "max_displacement": 0.09780382752318836
+    },
+    {
+      "name": "cheekSquintLeft",
+      "max_displacement": 0.08514146292413875
+    },
+    {
+      "name": "cheekSquintRight",
+      "max_displacement": 0.08515621012392473
+    }
+  ]
+}

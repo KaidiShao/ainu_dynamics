@@ -1,0 +1,84 @@
+{
+  "base": "FB98",
+  "status": "not adopted; geometry research branch",
+  "radius_scale": 0.9,
+  "assembly_retreat": 0.07,
+  "ocular": [
+    {
+      "side": -1,
+      "old_center": [
+        -0.2312036623339478,
+        -0.6973702066690173,
+        0.3223425492389094
+      ],
+      "new_center": [
+        -0.3162950873374939,
+        -0.638155460357666,
+        0.2820252478122711
+      ],
+      "old_new_globe_radius": [
+        0.18103684095785913,
+        0.16293315686207321
+      ],
+      "iris_radius": 0.05479985676048159,
+      "target_iris_px": [
+        398,
+        468
+      ],
+      "old_axis": [
+        -0.33832789054819484,
+        -0.940228637574824,
+        -0.0387859196281191
+      ],
+      "new_axis": [
+        0.1252363622188568,
+        -0.9767194986343384,
+        0.1741688847541809
+      ]
+    },
+    {
+      "side": 1,
+      "old_center": [
+        0.24376861115729476,
+        -0.7151262605236398,
+        0.3238620525402818
+      ],
+      "new_center": [
+        0.29317817091941833,
+        -0.6507747173309326,
+        0.29396918416023254
+      ],
+      "old_new_globe_radius": [
+        0.17233821950372935,
+        0.15510439755335642
+      ],
+      "iris_radius": 0.054540032736293695,
+      "target_iris_px": [
+        587,
+        455
+      ],
+      "old_axis": [
+        0.38688774207586785,
+        -0.9219683578432014,
+        -0.01709450693490011
+      ],
+      "new_axis": [
+        0.032308515161275864,
+        -0.9842140674591064,
+        0.17400802671909332
+      ]
+    }
+  ],
+  "old_axis_separation_degrees": 42.55494168557919,
+  "new_axis_separation_degrees": 5.343639294309061,
+  "maximum_skin_advance": 0.0,
+  "skin_vertices_over_001": 0,
+  "limits": [
+    "This is native geometric axis separation, not a medical diagnosis",
+    "Sphere clearance approximate; inspect real renders for skin bumps and holes",
+    "New gaze is a plausible target, not unique recovery from the image",
+    "Do not hide penetration with painted shadows or promote on pin agreement"
+  ],
+  "visual_review": "Closeup/front/quarter reviewed: no required skin advance but .07 retreat leaves overly dark and buried iris, long medial transition. Not a finished eye solution.",
+  "reviewed_at": "2026-10-15T01:26:27.104239+08:00"
+}

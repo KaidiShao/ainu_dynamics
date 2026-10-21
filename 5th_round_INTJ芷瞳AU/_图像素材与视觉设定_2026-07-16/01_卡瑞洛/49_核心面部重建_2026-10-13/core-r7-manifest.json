@@ -1,0 +1,77 @@
+{
+  "version": "R7",
+  "status": "Structurally revised working model; identity likeness not established; awaiting author evaluation.",
+  "finite": true,
+  "reversed_triangle_count": 0,
+  "reversed_triangles": [],
+  "edge_scale_range": [
+    0.5507776581104349,
+    1.6755961383727787
+  ],
+  "max_displacement": 8.099199572643228,
+  "eye_translation": [
+    -0.10969731099389454,
+    1.2198215159726142,
+    -0.2500039382309459
+  ],
+  "method": "Shared camera-ray depth field preserves the T22 eye outline and moves internal folds coherently; translated globes, separate margin/roll/transition constraints.",
+  "changes": [
+    "Joint globe and lid repositioning",
+    "Individually constrained lower eyelid margin, roll, and transition",
+    "Posterior jaw turn repositioned without widening",
+    "Chin side and underside volume reduced locally"
+  ],
+  "limits": [
+    "Landmark-compatible projection does not prove 3D likeness",
+    "Photo texture includes photographed lighting",
+    "Hair and appearance remain working approximations"
+  ],
+  "eye_projected_winding_changes": 0,
+  "max_eye_projection_error": 3.7763906117083025e-15,
+  "jaw_chin_orientation_reversals": 0,
+  "orientation_note": "A changed normal direction can exceed 90 degrees when correcting a fold. Validate eye projected winding and jaw/chin orientation separately; visual inspection remains required.",
+  "review": {
+    "source": "Existing independent review_carrillo_angle agent plus main-agent image inspection",
+    "intermediate_issue": "Outer upper-lid corner had a sharp depth discontinuity; fixed the missed-sphere-ray branch. New renders show no corresponding spike.",
+    "improvement": "Lower-lid wrap is geometrically more explicit; chin sides slightly less full; jaw-angle change remains modest.",
+    "final_refinement": "Reduced lower-lid roll radius from 13.10 to 12.70; reduced and shortened the crease below it after review flagged a mild eye-bag impression.",
+    "final_independent_check": "Mild eye-bag impression reduced; crease shadow is shallower and lateral transition softer while lid support remains. No new obvious sharp fold or inverted surface visible in the inspected front and turned closeups.",
+    "remaining": "Eye/lid shape and character expression still differ from T22. No identity pass."
+  },
+  "image_alignment": "R6 camera alignment retained because eye projection is unchanged. Removed old model contour and metrics; no newly measured R7 identity metrics.",
+  "preservation": "R6 native and GLB SHA256 hashes unchanged. Versioned R6 preview retained.",
+  "render_views": [
+    "front",
+    "threequarter",
+    "near-profile",
+    "front-neutral",
+    "neutral",
+    "eyes",
+    "eyes-neutral",
+    "eyes-side-neutral"
+  ],
+  "web_validation": {
+    "version": "R7",
+    "errors": [],
+    "stats": {
+      "meshes": 8,
+      "vertices": 1124925,
+      "head": 1,
+      "hair": 3
+    },
+    "modelResource": [
+      "http://127.0.0.1:8849/carrillo-core-r7.glb"
+    ],
+    "views": [
+      "eyes-neutral",
+      "eyes-side-neutral",
+      "eyes",
+      "neutral",
+      "front-neutral",
+      "front",
+      "threequarter",
+      "near-profile"
+    ],
+    "overlay": "1"
+  }
+}

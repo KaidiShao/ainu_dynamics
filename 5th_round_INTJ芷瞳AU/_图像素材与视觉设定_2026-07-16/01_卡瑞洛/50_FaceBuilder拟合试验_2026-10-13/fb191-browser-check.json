@@ -1,0 +1,12 @@
+{
+  "errors": [],
+  "bad": [],
+  "selectors_tested": [
+    "C",
+    "D",
+    "E",
+    "F"
+  ],
+  "working_model": "FB190",
+  "trials_not_adopted": true
+}

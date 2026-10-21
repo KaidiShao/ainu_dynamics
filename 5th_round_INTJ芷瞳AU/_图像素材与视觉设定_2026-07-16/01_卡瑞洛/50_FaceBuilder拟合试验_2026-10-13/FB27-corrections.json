@@ -1,0 +1,14 @@
+{
+  "base": "FB25",
+  "status": "requires_neutral_and_directional_review",
+  "max_displacement": 0.00411811626065847,
+  "reason": "Independent FB25 review: outer lower-lid support still too uniformly bag-like",
+  "preserved": [
+    "Upper orbital hood",
+    "Eye opening",
+    "FB22 iris diameter",
+    "FB25 conformed eyebrows",
+    "Sub-lip transition"
+  ],
+  "hair": "Old FB14 groom; FB26 remains unapproved separate hair test"
+}

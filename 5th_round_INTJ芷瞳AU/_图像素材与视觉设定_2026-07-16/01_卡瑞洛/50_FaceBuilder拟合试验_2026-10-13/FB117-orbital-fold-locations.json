@@ -1,0 +1,126 @@
+{
+  "source": "FB115",
+  "triangles_over90degrees_from_basis": [
+    {
+      "triangle": 412,
+      "polygon": 206,
+      "material": 0,
+      "vertices": [
+        2860,
+        622,
+        2527
+      ],
+      "center_world": [
+        0.16688535114129385,
+        -0.7952528794606527,
+        0.2646304468313853
+      ],
+      "center_reference_px": [
+        546.1348403692245,
+        474.60352993011475
+      ],
+      "normal_angle": 93.98660588368372
+    },
+    {
+      "triangle": 937,
+      "polygon": 468,
+      "material": 0,
+      "vertices": [
+        1909,
+        2289,
+        3558
+      ],
+      "center_world": [
+        0.15167902410030365,
+        -0.7841312686602274,
+        0.28336311380068463
+      ],
+      "center_reference_px": [
+        541.0814160704613,
+        468.2823667526245
+      ],
+      "normal_angle": 91.02416663721708
+    },
+    {
+      "triangle": 968,
+      "polygon": 484,
+      "material": 0,
+      "vertices": [
+        1909,
+        3558,
+        3591
+      ],
+      "center_world": [
+        0.149598295489947,
+        -0.7755258083343506,
+        0.27718133727709454
+      ],
+      "center_reference_px": [
+        540.6638063192368,
+        469.76426696777344
+      ],
+      "normal_angle": 97.05428920810945
+    },
+    {
+      "triangle": 988,
+      "polygon": 494,
+      "material": 0,
+      "vertices": [
+        3044,
+        3205,
+        2518
+      ],
+      "center_world": [
+        0.15085689226786295,
+        -0.767426073551178,
+        0.27035705248514813
+      ],
+      "center_reference_px": [
+        541.312698662281,
+        471.4178328514099
+      ],
+      "normal_angle": 90.55102737786277
+    },
+    {
+      "triangle": 1845,
+      "polygon": 922,
+      "material": 0,
+      "vertices": [
+        2860,
+        2517,
+        622
+      ],
+      "center_world": [
+        0.16197737554709116,
+        -0.7853506604830424,
+        0.26373613874117535
+      ],
+      "center_reference_px": [
+        544.7244890928268,
+        474.3786988258362
+      ],
+      "normal_angle": 96.51637673636083
+    },
+    {
+      "triangle": 19889,
+      "polygon": 9944,
+      "material": 1,
+      "vertices": [
+        10047,
+        17898,
+        17906
+      ],
+      "center_world": [
+        0.39685503641764325,
+        -0.7889398733774821,
+        0.2963706851005554
+      ],
+      "center_reference_px": [
+        619.1119097471237,
+        460.32118797302246
+      ],
+      "normal_angle": 95.42739827916343
+    }
+  ],
+  "interpretation": "This conservative normal test does not by itself prove surface self-intersection; classify visible/transparent regions and inspect before fixing or retaining."
+}

@@ -1,0 +1,42 @@
+{
+  "base": "FB144",
+  "status": "superseded diagnostic",
+  "official_facs": {
+    "eyeBlink_both": 0.05,
+    "eyeSquint_both": 0.25,
+    "browDown_both": 0.0
+  },
+  "max_delta": 0.006085869880804444,
+  "max_clearance_advance": 0.0022309235590217114,
+  "contact_refit": [
+    {
+      "side": -1,
+      "outer_correspondence_error": 0.0,
+      "inner_radial_fraction": [
+        0.825,
+        1.0
+      ]
+    },
+    {
+      "side": 1,
+      "outer_correspondence_error": 0.0,
+      "inner_radial_fraction": [
+        0.7949999999999999,
+        1.0
+      ]
+    }
+  ],
+  "fixed": [
+    "Globe iris cornea",
+    "Camera and lights",
+    "No unrelated anatomy trial integrated"
+  ],
+  "limits": [
+    "Expression candidate, not neutral identity replacement",
+    "Reject anger, sleepy eyes or lost T22 aperture character",
+    "Contact/skin/fiber attachments require native turn and numeric checks",
+    "FACS deltas produced by normal licensed addon API; no license workaround"
+  ],
+  "visual_review": "Native FACS coordinated eyelid movement works, but86 legacy transparent eye triangles reverse relative144; opaque skin has0. Contact/canthal audit clean. No adoption.",
+  "reviewed_at": "2026-10-15T05:19:37.618023+08:00"
+}

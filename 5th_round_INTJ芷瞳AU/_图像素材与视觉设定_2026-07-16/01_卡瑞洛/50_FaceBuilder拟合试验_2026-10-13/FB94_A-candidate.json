@@ -1,0 +1,31 @@
+{
+  "base": "FB93",
+  "reference": "T22 only",
+  "upper_recess_requested": 0.016,
+  "medial_recess_requested": 0.0,
+  "max_actual_displacement": 0.015962812895931794,
+  "changed_vertices_over_1e4": 417,
+  "globe_clearance_capped_vertices": 39,
+  "locked_eye_vertices": 796,
+  "attachment_max_follow": {
+    "Carrillo_FB63_Brows": 0.015993574308718773,
+    "Carrillo_FB47b_ShortLashes": 0.011443228048381904
+  },
+  "unchanged": [
+    "Globe position axis size",
+    "Eye aperture and inner contact walls",
+    "Lower pretarsal body",
+    "Nose center, mouth and jaw",
+    "Reference camera and lights"
+  ],
+  "method": "Depth along camera rays, supra-lid and medial wall tested independently; globe sphere limits receding skin",
+  "status": "not adopted",
+  "rollback": "Open FB93; brow/lash attachments do not follow shape-key toggles",
+  "limitations": [
+    "Single-reference depth hypothesis, not unique reconstruction",
+    "Sphere clearance is approximate; native rendering still needed",
+    "Reject added frown, fatigue, trench or generic hollow eyes"
+  ],
+  "reviewed_at": "2026-10-15T00:47:17.505173+08:00",
+  "visual_review": "not adopted: upper recess alone too weak to establish a likeness gain"
+}

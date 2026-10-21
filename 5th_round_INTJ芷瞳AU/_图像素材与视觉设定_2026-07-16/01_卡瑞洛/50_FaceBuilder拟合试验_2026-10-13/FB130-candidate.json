@@ -1,0 +1,19 @@
+{
+  "base": "FB128_A",
+  "status": "superseded after geometry findings",
+  "parts": {
+    "FB107_A_nasal_base_height": 0.65,
+    "FB109_A_cheek_mandibular_depth_plane": 0.6,
+    "FB108_B_lip_vertex_domain_registration": 1.0
+  },
+  "eye_branch": "FB128_A: non-retreated ratio2.3 common-target globes, graph-harmonic aperture, ordered no-nearest-fallback contact and continuous medial tissue; left contact winding corrected",
+  "max_added_head_delta": 0.013430213928222657,
+  "limits": [
+    "No whole likeness approval",
+    "Canthal tissue and upper-lid layers still require naturalness review",
+    "Single-reference side anatomy remains uncertain",
+    "Inspect neutral, gray, both turns and strict profile before retention"
+  ],
+  "visual_review": "Native front/two turns/side, gray and directional renders completed. Left contact winding corrected. Separate attachment audit exposed337/177 nonadjacent overlaps plus collapsed lateral tips; not retained.",
+  "reviewed_at": "2026-10-15T03:41:35.717627+08:00"
+}

@@ -1,0 +1,31 @@
+{
+  "geometry": "FB166 unchanged",
+  "target_glint": [
+    593,
+    454
+  ],
+  "cornea_point": [
+    0.3192436695098877,
+    -0.8786120414733887,
+    0.3363611698150635
+  ],
+  "normal": [
+    0.3023289144039154,
+    -0.9324188232421875,
+    0.1979704052209854
+  ],
+  "key_location": [
+    2.2505340576171875,
+    -3.7063369750976562,
+    1.0603015422821045
+  ],
+  "key_energy": 120,
+  "key_size": 0.25,
+  "world": 0.012,
+  "fill": 5,
+  "status": "lighting hypothesis only, not likeness approval",
+  "limits": [
+    "Reference highlight cannot determine the complete lighting setup",
+    "No change accepted into neutral working model"
+  ]
+}

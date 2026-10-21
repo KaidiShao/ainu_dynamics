@@ -1,0 +1,180 @@
+{
+  "FB133": [
+    {
+      "pixel": [
+        544,
+        472
+      ],
+      "ordered_hits": [
+        [
+          6.273609,
+          "Carrillo_FB128_A_medial1"
+        ],
+        [
+          6.285028,
+          "Carrillo_FB127_LidContact1"
+        ],
+        [
+          7.721064,
+          "Carrillo_FB02_Sculpt"
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        547,
+        471
+      ],
+      "ordered_hits": [
+        [
+          6.287024,
+          "Carrillo_FB128_A_medial1"
+        ],
+        [
+          6.305875,
+          "Carrillo_FB127_LidContact1"
+        ],
+        [
+          7.719876,
+          "Carrillo_FB02_Sculpt"
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        550,
+        469
+      ],
+      "ordered_hits": [
+        [
+          6.293535,
+          "Carrillo_FB128_A_medial1"
+        ],
+        [
+          6.330955,
+          "Carrillo_FB127_LidContact1"
+        ],
+        [
+          6.367204,
+          "Carrillo_FB15_Globe1"
+        ],
+        [
+          7.719372,
+          "Carrillo_FB02_Sculpt"
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        553,
+        467
+      ],
+      "ordered_hits": [
+        [
+          6.299145,
+          "Carrillo_FB128_A_medial1"
+        ],
+        [
+          6.318626,
+          "Carrillo_FB15_Globe1"
+        ],
+        [
+          7.718551,
+          "Carrillo_FB02_Sculpt"
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        556,
+        466
+      ],
+      "ordered_hits": [
+        [
+          6.300931,
+          "Carrillo_FB15_Globe1"
+        ],
+        [
+          7.71702,
+          "Carrillo_FB02_Sculpt"
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        440,
+        478
+      ],
+      "ordered_hits": [
+        [
+          6.321592,
+          "Carrillo_FB128_A_medial-1"
+        ],
+        [
+          6.33519,
+          "Carrillo_FB127_LidContact-1"
+        ],
+        [
+          7.693031,
+          "Carrillo_FB02_Sculpt"
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        437,
+        476
+      ],
+      "ordered_hits": [
+        [
+          6.349843,
+          "Carrillo_FB128_A_medial-1"
+        ],
+        [
+          6.376169,
+          "Carrillo_FB127_LidContact-1"
+        ],
+        [
+          7.691391,
+          "Carrillo_FB02_Sculpt"
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        434,
+        475
+      ],
+      "ordered_hits": [
+        [
+          6.369224,
+          "Carrillo_FB128_A_medial-1"
+        ],
+        [
+          6.37791,
+          "Carrillo_FB15_Globe-1"
+        ],
+        [
+          7.688299,
+          "Carrillo_FB02_Sculpt"
+        ]
+      ]
+    },
+    {
+      "pixel": [
+        431,
+        474
+      ],
+      "ordered_hits": [
+        [
+          6.358731,
+          "Carrillo_FB15_Globe-1"
+        ],
+        [
+          7.68518,
+          "Carrillo_FB02_Sculpt"
+        ]
+      ]
+    }
+  ]
+}

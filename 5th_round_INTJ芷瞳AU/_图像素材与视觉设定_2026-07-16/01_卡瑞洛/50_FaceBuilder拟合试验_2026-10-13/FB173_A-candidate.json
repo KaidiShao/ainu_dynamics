@@ -1,0 +1,19 @@
+{
+  "base": "FB166",
+  "status": "not retained",
+  "amount": 0.5,
+  "max_projection_dx": 2.918631099630393,
+  "max_displacement": 0.008809111643956796,
+  "fixed": [
+    "Anterior tip cap",
+    "Outer alar extent largely spared",
+    "Camera-ray depth",
+    "Eyes lips jaw materials"
+  ],
+  "limits": [
+    "Single photo cannot identify hidden nasal wall",
+    "Check front gray and turn for pinching or septal widening"
+  ],
+  "visual_review": "Native neutral nose crop inspected. Moving medial nasal wall changes interior slightly but does not solve tip/nostril shape.",
+  "reviewed_at": "2026-10-15T06:44:16.834905+08:00"
+}

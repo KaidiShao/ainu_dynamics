@@ -1,0 +1,25 @@
+{
+  "base": "FB166",
+  "status": "not retained",
+  "support_advance": 0.008,
+  "lower_blend_recession": 0.004,
+  "range": [
+    -0.007511060983285203,
+    0.0034841060333022813
+  ],
+  "eye_safety_clamped_vertices": 0,
+  "fixed": [
+    "Eye aperture",
+    "Wetedge and outer rim first3pixels",
+    "Physical eye assembly",
+    "Nose lips jaw lighting and material"
+  ],
+  "limits": [
+    "Independent support/lower-edge hypotheses, not measurement of true depth",
+    "Reject swollen bag or carved groove",
+    "Sparse topology and clamp can limit effect",
+    "Inspect native gray and turn views"
+  ],
+  "visual_review": "Neutral/gray eye crops reviewed. Combined bulge/recession accentuates bag-like structure.166 retained.",
+  "reviewed_at": "2026-10-15T06:44:16.834905+08:00"
+}

@@ -1,0 +1,11 @@
+{
+  "base": "FB55",
+  "head_geometry_unchanged": true,
+  "changes": [
+    "Left outer path endpoint333 to344px, right658 to649px",
+    "Outer root density fades beyond72% length",
+    "Outer fibers shortened and direction scattered",
+    "Retained feathered inner body construction"
+  ],
+  "status": "requires reference and matched closeup review"
+}

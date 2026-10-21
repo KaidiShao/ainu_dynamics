@@ -1,0 +1,16 @@
+{
+  "base": "FB38",
+  "source_lip_geometry": "FB41",
+  "retained": [
+    "FB38 right lower lid coverage and rebuilt contact/lashes",
+    "FB41 smooth lip seam shape key19"
+  ],
+  "material_and_hair": "Retained FB35 baseline; unapproved material/groom experiments excluded",
+  "status": "Working integration, not final likeness",
+  "requires": [
+    "Numeric mesh audit",
+    "Neutral front/quarter/profile",
+    "Gray multiangle",
+    "Browser actual mesh export check"
+  ]
+}

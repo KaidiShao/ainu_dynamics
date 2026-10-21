@@ -1,0 +1,146 @@
+{
+  "FB190_A": {
+    "contacts": [
+      {
+        "object": "Carrillo_FB127_LidContact-1",
+        "max_outer_skin_distance": 6.664001972467304e-08,
+        "median": 0.0
+      },
+      {
+        "object": "Carrillo_FB127_LidContact1",
+        "max_outer_skin_distance": 4.766106212628074e-05,
+        "median": 0.0
+      }
+    ],
+    "brow": {
+      "fibers": 4237,
+      "nonfinite_positions": 0,
+      "nonfinite_radii": 0,
+      "nonpositive_radii": 0,
+      "root_skin_distance_max": 0.0028734838124364614,
+      "root_skin_distance_median": 0.0005765705136582255
+    },
+    "max_head_delta_from189": 0.0,
+    "other_visible_meshes_identical_to189": true,
+    "baseline_contacts": [
+      {
+        "object": "Carrillo_FB127_LidContact-1",
+        "max_outer_skin_distance": 6.664001972467304e-08,
+        "median": 0.0
+      },
+      {
+        "object": "Carrillo_FB127_LidContact1",
+        "max_outer_skin_distance": 4.766106212628074e-05,
+        "median": 0.0
+      }
+    ]
+  },
+  "FB190_C": {
+    "contacts": [
+      {
+        "object": "Carrillo_FB127_LidContact-1",
+        "max_outer_skin_distance": 6.664001972467304e-08,
+        "median": 0.0
+      },
+      {
+        "object": "Carrillo_FB127_LidContact1",
+        "max_outer_skin_distance": 4.766106212628074e-05,
+        "median": 0.0
+      }
+    ],
+    "brow": {
+      "fibers": 4237,
+      "nonfinite_positions": 0,
+      "nonfinite_radii": 0,
+      "nonpositive_radii": 0,
+      "root_skin_distance_max": 0.00287329638376832,
+      "root_skin_distance_median": 0.0005091772181913257
+    },
+    "max_head_delta_from189": 0.008017182350158691,
+    "other_visible_meshes_identical_to189": true,
+    "baseline_contacts": [
+      {
+        "object": "Carrillo_FB127_LidContact-1",
+        "max_outer_skin_distance": 6.664001972467304e-08,
+        "median": 0.0
+      },
+      {
+        "object": "Carrillo_FB127_LidContact1",
+        "max_outer_skin_distance": 4.766106212628074e-05,
+        "median": 0.0
+      }
+    ]
+  },
+  "FB190_D": {
+    "contacts": [
+      {
+        "object": "Carrillo_FB127_LidContact-1",
+        "max_outer_skin_distance": 6.664001972467304e-08,
+        "median": 0.0
+      },
+      {
+        "object": "Carrillo_FB127_LidContact1",
+        "max_outer_skin_distance": 4.766106212628074e-05,
+        "median": 0.0
+      }
+    ],
+    "brow": {
+      "fibers": 4237,
+      "nonfinite_positions": 0,
+      "nonfinite_radii": 0,
+      "nonpositive_radii": 0,
+      "root_skin_distance_max": 0.00287329638376832,
+      "root_skin_distance_median": 0.0005093190702609718
+    },
+    "max_head_delta_from189": 0.016034245491027832,
+    "other_visible_meshes_identical_to189": true,
+    "baseline_contacts": [
+      {
+        "object": "Carrillo_FB127_LidContact-1",
+        "max_outer_skin_distance": 6.664001972467304e-08,
+        "median": 0.0
+      },
+      {
+        "object": "Carrillo_FB127_LidContact1",
+        "max_outer_skin_distance": 4.766106212628074e-05,
+        "median": 0.0
+      }
+    ]
+  },
+  "FB190_E": {
+    "contacts": [
+      {
+        "object": "Carrillo_FB127_LidContact-1",
+        "max_outer_skin_distance": 6.664001972467304e-08,
+        "median": 0.0
+      },
+      {
+        "object": "Carrillo_FB127_LidContact1",
+        "max_outer_skin_distance": 4.766106212628074e-05,
+        "median": 0.0
+      }
+    ],
+    "brow": {
+      "fibers": 4237,
+      "nonfinite_positions": 0,
+      "nonfinite_radii": 0,
+      "nonpositive_radii": 0,
+      "root_skin_distance_max": 0.00287329638376832,
+      "root_skin_distance_median": 0.0005091002676635981
+    },
+    "max_head_delta_from189": 0.011815905570983887,
+    "other_visible_meshes_identical_to189": true,
+    "baseline_contacts": [
+      {
+        "object": "Carrillo_FB127_LidContact-1",
+        "max_outer_skin_distance": 6.664001972467304e-08,
+        "median": 0.0
+      },
+      {
+        "object": "Carrillo_FB127_LidContact1",
+        "max_outer_skin_distance": 4.766106212628074e-05,
+        "median": 0.0
+      }
+    ]
+  }
+}

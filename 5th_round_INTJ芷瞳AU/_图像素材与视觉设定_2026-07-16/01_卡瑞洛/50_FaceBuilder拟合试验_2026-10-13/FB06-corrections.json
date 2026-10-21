@@ -1,0 +1,19 @@
+{
+  "status": "requires_visual_and_projection_review",
+  "base": "FB02",
+  "evidence": "P14 candidate edge trace, visually checked; T22 frontal projection preserved for depth changes",
+  "changes": [
+    {
+      "name": "05_Profile_nasal_root_depth",
+      "max_delta": 0.012973619473400252
+    },
+    {
+      "name": "06_Labiomental_transition_depth",
+      "max_delta": 0.03398615399706063
+    },
+    {
+      "name": "07_Chin_lower_contour",
+      "max_delta": 0.024400006650868267
+    }
+  ]
+}

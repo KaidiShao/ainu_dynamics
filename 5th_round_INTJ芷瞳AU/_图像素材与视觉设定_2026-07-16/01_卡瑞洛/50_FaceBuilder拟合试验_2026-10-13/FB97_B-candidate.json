@@ -1,0 +1,39 @@
+{
+  "base": "FB95_B",
+  "status": "rejected",
+  "geometry": "Rounded volumetric medial tear tissue",
+  "plica_fold": true,
+  "head_and_eyeballs_unchanged": true,
+  "tissue": [
+    {
+      "side": -1,
+      "pixel_center": [
+        440.92732764482497,
+        475.1921981811523
+      ],
+      "native_radius": [
+        0.009711805991608754,
+        0.005325829092172542,
+        0.003
+      ]
+    },
+    {
+      "side": 1,
+      "pixel_center": [
+        548.7394595623016,
+        470.0487874984741
+      ],
+      "native_radius": [
+        0.009651774381660446,
+        0.005292908531878309,
+        0.003
+      ]
+    }
+  ],
+  "limits": [
+    "Reject conspicuous bump, floating tissue, added dark triangle or a decal-like appearance",
+    "Local anatomy study only; eye depth and global likeness still unresolved"
+  ],
+  "visual_review": "Additional plica does not remove the isolated bead appearance",
+  "reviewed_at": "2026-10-15T01:25:20.809579+08:00"
+}

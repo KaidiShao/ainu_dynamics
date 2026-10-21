@@ -1,0 +1,12 @@
+{
+  "base": "FB77",
+  "status": "rejected: pinched exterior nasal surface",
+  "max_world_displacement": 0.02581858780602174,
+  "mechanism": "Move existing internal vault upward/backward within a small nostril region; lower floor and outer alar wall held with smooth masks. No dark painted hole and no new topology.",
+  "required_checks": [
+    "No local face inversion",
+    "Three-camera actual gray/material comparison",
+    "Nostril shape more readable without enlarged flaring or tip/bridge drift"
+  ],
+  "source_diagnostic": "FB77-nasal-wire-diagnostic.png"
+}

@@ -1,0 +1,24 @@
+{
+  "base": "FB153",
+  "status": "candidate for integration",
+  "requested_lower_tissue_width_px": 2.5,
+  "max_displacement": 0.007772115101877149,
+  "max_clearance": 0.0,
+  "contact_changes": [
+    0.007772114435058314,
+    0.007726709466394362
+  ],
+  "fixed": [
+    "Inner wetedge and tearline",
+    "Eye aperture and physical globes/iris",
+    "Medial and outermost endpoints via taper",
+    "Materials lighting camera"
+  ],
+  "limits": [
+    "Check contact/canthal seam and head geometry",
+    "Lower lash roots follow skin side, wetedge remains fixed",
+    "Reject bright artificial band or new under-eye swelling"
+  ],
+  "visual_review": "Native eye crop viewed.2.5px lower skin/lash-edge descent leaves eye aperture/globe fixed, adds visible tissue width.0clearance advance;head/attachments checks pass. Need turned full review.",
+  "reviewed_at": "2026-10-15T06:05:11.711847+08:00"
+}

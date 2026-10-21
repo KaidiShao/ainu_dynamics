@@ -1,0 +1,12 @@
+{
+  "base": "FB86",
+  "derived_from": "FB88_A upper-lip change only at85percent",
+  "lower_lip_support": 0,
+  "rationale": "A improves thick upper envelope but thins lower lip too much; restore original lower lip, then compare optional small volumetric support",
+  "max_displacement": 0.01787673721875338,
+  "status": "本轮保留为 FB89",
+  "camera_lights_materials_unchanged": true,
+  "eye_unit_unchanged": true,
+  "reviewed_at": "2026-10-14T11:06:57.996096+08:00",
+  "visual_finding": "减弱上唇过厚、略嘟的轮廓；保留下唇原厚度。"
+}

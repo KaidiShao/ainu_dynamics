@@ -1,0 +1,19 @@
+{
+  "version": "FB84",
+  "timestamp": "2026-10-14T09:23:28.718699+08:00",
+  "user_scope": "one new T22-only round; no overnight schedule restart",
+  "decision": "retain as T22-only working branch, not accepted likeness",
+  "base": "FB82",
+  "intermediate": "FB83",
+  "findings": [
+    "Removing P14 permits a different coherent base; front chin is somewhat less pointed, but whole likeness still fails.",
+    "Broad orbital roof provides modest support without aperture narrowing; front/oblique/opposite/near-side inspected.",
+    "Eyes remain vacant/generic; nasal wing/rim, mouth, jaw identity, and organized hair remain unresolved."
+  ],
+  "tests": [
+    "Official solver has one keyframe,26 T22 pins, no P14 pins",
+    "Native neutral four angles, orbital0/0.5/1 comparisons, gray structure renders",
+    "Numeric geometry audit: no nonfinite/degenerate/collapsed/inverted elements; not a likeness score"
+  ],
+  "likeness_approved": false
+}

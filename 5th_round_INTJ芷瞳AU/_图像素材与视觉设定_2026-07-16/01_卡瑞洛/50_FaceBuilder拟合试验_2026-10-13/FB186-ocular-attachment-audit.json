@@ -1,0 +1,51 @@
+{
+  "source": "FB186",
+  "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+  "limitations": [
+    "BVH overlaps are candidates for inspection, not proof of visible penetration",
+    "Does not audit all contacts between different objects",
+    "A clean result is not a likeness pass"
+  ],
+  "objects": [
+    {
+      "object": "Carrillo_FB127_LidContact-1",
+      "vertices": 3264,
+      "triangles": 6144,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 2.395911695293282e-08,
+      "nonadjacent_BVH_overlap_pairs": 0,
+      "first_overlap_pairs": []
+    },
+    {
+      "object": "Carrillo_FB127_LidContact1",
+      "vertices": 3264,
+      "triangles": 6144,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 6.473513545817021e-08,
+      "nonadjacent_BVH_overlap_pairs": 0,
+      "first_overlap_pairs": []
+    },
+    {
+      "object": "Carrillo_FB152_B_medial-1",
+      "vertices": 551,
+      "triangles": 1008,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 2.4433220543792293e-11,
+      "nonadjacent_BVH_overlap_pairs": 0,
+      "first_overlap_pairs": []
+    },
+    {
+      "object": "Carrillo_FB152_B_medial1",
+      "vertices": 551,
+      "triangles": 1008,
+      "nonfinite": 0,
+      "near_zero_area_triangles": 0,
+      "minimum_triangle_area": 5.95284071303993e-11,
+      "nonadjacent_BVH_overlap_pairs": 0,
+      "first_overlap_pairs": []
+    }
+  ]
+}

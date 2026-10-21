@@ -1,0 +1,23 @@
+{
+  "base": "FB166",
+  "status": "rejected",
+  "bundle_cross_section_factor": 0.55,
+  "hair_shader_changed": false,
+  "max_point_displacement": 0.03802795335650444,
+  "root_max_change": 0.0,
+  "points": 1955140,
+  "strands": 58728,
+  "fixed": [
+    "166face and eyes",
+    "Strand length/count/radius",
+    "Bundle centerline and roots",
+    "Scalp undercoat",
+    "Camera and lights"
+  ],
+  "limits": [
+    "Less fuzz or shinier hair is not face-likeness proof",
+    "Check coverage gaps and artificial rope-like clumps in turns"
+  ],
+  "visual_review": "Native front and quarter inspected. Tightened bundles create rope-like curls and larger gaps; no improvement to T22 hair character.",
+  "reviewed_at": "2026-10-15T07:19:34.383726+08:00"
+}

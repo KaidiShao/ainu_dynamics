@@ -1,0 +1,153 @@
+{
+  "at": "2026-10-15T09:42:18.718722+08:00",
+  "base": "FB190",
+  "retained_working": "FB190",
+  "selected": null,
+  "whole_likeness_pass": false,
+  "user_observation": "Current face appears much rounder/blunter thanT22; suspected rounded jawline",
+  "findings": [
+    "Native projected jaw contour already broadly overlapsT22; not proof of matching3D anatomy",
+    "Broad lower-cheek to jaw-body and anterior-chin to side transitions contribute to roundness",
+    "Directional-light difference contributes to perception; not all shadow difference is depth error",
+    "C/D edge sharpening alone had weak effect; E/F local plane changes did not reliably solve identity"
+  ],
+  "decisions": {
+    "A": "invalid boundary selection mixed perioral contour; not retained",
+    "B": "invalid boundary selection created grooves; rejected after native render",
+    "C": "corrected native jaw boundary; slight edge change without convincing whole-face identity gain",
+    "D": "stronger corrected cross section; still insufficient face-plane identity gain",
+    "E": "balanced local cheek planes; no convincing integrated shape gain",
+    "F": "cheek plus anterior chin planes; some local hollowing, no reliable identity gain"
+  },
+  "native_geometry_audits": {
+    "FB191_A": {
+      "status": "numeric_mesh_checks_only_not_likeness_approval",
+      "vertices": 18024,
+      "polygons": 17232,
+      "triangles": 34462,
+      "nonfinite_coordinates": 0,
+      "degenerate_triangles": 0,
+      "collapsed_edges": 0,
+      "inverted_triangles_vs_base": 0,
+      "max_normal_rotation_degrees": 76.05885733852645,
+      "max_vertex_displacement": 0.1007005737975101,
+      "limitations": [
+        "Does not prove likeness",
+        "Does not detect every possible surface self-intersection",
+        "Intentional neck boundary retained"
+      ]
+    },
+    "FB191_B": {
+      "status": "numeric_mesh_checks_only_not_likeness_approval",
+      "vertices": 18024,
+      "polygons": 17232,
+      "triangles": 34462,
+      "nonfinite_coordinates": 0,
+      "degenerate_triangles": 0,
+      "collapsed_edges": 0,
+      "inverted_triangles_vs_base": 0,
+      "max_normal_rotation_degrees": 84.21384838060379,
+      "max_vertex_displacement": 0.1007005737975101,
+      "limitations": [
+        "Does not prove likeness",
+        "Does not detect every possible surface self-intersection",
+        "Intentional neck boundary retained"
+      ]
+    },
+    "FB191_C": {
+      "status": "numeric_mesh_checks_only_not_likeness_approval",
+      "vertices": 18024,
+      "polygons": 17232,
+      "triangles": 34462,
+      "nonfinite_coordinates": 0,
+      "degenerate_triangles": 0,
+      "collapsed_edges": 0,
+      "inverted_triangles_vs_base": 0,
+      "max_normal_rotation_degrees": 76.05885733852645,
+      "max_vertex_displacement": 0.1007005737975101,
+      "limitations": [
+        "Does not prove likeness",
+        "Does not detect every possible surface self-intersection",
+        "Intentional neck boundary retained"
+      ]
+    },
+    "FB191_D": {
+      "status": "numeric_mesh_checks_only_not_likeness_approval",
+      "vertices": 18024,
+      "polygons": 17232,
+      "triangles": 34462,
+      "nonfinite_coordinates": 0,
+      "degenerate_triangles": 0,
+      "collapsed_edges": 0,
+      "inverted_triangles_vs_base": 0,
+      "max_normal_rotation_degrees": 76.05885733852645,
+      "max_vertex_displacement": 0.1007005737975101,
+      "limitations": [
+        "Does not prove likeness",
+        "Does not detect every possible surface self-intersection",
+        "Intentional neck boundary retained"
+      ]
+    },
+    "FB191_E": {
+      "status": "numeric_mesh_checks_only_not_likeness_approval",
+      "vertices": 18024,
+      "polygons": 17232,
+      "triangles": 34462,
+      "nonfinite_coordinates": 0,
+      "degenerate_triangles": 0,
+      "collapsed_edges": 0,
+      "inverted_triangles_vs_base": 0,
+      "max_normal_rotation_degrees": 76.05885733852645,
+      "max_vertex_displacement": 0.1007005737975101,
+      "limitations": [
+        "Does not prove likeness",
+        "Does not detect every possible surface self-intersection",
+        "Intentional neck boundary retained"
+      ]
+    },
+    "FB191_F": {
+      "status": "numeric_mesh_checks_only_not_likeness_approval",
+      "vertices": 18024,
+      "polygons": 17232,
+      "triangles": 34462,
+      "nonfinite_coordinates": 0,
+      "degenerate_triangles": 0,
+      "collapsed_edges": 0,
+      "inverted_triangles_vs_base": 0,
+      "max_normal_rotation_degrees": 76.05885733852645,
+      "max_vertex_displacement": 0.1007005737975101,
+      "limitations": [
+        "Does not prove likeness",
+        "Does not detect every possible surface self-intersection",
+        "Intentional neck boundary retained"
+      ]
+    }
+  },
+  "scripts": [
+    "mandibular_sections_fb191.py",
+    "mandibular_sections_fb191cd.py",
+    "lowerface_planes_fb191ef.py",
+    "probe_lowerface_fb191.py",
+    "render_lowerface191.py"
+  ],
+  "automation_status": "PAUSED",
+  "next_direction": "Coherent multi-plane reconstruction of cheek, mandibular body and chin with controlled sections; avoid repeated isolated groove/amplitude changes",
+  "browser_validation": {
+    "errors": [],
+    "bad": [],
+    "selectors_tested": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "working_model": "FB190",
+    "trials_not_adopted": true
+  },
+  "reviewed_native_views": [
+    "C/D neutral lower-face crops, frontal and 40-degree views",
+    "E/F neutral lower-face crops, frontal and 40-degree views",
+    "E/F directional-light renders",
+    "Native190 occluding-contour overlay on T22 and model"
+  ]
+}

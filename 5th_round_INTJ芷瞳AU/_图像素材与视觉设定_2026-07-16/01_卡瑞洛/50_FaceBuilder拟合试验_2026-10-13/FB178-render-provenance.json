@@ -1,0 +1,12 @@
+{
+  "geometry_identical_to": "FB177_A",
+  "native_images_reused_without_pixel_changes": [
+    "neutral-front",
+    "neutral-threequarter",
+    "structure-front",
+    "structure-threequarter",
+    "orbit-front",
+    "diagnostic-side-light"
+  ],
+  "remaining_views": "opposite40,near-side85,true-horizontal-orthographic profile"
+}

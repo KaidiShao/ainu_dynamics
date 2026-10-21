@@ -1,0 +1,55 @@
+{
+  "status": "V9 likeness rejected by author; technical study only, not character identity anchor",
+  "canonical": "Carrillo_3D_working.blend",
+  "canonical_sha256": "580aab36cecd19c006914ca4728fa1efbb013f7827d952f2399f63014ff8b2e4",
+  "preview": "carrillo-web-v9.glb",
+  "preview_sha256": "23e7a10c8a78e26a0856d01d3a511df1aeb7dd3f240c6adf9c386c4e51c54452",
+  "native_head_base_vertices": 3242,
+  "native_head_base_faces": 3234,
+  "native_hair_curves": 42200,
+  "web_meshes": 8,
+  "web_vertices": 1123949,
+  "web_hair_stride": {
+    "dense": 6,
+    "long_fringe": 3
+  },
+  "web_hair_thickness_multiplier": 4.2,
+  "web_texture": "Original F03 image projection with one UV set; viewer.js shader fades side and neck regions. Photograph shading remains. Appearance in other GLB viewers may differ.",
+  "web_export_script": "tools/export_web_v2.py",
+  "rendered_views": [
+    "front",
+    "threequarter",
+    "near-profile",
+    "neutral"
+  ],
+  "named_cameras": [
+    "View_front",
+    "View_threequarter",
+    "View_near-profile",
+    "View_profile"
+  ],
+  "reference_roles": {
+    "F03": "Softer-light projected skin image, not neutral albedo",
+    "P14": "Auxiliary side constraint; not orthographic",
+    "T22": "Primary identity"
+  },
+  "validation": [
+    "project-validation.json",
+    "viewer-validation.json"
+  ],
+  "version": "v9",
+  "correction": "V8 cheek and masseter volume reduction; V9 local mandibular plane adjustment. Eyes, iris, hair, lights and cameras retained.",
+  "previous_native": "carrillo-refined-v7-before-face-slimming.blend",
+  "author_feedback": "还是很不像",
+  "default_view": "likeness-calibration.html",
+  "preserved_model_view": "model-v9.html",
+  "eye_trial": {
+    "file": "carrillo-eye-fit-v10-EXPERIMENT.blend",
+    "status": "Full likeness not passed; not promoted",
+    "renders": [
+      "renders/refined-v10-front.png",
+      "renders/refined-v10-threequarter.png",
+      "renders/refined-v10-neutral.png"
+    ]
+  }
+}

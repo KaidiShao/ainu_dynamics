@@ -1,0 +1,129 @@
+{
+  "created": "2026-10-09",
+  "tool": "built-in image_gen",
+  "model_version": "not returned by tool",
+  "record": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/23_钢蓝眼色回校_2026-10-09/00_钢蓝眼色对照与完整提示词.md",
+  "request": "你试试把这些换成钢蓝色的 我觉得更浅的也有点意思",
+  "color_reference": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/08_蓝眼色对照_2026-10-07/MC_EYE_B03_钢蓝_近正面_v2.png",
+  "original_lighter_versions_preserved": true,
+  "author_status": "COMPARISON / AUTHOR_REVIEW_PENDING",
+  "assets": [
+    {
+      "id": "F03_SB",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "D2B49E13C49C7EE5C426DAA0C4553C55C73FB43DE7DA5CAB15D5D859724EB851",
+      "bytes": 1933515,
+      "parent_sha256": "650B7E09F1C740468E44D92B0B6ED8A5255DFBE6F1EE47BDD05E054C807C6465",
+      "copy_verified": true,
+      "asset_id": "MC_FIRSTMEET_F03_STEELBLUE_V1",
+      "label": "均匀柔光正面",
+      "file": "MC_FIRSTMEET_F03_均匀柔光_钢蓝眼色对照_v1.png",
+      "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-df39da4c-2259-4e58-a1a9-c9ba2fcff58d.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/23_钢蓝眼色回校_2026-10-09/MC_FIRSTMEET_F03_均匀柔光_钢蓝眼色对照_v1.png",
+      "parent_asset": "MC_FIRSTMEET_F03",
+      "parent_image": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/MC_FIRSTMEET_F03_F02均匀柔光面部对照_v3.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/19_初见凝视状态_2026-10-08/MC_FIRSTMEET_F03_F02均匀柔光面部对照_v3.png",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/08_蓝眼色对照_2026-10-07/MC_EYE_B03_钢蓝_近正面_v2.png"
+      ],
+      "method": "iris_color_edit",
+      "status": "STEEL_BLUE_COMPARISON / AUTHOR_REVIEW_PENDING / NOT_IDENTITY_ANCHOR",
+      "qa": "Overall pose and features retained; some skin texture rerendering visible; not pixel-locked outside iris."
+    },
+    {
+      "id": "P09_SB",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "E6C59CBD73D21B1C8E948E3ADD7DE2B7E06650E103089D7F84DB23A3967B445B",
+      "bytes": 1868948,
+      "parent_sha256": "1C745CED73860645234C1508428A362080EE2589D8C5738BCBE56ACEC8E2421F",
+      "copy_verified": true,
+      "asset_id": "MC_ANGLE_P09_STEELBLUE_V1",
+      "label": "年长版本用途正侧",
+      "file": "MC_ANGLE_P09_年长版本用途_钢蓝眼色对照_v1.png",
+      "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-28675a7b-3a57-4efa-86d9-c472ac127d56.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/23_钢蓝眼色回校_2026-10-09/MC_ANGLE_P09_年长版本用途_钢蓝眼色对照_v1.png",
+      "parent_asset": "MC_ANGLE_P09",
+      "parent_image": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/22_正侧沉稳审视神态_2026-10-09/MC_ANGLE_P09_正侧脸_年轻面孔沉稳审视_v9.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/22_正侧沉稳审视神态_2026-10-09/MC_ANGLE_P09_正侧脸_年轻面孔沉稳审视_v9.png",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/08_蓝眼色对照_2026-10-07/MC_EYE_B03_钢蓝_近正面_v2.png"
+      ],
+      "method": "iris_color_edit",
+      "status": "STEEL_BLUE_COMPARISON / AUTHOR_REVIEW_PENDING / NOT_IDENTITY_ANCHOR",
+      "qa": "Overall pose and features retained; some skin texture rerendering visible; not pixel-locked outside iris."
+    },
+    {
+      "id": "P10_SB",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "8C9A1589208AB3AEDB6D79CF9D7CFCA63A0B9BA5CB1C8167E90CA31BC608B8F7",
+      "bytes": 1686271,
+      "parent_sha256": "2299CC7001F424772DEC3B2ADF7C9E069C180BE7FCD0CA742D154EA11D13094F",
+      "copy_verified": true,
+      "asset_id": "MC_ANGLE_P10_STEELBLUE_V1",
+      "label": "认可正侧原发长",
+      "file": "MC_ANGLE_P10_认可正侧_钢蓝眼色对照_v1.png",
+      "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-e4505f6e-4d05-4827-8dd6-f5f69e99934b.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/23_钢蓝眼色回校_2026-10-09/MC_ANGLE_P10_认可正侧_钢蓝眼色对照_v1.png",
+      "parent_asset": "MC_ANGLE_P10",
+      "parent_image": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/22_正侧沉稳审视神态_2026-10-09/MC_ANGLE_P10_正侧脸_侧光正面重建沉稳审视_v10.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/22_正侧沉稳审视神态_2026-10-09/MC_ANGLE_P10_正侧脸_侧光正面重建沉稳审视_v10.png",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/08_蓝眼色对照_2026-10-07/MC_EYE_B03_钢蓝_近正面_v2.png"
+      ],
+      "method": "iris_color_edit",
+      "status": "STEEL_BLUE_COMPARISON / AUTHOR_REVIEW_PENDING / NOT_IDENTITY_ANCHOR",
+      "qa": "Overall pose and features retained; some skin texture rerendering visible; not pixel-locked outside iris."
+    },
+    {
+      "id": "P11_SB",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "9EDFAA180E3B50BEBC1FF7E273ABFBAC2E4E3CCFB96DF4E2654168365B5EC80A",
+      "bytes": 1719180,
+      "parent_sha256": "7B5E05E1908C95903593CAF02392B027FEEBDA327F1AAEDC743A21FB9644AF14",
+      "copy_verified": true,
+      "asset_id": "MC_ANGLE_P11_STEELBLUE_V1",
+      "label": "认可短发正侧",
+      "file": "MC_ANGLE_P11_短发正侧_钢蓝眼色对照_v1.png",
+      "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-6265428a-e1d9-4146-acbd-2b00a7db5199.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/23_钢蓝眼色回校_2026-10-09/MC_ANGLE_P11_短发正侧_钢蓝眼色对照_v1.png",
+      "parent_asset": "MC_ANGLE_P11",
+      "parent_image": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/22_正侧沉稳审视神态_2026-10-09/MC_ANGLE_P11_正侧脸_P10略短发对照_v11.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/22_正侧沉稳审视神态_2026-10-09/MC_ANGLE_P11_正侧脸_P10略短发对照_v11.png",
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/08_蓝眼色对照_2026-10-07/MC_EYE_B03_钢蓝_近正面_v2.png"
+      ],
+      "method": "iris_color_edit",
+      "status": "STEEL_BLUE_COMPARISON / AUTHOR_REVIEW_PENDING / NOT_IDENTITY_ANCHOR",
+      "qa": "Overall pose and features retained; some skin texture rerendering visible; not pixel-locked outside iris."
+    },
+    {
+      "id": "P09_SB_SHORT",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "CA461353914A51D92C5E2EFC8EDB8137BE87CE52E336737B7BCB7C4F385FD7DF",
+      "bytes": 1871413,
+      "parent_sha256": "E6C59CBD73D21B1C8E948E3ADD7DE2B7E06650E103089D7F84DB23A3967B445B",
+      "copy_verified": true,
+      "asset_id": "MC_ANGLE_P09_STEELBLUE_SHORT_V2",
+      "label": "年长版本用途钢蓝略短发",
+      "file": "MC_ANGLE_P09_年长版本用途_钢蓝略短发对照_v2.png",
+      "source": "C:/Users/kdsha/.codex/generated_images/01a1125e-3dd4-7013-87aa-585e0a6f1ace/exec-11cd8901-1a03-433a-b833-ad89b8d4409b.png",
+      "saved": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/23_钢蓝眼色回校_2026-10-09/MC_ANGLE_P09_年长版本用途_钢蓝略短发对照_v2.png",
+      "parent_asset": "MC_ANGLE_P09_STEELBLUE_V1",
+      "parent_image": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/23_钢蓝眼色回校_2026-10-09/MC_ANGLE_P09_年长版本用途_钢蓝眼色对照_v1.png",
+      "inputs": [
+        "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/23_钢蓝眼色回校_2026-10-09/MC_ANGLE_P09_年长版本用途_钢蓝眼色对照_v1.png"
+      ],
+      "method": "haircut_edit",
+      "request": "你把年长版本的头发也搞短点 看着难受",
+      "record": "D:/新建文件夹/ainu_dynamics/5th_round_INTJ芷瞳AU/_图像素材与视觉设定_2026-07-16/01_卡瑞洛/23_钢蓝眼色回校_2026-10-09/02_P09年长版本略短发_生成记录与完整提示词.md",
+      "status": "AUTHOR_NOT_SATISFIED_CHARACTER_LIKENESS / PROCESS_ONLY / NOT_IDENTITY_ANCHOR",
+      "qa": "Shorter hair behind ear and at nape, natural top waves retained. Overall face and pose continue; not pixel-locked outside hair.",
+      "author_feedback": "这样看也有点诡异 不太像他"
+    }
+  ]
+}

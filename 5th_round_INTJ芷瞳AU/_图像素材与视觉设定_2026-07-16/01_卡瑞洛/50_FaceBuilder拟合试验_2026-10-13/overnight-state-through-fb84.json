@@ -1,0 +1,179 @@
+{
+  "updated_at": "2026-10-14T09:23:28.718699+08:00",
+  "status": "user_requested_T22_only_round84_complete_not_likeness_approved",
+  "automation_id": "automation",
+  "automation_until": "2026-10-14T08:00:00+08:00",
+  "current_model": "Carrillo_FaceBuilder_FB84.blend",
+  "current_geometry_export": "Carrillo_FB84_clay.glb",
+  "current_material_experiment": "FB69 skin/lip/iris retained;71/73 iris changes not adopted",
+  "material_experiment_approved": false,
+  "running_blender_jobs": [],
+  "primary_reference": "references/T22.png",
+  "secondary_reference": null,
+  "method": "Official KeenTools FaceBuilder 2026.3.1 in Blender 4.5.14; legitimate 14 day trial activated on 2026-10-13. No cloud fitting.",
+  "completed": [
+    "Installed addon/core and activated legitimate trial",
+    "Packed both references into Blender",
+    "Automatic joint fitting",
+    "15 conservative frontal landmark corrections",
+    "FB02: reversible eyelid, nose bridge, lip, submalar corrections",
+    "Reference texture projection tested but rejected for presentation because baked light and painted hair are misleading",
+    "FB03–05: native skin/iris/brow materials and real curved hair studies; hair rejected",
+    "FB06: measured P14 silhouette corrections to nasal root, labiomental transition and chin lower contour",
+    "FB07: reduced upper lid rim protrusion and adjusted cupid bow after independent review",
+    "FB07 native three-view renders, numeric geometry audit, evaluated GLB and interactive viewer all produced",
+    "Fixed pin-version mismatch in review page; browser tested without JS errors",
+    "FB08–11 ocular surface, boundary and brow studies saved; bright lower strip corrected",
+    "FB10 modest reversible upper-lid/lip corrections after independent review",
+    "FB12–14 native grouped hair experiments reviewed and rejected as final",
+    "FB16 complete ocular-globe experiment built with calibrated recessed iris and central cornea",
+    "FB11 numeric geometry audit and interactive viewer checked; 2 exported material groups, 18193 vertices including seams, no browser JS errors",
+    "FB07 and FB11 matched-light eye/lip closeups rendered at 250%; maximum normal-change location recorded",
+    "Independent review retained FB11 small geometry changes and FB18/19 ocular contact/lashes",
+    "FB20 integrated eyes and skin/groom; FB21 broader native brow fibers rendered",
+    "FB22 same-scale iris remeasurement and FB23 orbital/lip corrective shape keys saved",
+    "FB24 new 3D guide-lock hair experiment saved",
+    "FB22 iris correction independently retained; FB25 ocular/lip changes independently reviewed",
+    "FB27 lower-lid taper, native neutral/gray/directional renders and numeric audit completed",
+    "FB27 GLB workbench and same-camera review updated and browser checked without JS errors",
+    "FB28 actual hair primitives replace beveled tubes without changing centerlines; three-view material study rendered",
+    "FB29/30/31/32 material and ocular experiments saved, native rendered and reviewed; failed globe shift rejected",
+    "Read-only ocular axes and constrained sphere fits completed; residuals explicitly retained, no numeric likeness claim",
+    "FB35 central lower-lip correction independently retained; material/gray before-after, neutral three views and actual GLB exported",
+    "FB33/FB33b groom and FB34 eye reflection experiments explicitly withheld after native render review",
+    "FB45 integrated geometry audited and exported; six actual neutral/clay views saved.",
+    "FB49 appearance integration neutral and directional views rendered; FB46c failed groom explicitly rejected.",
+    "FB67 integration actual neutral,gray,directional three views and numeric geometry audit completed",
+    "FB69 lip micro normals independently reviewed under reversed lighting",
+    "FB75 groom and FB77 local lower-lip underside correction independently retained",
+    "FB77 nine native neutral/clay/directional views completed; actual GLB exported",
+    "Organized editable77 copy created without visible geometry changes; image assets packed",
+    "Independent77 rebuild completed in a new directory; geometry hash validation saved",
+    "FB82 partial opposite-scalp coverage fix independently retained; original3/opposite2 views reviewed",
+    "FB82 actual neutral/clay/directional9views saved; editable copy, packed assets, GLB and reconstruction verified",
+    "FB79/80/81 nose candidates rejected after actual gray/material comparison",
+    "Tonight automation explicitly paused; likeness criteria remain unmet"
+  ],
+  "known_issues": [
+    "Removing P14 permits a different coherent base; front chin is somewhat less pointed, but whole likeness still fails.",
+    "Broad orbital roof provides modest support without aperture narrowing; front/oblique/opposite/near-side inspected.",
+    "Eyes remain vacant/generic; nasal wing/rim, mouth, jaw identity, and organized hair remain unresolved."
+  ],
+  "next": [
+    "Current requested round completed. Do not resume the prior overnight automation.",
+    "Further edits must be judged against T22 only; P14 is archived, not a shape constraint."
+  ],
+  "constraints": [
+    "Never mark likeness complete solely because landmark error is small",
+    "Preserve all original references and R12",
+    "No subscriptions or paid cloud actions",
+    "Keep actual geometry renders distinguishable from reference images",
+    "T22 alone defines identity and fitting; P14 excluded by explicit user instruction on2026-10-14."
+  ],
+  "scripts": "D:/新建文件夹/ainu_dynamics/_tools/keentools",
+  "preview": "http://127.0.0.1:8850/workbench.html",
+  "comparison": "http://127.0.0.1:8850/T22only-round84.html",
+  "script_notes": [
+    "FB base is hidden in FB02+; scene['working_head'] names refined head. Do not call update_head_mesh on refined geometry",
+    "render_sculpt.py accepts lower-case output tag after --; preserves material unless fb02",
+    "audit_export_geometry.py accepts FB07-style tag after -- and exports evaluated mesh with all active shape keys",
+    "export_sculpt_projection.py accepts version tag after --",
+    "Blender may exit 1 due addon shutdown despite valid output; inspect logs/files",
+    "Preview server is Python http.server on localhost 8850 rooted at this directory; restart hidden only if absent",
+    "FB11 mesh geometry equals FB10; FB12–14 only add hair, FB15/16 are based on FB11 with full eyeballs",
+    "render_sculpt.py accepts a second argument clay to hide all appearance objects and render actual head geometry",
+    "anatomical_eyes_fb15.py -- FB16 must load FB11, not FB15; FB16 object names still contain FB15 because of source script",
+    "Separate ocular objects do not automatically follow new facial shape keys; preserve aperture or explicitly refit contact after changes",
+    "Hair FB13 is made by hair_fb12.py -- FB13 from FB11; FB14 adds selected FB12 fibers through layer_hair_fb14.py",
+    "eyes_fb08.py through anatomical_eyes_fb15.py contain reproducible ocular experiments; never overwrite these models",
+    "FB20 integrates FB19 + FB17c. FB21 brows, FB22 iris, FB23 orbital/lip, FB24 groom are sequential",
+    "FB17c high-frequency texture is a bounded material test, not real captured height or albedo",
+    "Do not rerun old publisher scripts after later state updates; they may reset current version pointers",
+    "create_workbench.py FB27 and create_review.py now publish FB27 structural comparisons. appearance.html carries clearly labeled appearance experiments.",
+    "guide_hair_fb24.py -- FB26 loads FB25 and fixes FB24 hidden-lock failure, but still creates unsuitable large fringe; do not call this approved.",
+    "native_hair_fb28.py loads FB27 and converts the existing FB13/14 centerlines to bpy.data.hair_curves. cu.add_curves(sizes); position and radius point attributes; Principled Hair MELANIN material.",
+    "FB27 shape key 14 locally tapers key12 lower-lid contribution; key12 value remains .55, labiomental key06 .55. 796 original eye vertices were locked during added orbital support.",
+    "fb27-hardlight-scene.blend is a separate lighting diagnostic; main Carrillo_FaceBuilder_FB27.blend retains the normal working rig.",
+    "Avoid repeated concurrent heavy render jobs; unique build/audit tasks can run while one render proceeds. Verify logs because Blender can exit0 after Python exceptions."
+  ],
+  "current_eye_geometry_experiment": "FB76 rejected; baseline69 ocular assembly retained",
+  "current_hair_experiment": "82 root-coverage repair retained after original3/opposite2 review",
+  "hair_experiment_approved": false,
+  "current_integrated_study": "Carrillo_FaceBuilder_FB84.blend",
+  "current_geometry_experiment": "FB83 single-reference refit, FB84 upper orbital support",
+  "current_geometry_basis": "T22-only official refit on FB82, plus orbital roof",
+  "last_batch_validation": {
+    "FB27_numeric_audit": "No nonfinite/degenerate/collapsed/inverted mesh elements; not a likeness pass",
+    "FB27_visual": "Gray front/profile/quarter and neutral appearance/eye crop/hardlight inspected; independent reviewer retains working geometry",
+    "FB28b_visual": "Front/profile/quarter inspected; frontal strong hair highlights reduced, silhouette/grouping unresolved",
+    "workbench_browser": {
+      "js_errors": 0,
+      "material_groups": 2,
+      "vertices_with_seams": 18193
+    },
+    "comparison_browser": {
+      "js_errors": 0
+    },
+    "appearance_browser": {
+      "js_errors": 0,
+      "images": 18,
+      "missing": 0
+    },
+    "automation": "Update tool confirmed PAUSED; tonight-only continuation stopped.",
+    "next_batch": "Continue actual edits from FB28b, do not conclude complete.",
+    "latest_browser": {
+      "errors": [],
+      "missing": [],
+      "broken": [],
+      "assets": 15,
+      "overlay_alpha": "0.73",
+      "mesh_stats": {
+        "meshes": 2,
+        "vertices": 18193
+      },
+      "P14_constraint_control_absent": true,
+      "loaded_version": "FB84"
+    },
+    "FB77_reproduction": {
+      "editable_matches": true,
+      "rebuild_matches": true,
+      "editable_images_all_packed": true
+    },
+    "plain_blender_open": "Editable77 opens with default Blender addons only, actual mesh/keys/native hair present,5of5 file images packed",
+    "FB82_reproduction": {
+      "editable_matches": true,
+      "rebuild_matches": true,
+      "editable_images_all_packed": true,
+      "face_geometry_identical_to_FB77": true
+    }
+  },
+  "current_editable_model": "Carrillo_FB84_editable_working.blend",
+  "reproduction": "reproduce-FB84.ps1",
+  "reproduction_verification": "New round script supplied; full independent pipeline not rerun for this round. Organized file geometry hash checked.",
+  "stopped_at": "2026-10-14T07:48:11.681942+08:00",
+  "automation_status": "PAUSED",
+  "automation_stop_confirmed": true,
+  "likeness_approved": false,
+  "completion_criteria_met": false,
+  "stop_reason": "Tonight-only work concluded before08:00China after preserving best real working model and documenting remaining method limits. Face identity remains insufficient; not a completion claim.",
+  "reference_policy": "T22 is sole identity and fitting reference; P14 archived only",
+  "last_user_requested_round": {
+    "version": "FB84",
+    "timestamp": "2026-10-14T09:23:28.718699+08:00",
+    "user_scope": "one new T22-only round; no overnight schedule restart",
+    "decision": "retain as T22-only working branch, not accepted likeness",
+    "base": "FB82",
+    "intermediate": "FB83",
+    "findings": [
+      "Removing P14 permits a different coherent base; front chin is somewhat less pointed, but whole likeness still fails.",
+      "Broad orbital roof provides modest support without aperture narrowing; front/oblique/opposite/near-side inspected.",
+      "Eyes remain vacant/generic; nasal wing/rim, mouth, jaw identity, and organized hair remain unresolved."
+    ],
+    "tests": [
+      "Official solver has one keyframe,26 T22 pins, no P14 pins",
+      "Native neutral four angles, orbital0/0.5/1 comparisons, gray structure renders",
+      "Numeric geometry audit: no nonfinite/degenerate/collapsed/inverted elements; not a likeness score"
+    ],
+    "likeness_approved": false
+  }
+}

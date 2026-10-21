@@ -1,0 +1,16 @@
+{
+  "base": "FB134_B",
+  "status": "not retained",
+  "root_cause": "Earlier clearance excluded boundary rim vertices shared with opaque skin",
+  "actual_change": "Advance penetrating opaque skin along unchanged camera ray; diffuse displacement; refit outer contact loops from exact head rim; keep real inner eye contacts fixed",
+  "required_max": 0.008799184288344862,
+  "max_head_advance": 0.008799184288344862,
+  "opaque_vertices_requiring_advance": 60,
+  "iris_and_globes_fixed": true,
+  "limits": [
+    "Preserving reference aperture does not prove side anatomy",
+    "Inspect self-overlap, visible contact, skin bumps and shadow quality before adoption"
+  ],
+  "visual_review": "Opaque clearance restored skin coverage. Closeup remains close to133, and C develops a stronger ridge; no convincing likeness gain.",
+  "reviewed_at": "2026-10-15T03:58:20.748973+08:00"
+}

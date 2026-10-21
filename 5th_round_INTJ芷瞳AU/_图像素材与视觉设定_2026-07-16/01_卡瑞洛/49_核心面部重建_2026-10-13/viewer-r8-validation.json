@@ -1,0 +1,26 @@
+{
+  "version": "R8",
+  "errors": [],
+  "stats": {
+    "meshes": 8,
+    "vertices": 1124925,
+    "head": 1,
+    "hair": 3
+  },
+  "modelResource": [
+    "http://127.0.0.1:8849/carrillo-core-r8.glb"
+  ],
+  "views": [
+    "nose-neutral",
+    "nose-side-neutral",
+    "eyes-neutral",
+    "eyes-side-neutral",
+    "eyes",
+    "neutral",
+    "front-neutral",
+    "front",
+    "threequarter",
+    "near-profile"
+  ],
+  "overlay": "1"
+}

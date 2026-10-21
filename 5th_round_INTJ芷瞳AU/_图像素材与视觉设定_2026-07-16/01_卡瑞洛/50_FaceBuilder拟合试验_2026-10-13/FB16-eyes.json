@@ -1,0 +1,48 @@
+{
+  "base": "FB11",
+  "status": "requires_aperture_contact_and_profile_inspection",
+  "method": "Least-squares sphere fit; complete sclera with separate recessed iris and central corneal cap",
+  "calibrated_physical_iris_diameter": true,
+  "eyes": [
+    {
+      "side": -1,
+      "sphere_center": [
+        -0.2503748834133148,
+        -0.7272046804428101,
+        0.34853458404541016
+      ],
+      "radius": 0.18340069130384093,
+      "fit_mean_abs_error": 0.005290133428410268,
+      "fit_max_abs_error": 0.02120907218687404,
+      "gaze_direction": [
+        -0.26527735590934753,
+        -0.9628341197967529,
+        -0.050777800381183624
+      ],
+      "iris_radius": 0.051142913526740066
+    },
+    {
+      "side": 1,
+      "sphere_center": [
+        0.26181530952453613,
+        -0.7367716431617737,
+        0.34864145517349243
+      ],
+      "radius": 0.17691749354855854,
+      "fit_mean_abs_error": 0.005275148661157635,
+      "fit_max_abs_error": 0.021475691907237554,
+      "gaze_direction": [
+        0.3407779037952423,
+        -0.9397846460342407,
+        -0.025983020663261414
+      ],
+      "iris_radius": 0.050030439518104444
+    }
+  ],
+  "face_geometry_unchanged": true,
+  "limitations": [
+    "Sphere is an approximation to the fitted patch; globe/lid intersections must be checked",
+    "Corneal reflections and iris registration need multiangle review",
+    "Not yet an accepted replacement for FB11 ocular appearance"
+  ]
+}

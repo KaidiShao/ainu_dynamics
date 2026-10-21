@@ -1,0 +1,13 @@
+{
+  "version": "R10D",
+  "finite": true,
+  "normal_rotations_over_90deg": 0,
+  "max_displacement_from_R10C": 1.9378476702649114,
+  "scope": [
+    "Visible lid planes",
+    "Bounded outer lip smoothing",
+    "Chin support and mandibular turn",
+    "Nasal tip shoulders; bridge preserved"
+  ],
+  "status": "Rendering for internal visual review"
+}

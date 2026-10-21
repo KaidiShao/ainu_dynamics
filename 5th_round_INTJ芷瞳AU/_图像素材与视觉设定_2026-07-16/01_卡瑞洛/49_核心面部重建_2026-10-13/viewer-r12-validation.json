@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "meshes": 14,
+    "vertices": 1044798,
+    "head": 1,
+    "hair": 3
+  },
+  "errors": [],
+  "failed": [],
+  "checks": [
+    "GLB load",
+    "T22/P14 camera presets",
+    "neutral and hair toggle",
+    "T22 comparison and regions",
+    "native neutral render toggle",
+    "overlay opacity",
+    "old/new same-camera images"
+  ]
+}

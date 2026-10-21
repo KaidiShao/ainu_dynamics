@@ -1,0 +1,170 @@
+{
+  "source": "Carrillo_FaceBuilder_FB189.blend",
+  "editable": "Carrillo_FB189_editable_working.blend",
+  "visible_geometry_hash": "168750489478e3ac239324635c5b411b1d3827b6db7b5f510aa9d53791d08754",
+  "organization_preserves_geometry": true,
+  "active_fit_cameras": 1,
+  "images": [
+    {
+      "name": "P14.png",
+      "packed": true
+    },
+    {
+      "name": "T22.png",
+      "packed": true
+    },
+    {
+      "name": "T22_bounded_chroma_study.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_chroma_confidence.png.002",
+      "packed": true
+    },
+    {
+      "name": "T22_high_frequency_skin_study.png.002",
+      "packed": true
+    }
+  ],
+  "likeness_pass": false,
+  "topology_and_vertex_color_hash": "64cc52983773bd2cf50061b2cda9d84576fa7dc6e1ec1011157dc52bf432188a",
+  "validation_scope": "Geometry, evaluated face topology, material indices and vertex colors; not render pixels or all shader state",
+  "groom_profile_hash": "9c124379223a7ee670b47cce3542d54822858fa67b4794f93cdf6423812a2f66",
+  "groom_profiles": [
+    {
+      "object": "Carrillo_FB152_B_Tearline-1",
+      "splines": 1,
+      "points": 111,
+      "bevel": 0.0006500000017695129
+    },
+    {
+      "object": "Carrillo_FB152_B_Tearline1",
+      "splines": 1,
+      "points": 107,
+      "bevel": 0.0006500000017695129
+    },
+    {
+      "object": "Carrillo_FB47b_ShortLashes",
+      "splines": 384,
+      "points": 2304,
+      "bevel": 0.0005300000193528831
+    },
+    {
+      "object": "Carrillo_FB63_Brows",
+      "native_curves": 4106,
+      "radius_points": 24636
+    },
+    {
+      "object": "Carrillo_FB75_ScalpGroom",
+      "native_curves": 58728,
+      "radius_points": 1955140
+    },
+    {
+      "object": "Carrillo_FB82_OppositeScalpUndercoat",
+      "native_curves": 8000,
+      "radius_points": 112000
+    }
+  ],
+  "groom_hash_scope": "Curve radii, curve/spline counts, bevel and spline settings; positions already in visible_geometry_hash. Not all shader state.",
+  "uv_and_binding_hash": "02baf987236d15560c7d408f6643abd9c897abd25ebcce7b485ff3ada24c17ad",
+  "uv_and_binding_manifest": [
+    {
+      "object": "Carrillo_FB02_Sculpt",
+      "layers": [
+        "FB166_lip_detail_registration",
+        "FB185_B_current_skin_registration",
+        "T22_chromatic_registration",
+        "T22_skin_detail_registration",
+        "UVMap"
+      ],
+      "bindings": [
+        [
+          0,
+          "UV Map",
+          "FB185_B_current_skin_registration"
+        ],
+        [
+          0,
+          "UV Map.001",
+          "FB185_B_current_skin_registration"
+        ],
+        [
+          0,
+          "UV Map.002",
+          "FB166_lip_detail_registration"
+        ]
+      ]
+    },
+    {
+      "object": "Carrillo_FB127_LidContact-1",
+      "layers": [],
+      "bindings": []
+    },
+    {
+      "object": "Carrillo_FB127_LidContact1",
+      "layers": [],
+      "bindings": []
+    },
+    {
+      "object": "Carrillo_FB152_B_medial-1",
+      "layers": [],
+      "bindings": []
+    },
+    {
+      "object": "Carrillo_FB152_B_medial1",
+      "layers": [],
+      "bindings": []
+    },
+    {
+      "object": "Carrillo_FB15_Cornea-1",
+      "layers": [
+        "EyeReferenceCoordinates"
+      ],
+      "bindings": []
+    },
+    {
+      "object": "Carrillo_FB15_Cornea1",
+      "layers": [
+        "EyeReferenceCoordinates"
+      ],
+      "bindings": []
+    },
+    {
+      "object": "Carrillo_FB15_Globe-1",
+      "layers": [],
+      "bindings": []
+    },
+    {
+      "object": "Carrillo_FB15_Globe1",
+      "layers": [],
+      "bindings": []
+    },
+    {
+      "object": "Carrillo_FB15_Iris-1",
+      "layers": [
+        "EyeReferenceCoordinates"
+      ],
+      "bindings": [
+        [
+          0,
+          "UV Map",
+          "EyeReferenceCoordinates"
+        ]
+      ]
+    },
+    {
+      "object": "Carrillo_FB15_Iris1",
+      "layers": [
+        "EyeReferenceCoordinates"
+      ],
+      "bindings": [
+        [
+          0,
+          "UV Map",
+          "EyeReferenceCoordinates"
+        ]
+      ]
+    }
+  ],
+  "uv_hash_scope": "Visible evaluated mesh UV coordinates/names and material UVMAP node bindings; not all shader state"
+}

@@ -1,0 +1,481 @@
+{
+  "scope": "Threshold-based local apparent pupil registration, not an identity metric. T22 dark-side pupil is poorly isolated; ROI-edge components are unreliable.",
+  "rows": [
+    {
+      "image": "T22",
+      "side": "bright",
+      "threshold": 8,
+      "pixels": 244,
+      "center": [
+        585.4016393442623,
+        451.12704918032784
+      ],
+      "bbox": [
+        573,
+        446,
+        599,
+        460
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "bright",
+      "threshold": 12,
+      "pixels": 278,
+      "center": [
+        585.31654676259,
+        451.41726618705036
+      ],
+      "bbox": [
+        573,
+        446,
+        599,
+        461
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "bright",
+      "threshold": 16,
+      "pixels": 308,
+      "center": [
+        585.5,
+        451.7012987012987
+      ],
+      "bbox": [
+        573,
+        446,
+        599,
+        461
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "bright",
+      "threshold": 20,
+      "pixels": 325,
+      "center": [
+        585.5323076923077,
+        451.92615384615385
+      ],
+      "bbox": [
+        573,
+        446,
+        599,
+        461
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "bright",
+      "threshold": 24,
+      "pixels": 332,
+      "center": [
+        585.6536144578313,
+        452.0451807228916
+      ],
+      "bbox": [
+        573,
+        446,
+        599,
+        461
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "bright",
+      "threshold": 30,
+      "pixels": 360,
+      "center": [
+        586.1138888888889,
+        452.5361111111111
+      ],
+      "bbox": [
+        573,
+        446,
+        599,
+        462
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "bright",
+      "threshold": 36,
+      "pixels": 379,
+      "center": [
+        586.1319261213721,
+        452.86015831134563
+      ],
+      "bbox": [
+        573,
+        446,
+        599,
+        462
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "dark",
+      "threshold": 8,
+      "pixels": 446,
+      "center": [
+        396.76681614349775,
+        464.3968609865471
+      ],
+      "bbox": [
+        383,
+        456,
+        410,
+        479
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "dark",
+      "threshold": 12,
+      "pixels": 544,
+      "center": [
+        396.6452205882353,
+        465.51838235294116
+      ],
+      "bbox": [
+        383,
+        456,
+        410,
+        479
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "dark",
+      "threshold": 16,
+      "pixels": 599,
+      "center": [
+        396.79465776293824,
+        466.40233722871454
+      ],
+      "bbox": [
+        383,
+        456,
+        410,
+        479
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "dark",
+      "threshold": 20,
+      "pixels": 632,
+      "center": [
+        396.7278481012658,
+        466.93196202531647
+      ],
+      "bbox": [
+        383,
+        456,
+        410,
+        479
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "dark",
+      "threshold": 24,
+      "pixels": 663,
+      "center": [
+        396.4947209653092,
+        467.42835595776774
+      ],
+      "bbox": [
+        383,
+        456,
+        410,
+        479
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "dark",
+      "threshold": 30,
+      "pixels": 669,
+      "center": [
+        396.4424514200299,
+        467.50822122571003
+      ],
+      "bbox": [
+        383,
+        456,
+        410,
+        479
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "T22",
+      "side": "dark",
+      "threshold": 36,
+      "pixels": 670,
+      "center": [
+        396.46268656716416,
+        467.50597014925376
+      ],
+      "bbox": [
+        383,
+        456,
+        410,
+        479
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "FB166",
+      "side": "bright",
+      "threshold": 8,
+      "pixels": 85,
+      "center": [
+        586.0588235294117,
+        453.54117647058825
+      ],
+      "bbox": [
+        581,
+        450,
+        592,
+        459
+      ],
+      "touches_roi_edge": false
+    },
+    {
+      "image": "FB166",
+      "side": "bright",
+      "threshold": 12,
+      "pixels": 115,
+      "center": [
+        586.3826086956522,
+        454.60869565217394
+      ],
+      "bbox": [
+        581,
+        450,
+        592,
+        460
+      ],
+      "touches_roi_edge": false
+    },
+    {
+      "image": "FB166",
+      "side": "bright",
+      "threshold": 16,
+      "pixels": 119,
+      "center": [
+        586.453781512605,
+        454.60504201680675
+      ],
+      "bbox": [
+        581,
+        450,
+        592,
+        460
+      ],
+      "touches_roi_edge": false
+    },
+    {
+      "image": "FB166",
+      "side": "bright",
+      "threshold": 20,
+      "pixels": 149,
+      "center": [
+        585.0872483221476,
+        454.0402684563758
+      ],
+      "bbox": [
+        573,
+        449,
+        595,
+        460
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "FB166",
+      "side": "bright",
+      "threshold": 24,
+      "pixels": 187,
+      "center": [
+        583.7647058823529,
+        452.72192513368987
+      ],
+      "bbox": [
+        573,
+        446,
+        595,
+        460
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "FB166",
+      "side": "bright",
+      "threshold": 30,
+      "pixels": 246,
+      "center": [
+        584.6869918699188,
+        452.0609756097561
+      ],
+      "bbox": [
+        573,
+        446,
+        599,
+        460
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "FB166",
+      "side": "bright",
+      "threshold": 36,
+      "pixels": 302,
+      "center": [
+        584.5099337748344,
+        452.3576158940397
+      ],
+      "bbox": [
+        573,
+        446,
+        599,
+        461
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "FB166",
+      "side": "dark",
+      "threshold": 8,
+      "pixels": 116,
+      "center": [
+        397.6551724137931,
+        467.26724137931035
+      ],
+      "bbox": [
+        392,
+        462,
+        403,
+        473
+      ],
+      "touches_roi_edge": false
+    },
+    {
+      "image": "FB166",
+      "side": "dark",
+      "threshold": 12,
+      "pixels": 124,
+      "center": [
+        397.5,
+        467.33870967741933
+      ],
+      "bbox": [
+        392,
+        462,
+        403,
+        473
+      ],
+      "touches_roi_edge": false
+    },
+    {
+      "image": "FB166",
+      "side": "dark",
+      "threshold": 16,
+      "pixels": 132,
+      "center": [
+        397.8030303030303,
+        467.0151515151515
+      ],
+      "bbox": [
+        392,
+        461,
+        406,
+        473
+      ],
+      "touches_roi_edge": false
+    },
+    {
+      "image": "FB166",
+      "side": "dark",
+      "threshold": 20,
+      "pixels": 153,
+      "center": [
+        398.5947712418301,
+        466.52941176470586
+      ],
+      "bbox": [
+        392,
+        461,
+        410,
+        473
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "FB166",
+      "side": "dark",
+      "threshold": 24,
+      "pixels": 177,
+      "center": [
+        399.1525423728814,
+        466.3785310734463
+      ],
+      "bbox": [
+        391,
+        461,
+        410,
+        474
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "FB166",
+      "side": "dark",
+      "threshold": 30,
+      "pixels": 223,
+      "center": [
+        400.390134529148,
+        467.06726457399105
+      ],
+      "bbox": [
+        391,
+        460,
+        410,
+        479
+      ],
+      "touches_roi_edge": true
+    },
+    {
+      "image": "FB166",
+      "side": "dark",
+      "threshold": 36,
+      "pixels": 344,
+      "center": [
+        401.69476744186045,
+        468.4505813953488
+      ],
+      "bbox": [
+        391,
+        456,
+        410,
+        479
+      ],
+      "touches_roi_edge": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "base": "FB103_C",
+  "status": "not adopted",
+  "strength": 0.65,
+  "geometry": "Recede excessively anterior eyelid/canthal rim toward actual globe, preserving frontal aperture; all independent attachments refitted",
+  "rim": [
+    {
+      "side": -1,
+      "old_rim_depth_min_max": [
+        0.001533321148599498,
+        0.14204117306508124
+      ],
+      "recession_max": 0.0884267624923028,
+      "screen_rim_unchanged": true
+    },
+    {
+      "side": 1,
+      "old_rim_depth_min_max": [
+        0.00156823318258148,
+        0.1053716603491921
+      ],
+      "recession_max": 0.06459157922697487,
+      "screen_rim_unchanged": true
+    }
+  ],
+  "max_head_delta": 0.0884267624923028,
+  "iris_and_globe_unchanged": true,
+  "limits": [
+    "Canthal material and continuous tissue not yet reconstructed",
+    "Screen-space correspondence is not a likeness pass",
+    "Inspect recession-induced skin depressions and globe penetrations from turn views"
+  ],
+  "visual_review": "Partial rim recession reduces medial gap but leaves dark transition; closeup reviewed.",
+  "reviewed_at": "2026-10-15T01:55:13.455223+08:00"
+}

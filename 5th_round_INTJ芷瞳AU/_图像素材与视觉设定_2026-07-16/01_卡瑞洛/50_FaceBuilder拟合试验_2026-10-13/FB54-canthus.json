@@ -1,0 +1,47 @@
+{
+  "base": "FB49",
+  "status": "unreviewed actual geometry trial",
+  "face_and_globes_unchanged": true,
+  "tissue": [
+    {
+      "side": -1,
+      "reference_pixel_triangle": [
+        [
+          446.7664137005806,
+          481.4858646392822
+        ],
+        [
+          440.5664137005806,
+          473.55804618260504
+        ],
+        [
+          439.0664137005806,
+          481.58417803013623
+        ]
+      ],
+      "maximum_front_offset": 0.00215
+    },
+    {
+      "side": 1,
+      "reference_pixel_triangle": [
+        [
+          539.002358841896,
+          477.4173278808594
+        ],
+        [
+          545.2023588418961,
+          467.90239586600114
+        ],
+        [
+          546.7023588418961,
+          476.07190001387124
+        ]
+      ],
+      "maximum_front_offset": 0.00215
+    }
+  ],
+  "limits": [
+    "Reject if triangular decal-like edge or pink excessive tissue appears",
+    "Reference canthus has wet mucosal articulation missing from generic white aperture"
+  ]
+}

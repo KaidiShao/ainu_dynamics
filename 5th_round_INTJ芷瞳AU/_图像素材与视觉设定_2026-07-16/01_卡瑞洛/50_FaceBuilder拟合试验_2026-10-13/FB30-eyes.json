@@ -1,0 +1,15 @@
+{
+  "base": "FB28b",
+  "status": "requires_eye_closeup_and_side_review",
+  "geometry_and_eye_positions_unchanged": true,
+  "changes": [
+    "Radial grey-blue iris fibers and smoother irregular pigment bands",
+    "Less hard outer iris ring",
+    "Subtle scleral corner color"
+  ],
+  "limits": [
+    "Procedural pigment, not an iris photograph or scan",
+    "No gaze or anatomy correction implied",
+    "Not a likeness pass"
+  ]
+}

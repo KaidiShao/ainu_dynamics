@@ -1,0 +1,59 @@
+{
+  "base": "FB113_A",
+  "status": "not adopted",
+  "actual_geometry": "Curved medial/lateral native tissue from exact lid boundaries to ocular sphere",
+  "head_and_iris_preserved": true,
+  "patches": [
+    {
+      "side": -1,
+      "region": "medial",
+      "corner_pixel": [
+        443.60661363601685,
+        478.02277517318726
+      ],
+      "maximum_lunate_width_px": 9.0,
+      "edge_width_fraction": 0.25,
+      "outer_edge_fallback_count": 261
+    },
+    {
+      "side": -1,
+      "region": "lateral",
+      "corner_pixel": [
+        364.8384819030762,
+        470.93088579177856
+      ],
+      "maximum_lunate_width_px": 2.0,
+      "edge_width_fraction": 0.25,
+      "outer_edge_fallback_count": 0
+    },
+    {
+      "side": 1,
+      "region": "medial",
+      "corner_pixel": [
+        541.7359399795532,
+        472.1978802680969
+      ],
+      "maximum_lunate_width_px": 12.0,
+      "edge_width_fraction": 0.25,
+      "outer_edge_fallback_count": 232
+    },
+    {
+      "side": 1,
+      "region": "lateral",
+      "corner_pixel": [
+        625.6860834360123,
+        460.7541928291321
+      ],
+      "maximum_lunate_width_px": 5.0,
+      "edge_width_fraction": 0.25,
+      "outer_edge_fallback_count": 0
+    }
+  ],
+  "limits": [
+    "Anatomical closure approximation; reject visible solid plugs, dark wedges or intersections",
+    "Smaller eyeball ratio is not individual anatomical recovery",
+    "No automatic acceptance from pixel agreement"
+  ],
+  "visual_review": "Lunate closure reduces rectangle but retains dark medial fold and inherits recessed geometry.",
+  "reviewed_at": "2026-10-15T02:53:36.707336+08:00"
+}

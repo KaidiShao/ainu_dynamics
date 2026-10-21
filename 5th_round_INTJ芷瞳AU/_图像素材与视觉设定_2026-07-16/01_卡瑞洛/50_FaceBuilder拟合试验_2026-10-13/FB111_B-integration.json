@@ -1,0 +1,50 @@
+{
+  "base": "FB98",
+  "reference_policy": "T22 only; P14 no longer constrains geometry",
+  "status": "candidate awaiting native multiangle review",
+  "deactivated_old_profile_keys": {},
+  "new_shape_key": "36_FB111_B_official_eye_refit",
+  "camera_policy": "Official solved pose used, separate FB98 fixed review camera preserved",
+  "attached_objects_transferred": [
+    "Carrillo_FB15_Globe-1",
+    "Carrillo_FB15_Iris-1",
+    "Carrillo_FB15_Cornea-1",
+    "Carrillo_FB08_EyeSurface-1",
+    "Carrillo_FB15_Globe1",
+    "Carrillo_FB15_Iris1",
+    "Carrillo_FB15_Cornea1",
+    "Carrillo_FB08_EyeSurface1",
+    "Carrillo_FB47b_ShortLashes",
+    "Carrillo_FB63_Brows",
+    "Carrillo_FB75_ScalpGroom",
+    "Carrillo_FB82_OppositeScalpUndercoat",
+    "Carrillo_FB95_B_LidContact-1",
+    "Carrillo_FB95_B_LidContact1",
+    "Carrillo_FB95_B_Tearline-1",
+    "Carrillo_FB95_B_Tearline1"
+  ],
+  "spherical_eye_transforms": [
+    {
+      "side": -1,
+      "similarity_scale": 0.9467619423929894,
+      "rms_patch_residual": 0.0014948072344995462
+    },
+    {
+      "side": 1,
+      "similarity_scale": 1.0030391685911508,
+      "rms_patch_residual": 0.0016734031600326858
+    }
+  ],
+  "head_delta_quantiles": [
+    0.007069550713215233,
+    0.02349739646365606,
+    0.04099828553170251,
+    0.0789029364995863,
+    0.09006672351852506
+  ],
+  "limitations": [
+    "Single-view fit underdetermines depth",
+    "Hair and ocular contact require review after transfer",
+    "Not a likeness pass"
+  ]
+}

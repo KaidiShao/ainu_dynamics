@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-15T07:09:42.441329+08:00",
+  "fixed_pages": [
+    "T22only-round153.html",
+    "T22only-round166.html",
+    "appearance.html"
+  ],
+  "cause": "Unscoped version-number replacement changed1448into1538/1668 in SVG full-image height",
+  "actual_reference_dimensions": [
+    1086,
+    1448
+  ],
+  "scope": "HTML only; source reference, native renders and3D geometry unchanged",
+  "backup": "ui-backup-before-height-fix-20261015"
+}

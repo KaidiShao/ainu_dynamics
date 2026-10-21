@@ -1,0 +1,13 @@
+{
+  "source": "Carrillo_core_rebuild_R10.blend",
+  "output": "carrillo-core-r10.glb",
+  "curves": {
+    "R10E_upper_lashes": 72,
+    "Carrillo_wavy_groom": 5000,
+    "Long_loose_front_locks": 630,
+    "R10_brows": 860
+  },
+  "skin": "Existing F03-based shader baked to a non-overlapping UV atlas, including scalp and brow weights. Not T22 projection.",
+  "hair": "Downsampled fibres; Principled web substitute for native hair BSDF.",
+  "limitations": "Web light and corneal transmission differ from native Cycles renders."
+}

@@ -1,0 +1,35 @@
+{
+  "base": "FB55",
+  "status": "all new keys off pending same-light material and gray review",
+  "changes": [
+    {
+      "key": "21_Lower_lid_cheek_transition_trial",
+      "default": 0,
+      "max_delta": 0.005708150344507439,
+      "affected_vertices": 256
+    },
+    {
+      "key": "22_Alar_facial_crease_trial",
+      "default": 0,
+      "max_delta": 0.005458438771706397,
+      "affected_vertices": 318
+    },
+    {
+      "key": "23_Philtrum_columns_trial",
+      "default": 0,
+      "max_delta": 0.0039038500544186167,
+      "affected_vertices": 303
+    }
+  ],
+  "preserved": [
+    "Face outline",
+    "Eye aperture and globes",
+    "Mouth seam and lip volume",
+    "Jaw width and chin proportions"
+  ],
+  "limits": [
+    "Single-photo shading does not recover unique depth; conservative hypotheses only",
+    "Reject carved lines or added bags",
+    "No blanket cheek hollowing"
+  ]
+}

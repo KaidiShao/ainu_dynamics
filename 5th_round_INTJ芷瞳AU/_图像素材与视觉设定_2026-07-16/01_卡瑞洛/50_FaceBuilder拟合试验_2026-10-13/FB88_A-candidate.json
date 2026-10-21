@@ -1,0 +1,13 @@
+{
+  "base": "FB86",
+  "kind": "lip_proportions",
+  "strength": 1,
+  "method": "Upper vermilion envelope lower by up to6.5px; lower edge raised up to3px, seam fixed; upper dome gently recedes. Manual visual hypothesis, not recovered anatomy.",
+  "max_displacement": 0.021031449719313082,
+  "attachments_followed": [],
+  "camera_lights_materials_unchanged": true,
+  "status": "不采用完整分支",
+  "rollback": "Open FB86; attachments do not automatically follow shape-key toggles",
+  "reviewed_at": "2026-10-14T11:06:57.996096+08:00",
+  "visual_finding": "上唇厚度减轻，但下唇过薄，丢失参考里的体积。"
+}

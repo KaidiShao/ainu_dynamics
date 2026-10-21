@@ -1,0 +1,132 @@
+{
+  "canonical": {
+    "visible_geometry": {
+      "Carrillo_FB02_Sculpt": "0fd9a5d9495ce5a9cbf6421f398183f5f4b84aa99dfd84db558ad3681b64a44d",
+      "Carrillo_FB08_EyeSurface-1": "5750996fc7aee9d087a562763e55584fa3af40883f570769710c9c242c86a09c",
+      "Carrillo_FB08_EyeSurface1": "6863e8b2b8bc88a3d3eff85bd08749b3ba32cdd1bd571adbcb5d7ca68cf1f998",
+      "Carrillo_FB15_Cornea-1": "1ee385235521a8c49b4b6616243d5a52305b63c1040c3f2bd22c5fcc592f9cef",
+      "Carrillo_FB15_Cornea1": "3c50fa3ad817b235b2756fa64ead88a03f44df231a936ac61448b0a57820d516",
+      "Carrillo_FB15_Globe-1": "30d570a9a8cc07ca3607a78de59e20bc2de62e04dd3a4a9330193f914a526804",
+      "Carrillo_FB15_Globe1": "1deadb3047dac243d32e9e47a5202232c0e0623ee66fb565ef021ec8c9d82312",
+      "Carrillo_FB15_Iris-1": "bd8917f579db3a4c718f726185e2ef7d63a6aeab33dcf117ee045a65f1b2f113",
+      "Carrillo_FB15_Iris1": "7e196e987131aeab51b912bf5dcebd5f1a7c97def67880b0f3ff154e5d6e1d72",
+      "Carrillo_FB38_LidContact-1": "911a63741610d3defbab34c693ad1371cf27ac5bdff8f9b028b85f9c672a5129",
+      "Carrillo_FB38_LidContact1": "553fe085376324d4203d575a71b5644fb5456f5fb9eb829315918caae6468478",
+      "Carrillo_FB47b_ShortLashes": "6780447b5b38c297f2fb8f221397583612ccb52a8347ae8b414271c18117e40c",
+      "Carrillo_FB53_Tearline-1": "80b2ccda4b6fe709e4c13016258776fc6d94c3dd0d8ca4c8ddd95467315410bb",
+      "Carrillo_FB53_Tearline1": "a3741ad3f87a2d28951179b15541331afabb1a6e7b166073f0d71c0fe1227f57",
+      "Carrillo_FB63_Brows": "da3c05a0f44c0c5bca0f39acc42a3095d0b6bb77e219a9a32641792bb5efcdea",
+      "Carrillo_FB75_ScalpGroom": "a3bd676d03da67962f63dcb02db9911457cd770ab6cbc0f74cb7164eb6fc9670"
+    },
+    "images": [
+      {
+        "name": "P14.png",
+        "packed": true
+      },
+      {
+        "name": "T22.png",
+        "packed": true
+      },
+      {
+        "name": "T22_bounded_chroma_study.png.002",
+        "packed": true
+      },
+      {
+        "name": "T22_chroma_confidence.png.002",
+        "packed": true
+      },
+      {
+        "name": "T22_high_frequency_skin_study.png.002",
+        "packed": true
+      }
+    ]
+  },
+  "editable": {
+    "visible_geometry": {
+      "Carrillo_FB02_Sculpt": "0fd9a5d9495ce5a9cbf6421f398183f5f4b84aa99dfd84db558ad3681b64a44d",
+      "Carrillo_FB08_EyeSurface-1": "5750996fc7aee9d087a562763e55584fa3af40883f570769710c9c242c86a09c",
+      "Carrillo_FB08_EyeSurface1": "6863e8b2b8bc88a3d3eff85bd08749b3ba32cdd1bd571adbcb5d7ca68cf1f998",
+      "Carrillo_FB15_Cornea-1": "1ee385235521a8c49b4b6616243d5a52305b63c1040c3f2bd22c5fcc592f9cef",
+      "Carrillo_FB15_Cornea1": "3c50fa3ad817b235b2756fa64ead88a03f44df231a936ac61448b0a57820d516",
+      "Carrillo_FB15_Globe-1": "30d570a9a8cc07ca3607a78de59e20bc2de62e04dd3a4a9330193f914a526804",
+      "Carrillo_FB15_Globe1": "1deadb3047dac243d32e9e47a5202232c0e0623ee66fb565ef021ec8c9d82312",
+      "Carrillo_FB15_Iris-1": "bd8917f579db3a4c718f726185e2ef7d63a6aeab33dcf117ee045a65f1b2f113",
+      "Carrillo_FB15_Iris1": "7e196e987131aeab51b912bf5dcebd5f1a7c97def67880b0f3ff154e5d6e1d72",
+      "Carrillo_FB38_LidContact-1": "911a63741610d3defbab34c693ad1371cf27ac5bdff8f9b028b85f9c672a5129",
+      "Carrillo_FB38_LidContact1": "553fe085376324d4203d575a71b5644fb5456f5fb9eb829315918caae6468478",
+      "Carrillo_FB47b_ShortLashes": "6780447b5b38c297f2fb8f221397583612ccb52a8347ae8b414271c18117e40c",
+      "Carrillo_FB53_Tearline-1": "80b2ccda4b6fe709e4c13016258776fc6d94c3dd0d8ca4c8ddd95467315410bb",
+      "Carrillo_FB53_Tearline1": "a3741ad3f87a2d28951179b15541331afabb1a6e7b166073f0d71c0fe1227f57",
+      "Carrillo_FB63_Brows": "da3c05a0f44c0c5bca0f39acc42a3095d0b6bb77e219a9a32641792bb5efcdea",
+      "Carrillo_FB75_ScalpGroom": "a3bd676d03da67962f63dcb02db9911457cd770ab6cbc0f74cb7164eb6fc9670"
+    },
+    "images": [
+      {
+        "name": "P14.png",
+        "packed": true
+      },
+      {
+        "name": "T22.png",
+        "packed": true
+      },
+      {
+        "name": "T22_bounded_chroma_study.png.002",
+        "packed": true
+      },
+      {
+        "name": "T22_chroma_confidence.png.002",
+        "packed": true
+      },
+      {
+        "name": "T22_high_frequency_skin_study.png.002",
+        "packed": true
+      }
+    ]
+  },
+  "rebuilt": {
+    "visible_geometry": {
+      "Carrillo_FB02_Sculpt": "0fd9a5d9495ce5a9cbf6421f398183f5f4b84aa99dfd84db558ad3681b64a44d",
+      "Carrillo_FB08_EyeSurface-1": "5750996fc7aee9d087a562763e55584fa3af40883f570769710c9c242c86a09c",
+      "Carrillo_FB08_EyeSurface1": "6863e8b2b8bc88a3d3eff85bd08749b3ba32cdd1bd571adbcb5d7ca68cf1f998",
+      "Carrillo_FB15_Cornea-1": "1ee385235521a8c49b4b6616243d5a52305b63c1040c3f2bd22c5fcc592f9cef",
+      "Carrillo_FB15_Cornea1": "3c50fa3ad817b235b2756fa64ead88a03f44df231a936ac61448b0a57820d516",
+      "Carrillo_FB15_Globe-1": "30d570a9a8cc07ca3607a78de59e20bc2de62e04dd3a4a9330193f914a526804",
+      "Carrillo_FB15_Globe1": "1deadb3047dac243d32e9e47a5202232c0e0623ee66fb565ef021ec8c9d82312",
+      "Carrillo_FB15_Iris-1": "bd8917f579db3a4c718f726185e2ef7d63a6aeab33dcf117ee045a65f1b2f113",
+      "Carrillo_FB15_Iris1": "7e196e987131aeab51b912bf5dcebd5f1a7c97def67880b0f3ff154e5d6e1d72",
+      "Carrillo_FB38_LidContact-1": "911a63741610d3defbab34c693ad1371cf27ac5bdff8f9b028b85f9c672a5129",
+      "Carrillo_FB38_LidContact1": "553fe085376324d4203d575a71b5644fb5456f5fb9eb829315918caae6468478",
+      "Carrillo_FB47b_ShortLashes": "6780447b5b38c297f2fb8f221397583612ccb52a8347ae8b414271c18117e40c",
+      "Carrillo_FB53_Tearline-1": "80b2ccda4b6fe709e4c13016258776fc6d94c3dd0d8ca4c8ddd95467315410bb",
+      "Carrillo_FB53_Tearline1": "a3741ad3f87a2d28951179b15541331afabb1a6e7b166073f0d71c0fe1227f57",
+      "Carrillo_FB63_Brows": "da3c05a0f44c0c5bca0f39acc42a3095d0b6bb77e219a9a32641792bb5efcdea",
+      "Carrillo_FB75_ScalpGroom": "a3bd676d03da67962f63dcb02db9911457cd770ab6cbc0f74cb7164eb6fc9670"
+    },
+    "images": [
+      {
+        "name": "P14.png",
+        "packed": true
+      },
+      {
+        "name": "T22.png",
+        "packed": true
+      },
+      {
+        "name": "T22_bounded_chroma_study.png.002",
+        "packed": true
+      },
+      {
+        "name": "T22_chroma_confidence.png.002",
+        "packed": true
+      },
+      {
+        "name": "T22_high_frequency_skin_study.png.002",
+        "packed": true
+      }
+    ]
+  },
+  "editable_matches": true,
+  "rebuild_matches": true,
+  "editable_images_all_packed": true,
+  "limitation": "Reproducibility and asset checks only; no likeness approval."
+}

@@ -1,0 +1,47 @@
+{
+  "base": "FB35",
+  "status": "requires_variant_closeups_before_adoption",
+  "changes": [
+    {
+      "key": "16_Upper_lid_outer_surface_taper",
+      "default_value": 1,
+      "max_depth": 0.0026249934375154687,
+      "affected_vertices": 291
+    },
+    {
+      "key": "17_Upper_lid_fold_experiment",
+      "default_value": 0,
+      "max_depth": 0.006991851242823418,
+      "affected_vertices": 257
+    }
+  ],
+  "locked_eye_vertices": 796,
+  "regions": [
+    {
+      "side": -1,
+      "aperture_bounds": [
+        364.47197699546814,
+        447.5664137005806
+      ]
+    },
+    {
+      "side": 1,
+      "aperture_bounds": [
+        538.2023588418961,
+        623.1072145700455
+      ]
+    }
+  ],
+  "unchanged": [
+    "Aperture boundary",
+    "Eye positions and iris diameter",
+    "Brows",
+    "Lower lid volume",
+    "Mouth and jaw"
+  ],
+  "limits": [
+    "Two hypotheses are separately switchable; fold disabled by default",
+    "Do not retain artificial carved crease or new outer-corner notches",
+    "Not a likeness pass"
+  ]
+}

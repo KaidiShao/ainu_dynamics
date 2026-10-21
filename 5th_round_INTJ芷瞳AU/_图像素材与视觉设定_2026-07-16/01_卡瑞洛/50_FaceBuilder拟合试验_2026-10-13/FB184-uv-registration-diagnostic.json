@@ -1,0 +1,305 @@
+{
+  "source": "FB180",
+  "uv_layers": [
+    {
+      "name": "UVMap",
+      "reference_registration_difference_px": {
+        "bright_cheek": {
+          "samples": 4112,
+          "mean_signed_xy": [
+            -4.0789575595916014,
+            132.27144568010527
+          ],
+          "median_abs_xy": [
+            12.530026912689209,
+            130.37837314605713
+          ],
+          "max_euclidean": 180.0824183769903
+        },
+        "forehead": {
+          "samples": 684,
+          "mean_signed_xy": [
+            26.565730665859423,
+            205.44552857415718
+          ],
+          "median_abs_xy": [
+            21.16838300228119,
+            204.30711269378662
+          ],
+          "max_euclidean": 238.62472063854304
+        },
+        "nose": {
+          "samples": 4544,
+          "mean_signed_xy": [
+            51.73556181976021,
+            120.2103611408195
+          ],
+          "median_abs_xy": [
+            51.76833567023277,
+            117.91438865661621
+          ],
+          "max_euclidean": 166.4877598770783
+        },
+        "lips": {
+          "samples": 4790,
+          "mean_signed_xy": [
+            47.446282998007376,
+            102.99443115272203
+          ],
+          "median_abs_xy": [
+            47.17337512969971,
+            105.30318593978882
+          ],
+          "max_euclidean": 139.63770926262438
+        },
+        "chin": {
+          "samples": 3094,
+          "mean_signed_xy": [
+            43.584208496382104,
+            93.12719325982299
+          ],
+          "median_abs_xy": [
+            42.103353559970856,
+            88.94507026672363
+          ],
+          "max_euclidean": 165.5480981410888
+        }
+      }
+    },
+    {
+      "name": "T22_skin_detail_registration",
+      "reference_registration_difference_px": {
+        "bright_cheek": {
+          "samples": 4112,
+          "mean_signed_xy": [
+            6.284103120753273,
+            -0.07976473966461212
+          ],
+          "median_abs_xy": [
+            7.26568329334259,
+            0.6510806083679199
+          ],
+          "max_euclidean": 11.457929144883321
+        },
+        "forehead": {
+          "samples": 684,
+          "mean_signed_xy": [
+            0.23253475086033693,
+            -1.0395203110767386
+          ],
+          "median_abs_xy": [
+            0.29472029209136963,
+            0.9928069114685059
+          ],
+          "max_euclidean": 3.1871085393233827
+        },
+        "nose": {
+          "samples": 4544,
+          "mean_signed_xy": [
+            0.7829337042271042,
+            1.418711765656169
+          ],
+          "median_abs_xy": [
+            0.7374696731567383,
+            1.3908233642578125
+          ],
+          "max_euclidean": 6.917756066129058
+        },
+        "lips": {
+          "samples": 4790,
+          "mean_signed_xy": [
+            10.08818805431772,
+            0.0791420117300587
+          ],
+          "median_abs_xy": [
+            10.202725291252136,
+            0.9440765380859375
+          ],
+          "max_euclidean": 12.43296277684588
+        },
+        "chin": {
+          "samples": 3094,
+          "mean_signed_xy": [
+            8.740270607130098,
+            0.18706393473057417
+          ],
+          "median_abs_xy": [
+            9.349201679229736,
+            3.7127974033355713
+          ],
+          "max_euclidean": 13.471109337742044
+        }
+      }
+    },
+    {
+      "name": "T22_chromatic_registration",
+      "reference_registration_difference_px": {
+        "bright_cheek": {
+          "samples": 4112,
+          "mean_signed_xy": [
+            6.2841025863987925,
+            -0.07976473966461212
+          ],
+          "median_abs_xy": [
+            7.26568329334259,
+            0.6510806083679199
+          ],
+          "max_euclidean": 11.457929144883321
+        },
+        "forehead": {
+          "samples": 684,
+          "mean_signed_xy": [
+            0.23253475086033693,
+            -1.0395203110767386
+          ],
+          "median_abs_xy": [
+            0.29472029209136963,
+            0.9928069114685059
+          ],
+          "max_euclidean": 3.1871085393233827
+        },
+        "nose": {
+          "samples": 4544,
+          "mean_signed_xy": [
+            0.7829337042271042,
+            1.418711765656169
+          ],
+          "median_abs_xy": [
+            0.7374696731567383,
+            1.3908233642578125
+          ],
+          "max_euclidean": 6.917756066129058
+        },
+        "lips": {
+          "samples": 4790,
+          "mean_signed_xy": [
+            10.088188290048492,
+            0.07913808713128521
+          ],
+          "median_abs_xy": [
+            10.202725291252136,
+            0.9440765380859375
+          ],
+          "max_euclidean": 12.43296910368904
+        },
+        "chin": {
+          "samples": 3094,
+          "mean_signed_xy": [
+            8.740270528222332,
+            0.18706756448776551
+          ],
+          "median_abs_xy": [
+            9.349201679229736,
+            3.7127974033355713
+          ],
+          "max_euclidean": 13.471109337742044
+        }
+      }
+    },
+    {
+      "name": "FB166_lip_detail_registration",
+      "reference_registration_difference_px": {
+        "bright_cheek": {
+          "samples": 4112,
+          "mean_signed_xy": [
+            5.374854640738046e-08,
+            1.94236926067664e-07
+          ],
+          "median_abs_xy": [
+            1.4781951904296875e-05,
+            1.430511474609375e-05
+          ],
+          "max_euclidean": 4.231845828016135e-05
+        },
+        "forehead": {
+          "samples": 684,
+          "mean_signed_xy": [
+            1.8704007243552403e-06,
+            5.152908682126051e-05
+          ],
+          "median_abs_xy": [
+            1.2218952178955078e-05,
+            7.62939453125e-06
+          ],
+          "max_euclidean": 0.0024887901461056556
+        },
+        "nose": {
+          "samples": 4544,
+          "mean_signed_xy": [
+            -1.6896290258622506e-07,
+            6.809410914568834e-07
+          ],
+          "median_abs_xy": [
+            9.000301361083984e-06,
+            1.4781951904296875e-05
+          ],
+          "max_euclidean": 4.252619103294211e-05
+        },
+        "lips": {
+          "samples": 4790,
+          "mean_signed_xy": [
+            8.999181440827244e-08,
+            3.3677246476016115e-07
+          ],
+          "median_abs_xy": [
+            1.0669231414794922e-05,
+            1.3828277587890625e-05
+          ],
+          "max_euclidean": 4.1571238026561113e-05
+        },
+        "chin": {
+          "samples": 3094,
+          "mean_signed_xy": [
+            4.375951861903678e-07,
+            -3.957717589740223e-07
+          ],
+          "median_abs_xy": [
+            1.0073184967041016e-05,
+            2.384185791015625e-05
+          ],
+          "max_euclidean": 7.69302028296215e-05
+        }
+      }
+    }
+  ],
+  "links": [
+    {
+      "node": "UV Map",
+      "uv": "T22_skin_detail_registration",
+      "outputs": [
+        {
+          "to": "Image Texture",
+          "socket": "Vector",
+          "image": "T22_high_frequency_skin_study.png.002"
+        }
+      ]
+    },
+    {
+      "node": "UV Map.001",
+      "uv": "T22_chromatic_registration",
+      "outputs": [
+        {
+          "to": "Image Texture.001",
+          "socket": "Vector",
+          "image": "T22_bounded_chroma_study.png.002"
+        },
+        {
+          "to": "Image Texture.002",
+          "socket": "Vector",
+          "image": "T22_chroma_confidence.png.002"
+        }
+      ]
+    },
+    {
+      "node": "UV Map.002",
+      "uv": "FB166_lip_detail_registration",
+      "outputs": [
+        {
+          "to": "Image Texture.003",
+          "socket": "Vector",
+          "image": "T22_high_frequency_skin_study.png.002"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "meshes": 12,
+    "vertices": 974009,
+    "head": 1,
+    "hair": 3
+  },
+  "errors": [],
+  "checks": [
+    "GLB loaded",
+    "T22 and P14 cameras",
+    "neutral and hair toggles",
+    "reference alignment",
+    "region magnification",
+    "lighting variants",
+    "overlay",
+    "all multiview images loaded"
+  ]
+}

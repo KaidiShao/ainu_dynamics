@@ -1,0 +1,17 @@
+{
+  "author_request": "眼周、下颌角仍有差别，T22 的鼻子更窄。",
+  "selected_nasal_strength": 1.55,
+  "selection_basis": "Initial localized narrowing was visually conservative. A second study increased the same localized displacement; its width change was adopted without changing nasal tip projection.",
+  "independent_review_scope": "Initial R8 multiview render and the stronger nasal study front/neutral images.",
+  "independent_findings": [
+    "Lower dorsum and tip-shoulder narrowing is directionally closer to T22, with a modest overall change.",
+    "No visible pinched tip, clamped alae or new groove in the stronger nasal study; natural tip roundness remains.",
+    "Initial R8 multiview images show no obvious new square or overly hard jaw.",
+    "Some broad roundness remains at the nasal tip shoulders; this does not justify narrowing the entire nasal base."
+  ],
+  "primary_final_review_scope": "Final stronger-geometry near-profile render and neutral turned nasal closeup, after both render jobs completed.",
+  "primary_final_findings": "No obvious new sharp crease, pinching or inverted patch visible in these inspected views. Nasal profile remains continuous. Orbital and mandibular changes remain modest.",
+  "identity_status": "Subsequently rejected by the author: nasal type is incorrect; T22 has a higher bridge and narrower alae.",
+  "technical_scope": "Local normal and finite-value checks, and loading/controls for ten browser comparison views. These do not establish likeness.",
+  "review_correction": "Earlier directionally-closer and no-further-alar-narrowing judgments were not supported by the author evaluation and are superseded by the R9 correction."
+}

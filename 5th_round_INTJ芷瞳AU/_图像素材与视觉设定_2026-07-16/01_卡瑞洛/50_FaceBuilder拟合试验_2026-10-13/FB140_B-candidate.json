@@ -1,0 +1,27 @@
+{
+  "base": "FB133",
+  "status": "superseded diagnostic",
+  "head_globes_contacts_brows_unchanged": true,
+  "upper_lashes_copied_exactly": 272,
+  "lower_lashes": [
+    {
+      "side": -1,
+      "new_lower_lashes": 72,
+      "root_on_actual_lower_rim": true
+    },
+    {
+      "side": 1,
+      "new_lower_lashes": 72,
+      "root_on_actual_lower_rim": true
+    }
+  ],
+  "thickness_scale": 1.25,
+  "length_scale": 0.95,
+  "limits": [
+    "Actual3D lash placement study; not a change to the under-eye band geometry",
+    "Reject mascara-like fringe, floating roots or skin penetration",
+    "Evaluate whole face and turn before retaining"
+  ],
+  "visual_review": "Denser/thicker lower fibers still mostly hidden, so do not simply increase darkness. Source for141B physical clearance.",
+  "reviewed_at": "2026-10-15T04:29:12.079197+08:00"
+}

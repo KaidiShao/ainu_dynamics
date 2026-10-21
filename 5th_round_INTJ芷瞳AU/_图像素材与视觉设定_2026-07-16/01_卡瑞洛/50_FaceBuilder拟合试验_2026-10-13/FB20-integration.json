@@ -1,0 +1,13 @@
+{
+  "base": "FB19",
+  "skin_and_hair": "FB17c",
+  "head_geometry_unchanged": true,
+  "eyes": "FB16 globes, FB18 contact walls, FB19 lashes",
+  "status": "integrated_working_study_not_likeness_approved",
+  "known_issues": [
+    "Groom still compact and overly continuous",
+    "Brows graphic and overuniform",
+    "Orbital and nasal planes still generic",
+    "High-frequency skin image is an attenuated material experiment, not recovered albedo or geometry"
+  ]
+}

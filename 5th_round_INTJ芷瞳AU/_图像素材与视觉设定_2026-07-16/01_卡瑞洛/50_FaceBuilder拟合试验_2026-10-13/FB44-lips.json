@@ -1,0 +1,84 @@
+{
+  "base": "FB41",
+  "status": "requires_neutral_reverse_light_and_profile_review",
+  "geometry_unchanged_from_FB41": true,
+  "changes": [
+    "Replace generic triangular lip pigment mask by feathered manually interpreted T22 vermilion perimeter",
+    "Retain moderate continuous skin-to-lip pigment blend, regional roughness and bounded microdetail"
+  ],
+  "perimeter": [
+    [
+      432.0,
+      671.0
+    ],
+    [
+      450.0,
+      663.0
+    ],
+    [
+      468.0,
+      652.0
+    ],
+    [
+      478.0,
+      650.0
+    ],
+    [
+      496.0,
+      655.0
+    ],
+    [
+      507.0,
+      651.0
+    ],
+    [
+      519.0,
+      647.0
+    ],
+    [
+      536.0,
+      652.0
+    ],
+    [
+      553.0,
+      658.0
+    ],
+    [
+      573.0,
+      664.0
+    ],
+    [
+      558.0,
+      674.0
+    ],
+    [
+      540.0,
+      685.0
+    ],
+    [
+      517.0,
+      696.0
+    ],
+    [
+      497.0,
+      699.0
+    ],
+    [
+      475.0,
+      694.0
+    ],
+    [
+      458.0,
+      686.0
+    ],
+    [
+      442.0,
+      677.0
+    ]
+  ],
+  "limits": [
+    "Pigment perimeter interpretation uncertain in shadow",
+    "Material must not be used to conceal wrong lip geometry",
+    "Reject lipstick-like color or surface creases"
+  ]
+}

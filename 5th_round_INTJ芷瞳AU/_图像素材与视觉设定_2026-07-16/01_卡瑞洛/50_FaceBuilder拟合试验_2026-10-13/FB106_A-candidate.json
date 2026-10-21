@@ -1,0 +1,173 @@
+{
+  "base": "FB103_C",
+  "status": "rejected",
+  "strength": 0.8,
+  "aperture": [
+    {
+      "side": -1,
+      "target_upper": [
+        [
+          365,
+          471
+        ],
+        [
+          377,
+          464
+        ],
+        [
+          391,
+          459.5
+        ],
+        [
+          406,
+          459
+        ],
+        [
+          421,
+          465
+        ],
+        [
+          433,
+          473
+        ],
+        [
+          443,
+          480
+        ]
+      ],
+      "target_lower": [
+        [
+          365,
+          471
+        ],
+        [
+          376,
+          479
+        ],
+        [
+          392,
+          483.5
+        ],
+        [
+          408,
+          485
+        ],
+        [
+          424,
+          484.5
+        ],
+        [
+          436,
+          482.5
+        ],
+        [
+          443,
+          480
+        ]
+      ],
+      "strength": 1.0,
+      "max_requested_px": 8.414097502885294
+    },
+    {
+      "side": 1,
+      "target_upper": [
+        [
+          540,
+          474
+        ],
+        [
+          548,
+          462
+        ],
+        [
+          560,
+          452.5
+        ],
+        [
+          575,
+          447
+        ],
+        [
+          590,
+          446
+        ],
+        [
+          605,
+          449
+        ],
+        [
+          617,
+          454
+        ],
+        [
+          627,
+          461
+        ]
+      ],
+      "target_lower": [
+        [
+          540,
+          474
+        ],
+        [
+          551,
+          476
+        ],
+        [
+          566,
+          477
+        ],
+        [
+          580,
+          476.5
+        ],
+        [
+          596,
+          472.5
+        ],
+        [
+          612,
+          466.5
+        ],
+        [
+          627,
+          461
+        ]
+      ],
+      "strength": 1.0,
+      "max_requested_px": 7.303620535726501
+    }
+  ],
+  "geometry": "Actual aperture trace deformation plus separately specified depth/clearance step; full candidate does change frontal aperture.",
+  "rim": [
+    {
+      "side": -1,
+      "old_rim_depth_min_max": [
+        -0.0058380280243000016,
+        0.1377295405836776
+      ],
+      "recession_max": 0.10538363246694207,
+      "nearest_globe_fallbacks": 0,
+      "screen_rim_unchanged": true
+    },
+    {
+      "side": 1,
+      "old_rim_depth_min_max": [
+        0.010745932317149709,
+        0.15320389304542914
+      ],
+      "recession_max": 0.11776311443634331,
+      "nearest_globe_fallbacks": 4,
+      "screen_rim_unchanged": true
+    }
+  ],
+  "max_head_delta": 0.11785922027552333,
+  "iris_and_globe_unchanged": true,
+  "limits": [
+    "Manually traced T22 aperture; uncertainty in shadowed eye and tear tissue boundary",
+    "Screen-space correspondence is not a likeness pass",
+    "Inspect recession-induced skin depressions and globe penetrations from turn views"
+  ],
+  "visual_review": "Full provisional aperture trace produces pointed corners and a small bright medial spike; closeup reviewed. Trace is not ground truth.",
+  "reviewed_at": "2026-10-15T01:55:13.455223+08:00"
+}

@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><title>卡瑞洛 · 三维头模试验</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,'Microsoft YaHei',sans-serif;background:#15171b;color:#e1e3e8}*{box-sizing:border-box}body{margin:0}header{padding:22px 28px 14px;display:flex;align-items:baseline;gap:20px;flex-wrap:wrap}h1{font-size:22px;font-weight:500;margin:0}small,.muted{color:#aaaeb9}main{display:grid;grid-template-columns:minmax(0,1fr) 270px;gap:18px;padding:0 24px 24px}#stage{height:min(76vh,830px);min-height:450px;border-radius:12px;position:relative;overflow:hidden;background:#21242b}canvas{display:block;width:100%;height:100%;touch-action:none}#angle-label{position:absolute;left:20px;top:18px;font-size:15px;color:#c9ced8;pointer-events:none}#loading{position:absolute;left:20px;bottom:18px}aside{display:flex;flex-direction:column;gap:14px}button,select{font:inherit;background:#30343c;color:inherit;border:1px solid #444953;border-radius:6px;padding:9px 12px}button{cursor:pointer}button.active{background:#d0d8e3;color:#1c2530}button:hover{filter:brightness(1.12)}.row{display:flex;flex-wrap:wrap;gap:7px}label{display:block;font-size:14px;margin-bottom:7px}select{width:100%}.refs{display:grid;grid-template-columns:1fr 1fr;gap:8px}.refs img{width:100%;aspect-ratio:3/4;object-fit:cover;border-radius:5px}.refs a{color:#c4ccdb;text-decoration:none;font-size:12px}.note{font-size:13px;line-height:1.65;color:#adb4c1;margin:0}footer{font-size:12px;color:#9ba2af;padding:0 26px 20px}#yaw{width:100%}a{color:#bed0ec}@media(max-width:800px){main{grid-template-columns:1fr}#stage{height:62vh;min-height:360px}.refs{max-width:320px}aside{display:grid;grid-template-columns:1fr 1fr}.note{grid-column:1/-1}header{padding:18px 24px}}
+</style>
+<script type="importmap">{"imports":{"three":"./assets/three.module.js"}}</script>
+<header><h1>卡瑞洛 · 三维头模试验</h1><small>共用一套几何 · 首轮草模，尚未通过长相验收</small></header>
+<main><div id="stage"><span id="angle-label">载入头模…</span><span id="loading">正在加载本地模型</span></div><aside>
+<div><label>观察角度</label><div class="row" id="angles"><button data-a="0">正面</button><button data-a="30">30°</button><button data-a="45">45°</button><button data-a="60">60°</button><button data-a="90">正侧</button></div><input id="yaw" aria-label="水平观察角度" type="range" min="-100" max="100" value="45"></div>
+<div><label for="surface">表面显示</label><select id="surface"><option value="clay">灰模 · 检查几何</option><option value="photo">正面投影 · 含原图阴影</option><option value="wire">网格 · 查看结构</option></select></div>
+<div><label for="lighting">打光</label><select id="lighting"><option value="soft">柔和方向光</option><option value="side">强侧光</option></select></div>
+<div class="row"><label><input id="hair" type="checkbox" checked> 头发体块</label><label><input id="brows" type="checkbox" checked> 眉毛与眼色</label></div>
+<div><label>建模依据</label><div class="refs"><a href="/ref/T22.png" target="_blank"><img src="/ref/T22.png" alt="认可正面 T22">正面 T22 · 主参考</a><a href="/ref/P14.png" target="_blank"><img src="/ref/P14.png" alt="正侧参考 P14">侧面 P14 · 深度约束</a></div></div>
+<p class="note">可拖动旋转，滚轮缩放。头发、耳朵、后脑与颈部是补建体块。照片投影含有烘焙阴影，不能用于判断重新打光效果。两张生成图的相机与透视未知，本次拟合不是精确三维还原。</p>
+<div class="row"><button id="obj">导出 OBJ</button><button id="reset">重置视图</button></div>
+</aside></main><footer id="status">同一网格用于所有角度；模型比例单位按假设眼距归一化。</footer>
+<script type="module" src="./viewer.js"></script></html>

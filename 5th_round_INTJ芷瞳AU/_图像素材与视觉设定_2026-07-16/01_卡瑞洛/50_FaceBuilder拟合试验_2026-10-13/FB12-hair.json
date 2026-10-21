@@ -1,0 +1,12 @@
+{
+  "base": "FB11",
+  "status": "requires_three_view_review",
+  "clumps": 680,
+  "strands": 28770,
+  "method": "Native Blender 3D curves grouped around lifted S-wave guides; recessed scalp coverage mesh",
+  "face_geometry_unchanged": true,
+  "limitations": [
+    "Procedural hairstyle draft, not claimed to be a faithful groom",
+    "Scalp visibility and clump silhouette must be checked from all views"
+  ]
+}

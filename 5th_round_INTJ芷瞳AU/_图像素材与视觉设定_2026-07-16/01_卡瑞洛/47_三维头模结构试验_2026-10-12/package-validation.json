@@ -1,0 +1,14 @@
+{
+  "glb_loaded": {
+    "meshes": 92,
+    "vertices": 44787,
+    "triangles": 79616
+  },
+  "offline_without_network": true,
+  "side_button": true,
+  "wireframe_control": true,
+  "hair_toggle": true,
+  "geometry_unchanged": true,
+  "mobile_horizontal_overflow": false,
+  "errors": []
+}

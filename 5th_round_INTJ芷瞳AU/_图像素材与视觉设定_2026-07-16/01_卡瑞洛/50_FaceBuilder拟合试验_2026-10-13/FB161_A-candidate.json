@@ -1,0 +1,22 @@
+{
+  "base": "FB153",
+  "status": "candidate for integration",
+  "alar_roof": 1.0,
+  "columella": 0.0,
+  "max_requested_projection_descent": 2.992993472363813,
+  "max_displacement": 0.00898371969513192,
+  "fixed": [
+    "Camera-raydepth",
+    "Nasal bridge",
+    "Outer lateral alar width",
+    "Inner vault/floor largely spared by depth taper",
+    "Eyes mouth jaw materials"
+  ],
+  "limits": [
+    "Shadow boundary is not measured nostril aperture",
+    "Reject pinched nostril, hooked tip or underside ledge",
+    "Use native gray and turned view review"
+  ],
+  "visual_review": "Native nasal neutral/gray closeups, neutral front/quarter and directional view reviewed. Lowering exterior alar roof reduces excess nostril exposure without globally narrowing nose. Need integrated full review.",
+  "reviewed_at": "2026-10-15T06:05:11.711847+08:00"
+}

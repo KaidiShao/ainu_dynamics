@@ -1,0 +1,193 @@
+{
+  "source": "FB153",
+  "samples": [
+    {
+      "target": [
+        480,
+        656
+      ],
+      "id": 7186,
+      "current_pixel": [
+        480.5327922105789,
+        655.5730633735657
+      ],
+      "layers": {
+        "UVMap": [
+          541.1721360683441,
+          738.548730134964
+        ],
+        "T22_skin_detail_registration": [
+          489.75823599100113,
+          653.0893054008484
+        ],
+        "T22_chromatic_registration": [
+          489.75823599100113,
+          653.0893054008484
+        ]
+      }
+    },
+    {
+      "target": [
+        510,
+        654
+      ],
+      "id": 8360,
+      "current_pixel": [
+        509.78806579113007,
+        652.6154770851135
+      ],
+      "layers": {
+        "UVMap": [
+          551.4776430130005,
+          741.1466729640961
+        ],
+        "T22_skin_detail_registration": [
+          519.9092845916748,
+          652.2152690887451
+        ],
+        "T22_chromatic_registration": [
+          519.9092845916748,
+          652.2152690887451
+        ]
+      }
+    },
+    {
+      "target": [
+        490,
+        685
+      ],
+      "id": 6454,
+      "current_pixel": [
+        491.31151252985,
+        684.61088514328
+      ],
+      "layers": {
+        "UVMap": [
+          544.0859212875366,
+          797.9927794933319
+        ],
+        "T22_skin_detail_registration": [
+          502.50272887945175,
+          685.5940141677856
+        ],
+        "T22_chromatic_registration": [
+          502.50272887945175,
+          685.5940141677856
+        ]
+      }
+    },
+    {
+      "target": [
+        520,
+        680
+      ],
+      "id": 8560,
+      "current_pixel": [
+        518.641793847084,
+        681.816333770752
+      ],
+      "layers": {
+        "UVMap": [
+          553.9803886413574,
+          797.7570736408234
+        ],
+        "T22_skin_detail_registration": [
+          530.5352082252502,
+          683.2560296058655
+        ],
+        "T22_chromatic_registration": [
+          530.5352082252502,
+          683.2560296058655
+        ]
+      }
+    },
+    {
+      "target": [
+        500,
+        695
+      ],
+      "id": 6397,
+      "current_pixel": [
+        499.2119847536087,
+        694.417405128479
+      ],
+      "layers": {
+        "UVMap": [
+          546.7178692817688,
+          801.598794221878
+        ],
+        "T22_skin_detail_registration": [
+          510.71478205919266,
+          692.9642453193665
+        ],
+        "T22_chromatic_registration": [
+          510.71478205919266,
+          692.9642453193665
+        ]
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Bump",
+      "type": "BUMP",
+      "uv": null,
+      "image": null
+    },
+    {
+      "name": "Image Texture",
+      "type": "TEX_IMAGE",
+      "uv": null,
+      "image": "T22_high_frequency_skin_study.png.002"
+    },
+    {
+      "name": "UV Map",
+      "type": "UVMAP",
+      "uv": "T22_skin_detail_registration",
+      "image": null
+    },
+    {
+      "name": "Bump.001",
+      "type": "BUMP",
+      "uv": null,
+      "image": null
+    },
+    {
+      "name": "UV Map.001",
+      "type": "UVMAP",
+      "uv": "T22_chromatic_registration",
+      "image": null
+    },
+    {
+      "name": "Image Texture.001",
+      "type": "TEX_IMAGE",
+      "uv": null,
+      "image": "T22_bounded_chroma_study.png.002"
+    },
+    {
+      "name": "Image Texture.002",
+      "type": "TEX_IMAGE",
+      "uv": null,
+      "image": "T22_chroma_confidence.png.002"
+    },
+    {
+      "name": "Image Texture.003",
+      "type": "TEX_IMAGE",
+      "uv": null,
+      "image": "T22_high_frequency_skin_study.png.002"
+    },
+    {
+      "name": "UV Map.002",
+      "type": "UVMAP",
+      "uv": "T22_skin_detail_registration",
+      "image": null
+    },
+    {
+      "name": "Bump.002",
+      "type": "BUMP",
+      "uv": null,
+      "image": null
+    }
+  ],
+  "scope": "Diagnostic of existing UV coordinates, not a new photo overlay or proof of geometry"
+}

@@ -1,0 +1,2169 @@
+{
+  "started_at": "2026-10-15T00:32:15.167660+08:00",
+  "until": "2026-10-15T08:00:00+08:00",
+  "user_authorization": "Continue overnight; eye socket depth, eye-corner curvature, jaw angle and other likeness differences. Keep improving while feasible.",
+  "automation_id": "automation",
+  "automation_status": "PAUSED",
+  "baseline": "FB93",
+  "experiments_inherited": [
+    "FB94_A supra-lid recess, weak visible benefit",
+    "FB94_B medial recess, weak benefit",
+    "FB94_C moderate combined, not adopted",
+    "FB94_D stronger combined, increased medial shadow, not adopted"
+  ],
+  "rounds": [
+    {
+      "at": "2026-10-15T00:47:17.505173+08:00",
+      "batch": "FB94 completion and FB95 medial arc",
+      "findings": {
+        "FB94_A": "not adopted: upper recess alone too weak to establish a likeness gain",
+        "FB94_B": "not adopted: medial recess alone too weak to establish a likeness gain",
+        "FB94_C": "not adopted: combined modest recess remains generic; front and quarter reviewed",
+        "FB94_D": "rejected: stronger recess hardens medial shadow, risks frowning/sunken eyes",
+        "FB94_E": "not adopted: internal globe retreat .018 on C has negligible visible improvement",
+        "FB94_F": "not adopted: internal globe retreat .035 on C has negligible improvement; does not correct aperture geometry",
+        "FB95_A": "candidate: medial anchors closer, but pointed inner corner still unnatural",
+        "FB95_B": "candidate: improved inner-corner placement; front and quarter reviewed, tear tissue and lid curvature unresolved",
+        "FB95_C": "not adopted: additional upper lift has no clear benefit beyond B; avoid increasing innocent/open gaze"
+      },
+      "retained_working": "FB93",
+      "next": "FB96 lower-face pose/contour experiments rendering; further canthal tissue and orbital support review"
+    },
+    {
+      "at": "2026-10-15T01:02:34.578150+08:00",
+      "batch": "FB96-FB98 integration",
+      "retained": "FB98 provisional local working version",
+      "rejected": "FB97 A/B isolated tear-tissue bump",
+      "next": "Review FB99 gaze/upper-lid test",
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T01:25:20.809579+08:00",
+      "batch": "FB99-FB103 eyes/jaw/axis audit",
+      "reviews": {
+        "FB96_A": [
+          "partly retained",
+          "80% retained in FB98; lower-face yaw modestly improves mouth/chin alignment, true anatomy underdetermined"
+        ],
+        "FB96_B": [
+          "partly retained",
+          "60% retained in FB98; contour modest only, gonial identity remains insufficient"
+        ],
+        "FB96_C": [
+          "not adopted at full strength",
+          "Combined pose and contour used at separately reduced strengths in FB98"
+        ],
+        "FB97_A": [
+          "rejected",
+          "Rounded caruncle appears as an isolated bead; not continuous tissue"
+        ],
+        "FB97_B": [
+          "rejected",
+          "Additional plica does not remove the isolated bead appearance"
+        ],
+        "FB99_A": [
+          "not adopted",
+          "Gaze raised without matching upper arc reads as upward-looking/heavy lid; full front and quarter reviewed"
+        ],
+        "FB99_B": [
+          "candidate only",
+          "More coherent upper arc with raised gaze; front/quarter/diagnostic-side-light inspected; no clear overall identity gain, not integrated"
+        ],
+        "FB99_C": [
+          "candidate only",
+          "Half upper arc, closeup inspected; no compelling reason to prefer or integrate"
+        ],
+        "FB100_A": [
+          "unadopted candidate",
+          "Low-strength gonial-plane study; renders available, no established identity benefit"
+        ],
+        "FB100_B": [
+          "not adopted",
+          "Corner more pronounced but does not convincingly match T22; front and quarter reviewed"
+        ],
+        "FB100_C": [
+          "rejected",
+          "Strong corner support broadens lower face; front and quarter reviewed"
+        ],
+        "FB102_A": [
+          "candidate only",
+          "8% physical iris-radius increase on FB99_B; coordinated scleral limbus rebuilt; closeup reviewed, whole-face validation pending"
+        ],
+        "FB102_B": [
+          "not adopted",
+          "14% increase risks large doll-like iris; no clear gain in closeup"
+        ],
+        "FB103_A": [
+          "rejected",
+          "Axes coordinated but globe placement pushes up lids; inner gap/contour still unnatural"
+        ],
+        "FB103_B": [
+          "rejected",
+          "Full radius with coordinated axes gives periocular skin advance up to .0675; not acceptable just because axes agree"
+        ],
+        "FB103_C": [
+          "preferred experimental branch, not retained",
+          "Coordinated axes plus .035 retreat reduces skin advance to .0283. Front/quarter show more coherent eyeball orientation but dark inner-corner wall and outer sclera/lid transition remain conspicuous"
+        ],
+        "FB103_D": [
+          "candidate under final view review",
+          "Further retreat .07 needs no skin advance, but closeup is overly sunken/dark; do not integrate automatically"
+        ]
+      },
+      "working": "FB98",
+      "preferred_unresolved_direction": "FB103_C coordinated optical geometry and continuous canthal anatomy",
+      "reproduction": {
+        "at": "2026-10-15T01:25:20.809579+08:00",
+        "helper": "reproduce-FB98.ps1",
+        "end_to_end_rebuild_without_render_passed": true,
+        "rebuild_folder": "reproduction-fb98-20261015-010441",
+        "visible_geometry_hash_matches": true,
+        "render_steps": "Original full multiview render ran separately; reproduction -Render not rerun",
+        "browser_check": {
+          "at": "2026-10-14T17:07:17.899Z",
+          "checked_assets": 11,
+          "errors": [],
+          "bad": [],
+          "model": {
+            "meshes": 2,
+            "vertices": 18193
+          }
+        }
+      },
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T01:26:27.104239+08:00",
+      "batch": "FB103 D final view check",
+      "finding": "Closeup/front/quarter reviewed: no required skin advance but .07 retreat leaves overly dark and buried iris, long medial transition. Not a finished eye solution.",
+      "retained": "FB98 remains working snapshot; FB103 C experimental direction only",
+      "night_work_status": "ACTIVE, scheduled to continue; not an overall completion"
+    },
+    {
+      "at": "2026-10-15T01:55:13.455223+08:00",
+      "batch": "FB104–106 real rim depth and aperture reconstruction",
+      "reviews": {
+        "FB104_A": [
+          "not adopted",
+          "Partial rim recession reduces medial gap but leaves dark transition; closeup reviewed."
+        ],
+        "FB104_B": [
+          "research branch only",
+          "Full depth recoupling largely closes excessive medial wall, but introduces deep canthal hollows. Closeup, front and quarter reviewed; not a likeness pass."
+        ],
+        "FB105_A": [
+          "not adopted",
+          "Continuous six-pixel medial tissue no longer appears as FB97 floating bead, but still a conspicuous attached plug/edge; closeup reviewed."
+        ],
+        "FB105_B": [
+          "not adopted",
+          "Ten-pixel medial fill does not solve canthal outline or unnatural depression; closeup reviewed."
+        ],
+        "FB106_A": [
+          "rejected",
+          "Full provisional aperture trace produces pointed corners and a small bright medial spike; closeup reviewed. Trace is not ground truth."
+        ],
+        "FB106_B": [
+          "research branch only",
+          "65% aperture recast improves upper arc and reduces innocent round eye impression, but inner corners remain pointed and locally hollow; closeup/front/quarter reviewed. Do not integrate automatically."
+        ]
+      },
+      "retained": "FB98",
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T02:53:36.707336+08:00",
+      "batch": "FB107–120 real geometry and material experiments; FB112 limited successor",
+      "reviews": {
+        "FB107_A": [
+          "partial retained",
+          "65% nasal-base lift retained in FB112 after neutral, gray and profile review; does not establish full nose identity."
+        ],
+        "FB107_B": [
+          "rejected",
+          "Additional alar narrowing increases pinched triangular nostril appearance."
+        ],
+        "FB107_C": [
+          "rejected",
+          "Combined full alar narrowing/base lift is too pinched."
+        ],
+        "FB108_A": [
+          "rejected",
+          "Lower-lip height increase produces excessive fullness and deeper labiomental transition."
+        ],
+        "FB108_B": [
+          "retained material correction",
+          "Updated vertex pigment domain follows fitted lip; no geometry change claimed."
+        ],
+        "FB108_C": [
+          "rejected",
+          "Pigment registration plus full lower-lip height makes lower lip too full."
+        ],
+        "FB109_A": [
+          "partial retained",
+          "60% broad cheek/mandible depth plane retained; avoids FB100 added width. Native gray/quarter/profile checked."
+        ],
+        "FB109_B": [
+          "not adopted",
+          "Additional zygomatic support did not give clear identity improvement."
+        ],
+        "FB111_A": [
+          "not adopted",
+          "Official 26-pin eye refit rendered front/quarter; no clear likeness benefit."
+        ],
+        "FB111_B": [
+          "not adopted",
+          "Official 34-pin refit completed after normal trial license validation; solved-pose and fixed-FB98-camera fronts reviewed. Still no clear identity gain."
+        ],
+        "FB112": [
+          "provisional local working successor",
+          "FB98 plus .65 nasal-base lift, .60 mandibular-depth planes, registered lip pigment. Native front/two turns/near-side, gray front/quarter, strict profile and diagnostic light checked; numerical head audit passes; isolated reconstruction matches visible geometry. Eye issues remain. Not a likeness approval."
+        ],
+        "FB113_A": [
+          "not adopted",
+          "Smaller complete globe ratio2.3 at recessed depth leaves dark medial gaps and buried iris."
+        ],
+        "FB113_B": [
+          "not adopted",
+          "Still smaller ratio2.15 does not restore natural lid contact or profile."
+        ],
+        "FB114_A": [
+          "rejected",
+          "Canthal closure forms conspicuous rectangular tissue beside iris."
+        ],
+        "FB114_B": [
+          "rejected",
+          "Same rectangular closure problem on smaller globe."
+        ],
+        "FB115": [
+          "rejected for adoption",
+          "Combined orbital experiment shows excessive burial/vertical canthal crease in strict profile; six triangles rotate over90deg versus basis, five in opaque medial skin. Conservative warning is not proof of self-intersection; coincides with visible pinching."
+        ],
+        "FB116_A": [
+          "not adopted",
+          "Lunate closure reduces rectangle but retains dark medial fold and inherits recessed geometry."
+        ],
+        "FB116_B": [
+          "not adopted",
+          "Wider lunate tissue still does not produce natural canthus."
+        ],
+        "FB118_A": [
+          "withheld numeric warning",
+          "Broadening depth falloff24px leaves six >90deg normal warnings. Closeup exists, not yet visually reviewed."
+        ],
+        "FB118_B": [
+          "withheld numeric warning",
+          "Reducing recession leaves three >90deg normal warnings. Closeup exists, not yet visually reviewed."
+        ],
+        "FB120_A": [
+          "research only",
+          "Smaller globe ratio2.3 without retreat reduces darkness; numerical head audit passes. Closeup reviewed, still jagged canthal wall; whole views require further review."
+        ],
+        "FB120_B": [
+          "rejected for adoption",
+          "Adds aperture trace and35% recession: jagged inner corners, eye still buried in strict profile, eight conservative normal warnings. Closeup/front-quarter/profile evidence saved."
+        ]
+      },
+      "retained": "FB112",
+      "whole_likeness_pass": false,
+      "license": "Official normal online trial validated; FB111_B solve completed",
+      "pending": "FB121 graph harmonic candidates native rendering"
+    },
+    {
+      "at": "2026-10-15T03:25:50.022515+08:00",
+      "batch": "FB121–131 harmonic aperture, component isolation, ray-order diagnosis and actual contact reconstruction",
+      "reviews": {
+        "FB121_A": [
+          "research only",
+          "Graph-harmonic65% aperture warp eliminates previous head normal warnings; front/quarter/closeup reviewed. Contact wall still visibly spoked; not approved."
+        ],
+        "FB121_B": [
+          "research only",
+          "Graph-harmonic40% aperture variant passes same head checks, no convincing advantage; closeup reviewed."
+        ],
+        "FB122_A": [
+          "diagnostic only",
+          "Legacy translucent EyeSurface hidden: spoked canthal wall persists."
+        ],
+        "FB122_B": [
+          "diagnostic only",
+          "Contact wall hidden: black canthal gap exposes missing tissue; never a finished candidate."
+        ],
+        "FB122_C": [
+          "diagnostic only",
+          "Both legacy patch and wall hidden confirms true globe does not fill full medial opening."
+        ],
+        "FB123_A": [
+          "not adopted",
+          "New lunate tissue remains occluded behind old contact wall. FB125 actual ray depth ordering verifies cause."
+        ],
+        "FB123_B": [
+          "not adopted",
+          "Narrower patch does not change the occluding wall problem."
+        ],
+        "FB124_A": [
+          "not adopted",
+          "Smoothing inner3D boundary reduces some spokes, but corners retain unnatural lobes."
+        ],
+        "FB124_B": [
+          "not adopted",
+          "More smoothing still leaves irregular canthal edge; do not keep increasing smoothing."
+        ],
+        "FB126_A": [
+          "rejected",
+          "Reprojecting obstructing wall backward onto target creates visible holes."
+        ],
+        "FB126_B": [
+          "rejected",
+          "Partial reproject still creates dark holes and discontinuities."
+        ],
+        "FB127": [
+          "research only",
+          "Ordered screen-radial inner loop removes nearest-point spokes; medial tissue too dark. Later audit found left winding reversed and subpixel rounded loft self-overlap candidates; corrected only in subsequent branches."
+        ],
+        "FB128_A": [
+          "research only",
+          "Adds continuous medial tissue onto ordered wall. Correct native front/quarter/opposite/near-side and gray/profile available; front/quarter and gray/profile reviewed. Promising technical cleanup but eye corner naturalness still insufficient. Left contact winding corrected later in130; contact overlaps still under audit."
+        ],
+        "FB128_B": [
+          "not adopted",
+          "Narrower medial tissue shows no clear benefit overA; closeup only."
+        ],
+        "FB129_A": [
+          "not adopted pending evidence",
+          "Small upper-lid roll/sulcus change passes head numerical audit; neutral closeup shows weak benefit. Directional render available."
+        ],
+        "FB129_B": [
+          "not adopted",
+          "Stronger upper-lid layer change passes head audit, but neutral closeup and directional comparison do not show convincing likeness improvement."
+        ],
+        "FB130": [
+          "withheld for attachment geometry audit",
+          "Integrates128Aeyes with112nose/jaw/lip and corrects left contact winding. Attachment audit finds337/177 nonadjacent BVH overlap candidates in contacts and degenerate lateral tip triangles. Whole rendering ongoing; cannot promote from head-only audit."
+        ],
+        "FB131": [
+          "unreviewed repair",
+          "Removes contact rounding term to make loft interpolation monotonic, cleans collapsed lateral tips. Audit pending. Preserve112 until audited and visually checked."
+        ]
+      },
+      "retained": "FB112",
+      "whole_likeness_pass": false,
+      "renderer_issue": "128 neutral images accidentally inherited gray state; explicitly reloaded native128A and rerendered; wrapper fixed",
+      "attachment_audit": "130:337/177 nonadjacent BVH overlap candidates;131 removes rounding and collapsed tips; not proof of every intersection"
+    },
+    {
+      "at": "2026-10-15T03:41:35.717627+08:00",
+      "batch": "FB130–133 contact winding/monotonicity/opaque rim repair and integrated review",
+      "reviews": {
+        "FB130": [
+          "superseded after geometry findings",
+          "Native front/two turns/side, gray and directional renders completed. Left contact winding corrected. Separate attachment audit exposed337/177 nonadjacent overlaps plus collapsed lateral tips; not retained."
+        ],
+        "FB131": [
+          "superseded incomplete repair",
+          "Removing nonmonotonic rounding reduced contact overlap candidates to64/33. Ray depth measurement then found55/32 sampled outer-rim locations behind the inner ocular contact. Root cause required opaque skin/rim correction."
+        ],
+        "FB132": [
+          "superseded by133",
+          "Jointly advances152 opaque periocular vertices including shared eyelid rim, maximum.009136 model units, and refits contacts. Both contact meshes now have0 nonadjacent BVH overlap candidates. Only3 remain in redundant left lateral overlay."
+        ],
+        "FB133": [
+          "retained provisional working model",
+          "Head/ocular contact integration retained after native four-angle, gray front/quarter, strict profile, eye closeup and directional-light review. Gaze more coordinated than112, no new conspicuous skin bulge, canthal spokes reduced. Head audit and retained contact/medial mesh checks pass; ray gaps positive. Isolated rebuild reproduces geometry, topology and vertex colors. Not a whole-character likeness pass; canthal tissue still simplified and lower lid/under-eye contour remain unlikeT22."
+        ]
+      },
+      "retained": "FB133",
+      "whole_likeness_pass": false,
+      "root_cause": "Opaque eyelid rim shared transparent eye-mask vertices, so previous globe-clearance step incorrectly exempted it. Negative gap55/32 now0/0; contactBVHoverlap337/177 now0/0.",
+      "verification": "IsolatedFB98-based reconstruction reproduced geometry, topology and vertex colors; all actual renders reviewed; local page/workbench checked."
+    },
+    {
+      "at": "2026-10-15T03:58:20.748973+08:00",
+      "batch": "FB134–137 controlled lower band, joint eye depth and nasal tip/floor",
+      "reviews": {
+        "FB134_A": [
+          "rejected",
+          "Lower-band compression/relief caused visible globe breakthrough below the lower lid; clean head topology alone missed this cross-object failure."
+        ],
+        "FB135_A": [
+          "not retained",
+          "Opaque clearance restored skin coverage. Closeup remains close to133, and C develops a stronger ridge; no convincing likeness gain."
+        ],
+        "FB136_A": [
+          "not retained",
+          "Projectively fixed ocular recession plus continuous contact refit removes the breakthrough without changing iris size. Neutral closeup gain subtle; B requires turn/directional review, A/C not selected."
+        ],
+        "FB134_B": [
+          "rejected",
+          "Lower-band compression/relief caused visible globe breakthrough below the lower lid; clean head topology alone missed this cross-object failure."
+        ],
+        "FB135_B": [
+          "not retained",
+          "Opaque clearance restored skin coverage. Closeup remains close to133, and C develops a stronger ridge; no convincing likeness gain."
+        ],
+        "FB136_B": [
+          "pending selected turn review",
+          "Projectively fixed ocular recession plus continuous contact refit removes the breakthrough without changing iris size. Neutral closeup gain subtle; B requires turn/directional review, A/C not selected."
+        ],
+        "FB134_C": [
+          "rejected",
+          "Lower-band compression/relief caused visible globe breakthrough below the lower lid; clean head topology alone missed this cross-object failure."
+        ],
+        "FB135_C": [
+          "not retained",
+          "Opaque clearance restored skin coverage. Closeup remains close to133, and C develops a stronger ridge; no convincing likeness gain."
+        ],
+        "FB136_C": [
+          "not retained",
+          "Projectively fixed ocular recession plus continuous contact refit removes the breakthrough without changing iris size. Neutral closeup gain subtle; B requires turn/directional review, A/C not selected."
+        ],
+        "FB137_A": [
+          "pending turn review",
+          "A tests tip lift/advance; B raises nostril floor and looks ledge-like at lateral end; C combined. A/C queued for native turn, gray and diagnostic light comparison."
+        ],
+        "FB137_B": [
+          "not retained",
+          "A tests tip lift/advance; B raises nostril floor and looks ledge-like at lateral end; C combined. A/C queued for native turn, gray and diagnostic light comparison."
+        ],
+        "FB137_C": [
+          "pending turn review",
+          "A tests tip lift/advance; B raises nostril floor and looks ledge-like at lateral end; C combined. A/C queued for native turn, gray and diagnostic light comparison."
+        ]
+      },
+      "retained": "FB133",
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T04:29:12.079197+08:00",
+      "batch": "136–140 expanded review, mandibular planes, brow registration and lower lashes",
+      "reviews": {
+        "FB136_B": [
+          "not retained",
+          "Neutral front/quarter and directional review: no convincing likeness improvement; medial contact still mechanically angular in turn. Head and attachment audits clean, but not an appearance pass."
+        ],
+        "FB137_A": [
+          "reserve local component, not promoted",
+          "Tip cap is modestly better defined in closeup, gray and directional views. Keep as a possible component; whole-face likeness gain insufficient to replace133 alone."
+        ],
+        "FB137_B": [
+          "rejected",
+          "Raising the nostril floor produces a lateral ledge rather than a natural aperture; closeup rejected."
+        ],
+        "FB137_C": [
+          "rejected",
+          "Combined floor and tip remains ledge-like in closeup; front/quarter/gray/directional checks do not justify adoption."
+        ],
+        "FB138_A": [
+          "not retained",
+          "Native front/quarter and strict profile: slightly changed submandibular definition without clear identity benefit. Do not change frontal contour just to create a sharper shadow."
+        ],
+        "FB138_B": [
+          "not retained",
+          "Quarter and strict profile: neck-depth change has weak benefit; no adoption."
+        ],
+        "FB138_C": [
+          "rejected",
+          "Front/quarter/profile: stronger lower-plane separation trends toward a carved groove; no convincing likeness gain."
+        ],
+        "FB139_A": [
+          "rejected",
+          "New bilateral brow registration too thin and groomed in closeup/directional light; less suitable expression."
+        ],
+        "FB139_B": [
+          "not retained",
+          "Slightly fuller thanA but both brows still too refined; front and turn appear younger."
+        ],
+        "FB139_C": [
+          "reserve appearance component, not promoted",
+          "Original dark-side fibers preserved; only bright brow rebuilt with longer tail and intermediate body width. Closeup/front/quarter/directional checked. More specific registration than133, but no head geometry or overall identity claim."
+        ],
+        "FB140_A": [
+          "superseded diagnostic",
+          "Rebinding lower roots alone does not expose the intended lower lash fan; suspected subsequent points buried in lower skin. Source for141A physical clearance."
+        ],
+        "FB140_B": [
+          "superseded diagnostic",
+          "Denser/thicker lower fibers still mostly hidden, so do not simply increase darkness. Source for141B physical clearance."
+        ]
+      },
+      "retained": "FB133",
+      "reserve_components": [
+        "FB137_A",
+        "FB139_C"
+      ],
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T04:52:48.937512+08:00",
+      "batch": "141–144 lash attachment and conservative integration",
+      "reviews": {
+        "FB141_A": [
+          "superseded attachment diagnostic",
+          "Actual opaque-skin ray clearance exposed some lower fibers, but native radius remained too faint; no identity improvement claimed."
+        ],
+        "FB141_B": [
+          "not retained",
+          "Denser variant still too faint; further dense-count increases not justified."
+        ],
+        "FB142_A": [
+          "superseded attachment diagnostic",
+          "Larger real fiber radius exposed lower lashes; roots intersected bright wet line as small pale beads. Superseded by143A."
+        ],
+        "FB142_B": [
+          "rejected",
+          "Thicker fringe too heavy; pale root beads remained."
+        ],
+        "FB143_A": [
+          "retained local component in144",
+          "One-pixel anterior/downward root registration and re-clearance reduce pale wet-line intersections. Native closeup and144 nine-view integration checked. Does not fix lower-lid volume."
+        ],
+        "FB143_B": [
+          "rejected",
+          "Larger root offset leaves an apparent separate fringe below wet line."
+        ],
+        "FB144": [
+          "retained provisional working version; likeness unapproved",
+          "65percent137A nasal tip,139C bright-side brow and143A lower lashes combined. Nine native views inspected, head and ocular audits completed, packed editable file and isolated rebuild verified. Improvements small/local; whole identity and orbital/cheek/jaw anatomy remain insufficient."
+        ]
+      },
+      "retained": "FB144 provisional",
+      "rollback": "FB133",
+      "whole_likeness_pass": false,
+      "validation": {
+        "at": "2026-10-15T04:52:48.937512+08:00",
+        "reconstruction": {
+          "reconstruction": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\50_FaceBuilder拟合试验_2026-10-13\\reproduction-fb144-20261015-044651",
+          "geometry_hash": "d1c026fe82a6db51bdead1ac7e99e0610a677ecab21e7cc9de40e6ed753b012d",
+          "rendering_requested": false,
+          "at": "2026-10-15T04:47:07.3371973+08:00",
+          "groom_profile_hash_matches": true,
+          "scope": "Recorded geometry, face topology, vertex colors and groom radius/settings reproduced. Not pixel identity or whole-character likeness.",
+          "visible_geometry_hash_matches": true,
+          "base": "FB133",
+          "topology_and_vertex_color_hash_matches": true,
+          "topology_and_vertex_color_hash": "9f8d58c6c42c672f370dafeb0701ab75c008153449bf5510ff1748e12b333d73",
+          "groom_profile_hash": "83559cf3bfdaf6dd37532c1a61fecc7d1d76441216eb504163a5b83d6a8f9880"
+        },
+        "head_geometry_audit": {
+          "status": "numeric_mesh_checks_only_not_likeness_approval",
+          "vertices": 18024,
+          "polygons": 17978,
+          "triangles": 35954,
+          "nonfinite_coordinates": 0,
+          "degenerate_triangles": 0,
+          "collapsed_edges": 0,
+          "inverted_triangles_vs_base": 0,
+          "max_normal_rotation_degrees": 88.56148799568048,
+          "max_vertex_displacement": 0.1007005737975101,
+          "limitations": [
+            "Does not prove likeness",
+            "Does not detect every possible surface self-intersection",
+            "Intentional neck boundary retained"
+          ]
+        },
+        "ocular_attachment_audit": {
+          "source": "FB144",
+          "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+          "limitations": [
+            "BVH overlaps are candidates for inspection, not proof of visible penetration",
+            "Does not audit all contacts between different objects",
+            "A clean result is not a likeness pass"
+          ],
+          "objects": [
+            {
+              "object": "Carrillo_FB127_LidContact-1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 3.679264059144591e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB127_LidContact1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 1.4583592878847768e-07,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB128_A_medial-1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 9.664837317396373e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB128_A_medial1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 6.363965057484992e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            }
+          ]
+        },
+        "browser": {
+          "at": "2026-10-14T20:49:15.849Z",
+          "errors": [],
+          "bad": [],
+          "model": {
+            "meshes": 2,
+            "vertices": 18193
+          }
+        },
+        "visual_views_reviewed": [
+          "neutral front",
+          "neutral -40",
+          "neutral +40",
+          "neutral near-side85",
+          "gray front",
+          "gray quarter",
+          "strict horizontal orthographic profile",
+          "200percent eye closeup",
+          "diagnostic directional light"
+        ],
+        "scope": "Local component integration and technical checks; not overall likeness approval"
+      },
+      "additional_finding": "143 ray audit confirms current medial patch visible; simplified darkness is not old buried-patch problem."
+    },
+    {
+      "at": "2026-10-15T05:19:37.618023+08:00",
+      "batch": "145–152 canthal/upperfold/cheek and official FACS exploration",
+      "reviews": {
+        "FB145_A": [
+          "not retained",
+          "Canthal material-only change too small to justify adoption; neutral closeup checked."
+        ],
+        "FB145_B": [
+          "not retained",
+          "Local caruncular relief has weak visual benefit; does not solve canthal anatomy."
+        ],
+        "FB145_C": [
+          "not retained",
+          "Combined relief/material remains insufficient; no whole identity improvement."
+        ],
+        "FB146_A": [
+          "rejected",
+          "Weak narrow upperfold not convincingly better; local mesh subdivision introduced16 zero-area triangles including in density control."
+        ],
+        "FB146_B": [
+          "rejected",
+          "Strong narrow fold creates276 triangles rotated beyond90degrees relative to refined base plus16 degenerate triangles; not an acceptable replacement."
+        ],
+        "FB146_C": [
+          "rejected topology control",
+          "Density-only subdivision changes lower surface normals and introduces16 zero-area triangulations; proves these defects are not caused solely by fold displacement."
+        ],
+        "FB148_A": [
+          "not retained",
+          "Vertical cheek support relocation has little visible identity gain in front and quarter."
+        ],
+        "FB148_B": [
+          "rejected",
+          "Plane tilt produces a stronger rounded cheek mound and hollow; stronger contrast is not T22 likeness."
+        ],
+        "FB148_C": [
+          "not retained",
+          "Milder combined cheek transport/tilt still lacks a convincing identity benefit in front and quarter."
+        ],
+        "FB150_A": [
+          "superseded diagnostic",
+          "Native FACS coordinated eyelid movement works, but86 legacy transparent eye triangles reverse relative144; opaque skin has0. Contact/canthal audit clean. No adoption."
+        ],
+        "FB150_B": [
+          "superseded diagnostic",
+          "Small coordinated eye/brow movement;76 reversed transparent placeholder triangles,0 opaque. No adoption."
+        ],
+        "FB150_C": [
+          "rejected diagnostic",
+          "78 reversed transparent placeholder triangles,0 opaque;3 medial patch overlap candidates. No adoption."
+        ],
+        "FB151_A": [
+          "superseded diagnostic",
+          "Harmonic placeholder interior reduces reversals to1 vs original basis, but transferred medial patches have13/5 overlap pairs. Requires real tissue reconstruction."
+        ],
+        "FB151_B": [
+          "superseded diagnostic",
+          "Same technical issues as151A; brow-down visual effect remains experimental."
+        ],
+        "FB151_C": [
+          "superseded diagnostic",
+          "Head numeric checks pass, but left transferred medial patch has2 overlap pairs; no retention pending proper refit."
+        ]
+      },
+      "retained": "FB144",
+      "whole_likeness_pass": false,
+      "method_findings": [
+        "146 local partial-edge subdivision needs proper retopology, cannot be adopted",
+        "149 normal official FACS API creates51adapted shapes on isolated144copy",
+        "150/151 reversed head triangles are only legacy transparent eye placeholder; actual opaque skin remains unflipped",
+        "Nearest-contact transfer distorts fine medial patch;152 rebuilds it from true moved rim and ocular surface"
+      ]
+    },
+    {
+      "at": "2026-10-15T05:31:38.979334+08:00",
+      "batch": "152–153 coordinated eye expression retained provisionally",
+      "reviews": {
+        "FB152_A": [
+          "not retained",
+          "Head checks pass; left medial tissue retains2 overlap candidates, no adoption."
+        ],
+        "FB152_B": [
+          "retained as FB153 provisional",
+          "Eye closeup, native front and both40degree turns, directional crop checked. Slightly less wide-eyed; no obvious external anger. All recorded head/contact checks pass. Whole identity remains unresolved."
+        ],
+        "FB152_C": [
+          "not retained alternative",
+          "Head/contact checks pass; neutral front, both turns and eye closeup reviewed. Weaker eyelid change and slightly stronger brow is less useful thanB; saved as alternative."
+        ],
+        "FB153": [
+          "retained provisional working version; likeness unapproved",
+          "153 is exact152B scene with explanatory version metadata. Nine native views checked, head/attachment/ray-gap audits pass; packed editable and isolated rebuild verified. Overall T22 likeness remains insufficient."
+        ]
+      },
+      "retained": "FB153 provisional",
+      "rollback": "FB144",
+      "whole_likeness_pass": false,
+      "validation": {
+        "at": "2026-10-15T05:31:38.979334+08:00",
+        "reconstruction": {
+          "visible_geometry_hash_matches": true,
+          "scope": "Recorded geometry, face topology, vertex colors and groom radius/settings reproduced. Not pixel identity or whole-character likeness.",
+          "at": "2026-10-15T05:28:47.1429773+08:00",
+          "rendering_requested": false,
+          "reconstruction": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\50_FaceBuilder拟合试验_2026-10-13\\reproduction-fb153-20261015-052827",
+          "groom_profile_hash": "ddfcd8e59e7566bf3adeae436ae1b5cd1b23dda69cae8fe1efe530b85a10029c",
+          "topology_and_vertex_color_hash": "64cc52983773bd2cf50061b2cda9d84576fa7dc6e1ec1011157dc52bf432188a",
+          "groom_profile_hash_matches": true,
+          "geometry_hash": "48d6b35ca244c4958ede29bafbaca4475774dfd0276fc8a266ba83a7ac8c236d",
+          "base": "FB144",
+          "topology_and_vertex_color_hash_matches": true
+        },
+        "head_geometry_audit": {
+          "status": "numeric_mesh_checks_only_not_likeness_approval",
+          "vertices": 18024,
+          "polygons": 17232,
+          "triangles": 34462,
+          "nonfinite_coordinates": 0,
+          "degenerate_triangles": 0,
+          "collapsed_edges": 0,
+          "inverted_triangles_vs_base": 0,
+          "max_normal_rotation_degrees": 76.05885733852645,
+          "max_vertex_displacement": 0.1007005737975101,
+          "limitations": [
+            "Does not prove likeness",
+            "Does not detect every possible surface self-intersection",
+            "Intentional neck boundary retained"
+          ]
+        },
+        "ocular_attachment_audit": {
+          "source": "FB153",
+          "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+          "limitations": [
+            "BVH overlaps are candidates for inspection, not proof of visible penetration",
+            "Does not audit all contacts between different objects",
+            "A clean result is not a likeness pass"
+          ],
+          "objects": [
+            {
+              "object": "Carrillo_FB127_LidContact-1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.3959496261937745e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB127_LidContact1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 1.2581426074199012e-07,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial-1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.4433220543792293e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 5.95284071303993e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            }
+          ]
+        },
+        "contact_gap": [
+          {
+            "side": -1,
+            "min_gap": 0.001449013279819944,
+            "max_gap": 0.10155968704728568,
+            "negative": []
+          },
+          {
+            "side": 1,
+            "min_gap": 0.0013597999211345524,
+            "max_gap": 0.0870707923331091,
+            "negative": []
+          }
+        ],
+        "browser": {
+          "at": "2026-10-14T21:29:57.946Z",
+          "errors": [],
+          "bad": [],
+          "model": {
+            "meshes": 1,
+            "vertices": 17397
+          }
+        },
+        "visual_views_reviewed": [
+          "neutral front",
+          "neutral -40",
+          "neutral +40",
+          "neutral near-side85",
+          "gray head front",
+          "gray head quarter",
+          "strict horizontal orthographic profile",
+          "200percent eye closeup",
+          "diagnostic directional light"
+        ],
+        "scope": "Technical and local expression checks, not identity approval;152B source render copies recorded"
+      }
+    },
+    {
+      "at": "2026-10-15T05:50:34.391083+08:00",
+      "batch": "154–159 mouth and dense upperlid trials",
+      "reviews": {
+        "FB155_A": [
+          "not adopted at full strength",
+          "Native neutral and gray mouth crops reviewed. Cupid peaks clearer, but3.5px full change looks too pronounced."
+        ],
+        "FB155_B": [
+          "not adopted at full strength",
+          "Neutral and gray mouth crops reviewed. Seam/corner registration is closer to interpretedT22; corner lift must be kept small to avoid a smiling expression."
+        ],
+        "FB155_C": [
+          "not adopted at full strength",
+          "Neutral and gray mouth crops reviewed; combination too emphatic.157 tests55percent with depth unchanged."
+        ],
+        "FB156_A": [
+          "registration-only correction considered for157",
+          "Native neutral crop reviewed; existing lip-only normal UV was shifted9–12px horizontally. Geometry unchanged. Reverse-light image exists but no full identity claim."
+        ],
+        "FB156_B": [
+          "not adopted increased bump",
+          "Neutral and reversed light reviewed. Added striation is visible but not sufficient likeness gain; possible artificial grooves."
+        ],
+        "FB156_C": [
+          "not adopted increased bump/gloss",
+          "Neutral and reversed light reviewed; stronger gloss draws attention to stylized/scaly surface.153 roughness retained in157."
+        ],
+        "FB157": [
+          "candidate pending full diagnostics",
+          "55percent155C +156A UV correction only. Native front, -40, directional, neutral/gray mouth crops reviewed. Less emphatic than155C; no obvious smile. Full profile/gray/rebuild not yet completed, current working model remains153."
+        ],
+        "FB158_A": [
+          "density-only control, not adopted",
+          "Whole-face linear2cut refinement preserves positions/contours; closeup viewed. Original153 keyed mesh preserved hidden."
+        ],
+        "FB158_B": [
+          "failed assembly trial",
+          "Native eye closeup shows exposed ocular surface and brow fibers not following altered skin. Cannot adopt.159A repairs physical clearance and groom."
+        ],
+        "FB158_C": [
+          "failed assembly trial",
+          "Same assembly defects asB at greater strength.159B repair in progress; no likeness improvement assumed."
+        ]
+      },
+      "retained": "FB153 remains",
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T06:05:11.711847+08:00",
+      "batch": "157–165 local contour and tissue review",
+      "reviews": {
+        "FB157": [
+          "candidate for integration",
+          "Native front/both40turns, near-side85, gray front/quarter, strict profile, directional and mouth neutral/gray inspected. Small mouth contour improvement plausible, no clear new protrusion/smile. EntireT22 likeness not approved."
+        ],
+        "FB158_B": [
+          "rejected",
+          "Upper fold created exposed globe and floating fibers;6normal reversals vs refined basis.153eye retained."
+        ],
+        "FB158_C": [
+          "rejected",
+          "Same defects at greater strength;539normal reversals vs refined basis."
+        ],
+        "FB159_A": [
+          "not retained",
+          "Clearance/fiber repair removes obvious exposure/floating, but fold still looks artificial with no clear likeness gain; numerical normal-rotation audit also fails."
+        ],
+        "FB159_B": [
+          "not retained",
+          "Stronger version has same weak anatomy/normal audit; no dense fold branch adopted."
+        ],
+        "FB161_A": [
+          "candidate for integration",
+          "Native nasal neutral/gray closeups, neutral front/quarter and directional view reviewed. Lowering exterior alar roof reduces excess nostril exposure without globally narrowing nose. Need integrated full review."
+        ],
+        "FB161_B": [
+          "not retained",
+          "Nasal neutral closeup reviewed; columellar lowering alone adds pointed underside without clear identity gain."
+        ],
+        "FB161_C": [
+          "not retained combined alternative",
+          "Neutral/gray nasal crops, neutral front/quarter and strict profile reviewed. Columellar component not clearly needed; prefer roof-onlyA."
+        ],
+        "FB163_A": [
+          "superseded technical trial",
+          "Lower tissue margin separates lash side from fixed wetedge; old transparent placeholder loose vertices accidentally included in clearance support.164corrects domain."
+        ],
+        "FB163_B": [
+          "superseded technical trial",
+          "Same domain issue; max.062displacement mainly inactive placeholder vertices. Not adopted."
+        ],
+        "FB164_A": [
+          "candidate weaker alternative",
+          "Native eye crop viewed. Only actual opaque skin moves;0clearance advance; contact/head checks clean.1.5px lower tissue width subtle."
+        ],
+        "FB164_B": [
+          "candidate for integration",
+          "Native eye crop viewed.2.5px lower skin/lash-edge descent leaves eye aperture/globe fixed, adds visible tissue width.0clearance advance;head/attachments checks pass. Need turned full review."
+        ]
+      },
+      "retained": "FB153 remains pending integration",
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T06:15:24.002851+08:00",
+      "batch": "166 integrated local corrections retained provisionally",
+      "reviews": {
+        "FB165_A": [
+          "not adopted appearance alternative",
+          "Native neutral and reversed-light eye crops reviewed. Slightly lighter/desaturated iris, but no sufficiently clear likeness gain to change the current palette."
+        ],
+        "FB165_B": [
+          "not adopted appearance alternative",
+          "Both light directions reviewed. Greater brightening remains an appearance alternative, not geometry improvement."
+        ],
+        "FB165_C": [
+          "not adopted",
+          "Both light directions reviewed. Front corner stays dark, reverse light exposes a pink plug-like patch; material alone does not solve its geometric orientation."
+        ],
+        "FB166": [
+          "retained provisional working version; likeness unapproved",
+          "Nine actual native views inspected, head/ocular attachment/gap checks pass. Small lower margin/alar roof/lip contour improvements retained; upper fold, under-eye roll, canthus and whole identity remain unresolved. Packed editable, isolated reconstruction and browser comparison verified."
+        ]
+      },
+      "retained": "FB166 provisional",
+      "rollback": "FB153",
+      "whole_likeness_pass": false,
+      "validation": {
+        "at": "2026-10-15T06:15:24.002851+08:00",
+        "reconstruction": {
+          "rendering_requested": false,
+          "scope": "Recorded geometry, face topology, vertex colors and groom radius/settings and visible UV/bindings reproduced. Not pixel identity or whole-character likeness.",
+          "base": "FB153",
+          "geometry_hash": "f49124bfe22c57f17e8a094c8e9eb6dcb6ac51780219fa2d9b1df8c2a090e3d6",
+          "topology_and_vertex_color_hash": "64cc52983773bd2cf50061b2cda9d84576fa7dc6e1ec1011157dc52bf432188a",
+          "visible_geometry_hash_matches": true,
+          "reconstruction": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\50_FaceBuilder拟合试验_2026-10-13\\reproduction-fb166-20261015-061225",
+          "groom_profile_hash": "ddfcd8e59e7566bf3adeae436ae1b5cd1b23dda69cae8fe1efe530b85a10029c",
+          "groom_profile_hash_matches": true,
+          "topology_and_vertex_color_hash_matches": true,
+          "uv_and_binding_hash": "fb04ebbf1ae36cc4a077ab4961d73848aa0d81b6e2d49690ed4fe32ec04b72bf",
+          "uv_and_binding_hash_matches": true,
+          "at": "2026-10-15T06:12:41.0754948+08:00"
+        },
+        "head_geometry_audit": {
+          "status": "numeric_mesh_checks_only_not_likeness_approval",
+          "vertices": 18024,
+          "polygons": 17232,
+          "triangles": 34462,
+          "nonfinite_coordinates": 0,
+          "degenerate_triangles": 0,
+          "collapsed_edges": 0,
+          "inverted_triangles_vs_base": 0,
+          "max_normal_rotation_degrees": 76.05885733852645,
+          "max_vertex_displacement": 0.1007005737975101,
+          "limitations": [
+            "Does not prove likeness",
+            "Does not detect every possible surface self-intersection",
+            "Intentional neck boundary retained"
+          ]
+        },
+        "ocular_attachment_audit": {
+          "source": "FB166",
+          "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+          "limitations": [
+            "BVH overlaps are candidates for inspection, not proof of visible penetration",
+            "Does not audit all contacts between different objects",
+            "A clean result is not a likeness pass"
+          ],
+          "objects": [
+            {
+              "object": "Carrillo_FB127_LidContact-1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.395911695293282e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB127_LidContact1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 1.9808936114153524e-07,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial-1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.4433220543792293e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 5.95284071303993e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            }
+          ]
+        },
+        "contact_gap": [
+          {
+            "side": -1,
+            "min_gap": 0.0015456127435680145,
+            "max_gap": 0.1015596854684091,
+            "negative": []
+          },
+          {
+            "side": 1,
+            "min_gap": 0.0013597999211345524,
+            "max_gap": 0.08707072847003072,
+            "negative": []
+          }
+        ],
+        "browser": {
+          "at": "2026-10-14T22:14:12.057Z",
+          "errors": [],
+          "bad": [],
+          "model": {
+            "meshes": 1,
+            "vertices": 17397
+          }
+        },
+        "visual_views_reviewed": [
+          "neutral front",
+          "neutral -40",
+          "neutral +40",
+          "near-side85",
+          "gray head front",
+          "gray head quarter",
+          "strict horizontal orthographic profile",
+          "200percent eyes",
+          "diagnostic directional"
+        ],
+        "scope": "Native render and bounded technical checks, not whole likeness acceptance. UV coordinates/bindings now included in reconstruction verification."
+      }
+    },
+    {
+      "at": "2026-10-15T06:44:16.834905+08:00",
+      "batch": "167–174 local geometry and native render diagnostics",
+      "reviews": {
+        "FB167_A": [
+          "not retained",
+          "Native neutral/gray eye crop and neutral full front/quarter/directional reviewed. Added roll support makes a puffier/tired under-eye without enough T22-specific structure."
+        ],
+        "FB167_B": [
+          "not retained",
+          "Neutral/gray eye crops reviewed. Lower boundary recession too weak to justify change; no whole-face gain established."
+        ],
+        "FB167_C": [
+          "not retained",
+          "Neutral/gray eye crops reviewed. Combined bulge/recession accentuates bag-like structure.166 retained."
+        ],
+        "FB170_A": [
+          "not retained",
+          "Native eye crop inspected. Local medial tissue relief remains visually weak, dark inner opening remains. No justification for promotion."
+        ],
+        "FB170_B": [
+          "not retained",
+          "Native eye crop inspected. Stronger local mound does not establish improved canthal anatomy or identity. No full turn review; no promotion."
+        ],
+        "FB171_A": [
+          "not retained",
+          "Native nasal neutral crop inspected. Local Taubin smoothing has negligible perceptual gain and leaves triangular aperture."
+        ],
+        "FB171_B": [
+          "not retained",
+          "Native neutral and gray nasal crops inspected. Stronger local smoothing still leaves main triangular aperture; max deformation .00144. Not an anatomical solution."
+        ],
+        "FB173_A": [
+          "not retained",
+          "Native neutral nose crop inspected. Moving medial nasal wall changes interior slightly but does not solve tip/nostril shape."
+        ],
+        "FB173_B": [
+          "not retained",
+          "Native neutral and gray nose crops inspected. Larger medial adjustment changes septal extent without compelling T22 improvement. No adoption; no full-turn claim."
+        ]
+      },
+      "diagnostics": {
+        "FB168": "256sample200percent native denoised/raw face reviewed. Plastic/smooth face and triangular nose persist in raw, so not chiefly denoising or DOF. DOF is off. No168model.",
+        "FB169": "Native pupil centers agree with target centers. T22 threshold components merge with shadows/ROI edges, unreliable automatic centroid. No evidence-based gaze move; no169model.",
+        "FB172": "809 actual nose-region vertices and projected topology plotted. No geometry change; plot includes hidden surfaces."
+      },
+      "retained": "FB166 provisional",
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T07:05:04.049878+08:00",
+      "batch": "174–180 native lighting/upperlid/contact repair",
+      "reviews": {
+        "FB175_A": [
+          "superseded by176A",
+          "Native eye crop and head audit reviewed. Forward-only support avoids globe excavation; initial field also sampled loose obsolete points; corrected in176."
+        ],
+        "FB175_B": [
+          "rejected",
+          "Native eye crop has no clear identity gain;90 normal reversals vs refined basis."
+        ],
+        "FB176_A": [
+          "not retained",
+          "Opaque-domain corrected support. Neutral front/quarter, gray front/quarter, eye crop and directional inspected; technical head check clean but no sufficient anatomical improvement to add a dense head branch."
+        ],
+        "FB176_B": [
+          "density-only control",
+          "Refinement-only eye crop produced; no identity change intended."
+        ],
+        "FB177_A": [
+          "superseded technical issue",
+          "Small3px bright upper-rim lift improves pupil occlusion locally. Neutral/gray front/quarter, eye crop,directional reviewed. Attachment audit has57overlap candidates; cannot adopt raw177A."
+        ],
+        "FB177_B": [
+          "not retained",
+          "Native eye crop, neutral front reviewed.4.5px lift more wide-eyed than needed; no promotion."
+        ],
+        "FB178": [
+          "rejected intermediate; repaired in180",
+          "Native clone177A with additional opposite/near-side/strictprofile outputs. Contact audit57overlap candidates. Do not publish or use prepared178reconstruction scripts as accepted version."
+        ],
+        "FB180": [
+          "repaired candidate pending full review",
+          "Contact outer-to-inner exact projected correspondence, monotonic depth rounding.49upper samples rebuilt, unchanged lower contact exactly166; ocular self-overlap/degenerate tests now0. Native eye crop inspected. Need full native views, head/gap tests, packed/rebuilt project before promotion."
+        ]
+      },
+      "retained": "FB166 provisional pending180fullreview",
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T07:19:34.383726+08:00",
+      "batch": "180retained after repair;179/182not adopted",
+      "reviews": {
+        "FB179_A": [
+          "rejected",
+          "Native front and quarter inspected. Tightened bundles create rope-like curls and larger gaps; no improvement to T22 hair character."
+        ],
+        "FB179_B": [
+          "not retained",
+          "Native front and quarter inspected. Lower roughness increases shine without solving fuzzy/grouped guide morphology."
+        ],
+        "FB180": [
+          "retained provisional working version; identity unapproved",
+          "All nine actual native views inspected after contact repair. Head geometry, separate ocular self-overlap/degeneration, contact-depth checks pass. Packed editable and isolated rebuild geometry/topology/colors/groom/UV hashes match. Browser assets/controls/GLB and explicit1448height verified. Small upper-lid projection improvement only."
+        ],
+        "FB182_A": [
+          "not retained",
+          "Neutral front and gray quarter inspected. Plane projection adds lower-cheek hollow/crease without clear T22-specific gain."
+        ],
+        "FB182_B": [
+          "not retained",
+          "Neutral front/quarter, gray front/quarter inspected. Stronger plane projection looks carved/gaunt; projected outline alone is not sufficient."
+        ]
+      },
+      "retained": "FB180 provisional",
+      "rollback": "FB166",
+      "whole_likeness_pass": false,
+      "validation": {
+        "at": "2026-10-15T07:19:34.383726+08:00",
+        "reconstruction": {
+          "uv_and_binding_hash_matches": true,
+          "scope": "Recorded geometry, face topology, vertex colors and groom radius/settings and visible UV/bindings reproduced. Not pixel identity or whole-character likeness.",
+          "groom_profile_hash_matches": true,
+          "rendering_requested": false,
+          "uv_and_binding_hash": "fb04ebbf1ae36cc4a077ab4961d73848aa0d81b6e2d49690ed4fe32ec04b72bf",
+          "topology_and_vertex_color_hash_matches": true,
+          "reconstruction": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\50_FaceBuilder拟合试验_2026-10-13\\reproduction-fb180-20261015-071009",
+          "topology_and_vertex_color_hash": "64cc52983773bd2cf50061b2cda9d84576fa7dc6e1ec1011157dc52bf432188a",
+          "geometry_hash": "6481ee87197d84853fbc51f14322d54abc86c844047a389cb9f492aa4c7e9cf4",
+          "at": "2026-10-15T07:10:19.4018990+08:00",
+          "visible_geometry_hash_matches": true,
+          "base": "FB166",
+          "groom_profile_hash": "ddfcd8e59e7566bf3adeae436ae1b5cd1b23dda69cae8fe1efe530b85a10029c"
+        },
+        "head_geometry_audit": {
+          "status": "numeric_mesh_checks_only_not_likeness_approval",
+          "vertices": 18024,
+          "polygons": 17232,
+          "triangles": 34462,
+          "nonfinite_coordinates": 0,
+          "degenerate_triangles": 0,
+          "collapsed_edges": 0,
+          "inverted_triangles_vs_base": 0,
+          "max_normal_rotation_degrees": 76.05885733852645,
+          "max_vertex_displacement": 0.1007005737975101,
+          "limitations": [
+            "Does not prove likeness",
+            "Does not detect every possible surface self-intersection",
+            "Intentional neck boundary retained"
+          ]
+        },
+        "ocular_attachment_audit": {
+          "source": "FB180",
+          "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+          "limitations": [
+            "BVH overlaps are candidates for inspection, not proof of visible penetration",
+            "Does not audit all contacts between different objects",
+            "A clean result is not a likeness pass"
+          ],
+          "objects": [
+            {
+              "object": "Carrillo_FB127_LidContact-1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.395911695293282e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB127_LidContact1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 6.473513545817021e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial-1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.4433220543792293e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 5.95284071303993e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            }
+          ]
+        },
+        "contact_gap": [
+          {
+            "side": -1,
+            "min_gap": 0.0015456127435680145,
+            "max_gap": 0.1015596854684091,
+            "negative": []
+          },
+          {
+            "side": 1,
+            "min_gap": 0.0015623968249656173,
+            "max_gap": 0.08707072847003072,
+            "negative": []
+          }
+        ],
+        "browser": {
+          "at": "2026-10-14T23:14:42.595Z",
+          "errors": [],
+          "bad": [],
+          "model": {
+            "meshes": 1,
+            "vertices": 17397
+          },
+          "dimensions": [
+            {
+              "src": "references/T22.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "renders/fb166-neutral-front.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "renders/fb180-neutral-front.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "references/T22.png",
+              "w": "1086",
+              "h": "1448"
+            }
+          ]
+        },
+        "visual_views_reviewed": [
+          "neutral front",
+          "neutral -40",
+          "neutral +40",
+          "near-side85",
+          "gray front",
+          "gray quarter",
+          "strict horizontal orthographic profile",
+          "200percent eye closeup",
+          "directional diagnostic"
+        ],
+        "scope": "Bounded technical and visual checks, not identity acceptance",
+        "dimension_repair": {
+          "at": "2026-10-15T07:09:42.441329+08:00",
+          "fixed_pages": [
+            "T22only-round153.html",
+            "T22only-round166.html",
+            "appearance.html"
+          ],
+          "cause": "Unscoped version-number replacement changed1448into1538/1668 in SVG full-image height",
+          "actual_reference_dimensions": [
+            1086,
+            1448
+          ],
+          "scope": "HTML only; source reference, native renders and3D geometry unchanged",
+          "backup": "ui-backup-before-height-fix-20261015"
+        }
+      }
+    },
+    {
+      "at": "2026-10-15T07:33:19.422562+08:00",
+      "batch": "183–186 lowerroll and UV review",
+      "reviews": {
+        "FB183_A": [
+          "not retained",
+          "Native neutral/gray eyes plus full neutral front, quarter and directional inspected. Raising roll support peak from11px to6px below rim did not give convincing whole-face benefit."
+        ],
+        "FB183_B": [
+          "not retained",
+          "Native neutral and gray eye crops inspected. Additional lower recession did not establish a convincing shallow wide roll and outer termination."
+        ],
+        "FB185_A": [
+          "not retained separately",
+          "Native cheek detail inspected. Detail UV corrected;185B includes bounded chroma/confidence correspondence too."
+        ],
+        "FB185_B": [
+          "technical correction retained pending186 validation",
+          "A/B native cheek and B neutral front/quarter/directional inspected. Measured old UV drift corrected with unchanged images, strengths, light and geometry. Very subtle appearance change, no claimed noticeable identity improvement."
+        ]
+      },
+      "UV_measurement": "FB184-uv-registration-diagnostic.json",
+      "retained_geometry": "FB180",
+      "pending_integration": "FB186",
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T07:38:54.981495+08:00",
+      "batch": "186 complete integration checks",
+      "retained": "FB186 provisional",
+      "rollback": "FB180",
+      "geometry_same_as180": true,
+      "validation": {
+        "at": "2026-10-15T07:38:54.981495+08:00",
+        "reconstruction": {
+          "at": "2026-10-15T07:36:08.7164325+08:00",
+          "groom_profile_hash": "ddfcd8e59e7566bf3adeae436ae1b5cd1b23dda69cae8fe1efe530b85a10029c",
+          "reconstruction": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\50_FaceBuilder拟合试验_2026-10-13\\reproduction-fb186-20261015-073600",
+          "rendering_requested": false,
+          "groom_profile_hash_matches": true,
+          "geometry_hash": "6481ee87197d84853fbc51f14322d54abc86c844047a389cb9f492aa4c7e9cf4",
+          "base": "FB180",
+          "topology_and_vertex_color_hash": "64cc52983773bd2cf50061b2cda9d84576fa7dc6e1ec1011157dc52bf432188a",
+          "scope": "Recorded geometry, face topology, vertex colors and groom radius/settings and visible UV/bindings reproduced. Not pixel identity or whole-character likeness.",
+          "uv_and_binding_hash_matches": true,
+          "uv_and_binding_hash": "02baf987236d15560c7d408f6643abd9c897abd25ebcce7b485ff3ada24c17ad",
+          "visible_geometry_hash_matches": true,
+          "topology_and_vertex_color_hash_matches": true
+        },
+        "geometry_identical_to_FB180": true,
+        "head_geometry_audit": {
+          "status": "numeric_mesh_checks_only_not_likeness_approval",
+          "vertices": 18024,
+          "polygons": 17232,
+          "triangles": 34462,
+          "nonfinite_coordinates": 0,
+          "degenerate_triangles": 0,
+          "collapsed_edges": 0,
+          "inverted_triangles_vs_base": 0,
+          "max_normal_rotation_degrees": 76.05885733852645,
+          "max_vertex_displacement": 0.1007005737975101,
+          "limitations": [
+            "Does not prove likeness",
+            "Does not detect every possible surface self-intersection",
+            "Intentional neck boundary retained"
+          ]
+        },
+        "ocular_attachment_audit": {
+          "source": "FB186",
+          "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+          "limitations": [
+            "BVH overlaps are candidates for inspection, not proof of visible penetration",
+            "Does not audit all contacts between different objects",
+            "A clean result is not a likeness pass"
+          ],
+          "objects": [
+            {
+              "object": "Carrillo_FB127_LidContact-1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.395911695293282e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB127_LidContact1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 6.473513545817021e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial-1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.4433220543792293e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 5.95284071303993e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            }
+          ]
+        },
+        "contact_gap": [
+          {
+            "side": -1,
+            "min_gap": 0.0015456127435680145,
+            "max_gap": 0.1015596854684091,
+            "negative": []
+          },
+          {
+            "side": 1,
+            "min_gap": 0.0015623968249656173,
+            "max_gap": 0.08707072847003072,
+            "negative": []
+          }
+        ],
+        "visual_views_reviewed": [
+          "neutral front",
+          "neutral -40",
+          "neutral +40",
+          "near-side85",
+          "gray front",
+          "gray quarter",
+          "strict horizontal orthographic profile",
+          "200percent eyes",
+          "directional diagnostic"
+        ],
+        "browser": {
+          "at": "2026-10-14T23:38:14.909Z",
+          "errors": [],
+          "bad": [],
+          "model": {
+            "meshes": 1,
+            "vertices": 17397
+          },
+          "dimensions": [
+            {
+              "src": "references/T22.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "renders/fb93-neutral-front.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "renders/fb186-neutral-front.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "references/T22.png",
+              "w": "1086",
+              "h": "1448"
+            }
+          ],
+          "baselines_checked": [
+            "93",
+            "166",
+            "180"
+          ]
+        },
+        "scope": "Native geometry and bounded checks; overall likeness unapproved"
+      },
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T07:48:10.474805+08:00",
+      "batch": "188 overnight final validation",
+      "retained": "FB188 provisional",
+      "rollback": "FB186",
+      "reviews": {
+        "FB187_A": [
+          "not retained separately",
+          "Native eye crop inspected; weaker regularity reduction than B."
+        ],
+        "FB187_B": [
+          "retained in188 as accessory correction",
+          "Both native eye crops and B front/quarter/directional inspected. Shorter, finer, varying lower lashes reduce an overly conspicuous regular fringe; roots, upper lashes and eye/head geometry fixed."
+        ],
+        "FB188": [
+          "provisional final overnight working version; identity unapproved",
+          "Nine native views inspected; packed editable, independent rebuild and browser comparison checked. Head/eyes/contact geometry180, UV registration186, lower lashes187B. Not a character-likeness pass."
+        ]
+      },
+      "validation": {
+        "at": "2026-10-15T07:48:10.474805+08:00",
+        "reconstruction": {
+          "uv_and_binding_hash": "02baf987236d15560c7d408f6643abd9c897abd25ebcce7b485ff3ada24c17ad",
+          "scope": "Recorded geometry, face topology, vertex colors and groom radius/settings and visible UV/bindings reproduced. Not pixel identity or whole-character likeness.",
+          "topology_and_vertex_color_hash_matches": true,
+          "reconstruction": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\50_FaceBuilder拟合试验_2026-10-13\\reproduction-fb188-20261015-074626",
+          "rendering_requested": false,
+          "groom_profile_hash_matches": true,
+          "topology_and_vertex_color_hash": "64cc52983773bd2cf50061b2cda9d84576fa7dc6e1ec1011157dc52bf432188a",
+          "base": "FB186",
+          "at": "2026-10-15T07:46:32.2888629+08:00",
+          "groom_profile_hash": "9c124379223a7ee670b47cce3542d54822858fa67b4794f93cdf6423812a2f66",
+          "geometry_hash": "a4a236848d160b20f0492140f7510b23c2737cc8b5c37174826c637529a73479",
+          "uv_and_binding_hash_matches": true,
+          "visible_geometry_hash_matches": true
+        },
+        "head_geometry_audit": {
+          "status": "numeric_mesh_checks_only_not_likeness_approval",
+          "vertices": 18024,
+          "polygons": 17232,
+          "triangles": 34462,
+          "nonfinite_coordinates": 0,
+          "degenerate_triangles": 0,
+          "collapsed_edges": 0,
+          "inverted_triangles_vs_base": 0,
+          "max_normal_rotation_degrees": 76.05885733852645,
+          "max_vertex_displacement": 0.1007005737975101,
+          "limitations": [
+            "Does not prove likeness",
+            "Does not detect every possible surface self-intersection",
+            "Intentional neck boundary retained"
+          ]
+        },
+        "ocular_attachment_audit": {
+          "source": "FB188",
+          "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+          "limitations": [
+            "BVH overlaps are candidates for inspection, not proof of visible penetration",
+            "Does not audit all contacts between different objects",
+            "A clean result is not a likeness pass"
+          ],
+          "objects": [
+            {
+              "object": "Carrillo_FB127_LidContact-1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.395911695293282e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB127_LidContact1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 6.473513545817021e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial-1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.4433220543792293e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 5.95284071303993e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            }
+          ]
+        },
+        "contact_gap": [
+          {
+            "side": -1,
+            "min_gap": 0.0015456127435680145,
+            "max_gap": 0.1015596854684091,
+            "negative": []
+          },
+          {
+            "side": 1,
+            "min_gap": 0.0015623968249656173,
+            "max_gap": 0.08707072847003072,
+            "negative": []
+          }
+        ],
+        "browser": {
+          "at": "2026-10-14T23:47:02.380Z",
+          "errors": [],
+          "bad": [],
+          "model": {
+            "meshes": 1,
+            "vertices": 17397
+          },
+          "dimensions": [
+            {
+              "src": "references/T22.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "renders/fb93-neutral-front.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "renders/fb188-neutral-front.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "references/T22.png",
+              "w": "1086",
+              "h": "1448"
+            }
+          ],
+          "baselines_checked": [
+            "93",
+            "166",
+            "180",
+            "186"
+          ]
+        },
+        "visual_views_reviewed": [
+          "neutral-front",
+          "neutral-threequarter",
+          "neutral-opposite",
+          "neutral-side",
+          "structure-front",
+          "structure-threequarter",
+          "strict-profile",
+          "orbit-front",
+          "diagnostic-side-light"
+        ],
+        "scope": "Actual native model renders plus bounded technical checks; not identity approval"
+      },
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T07:55:45.877980+08:00",
+      "batch": "188 overnight final validation",
+      "retained": "FB189 provisional",
+      "rollback": "FB186",
+      "reviews": {
+        "FB187_A": [
+          "not retained separately",
+          "Native eye crop inspected; weaker regularity reduction than B."
+        ],
+        "FB187_B": [
+          "retained in188 as accessory correction",
+          "Both native eye crops and B front/quarter/directional inspected. Shorter, finer, varying lower lashes reduce an overly conspicuous regular fringe; roots, upper lashes and eye/head geometry fixed."
+        ],
+        "FB189": [
+          "provisional final overnight working version; identity unapproved",
+          "Nine native views inspected; packed editable, independent rebuild and browser comparison checked. Head/eyes180, contact outer boundary189, UV registration186, lower lashes187B. Not a character-likeness pass."
+        ]
+      },
+      "validation": {
+        "at": "2026-10-15T07:55:45.877980+08:00",
+        "reconstruction": {
+          "reconstruction": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\50_FaceBuilder拟合试验_2026-10-13\\reproduction-fb189-20261015-075509",
+          "geometry_hash": "168750489478e3ac239324635c5b411b1d3827b6db7b5f510aa9d53791d08754",
+          "topology_and_vertex_color_hash_matches": true,
+          "uv_and_binding_hash": "02baf987236d15560c7d408f6643abd9c897abd25ebcce7b485ff3ada24c17ad",
+          "topology_and_vertex_color_hash": "64cc52983773bd2cf50061b2cda9d84576fa7dc6e1ec1011157dc52bf432188a",
+          "groom_profile_hash_matches": true,
+          "at": "2026-10-15T07:55:15.2883557+08:00",
+          "groom_profile_hash": "9c124379223a7ee670b47cce3542d54822858fa67b4794f93cdf6423812a2f66",
+          "rendering_requested": false,
+          "uv_and_binding_hash_matches": true,
+          "visible_geometry_hash_matches": true,
+          "scope": "Recorded geometry, face topology, vertex colors and groom radius/settings and visible UV/bindings reproduced. Not pixel identity or whole-character likeness.",
+          "base": "FB188"
+        },
+        "head_geometry_audit": {
+          "status": "numeric_mesh_checks_only_not_likeness_approval",
+          "vertices": 18024,
+          "polygons": 17232,
+          "triangles": 34462,
+          "nonfinite_coordinates": 0,
+          "degenerate_triangles": 0,
+          "collapsed_edges": 0,
+          "inverted_triangles_vs_base": 0,
+          "max_normal_rotation_degrees": 76.05885733852645,
+          "max_vertex_displacement": 0.1007005737975101,
+          "limitations": [
+            "Does not prove likeness",
+            "Does not detect every possible surface self-intersection",
+            "Intentional neck boundary retained"
+          ]
+        },
+        "ocular_attachment_audit": {
+          "source": "FB189",
+          "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+          "limitations": [
+            "BVH overlaps are candidates for inspection, not proof of visible penetration",
+            "Does not audit all contacts between different objects",
+            "A clean result is not a likeness pass"
+          ],
+          "objects": [
+            {
+              "object": "Carrillo_FB127_LidContact-1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.395911695293282e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB127_LidContact1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 6.927898576360383e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial-1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.4433220543792293e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 5.95284071303993e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            }
+          ]
+        },
+        "contact_gap": [
+          {
+            "side": -1,
+            "min_gap": 0.0015456127435680145,
+            "max_gap": 0.1015596854684091,
+            "negative": []
+          },
+          {
+            "side": 1,
+            "min_gap": 0.0014674359408202164,
+            "max_gap": 0.08707072847003072,
+            "negative": []
+          }
+        ],
+        "orbital_boundaries": [
+          {
+            "side": -1,
+            "sample_count": 192,
+            "outer_skin_distance_max": 6.664001972467304e-08,
+            "outer_skin_distance_median": 0.0,
+            "inner_globe_distance_max": 0.03802936151623726,
+            "inner_exterior_distance_max": 0.0005733689176850021,
+            "inner_exterior_distance_median": 0.0004093339084647596
+          },
+          {
+            "side": 1,
+            "sample_count": 192,
+            "outer_skin_distance_max": 4.766106212628074e-05,
+            "outer_skin_distance_median": 0.0,
+            "inner_globe_distance_max": 0.03269341215491295,
+            "inner_exterior_distance_max": 0.0005571919027715921,
+            "inner_exterior_distance_median": 0.0003338107344461605
+          }
+        ],
+        "browser": {
+          "at": "2026-10-14T23:55:22.651Z",
+          "errors": [],
+          "bad": [],
+          "model": {
+            "meshes": 1,
+            "vertices": 17397
+          },
+          "dimensions": [
+            {
+              "src": "references/T22.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "renders/fb93-neutral-front.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "renders/fb189-neutral-front.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "references/T22.png",
+              "w": "1086",
+              "h": "1448"
+            }
+          ],
+          "baselines_checked": [
+            "93",
+            "166",
+            "180",
+            "186"
+          ]
+        },
+        "visual_views_reviewed": [
+          "neutral-front",
+          "neutral-threequarter",
+          "neutral-opposite",
+          "neutral-side",
+          "structure-front",
+          "structure-threequarter",
+          "strict-profile",
+          "orbit-front",
+          "diagnostic-side-light"
+        ],
+        "scope": "Actual native model renders plus bounded technical checks; not identity approval"
+      },
+      "whole_likeness_pass": false
+    },
+    {
+      "at": "2026-10-15T08:00:40.794393+08:00",
+      "batch": "08:00 closure",
+      "retained": "FB189 provisional",
+      "rollback": "FB186",
+      "reviews": {
+        "FB187_A": [
+          "not retained separately",
+          "Native eye crop inspected; weaker regularity reduction than B."
+        ],
+        "FB187_B": [
+          "retained in188 as accessory correction",
+          "Both native eye crops and B front/quarter/directional inspected. Shorter, finer, varying lower lashes reduce an overly conspicuous regular fringe; roots, upper lashes and eye/head geometry fixed."
+        ],
+        "FB189": [
+          "provisional final overnight working version; identity unapproved",
+          "Nine native views inspected; packed editable, independent rebuild and browser comparison checked. Head/eyes180, contact outer boundary189, UV registration186, lower lashes187B. Not a character-likeness pass."
+        ]
+      },
+      "validation": {
+        "at": "2026-10-15T08:00:40.794393+08:00",
+        "reconstruction": {
+          "reconstruction": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\50_FaceBuilder拟合试验_2026-10-13\\reproduction-fb189-20261015-075509",
+          "geometry_hash": "168750489478e3ac239324635c5b411b1d3827b6db7b5f510aa9d53791d08754",
+          "topology_and_vertex_color_hash_matches": true,
+          "uv_and_binding_hash": "02baf987236d15560c7d408f6643abd9c897abd25ebcce7b485ff3ada24c17ad",
+          "topology_and_vertex_color_hash": "64cc52983773bd2cf50061b2cda9d84576fa7dc6e1ec1011157dc52bf432188a",
+          "groom_profile_hash_matches": true,
+          "at": "2026-10-15T07:55:15.2883557+08:00",
+          "groom_profile_hash": "9c124379223a7ee670b47cce3542d54822858fa67b4794f93cdf6423812a2f66",
+          "rendering_requested": false,
+          "uv_and_binding_hash_matches": true,
+          "visible_geometry_hash_matches": true,
+          "scope": "Recorded geometry, face topology, vertex colors and groom radius/settings and visible UV/bindings reproduced. Not pixel identity or whole-character likeness.",
+          "base": "FB188"
+        },
+        "head_geometry_audit": {
+          "status": "numeric_mesh_checks_only_not_likeness_approval",
+          "vertices": 18024,
+          "polygons": 17232,
+          "triangles": 34462,
+          "nonfinite_coordinates": 0,
+          "degenerate_triangles": 0,
+          "collapsed_edges": 0,
+          "inverted_triangles_vs_base": 0,
+          "max_normal_rotation_degrees": 76.05885733852645,
+          "max_vertex_displacement": 0.1007005737975101,
+          "limitations": [
+            "Does not prove likeness",
+            "Does not detect every possible surface self-intersection",
+            "Intentional neck boundary retained"
+          ]
+        },
+        "ocular_attachment_audit": {
+          "source": "FB189",
+          "scope": "Read-only checks on separate visible contact/canthal meshes; adjacent triangle contacts excluded",
+          "limitations": [
+            "BVH overlaps are candidates for inspection, not proof of visible penetration",
+            "Does not audit all contacts between different objects",
+            "A clean result is not a likeness pass"
+          ],
+          "objects": [
+            {
+              "object": "Carrillo_FB127_LidContact-1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.395911695293282e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB127_LidContact1",
+              "vertices": 3264,
+              "triangles": 6144,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 6.927898576360383e-08,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial-1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 2.4433220543792293e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            },
+            {
+              "object": "Carrillo_FB152_B_medial1",
+              "vertices": 551,
+              "triangles": 1008,
+              "nonfinite": 0,
+              "near_zero_area_triangles": 0,
+              "minimum_triangle_area": 5.95284071303993e-11,
+              "nonadjacent_BVH_overlap_pairs": 0,
+              "first_overlap_pairs": []
+            }
+          ]
+        },
+        "contact_gap": [
+          {
+            "side": -1,
+            "min_gap": 0.0015456127435680145,
+            "max_gap": 0.1015596854684091,
+            "negative": []
+          },
+          {
+            "side": 1,
+            "min_gap": 0.0014674359408202164,
+            "max_gap": 0.08707072847003072,
+            "negative": []
+          }
+        ],
+        "orbital_boundaries": [
+          {
+            "side": -1,
+            "sample_count": 192,
+            "outer_skin_distance_max": 6.664001972467304e-08,
+            "outer_skin_distance_median": 0.0,
+            "inner_globe_distance_max": 0.03802936151623726,
+            "inner_exterior_distance_max": 0.0005733689176850021,
+            "inner_exterior_distance_median": 0.0004093339084647596
+          },
+          {
+            "side": 1,
+            "sample_count": 192,
+            "outer_skin_distance_max": 4.766106212628074e-05,
+            "outer_skin_distance_median": 0.0,
+            "inner_globe_distance_max": 0.03269341215491295,
+            "inner_exterior_distance_max": 0.0005571919027715921,
+            "inner_exterior_distance_median": 0.0003338107344461605
+          }
+        ],
+        "browser": {
+          "at": "2026-10-14T23:55:22.651Z",
+          "errors": [],
+          "bad": [],
+          "model": {
+            "meshes": 1,
+            "vertices": 17397
+          },
+          "dimensions": [
+            {
+              "src": "references/T22.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "renders/fb93-neutral-front.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "renders/fb189-neutral-front.png",
+              "w": "1086",
+              "h": "1448"
+            },
+            {
+              "src": "references/T22.png",
+              "w": "1086",
+              "h": "1448"
+            }
+          ],
+          "baselines_checked": [
+            "93",
+            "166",
+            "180",
+            "186"
+          ]
+        },
+        "visual_views_reviewed": [
+          "neutral-front",
+          "neutral-threequarter",
+          "neutral-opposite",
+          "neutral-side",
+          "structure-front",
+          "structure-threequarter",
+          "strict-profile",
+          "orbit-front",
+          "diagnostic-side-light"
+        ],
+        "scope": "Actual native model renders plus bounded technical checks; not identity approval",
+        "plain_blender_without_addon": {
+          "source": "D:\\新建文件夹\\ainu_dynamics\\5th_round_INTJ芷瞳AU\\_图像素材与视觉设定_2026-07-16\\01_卡瑞洛\\50_FaceBuilder拟合试验_2026-10-13\\Carrillo_FB189_editable_working.blend",
+          "factory_startup": true,
+          "keentools_enabled": false,
+          "visible_geometry_hash_matches": true,
+          "images": [
+            {
+              "name": "P14.png",
+              "packed": true
+            },
+            {
+              "name": "T22.png",
+              "packed": true
+            },
+            {
+              "name": "T22_bounded_chroma_study.png.002",
+              "packed": true
+            },
+            {
+              "name": "T22_chroma_confidence.png.002",
+              "packed": true
+            },
+            {
+              "name": "T22_high_frequency_skin_study.png.002",
+              "packed": true
+            }
+          ],
+          "visible_objects": 21,
+          "scope": "Native data opens/evaluates withoutFaceBuilder; no plugin fitting attempted, no license bypass, no identity claim."
+        }
+      },
+      "whole_likeness_pass": false
+    }
+  ],
+  "whole_likeness_pass": false,
+  "next": [
+    "No automated work after this night deadline unless newly authorized. Preserve188 and complete186/180/166/153/133/93 rollbacks.",
+    "A future attempt should test explicit anatomical upper-lid/crease and lower-roll surface construction with controlled sections and boundary/contact constraints, not repeat the same Gaussian depth/amplitude edits. This method is not yet implemented or validated.",
+    "Treat camera/lighting uncertainty separately from geometry; no single pixel or landmark score has been validated as identity similarity.",
+    "T22 only. Do not reintroduceP14 or fake3D with image generation."
+  ],
+  "current_working": "FB189",
+  "updated_at": "2026-10-15T08:00:40.794393+08:00",
+  "running_blender_jobs": [],
+  "known_issues": [
+    "Overall T22 identity remains insufficient; improvements are local and must not be called a completed likeness.",
+    "Upper-lid fold and orbital support still simplified. Lower-roll width, lower boundary and outer taper differ fromT22; deepening the socket or expanding the whole roll failed to fix this.",
+    "Canthal tissue remains simplified. Coherent contact geometry does not establish anatomically natural appearance.",
+    "Nasal tip and nostril border remain overly schematic/triangular; high narrow bridge and alar character still need integrated work.",
+    "Cheek–jaw–chin internal planes remain insufficiently specific, even where frontal occluding contour approximately matches. Stronger flattening looked hollow and was rejected.",
+    "Skin, sclera/iris response and guide-based hair remain visiblyCG; stronger bump/highlight did not solve this.",
+    "SingleT22 does not uniquely determine side depth; current technical audits do not cover all cross-object contacts or all material state. Current method also fails visible frontal differences, not only unseen sides."
+  ],
+  "completion_criteria_met": false,
+  "stopped_at": "2026-10-15T08:00:40.794393+08:00",
+  "stop_reason": "User-authorized overnight window ended; overall likeness remains incomplete. This is a time limit, not a claim that no improvement is possible."
+}

@@ -1,0 +1,24 @@
+{
+  "base": "FB153",
+  "status": "retained provisional working version; likeness unapproved",
+  "parts": [
+    "FB157:55percent155C lip contour and registration-only UV correction",
+    "FB161_A:external alar roof lowers, no nostril floor or columella experiment",
+    "FB164_B:lower skin/lash margin2.5px, eye aperture fixed, opaque-only field"
+  ],
+  "explicitly_excluded": [
+    "158/159 dense upperfold",
+    "161B columella",
+    "165 iris/medial materials",
+    "156 stronger bump or gloss"
+  ],
+  "reversible_full_baseline": "Carrillo_FaceBuilder_FB153.blend",
+  "limits": [
+    "Static assembled candidate, not animation-ready rig",
+    "Changing only head key does not roll back separate ocular attachments",
+    "Native multi-angle and numerical audit required",
+    "Overall identity still unapproved"
+  ],
+  "visual_review": "Nine actual native views inspected, head/ocular attachment/gap checks pass. Small lower margin/alar roof/lip contour improvements retained; upper fold, under-eye roll, canthus and whole identity remain unresolved. Packed editable, isolated reconstruction and browser comparison verified.",
+  "reviewed_at": "2026-10-15T06:15:24.002851+08:00"
+}
