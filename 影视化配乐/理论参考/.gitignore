@@ -1,0 +1,4 @@
+# Do not accidentally publish locally downloaded third-party PDFs or manifests.
+papers/
+__pycache__/
+*.pyc
